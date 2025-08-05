@@ -1,10 +1,10 @@
 import express from "express";
-const app = express();
 
-app.get("/", (req, res) => {
-  res.status(200).json({
-    message: "hell world ! ",
-  });
-});
+import homeRoute from "./Routes/homeRoute";
+
+const app = express();
+app.use(express.json());
+
+app.use("/api/home", homeRoute);
 
 export default app;
