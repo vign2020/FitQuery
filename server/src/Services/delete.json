@@ -1,0 +1,852 @@
+{
+  "result": [
+    {
+      "id": "XcZnSSmeK2I",
+      "microformat": {
+        "playerMicroformatRenderer": {
+          "category": "Music",
+          "description": {
+            "simpleText": "📚 Pre-order my book to get an exclusive ticket to The Feel-Good Productivity Annual Planning Workshop!\nWebsite: https://www.feelgoodproductivity.com/?utm_campaign=bonus&utm_source=youtube_long&utm_medium=video_description&utm_content=bulkvidsbefore2021\nAmazon: https://go.feelgoodproductivity.com/bulkvidsbefore2021\nMy online BMAT video course (75+ videos) = https://courses.aliabdaal.com/bmat-crash-course-online\n\nToday's video tackles the approach to physics, which is arguably the most feared part of the BMAT, especially given that most medical applicants don't do physics at A-level. I talk about why you shouldn't ignore the physics questions, and give some tips about the order in which to learn stuff from the assumed knowledge guide, and then some tips about how to practice.\n\nUseful Links:\n\nBMAT Ninja - https://bmat.ninja - 1,200+ free questions that you can do online. You can pay £29 for access to the worked solutions written by Oxbridge medical students, or you can apply for one of our bursaries (we give out hundreds of those each year).\n\nOfficial Section 2 Assumed Knowledge Guide - http://www.admissionstestingservice.org/for-test-takers/bmat/preparing-for-bmat/overlay.html\n\nBBC Bitesize - http://www.bbc.co.uk/education/subjects/zpm6fg8"
+          },
+          "externalChannelId": "UCoOae5nYA7VqaXzerajD0lg",
+          "lengthSeconds": "287",
+          "ownerChannelName": "Ali Abdaal",
+          "publishDate": "2017-06-24",
+          "title": {
+            "simpleText": "How to prepare for BMAT Section 2 Physics, even if you're not doing it at A-Level | BMAT Tips series"
+          }
+        }
+      },
+      "isLive": false,
+      "isLoginRequired": false,
+      "languages": [
+        {
+          "label": "en",
+          "languageCode": "en"
+        }
+      ],
+      "playabilityStatus": {
+        "status": "OK",
+        "reason": ""
+      },
+      "title": "How to prepare for BMAT Section 2 Physics, even if you're not doing it at A-Level | BMAT Tips series",
+      "tracks": [
+        {
+          "language": "en",
+          "transcript": [
+            {
+              "start": "0.08",
+              "dur": "1.519",
+              "text": "good morning ladies and gentlemen"
+            },
+            {
+              "start": "1.599",
+              "dur": "1.961",
+              "text": "welcome back to the bat tips Series"
+            },
+            {
+              "start": "3.56",
+              "dur": "1.96",
+              "text": "where I give you lovely people tips on"
+            },
+            {
+              "start": "5.52",
+              "dur": "1.879",
+              "text": "how to do well in the bmat my name is"
+            },
+            {
+              "start": "7.399",
+              "dur": "2.001",
+              "text": "Ali I'm a fifth year Cambridge medic and"
+            },
+            {
+              "start": "9.4",
+              "dur": "1.279",
+              "text": "in this episode we're going to be"
+            },
+            {
+              "start": "10.679",
+              "dur": "2",
+              "text": "talking about section two physics"
+            },
+            {
+              "start": "12.679",
+              "dur": "1.601",
+              "text": "everyone loves a list of three so we're"
+            },
+            {
+              "start": "14.28",
+              "dur": "1.439",
+              "text": "going to address three things in this"
+            },
+            {
+              "start": "15.719",
+              "dur": "2.4",
+              "text": "video firstly I will implore you not to"
+            },
+            {
+              "start": "18.119",
+              "dur": "1.801",
+              "text": "neglect the physics questions this is a"
+            },
+            {
+              "start": "19.92",
+              "dur": "1.24",
+              "text": "mistake a lot of people make we"
+            },
+            {
+              "start": "21.16",
+              "dur": "1.68",
+              "text": "shouldn't be doing that secondly having"
+            },
+            {
+              "start": "22.84",
+              "dur": "1.4",
+              "text": "decided that we're not going to neglect"
+            },
+            {
+              "start": "24.24",
+              "dur": "1.6",
+              "text": "the physics questions I'll talk a little"
+            },
+            {
+              "start": "25.84",
+              "dur": "1.88",
+              "text": "bit about how you can learn the physics"
+            },
+            {
+              "start": "27.72",
+              "dur": "1.559",
+              "text": "and finally we'll talk about some of the"
+            },
+            {
+              "start": "29.279",
+              "dur": "1.76",
+              "text": "best ways to get some practice in for"
+            },
+            {
+              "start": "31.039",
+              "dur": "1.719",
+              "text": "section 2 physics let's start with Point"
+            },
+            {
+              "start": "32.759",
+              "dur": "2.001",
+              "text": "number one please don't neglect the"
+            },
+            {
+              "start": "34.76",
+              "dur": "1.479",
+              "text": "physics questions this might seem"
+            },
+            {
+              "start": "36.239",
+              "dur": "1.561",
+              "text": "obvious but it's actually surprisingly"
+            },
+            {
+              "start": "37.8",
+              "dur": "2",
+              "text": "common each year on our courses we talk"
+            },
+            {
+              "start": "39.8",
+              "dur": "2.079",
+              "text": "to students who say something like I"
+            },
+            {
+              "start": "41.879",
+              "dur": "2.281",
+              "text": "hate physics therefore I'm going to skip"
+            },
+            {
+              "start": "44.16",
+              "dur": "1.48",
+              "text": "all of the physics questions in section"
+            },
+            {
+              "start": "45.64",
+              "dur": "2",
+              "text": "two and just focus on the biology"
+            },
+            {
+              "start": "47.64",
+              "dur": "1.64",
+              "text": "chemistry and the maths I've looked at"
+            },
+            {
+              "start": "49.28",
+              "dur": "1.72",
+              "text": "the score conversion chart and even if I"
+            },
+            {
+              "start": "51",
+              "dur": "1.68",
+              "text": "skip all seven of the physics questions"
+            },
+            {
+              "start": "52.68",
+              "dur": "2.359",
+              "text": "I can still get 20 out of 27 which is"
+            },
+            {
+              "start": "55.039",
+              "dur": "1.801",
+              "text": "about a 6 point something in the bmat"
+            },
+            {
+              "start": "56.84",
+              "dur": "1.76",
+              "text": "which is quite a good score sadly this"
+            },
+            {
+              "start": "58.6",
+              "dur": "2",
+              "text": "doesn't quite work in practice firstly"
+            },
+            {
+              "start": "60.6",
+              "dur": "1.24",
+              "text": "some of the chemistry and maths"
+            },
+            {
+              "start": "61.84",
+              "dur": "1.559",
+              "text": "questions are actually quite hard so"
+            },
+            {
+              "start": "63.399",
+              "dur": "1.799",
+              "text": "it's unlikely you'll be getting 100% on"
+            },
+            {
+              "start": "65.199",
+              "dur": "1.681",
+              "text": "those and secondly some of the physics"
+            },
+            {
+              "start": "66.88",
+              "dur": "1.08",
+              "text": "questions are actually quite"
+            },
+            {
+              "start": "67.96",
+              "dur": "1.72",
+              "text": "straightforward just involving plugging"
+            },
+            {
+              "start": "69.68",
+              "dur": "1.88",
+              "text": "numbers into formula these are easy"
+            },
+            {
+              "start": "71.56",
+              "dur": "1.4",
+              "text": "marks that we don't want to be missing"
+            },
+            {
+              "start": "72.96",
+              "dur": "1.88",
+              "text": "out on in fact the physics questions are"
+            },
+            {
+              "start": "74.84",
+              "dur": "1.68",
+              "text": "probably the second easiest after the"
+            },
+            {
+              "start": "76.52",
+              "dur": "1.68",
+              "text": "biology questions even if you're not"
+            },
+            {
+              "start": "78.2",
+              "dur": "1.76",
+              "text": "doing physics at a level so please don't"
+            },
+            {
+              "start": "79.96",
+              "dur": "1.76",
+              "text": "neglect them right so we've established"
+            },
+            {
+              "start": "81.72",
+              "dur": "1.2",
+              "text": "that we should not be skipping the"
+            },
+            {
+              "start": "82.92",
+              "dur": "1.8",
+              "text": "physics questions let's now talk about"
+            },
+            {
+              "start": "84.72",
+              "dur": "1.6",
+              "text": "how we can actually learn the physics"
+            },
+            {
+              "start": "86.32",
+              "dur": "1.759",
+              "text": "for brushing up on your physics or"
+            },
+            {
+              "start": "88.079",
+              "dur": "2.121",
+              "text": "actually any of the Sciences the section"
+            },
+            {
+              "start": "90.2",
+              "dur": "1.84",
+              "text": "to assumed knowledge guide is your"
+            },
+            {
+              "start": "92.04",
+              "dur": "1.52",
+              "text": "friend and I'll put a link to it in the"
+            },
+            {
+              "start": "93.56",
+              "dur": "1.68",
+              "text": "description below this is a freely"
+            },
+            {
+              "start": "95.24",
+              "dur": "1.72",
+              "text": "available online guide that you can"
+            },
+            {
+              "start": "96.96",
+              "dur": "1.56",
+              "text": "follow that gives you everything you"
+            },
+            {
+              "start": "98.52",
+              "dur": "1.48",
+              "text": "need to know for section two"
+            },
+            {
+              "start": "100",
+              "dur": "1.64",
+              "text": "alternatively there is a great website"
+            },
+            {
+              "start": "101.64",
+              "dur": "1.72",
+              "text": "out there called Bat Ninja on the"
+            },
+            {
+              "start": "103.36",
+              "dur": "1.64",
+              "text": "website you'll find revision notes for"
+            },
+            {
+              "start": "105",
+              "dur": "1.56",
+              "text": "all three of the sciences and I've"
+            },
+            {
+              "start": "106.56",
+              "dur": "1.64",
+              "text": "linked to some of the free ones in the"
+            },
+            {
+              "start": "108.2",
+              "dur": "2",
+              "text": "description of this video there are six"
+            },
+            {
+              "start": "110.2",
+              "dur": "1.72",
+              "text": "Topics in the section two assumed"
+            },
+            {
+              "start": "111.92",
+              "dur": "2.159",
+              "text": "knowledge guide which will appear here"
+            },
+            {
+              "start": "114.079",
+              "dur": "2.32",
+              "text": "somewhere and this is the order that we"
+            },
+            {
+              "start": "116.399",
+              "dur": "1.68",
+              "text": "would suggest learning them in"
+            },
+            {
+              "start": "118.079",
+              "dur": "2.601",
+              "text": "electricity and energy and force come up"
+            },
+            {
+              "start": "120.68",
+              "dur": "1.52",
+              "text": "every year so we would suggest doing"
+            },
+            {
+              "start": "122.2",
+              "dur": "2",
+              "text": "those first the next three come up most"
+            },
+            {
+              "start": "124.2",
+              "dur": "2.879",
+              "text": "years um and you can safely leave other"
+            },
+            {
+              "start": "127.079",
+              "dur": "1.96",
+              "text": "applications of physics till the end"
+            },
+            {
+              "start": "129.039",
+              "dur": "2.041",
+              "text": "because it tends to not get asked about"
+            },
+            {
+              "start": "131.08",
+              "dur": "1.76",
+              "text": "very often and some of the topics are"
+            },
+            {
+              "start": "132.84",
+              "dur": "2.119",
+              "text": "quite scary so don't worry too much"
+            },
+            {
+              "start": "134.959",
+              "dur": "2.121",
+              "text": "about that to learn a topic you should"
+            },
+            {
+              "start": "137.08",
+              "dur": "1.439",
+              "text": "probably read through it in the section"
+            },
+            {
+              "start": "138.519",
+              "dur": "1.761",
+              "text": "to assumed knowledge guide and make sure"
+            },
+            {
+              "start": "140.28",
+              "dur": "1.64",
+              "text": "you understand the concepts that it's"
+            },
+            {
+              "start": "141.92",
+              "dur": "1.56",
+              "text": "trying to tell you and make sure you"
+            },
+            {
+              "start": "143.48",
+              "dur": "2",
+              "text": "memorize whatever formula it gives you"
+            },
+            {
+              "start": "145.48",
+              "dur": "1.2",
+              "text": "if you're struggling with a topic you"
+            },
+            {
+              "start": "146.68",
+              "dur": "1.6",
+              "text": "can always watch a YouTube video about"
+            },
+            {
+              "start": "148.28",
+              "dur": "2.039",
+              "text": "it or use BBC BYT size which is quite a"
+            },
+            {
+              "start": "150.319",
+              "dur": "1.961",
+              "text": "good resource or alternatively just post"
+            },
+            {
+              "start": "152.28",
+              "dur": "1.28",
+              "text": "in the comments below and I'll do my"
+            },
+            {
+              "start": "153.56",
+              "dur": "1.72",
+              "text": "best to answer your questions if you do"
+            },
+            {
+              "start": "155.28",
+              "dur": "1.8",
+              "text": "this process efficiently it should take"
+            },
+            {
+              "start": "157.08",
+              "dur": "1.879",
+              "text": "about a few hours to give through the"
+            },
+            {
+              "start": "158.959",
+              "dur": "2.241",
+              "text": "entire physics section 2 syllabus which"
+            },
+            {
+              "start": "161.2",
+              "dur": "1.44",
+              "text": "gives you a lot of time left over to"
+            },
+            {
+              "start": "162.64",
+              "dur": "1.84",
+              "text": "practice at the start you shouldn't"
+            },
+            {
+              "start": "164.48",
+              "dur": "1.8",
+              "text": "really waste any time revising the"
+            },
+            {
+              "start": "166.28",
+              "dur": "2",
+              "text": "topics that you already know from GCSE"
+            },
+            {
+              "start": "168.28",
+              "dur": "1.44",
+              "text": "you should focus on plugging the holes"
+            },
+            {
+              "start": "169.72",
+              "dur": "1.08",
+              "text": "in your knowledge and then you can"
+            },
+            {
+              "start": "170.8",
+              "dur": "1.68",
+              "text": "always revise these topics a bit later"
+            },
+            {
+              "start": "172.48",
+              "dur": "1.52",
+              "text": "so that's how you learn the physics"
+            },
+            {
+              "start": "174",
+              "dur": "1.48",
+              "text": "let's now talk about how to practice the"
+            },
+            {
+              "start": "175.48",
+              "dur": "1.56",
+              "text": "physics question to practice the physics"
+            },
+            {
+              "start": "177.04",
+              "dur": "2.119",
+              "text": "questions it makes sense to do a lot of"
+            },
+            {
+              "start": "179.159",
+              "dur": "2.16",
+              "text": "past paper physics questions under timed"
+            },
+            {
+              "start": "181.319",
+              "dur": "1.681",
+              "text": "conditions I say this in every video and"
+            },
+            {
+              "start": "183",
+              "dur": "1.76",
+              "text": "I'll say it again uh the easiest way to"
+            },
+            {
+              "start": "184.76",
+              "dur": "2",
+              "text": "get practice for any bmat question is to"
+            },
+            {
+              "start": "186.76",
+              "dur": "2.119",
+              "text": "go on bmat ninja where you can make a"
+            },
+            {
+              "start": "188.879",
+              "dur": "2.241",
+              "text": "free account and for free you can do all"
+            },
+            {
+              "start": "191.12",
+              "dur": "1.479",
+              "text": "of the past paper questions for the last"
+            },
+            {
+              "start": "192.599",
+              "dur": "1.961",
+              "text": "15 years and then some that we've"
+            },
+            {
+              "start": "194.56",
+              "dur": "1.52",
+              "text": "written ourselves if you're struggling"
+            },
+            {
+              "start": "196.08",
+              "dur": "1.48",
+              "text": "with a question you can always ask a"
+            },
+            {
+              "start": "197.56",
+              "dur": "1.64",
+              "text": "teacher uh physics teachers are quite"
+            },
+            {
+              "start": "199.2",
+              "dur": "1.36",
+              "text": "happy to help even if you're not doing"
+            },
+            {
+              "start": "200.56",
+              "dur": "2.08",
+              "text": "their subject at a level or you can buy"
+            },
+            {
+              "start": "202.64",
+              "dur": "1.92",
+              "text": "access to the worked Solutions on bat"
+            },
+            {
+              "start": "204.56",
+              "dur": "2.28",
+              "text": "ninja if you want to uh which guide you"
+            },
+            {
+              "start": "206.84",
+              "dur": "1.44",
+              "text": "through the thought process behind doing"
+            },
+            {
+              "start": "208.28",
+              "dur": "2.12",
+              "text": "the questions for 29 pounds you get"
+            },
+            {
+              "start": "210.4",
+              "dur": "1.919",
+              "text": "access to over a th worked Solutions"
+            },
+            {
+              "start": "212.319",
+              "dur": "1.84",
+              "text": "written by Oxbridge medical students and"
+            },
+            {
+              "start": "214.159",
+              "dur": "1.881",
+              "text": "we've got an unlimited bsy scheme for"
+            },
+            {
+              "start": "216.04",
+              "dur": "1.88",
+              "text": "people in financial difficulties and"
+            },
+            {
+              "start": "217.92",
+              "dur": "1.36",
+              "text": "actually if you are struggling with a"
+            },
+            {
+              "start": "219.28",
+              "dur": "2.12",
+              "text": "question um and you've got a shortage of"
+            },
+            {
+              "start": "221.4",
+              "dur": "1.919",
+              "text": "physics teachers in your school to help"
+            },
+            {
+              "start": "223.319",
+              "dur": "1.801",
+              "text": "and you don't like the idea of paying"
+            },
+            {
+              "start": "225.12",
+              "dur": "1.96",
+              "text": "for any kind of resource like bat ninja"
+            },
+            {
+              "start": "227.08",
+              "dur": "1.32",
+              "text": "just post your question in the comments"
+            },
+            {
+              "start": "228.4",
+              "dur": "1.6",
+              "text": "below and I will do my best to give you"
+            },
+            {
+              "start": "230",
+              "dur": "2.28",
+              "text": "a work solution for it anyway after"
+            },
+            {
+              "start": "232.28",
+              "dur": "1.599",
+              "text": "doing loads and loads of practice"
+            },
+            {
+              "start": "233.879",
+              "dur": "1.961",
+              "text": "questions to get a grasp of the concepts"
+            },
+            {
+              "start": "235.84",
+              "dur": "2.039",
+              "text": "you should probably do the Last 5 Years"
+            },
+            {
+              "start": "237.879",
+              "dur": "2.56",
+              "text": "of bmat section 2 papers under timed"
+            },
+            {
+              "start": "240.439",
+              "dur": "2",
+              "text": "conditions I.E do the whole paper give"
+            },
+            {
+              "start": "242.439",
+              "dur": "1.561",
+              "text": "yourself half an hour make sure you"
+            },
+            {
+              "start": "244",
+              "dur": "1.799",
+              "text": "stick to that and that's about all there"
+            },
+            {
+              "start": "245.799",
+              "dur": "1.601",
+              "text": "is to it we've talked about how you"
+            },
+            {
+              "start": "247.4",
+              "dur": "2.08",
+              "text": "shouldn't neglect section 2 physics even"
+            },
+            {
+              "start": "249.48",
+              "dur": "1.479",
+              "text": "if you're not doing at a level we've"
+            },
+            {
+              "start": "250.959",
+              "dur": "1.681",
+              "text": "talked about how to learn physics mostly"
+            },
+            {
+              "start": "252.64",
+              "dur": "1.76",
+              "text": "by using the section 2 assumed knowledge"
+            },
+            {
+              "start": "254.4",
+              "dur": "1.52",
+              "text": "guide and finally we've talked a little"
+            },
+            {
+              "start": "255.92",
+              "dur": "1.599",
+              "text": "bit about how to practice these physics"
+            },
+            {
+              "start": "257.519",
+              "dur": "1.72",
+              "text": "questions you can do that for free on"
+            },
+            {
+              "start": "259.239",
+              "dur": "2.081",
+              "text": "bat ninja or if you're concerned about"
+            },
+            {
+              "start": "261.32",
+              "dur": "1.68",
+              "text": "the rise of artificial intelligence you"
+            },
+            {
+              "start": "263",
+              "dur": "1.639",
+              "text": "can always just print off the last 15"
+            },
+            {
+              "start": "264.639",
+              "dur": "1.961",
+              "text": "years worth of bmat papers from like"
+            },
+            {
+              "start": "266.6",
+              "dur": "2.319",
+              "text": "2003 and just work through those under"
+            },
+            {
+              "start": "268.919",
+              "dur": "1.601",
+              "text": "time condition thank you very much for"
+            },
+            {
+              "start": "270.52",
+              "dur": "1.72",
+              "text": "watching this video uh if you've got any"
+            },
+            {
+              "start": "272.24",
+              "dur": "1.519",
+              "text": "questions about physics or anything else"
+            },
+            {
+              "start": "273.759",
+              "dur": "1.481",
+              "text": "just leave a comment below and I'll get"
+            },
+            {
+              "start": "275.24",
+              "dur": "1.6",
+              "text": "back to you as soon as I can if you like"
+            },
+            {
+              "start": "276.84",
+              "dur": "1.199",
+              "text": "the video please could you give it a"
+            },
+            {
+              "start": "278.039",
+              "dur": "1.88",
+              "text": "thumbs up um and if you'd like to see"
+            },
+            {
+              "start": "279.919",
+              "dur": "1.56",
+              "text": "more of the same thing you might like to"
+            },
+            {
+              "start": "281.479",
+              "dur": "2.521",
+              "text": "subscribe to the channel um yeah so have"
+            },
+            {
+              "start": "284",
+              "dur": "1.32",
+              "text": "a good day and I'll see you in the next"
+            },
+            {
+              "start": "285.32",
+              "dur": "3.48",
+              "text": "video bye-bye"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

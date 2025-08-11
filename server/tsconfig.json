@@ -13,6 +13,6 @@
     "strict": true /* Enable all strict type-checking options. */,
     "skipLibCheck": true
   },
-  "include": ["src/**/*.ts"],
+  "include": ["src/**/*.ts", "src/Models/Chunk.ts"],
   "exclude": ["node_module"]
 }
