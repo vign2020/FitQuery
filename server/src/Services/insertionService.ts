@@ -15,21 +15,18 @@ export const namespace = pc
 
 export const insertionService = async (chunks: any, title: string) => {
   try {
-    const insert_chunks = chunks.map((item: any, idx: number) => {
-      return {
-        id: String(item._id || idx),
-        values: item.embedding,
-        metadata: {
-          title: title,
-          chunk_data: item.chunk_text,
-        },
-      };
-    });
-    await namespace.upsertRecords(insert_chunks);
-    console.log(
-      "successfully inserted " + insert_chunks.length + " records into pinecone"
-    );
+    const records = chunks.map((chunk: any, index: number) => ({
+      id: `${chunk._id.toString()}-${index}`,
+      values: chunk.embedding,
+      metadata: {
+        text: chunk.chunk_text, // Match the 'text' field mapping in your index
+        title: chunk.title,
+      },
+    }));
+
+    await namespace.upsert(records);
+    console.log(`Inserted ${records.length} records into Pinecone`);
   } catch (e) {
-    console.log("pinecone error " + e);
+    console.log("pinecone error", e);
   }
 };
