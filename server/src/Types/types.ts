@@ -16,3 +16,18 @@ export interface I_insertionData {
   title: string;
   chunk_text: string;
 }
+
+export interface I_chunkingServiceData {
+  _id: number;
+  chunk_text: string;
+  embedding: number[];
+}
+
+export interface I_textChunks {
+  id: number;
+  score: number;
+  values: number[] | [];
+  metadata: {
+    text: string;
+  };
+}
