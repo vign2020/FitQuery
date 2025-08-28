@@ -1,5 +1,5 @@
 import { Pinecone } from "@pinecone-database/pinecone";
-import { I_insertionData } from "../Types/types";
+import { I_research_chunk } from "../Types/types";
 import * as dotenv from "dotenv";
 
 dotenv.config();
@@ -21,16 +21,15 @@ export const namespace = pc
   .namespace(`namespace-one`);
 
 export const insertionService = async (
-  chunks: any,
-  title: string
+  chunks: I_research_chunk[]
 ): Promise<string> => {
   try {
     const records = chunks.map((chunk: any, index: number) => ({
       id: `${chunk._id.toString()}`,
       values: chunk.embedding,
       metadata: {
-        text: chunk.chunk_text, // Match the 'text' field mapping in your index
         title: chunk.title,
+        abstract: chunk.abstract,
       },
     }));
 

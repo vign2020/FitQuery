@@ -6,6 +6,7 @@ dotenv.config();
 const apiKey = process.env.GEMINI_API_KEY;
 
 export const createEmbeddingService = async (chunk: string) => {
+  console.log("inside the embedding service.");
   try {
     const ai = new GoogleGenAI({
       apiKey: apiKey,
@@ -18,5 +19,7 @@ export const createEmbeddingService = async (chunk: string) => {
 
     // console.log(response.embeddings);
     return response?.embeddings[0].values;
-  } catch (e) {}
+  } catch (e) {
+    throw new Error((e as Error).message);
+  }
 };

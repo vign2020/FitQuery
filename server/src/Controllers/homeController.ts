@@ -1,34 +1,30 @@
-import { Request, Response, NextFunction } from "express";
-import { fetchTranscriptService } from "../Services/fetchTranscriptService";
+import { Request, Response } from "express";
 import { createEmbeddingService } from "../Services/createEmbeddigService";
-import { chunkingService } from "../Services/chunkingService";
-import { preprocessingService } from "../Services/preprocessingService";
-import { I_chunkingServiceData, I_ResultTranscription } from "../Types/types";
-import { insertionService, namespace } from "../Services/insertionService";
+import { insertionService } from "../Services/insertionService";
 import { queryService } from "../Services/queryService";
 import { I_textChunks } from "../Types/types";
 import { questionAnsweringService } from "../Services/questionAnsweringService";
+import research_data from "../data/data.json";
 
-export const GET_transcripts = async (req: Request, res: Response) => {
+export const GET_Chunks = async (req: Request, res: Response) => {
   try {
-    const result = await fetchTranscriptService();
-    //we need to do some preprocessing to the result
-    const processedData: I_ResultTranscription = await preprocessingService(
-      result
+    const embedding_result = await Promise.all(
+      research_data.data.map(async (item, idx) => {
+        const embedding = await createEmbeddingService(item.abstract);
+        return {
+          _id: idx,
+          title: item.title,
+          embedding: embedding,
+          abstract: item.abstract,
+        };
+      })
     );
-    //This result now has to be embedded,but before that we need to do some preprocessing and split it into chunks.
-    const chunks: I_chunkingServiceData[] = await chunkingService(
-      processedData.textData
-    );
+    //insert into the pincone db
+    console.log("created embeddings .. now inserting .. ");
 
-    // console.log("insert chunks " + JSON.stringify(insert_chunks, null, 0));
+    const send_embeddings: string = await insertionService(embedding_result);
 
-    const send_embeddings: string = await insertionService(
-      chunks,
-      processedData.title || "no-title"
-    );
-
-    res.status(200).send({ result: send_embeddings });
+    res.status(200).send({ send_embeddings });
   } catch (error) {
     res.status(500).send({ error: error });
   }
@@ -41,23 +37,20 @@ export const POST_query = async (req: Request, res: Response) => {
     const embeddings = await createEmbeddingService(query);
     const results = await queryService(query, embeddings);
 
-    //find the exact chunks by id in pinecone
-    // const chunk_ids: any = results?.matches.map((item, idx) => {
-    //   return item.id;
-    // });
-    // const fetchResult = await namespace.fetch(chunk_ids)
-    //
-    const textChunks = results?.matches.map((item: I_textChunks) => {
-      return item.metadata.text;
+    const abstract_context = results?.matches.map((item: I_textChunks) => {
+      return item.metadata.abstract;
     });
 
-    // Generation part of getting the answers from gemini.
+    console.log(abstract_context.length);
+
+    console.log("abstract_context " + abstract_context);
+    // // Generation part of getting the answers from gemini.
     console.log("Searching gemini for answer.....");
     const geminiAnswer: string = await questionAnsweringService(
-      textChunks,
+      abstract_context,
       query
     );
 
-    res.status(200).send({ geminiAnswer: geminiAnswer });
+    res.status(200).send({ geminiAnswer });
   } catch (error) {}
 };

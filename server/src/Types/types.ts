@@ -1,33 +1,22 @@
-export interface I_ResultTranscription {
+interface I_reserach_metadata {
   title: string;
-  textData: string;
+  abstract: string;
 }
-
-interface I_Chunks {
-  message: string;
-  embedding: number[];
+export interface I_research_data {
+  data: I_reserach_metadata[];
 }
-export interface I_ChunksEmbeddings {
-  chunks: I_Chunks[];
-}
-
-export interface I_insertionData {
-  idx: number;
-  title: string;
-  chunk_text: string;
-}
-
-export interface I_chunkingServiceData {
+export interface I_research_chunk {
   _id: number;
-  chunk_text: string;
+  title: string;
   embedding: number[];
+  abstract: string;
 }
-
 export interface I_textChunks {
   id: number;
   score: number;
   values: number[] | [];
   metadata: {
-    text: string;
+    title: string;
+    abstract: string;
   };
 }
