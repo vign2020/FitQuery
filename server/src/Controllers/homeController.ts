@@ -8,23 +8,22 @@ import research_data from "../data/data.json";
 
 export const GET_Chunks = async (req: Request, res: Response) => {
   try {
-    const embedding_result = await Promise.all(
-      research_data.data.map(async (item, idx) => {
-        const embedding = await createEmbeddingService(item.abstract);
-        return {
-          _id: idx,
-          title: item.title,
-          embedding: embedding,
-          abstract: item.abstract,
-        };
-      })
-    );
-    //insert into the pincone db
-    console.log("created embeddings .. now inserting .. ");
+    //   const embedding_result = await Promise.all(
+    //     research_data.data.map(async (item, idx) => {
+    //       const embedding = await createEmbeddingService(item.abstract);
+    //       return {
+    //         _id: idx,
+    //         title: item.title,
+    //         embedding: embedding,
+    //         abstract: item.abstract,
+    //       };
+    //     })
+    //   );
+    //   //insert into the pincone db
+    //   console.log("created embeddings .. now inserting .. ");
 
-    const send_embeddings: string = await insertionService(embedding_result);
-
-    res.status(200).send({ send_embeddings });
+    //   const send_embeddings: string = await insertionService(embedding_result);
+    res.status(200);
   } catch (error) {
     res.status(500).send({ error: error });
   }
