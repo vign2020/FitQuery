@@ -2,6 +2,8 @@ import { Pinecone } from "@pinecone-database/pinecone";
 import { I_research_chunk } from "../Types/types";
 import * as dotenv from "dotenv";
 
+//inserting the title and abstract of the research paper into pinecone db . This service also inserts the embeddings obtained from the gemini api
+
 dotenv.config();
 const apiKey = process.env.PINECONE_API_KEY;
 
@@ -34,10 +36,9 @@ export const insertionService = async (
     }));
 
     await namespace.upsert(records);
-    // console.log(`Inserted ${records.length} records into Pinecone`);
+
     return `Inserted ${records.length} records into Pinecone`;
   } catch (e) {
-    // console.log("pinecone error", e);
     throw new Error((e as Error).message);
   }
 };

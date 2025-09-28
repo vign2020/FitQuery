@@ -1,0 +1,10 @@
+#main-container {
+  background-color: rgb(98, 97, 97);
+  background-image: url("../public/gym-image-three.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed; /* 👈 keeps it fixed */
+  background-blend-mode: multiply;
+  color: white;
+}

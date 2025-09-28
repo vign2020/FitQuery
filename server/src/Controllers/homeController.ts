@@ -5,25 +5,27 @@ import { queryService } from "../Services/queryService";
 import { I_textChunks } from "../Types/types";
 import { questionAnsweringService } from "../Services/questionAnsweringService";
 import research_data from "../data/data.json";
+import old_data from "../data/data_old.json";
 
 export const GET_Chunks = async (req: Request, res: Response) => {
   try {
-    //   const embedding_result = await Promise.all(
-    //     research_data.data.map(async (item, idx) => {
-    //       const embedding = await createEmbeddingService(item.abstract);
-    //       return {
-    //         _id: idx,
-    //         title: item.title,
-    //         embedding: embedding,
-    //         abstract: item.abstract,
-    //       };
-    //     })
-    //   );
-    //   //insert into the pincone db
-    //   console.log("created embeddings .. now inserting .. ");
+    const sizeOfdata = old_data.data.length;
 
-    //   const send_embeddings: string = await insertionService(embedding_result);
-    res.status(200);
+    const embedding_result = await Promise.all(
+      research_data.data.map(async (item, idx) => {
+        const embedding = await createEmbeddingService(item.abstract);
+        return {
+          _id: idx + sizeOfdata,
+          title: item.title,
+          embedding: embedding,
+          abstract: item.abstract,
+        };
+      })
+    );
+
+    const send_embeddings: string = await insertionService(embedding_result);
+
+    res.status(200).send({ message: send_embeddings });
   } catch (error) {
     res.status(500).send({ error: error });
   }
@@ -40,16 +42,14 @@ export const POST_query = async (req: Request, res: Response) => {
       return item.metadata.abstract;
     });
 
-    console.log(abstract_context.length);
-
-    console.log("abstract_context " + abstract_context);
-    // // Generation part of getting the answers from gemini.
-    console.log("Searching gemini for answer.....");
     const geminiAnswer: string = await questionAnsweringService(
       abstract_context,
       query
     );
 
-    res.status(200).send({ geminiAnswer });
-  } catch (error) {}
+    res.status(200).send({ geminiAnswer: geminiAnswer });
+  } catch (error) {
+    console.log(error);
+    res.status(400).send({ message: error });
+  }
 };

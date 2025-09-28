@@ -3,6 +3,7 @@ import * as dotenv from "dotenv";
 dotenv.config();
 
 const ai = new GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY });
+//The question and answer service . Uses gemini-2.5-flash
 
 export const questionAnsweringService = async (
   chunks: string[],

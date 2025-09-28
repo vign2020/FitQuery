@@ -6,7 +6,7 @@ export interface I_research_data {
   data: I_reserach_metadata[];
 }
 export interface I_research_chunk {
-  _id: number;
+  _id?: number;
   title: string;
   embedding: number[];
   abstract: string;
