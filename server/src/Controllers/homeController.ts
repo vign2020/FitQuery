@@ -6,6 +6,7 @@ import { I_textChunks } from "../Types/types";
 import { questionAnsweringService } from "../Services/questionAnsweringService";
 import research_data from "../data/data.json";
 import old_data from "../data/data_old.json";
+import { QueryExpansion } from "../Services/queryExpansion";
 
 export const GET_Chunks = async (req: Request, res: Response) => {
   try {
@@ -34,9 +35,12 @@ export const GET_Chunks = async (req: Request, res: Response) => {
 export const POST_query = async (req: Request, res: Response) => {
   try {
     const { query } = req.body;
+    //expand the query for better context
+    const expanded = await QueryExpansion(query);
+    console.log("This is the expanded query " + expanded);
     //send this query to the fetchTranscriptService;
-    const embeddings = await createEmbeddingService(query);
-    const results = await queryService(query, embeddings);
+    const embeddings = await createEmbeddingService(expanded);
+    const results = await queryService(expanded, embeddings);
 
     const abstract_context = results?.matches.map((item: I_textChunks) => {
       return item.metadata.abstract;
@@ -48,6 +52,8 @@ export const POST_query = async (req: Request, res: Response) => {
     );
 
     res.status(200).send({ geminiAnswer: geminiAnswer });
+
+    // res.status(200).send({ expanded: expanded });
   } catch (error) {
     console.log(error);
     res.status(400).send({ message: error });

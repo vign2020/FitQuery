@@ -8,6 +8,7 @@ export const queryService = async (query: string, embeddings: number[]) => {
       vector: embeddings,
       includeMetadata: true,
     });
+    console.log("qauerying finished ... ");
 
     return answers;
   } catch (e) {
