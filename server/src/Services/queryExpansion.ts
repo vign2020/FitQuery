@@ -12,9 +12,11 @@ export const QueryExpansion = async (query: string): Promise<string> => {
       You are a helpful assistant for expanding academic fitness and nutrition research queries.
 Expand the given query by adding relevant terms, supplements, and related scientific keywords separated by a vertical bar (|).
 Rules:
-- Use concise terms (1–3 words)
+
 - Include related concepts, supplement names, and physiological terms if relevant
 - Return only the expanded keywords — no explanations or sentences.
+- Don't exceed more than 10 terms.
+- If query is unrelated to the topic, ignore it.
 
 Example:
 Input: what are the side effects of supplements ?
