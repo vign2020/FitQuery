@@ -1,47 +1,5 @@
-//topics
-// 1. muscular hypertrophy
-// 2. muscular strength
+import { I_author } from "../Types/types";
 
-import axios from "axios";
-
-const topics = [
-  {
-    title: "muscular hypertrophy",
-    namespace: 2,
-  },
-  {
-    title: "muscular strength",
-    namespace: 2,
-  },
-  {
-    title: "creatine supplementation performance",
-    namespace: 3,
-  },
-  {
-    title: "HIIT cardiovascular fitness",
-    namespace: 5,
-  },
-  {
-    title: "sleep and muscle recovery",
-    namespace: 4,
-  },
-  {
-    title: "supplements side-effects",
-    namespace: 3,
-  },
-  {
-    title: "sex differences in strength and hypertrophy",
-    namespace: 2,
-  },
-  {
-    title: "libido and weight training",
-    namespace: 2,
-  },
-  {
-    title: "weight training injuries",
-    namespace: 4,
-  },
-];
 //2 , 3, 4, 5
 const namespaces = [
   "Biomechanics-exercise-science",
@@ -59,13 +17,33 @@ const namespaces = [
 
 //api calls
 
-export const dataIngestion = async (topic: string) => {
+const Preprocess = async (topic: any): Promise<string[]> => {
   try {
-    const result = await axios.get(
-      `https://api.semanticscholar.org/graph/v1/paper/search?query=${topic}&limit=30&fields=title,abstract,authors,year,url`
-    );
+    const preprocess = topic.data.map((item: any) => {
+      let authors = "";
+      item.authors.map((item2: I_author, idx: number) => {
+        idx + 1 < item.authors.length
+          ? (authors += item2.name + " , ")
+          : (authors += item2.name + " . ");
+      });
+      item.title += " " + authors + item.abstract;
+      //here the item.title will now contain the title in the first line followed by name of authors and abstract.
+      return item.title;
+    });
+    // we need to append the title and all the authors name to the first line of abstract.
 
-    return result.data;
+    return preprocess;
+  } catch (e) {
+    throw new Error((e as Error).message);
+  }
+};
+export const dataIngestion = async (topic: any) => {
+  try {
+    const result = await Preprocess(topic);
+
+    return result;
+
+    //find which namespace it should go to.
   } catch (e) {
     throw new Error((e as Error).message);
   }

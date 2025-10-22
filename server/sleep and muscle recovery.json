@@ -1,0 +1,605 @@
+{
+  "total": 1085,
+  "offset": 0,
+  "next": 30,
+  "data": [
+    {
+      "paperId": "ebd515d051174cd8bc7327a5f6d478b8814e8527",
+      "url": "https://www.semanticscholar.org/paper/ebd515d051174cd8bc7327a5f6d478b8814e8527",
+      "title": "Sleep and muscle recovery – Current concepts and empirical evidence",
+      "year": 2023,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.36950/2023.2ciss058",
+        "status": "GOLD",
+        "license": "CCBYNC",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.36950/2023.2ciss058?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.36950/2023.2ciss058, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        { "authorId": "5161819", "name": "Daniel Erlacher" },
+        { "authorId": "34183781", "name": "A. Vorster" }
+      ],
+      "abstract": "Generally, sleep is thought of as a state of rest that helps to recover the body and brain from the physical and cognitive activities during wakefulness. The main characteristics of sleep in contrast to wakefulness support this idea: a barely present motor activity and a very low reactivity to both internal and external stimuli. The long-term atonic state of skeletal muscles is taken as an indication that important restorative processes on the musculoskeletal system take place during sleep – and the state of unconsciousness as well as inadequate responsiveness suggests that the central nervous system pauses to engage in important synaptic plasticity processes. About 40 years ago, therefore, in sleep research, the idea was that especially NREM sleep fosters synthetic processes of growth and repair in the body, and REM sleep was believed to be directed towards increases in synthetic processes within the brain, including the consolidation of memory (Horne, 1979).\nThe opinion that SWS is mainly for body restitution was encouraged by the observation that after falling asleep during the early night period, human growth hormone (hGH) is present in relatively large amounts in the plasma (Born et al., 1988). Additionally, it was shown that after high loads of physical activity during the day, in the following night the percentage of SWS increased (Shapiro et al., 1981). Moreover, sleep deprivation seems to weaken muscle recovery by increasing protein breakdown, which adversely affects protein synthesis and promotes muscle atrophy (Dattilo et al., 2011, 2012). Muscle recovery would potentially be impaired because this process is strongly regulated by the anabolic and catabolic hormones mentioned above, which are strongly influenced by sleep. On the other hand, the heart muscle and the diaphragm (the main muscle for respiratory activity) prove that the vital contractile elements of a muscle maintain their function without rest over the lifespan. And if they did, it seems more likely to be the motor unit of the supporting and target muscles as a whole (including the reflex pathways) that needs rest (Fitts, 2008). Furthermore, the muscle protein synthetic response following resistance exercise seems rather time-dependent than state-dependent, e.g. amino acids are taken up in skeletal muscle tissue within hours independent of being awake or asleep (McGlory et al., 2017). However, the aforementioned release of hGH during the early hours of sleep and the results from sleep deprivation studies point in the direction that some regeneration processes are dependent on sleep, and most likely on SWS (Dattilo et al., 2011).\nThe proposed hypothesis that bodily recovery and regeneration are sleep-dependent is widely used, but often lacks extensive supportive experimental evidence. In this presentation we will discuss the current concepts of muscle recovery during sleep and review the studies in that field.\nReferences\nBorn, J., Muth, S., & Fehm, H. L. (1988). The significance of sleep onset and slow wave sleep for nocturnal release of growth hormone (GH) and cortisol. Psychoneuroendocrinology, 13(3), 233–243. https://doi.org/10.1016/0306-4530(88)90021-2\nDattilo, M., Antunes, H. K., Medeiros, A., Mônico-Neto, M., Souza, H. de S. Á., Lee, K. S., Tufik, S., & de Mello, M. T. (2012). Paradoxical sleep deprivation induces muscle atrophy. Muscle & Nerve, 45(3), 431–433. https://doi.org/10.1002/mus.22322\nDattilo, M., Antunes, H. K., Medeiros, A., Mônico Neto, M., Souza, H. S., Tufik, S., & de Mello, M. T. (2011). Sleep and muscle recovery: endocrinological and molecular basis for a new and promising hypothesis. Medical Hypotheses, 77(2), 220–222. https://doi.org/10.1016/j.mehy.2011.04.017\nFitts, R. H. (2008). The cross-bridge cycle and skeletal muscle fatigue. Journal of Applied Physiology, 104(2), 551–558. https://doi.org/10.1152/japplphysiol.01200.2007\nHorne, J. A. (1979). Restitution and human sleep: A critical review. Physiological Psychology, 7(2), 115–125.\nMcGlory, C., Devries, M. C., & Phillips, S. M. (2017). Skeletal muscle and resistance exercise training; the role of protein synthesis in recovery and remodeling. Journal of Applied Physiology, 122(3), 541–548. https://doi.org/10.1152/japplphysiol.00613.2016\nShapiro, C. M., Bortz, R., Mitchell, D., Bartel, P., & Jooste, P. (1981). Slow-wave sleep: A recovery period after exercise. Science 214(4526), 1253–1254. https://doi.org/10.1126/science.7302594"
+    },
+    {
+      "paperId": "c8223c2b20112acfc389b1d53a2133d2387f0a8b",
+      "url": "https://www.semanticscholar.org/paper/c8223c2b20112acfc389b1d53a2133d2387f0a8b",
+      "title": "Sleep and muscle recovery: endocrinological and molecular basis for a new and promising hypothesis.",
+      "year": 2011,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.mehy.2011.04.017?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.mehy.2011.04.017, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        { "authorId": "31946897", "name": "Murilo Dáttilo" },
+        { "authorId": "2153801", "name": "H. K. Antunes" },
+        { "authorId": "144555735", "name": "A. Medeiros" },
+        { "authorId": "84018838", "name": "M. M. Neto" },
+        { "authorId": "39989074", "name": "H. Souza" },
+        { "authorId": "3710196", "name": "S. Tufik" },
+        { "authorId": "2208954873", "name": "M. T. Mello" }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "d7055bc8f5b8f430fef9d486f1867a96692d106d",
+      "url": "https://www.semanticscholar.org/paper/d7055bc8f5b8f430fef9d486f1867a96692d106d",
+      "title": "Effects of Pre-Sleep Whey vs. Plant-Based Protein Consumption on Muscle Recovery Following Damaging Morning Exercise",
+      "year": 2020,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/2072-6643/12/7/2049/pdf?version=1594378039",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC7400837, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        { "authorId": "50097888", "name": "Patrick G. Saracino" },
+        { "authorId": "1990312963", "name": "H. E. Saylor" },
+        { "authorId": "1817702598", "name": "Brett R. Hanna" },
+        { "authorId": "8628120", "name": "R. Hickner" },
+        { "authorId": "2109216567", "name": "Jeong-Su Kim" },
+        { "authorId": "3775412", "name": "M. Ormsbee" }
+      ],
+      "abstract": "Pre-sleep whey protein intake has been shown to improve overnight muscle protein synthesis, muscle size and strength, and muscle recovery. Despite a growing interest in alternative protein sources, such as plant-based protein, there is no evidence regarding the efficacy of plant-based proteins consumed pre-sleep. Therefore, we aimed to compare whey vs. plant-based pre-sleep protein dietary supplementation on muscle recovery in middle-aged men. Twenty-seven recreationally active, middle-aged men performed 5 sets of 15 repetitions of maximal eccentric voluntary contractions (ECC) for the knee extensors (ext) and flexors (flex), respectively, in the morning. Participants consumed 40 g of either whey hydrolysate (WH, n = 9), whey isolate (WI, n = 6), rice and pea combination (RP, n = 6), or placebo (PL, n = 6) 30 min pre-sleep on the day of ECC and the following two nights. Catered meals (15% PRO, 55% CHO, 30% Fat) were provided to participants for 5 days to standardize nutrition. Plasma creatine kinase (CK), interleukin-6 (IL-6), and interleukin-10 (IL-10) were measured at pre, immediately post (+0), +4, +6, +24, +48, and +72 h post-ECC. Isometric (ISOM) and isokinetic (ISOK) maximal voluntary contraction force were measured at pre, immediately post (+0), +24, +48, and +72 h post-ECC. Muscle soreness, thigh circumference, and HOMA-IR were measured at pre, +24, +48, and +72 h post-ECC. CK was increased at +4 h post-ECC, remained elevated at all time points compared to baseline (p < 0.001), and was significantly greater at +72 h compared to all other time points (p < 0.001). IL-6 was increased at +6 h (p = 0.002) with no other time differing from baseline. ISOMext was reduced after ECC (p = 0.001) and remained reduced until returning to baseline at +72 h. ISOMflex, ISOKext, and ISOKflex were reduced after ECC and remained reduced at +72 h (p < 0.001). Muscle soreness increased post-ECC (p < 0.001) and did not return to baseline. Thigh circumference (p = 0.456) and HOMA-IR (p = 0.396) did not change post-ECC. There were no significant differences between groups for any outcome measure. These data suggest that middle-aged men consuming 1.08 ± 0.02 g/kg/day PRO did not recover from damaging eccentric exercise at +72 h and that pre-sleep protein ingestion, regardless of protein source, did not aid in muscle recovery when damaging eccentric exercise was performed in the morning."
+    },
+    {
+      "paperId": "b67abdf8da8dda8175725d4c04fd1d66afa02385",
+      "url": "https://www.semanticscholar.org/paper/b67abdf8da8dda8175725d4c04fd1d66afa02385",
+      "title": "Effect of Progressive Muscle Relaxation on the Level of Post-caesarean Section Pain, Quality of Sleep and Physical Activity Limitation among Caesarean Mothers",
+      "year": 2024,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.4103/ijcn.ijcn_33_23?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.4103/ijcn.ijcn_33_23, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        { "authorId": "2351396871", "name": "Reny Kattukaran" },
+        { "authorId": "82401214", "name": "Reena Vincent" },
+        { "authorId": "46359785", "name": "A. Gnanadurai" },
+        { "authorId": "2351396876", "name": "Lola Ramachandran" }
+      ],
+      "abstract": "\n \n Pain, sleep disturbance and activity limitation are the problems which prevent the quick recovery of post-operative patients. Progressive muscle relaxation (PMR) is a deep relaxation technique which can be used effectively by all post-operative patients for overall well-being. This study aimed to assess the effect of PMR technique on the level of post-caesarean section pain, quality of sleep and physical activity limitation among caesarean mothers.\n \n \n \n A quasi-experimental equivalent post-test only control group design was used. Thirty women undergoing caesarean (15 in each group) were selected by purposive sampling technique. The interventional group received PMR and the control group received routine hospital care. Data were collected using a socio-demographic and clinical data variable questionnaire, Numerical Pain Rating Scale, Groningen Sleep Quality Scale and Physical Activity Limitation Rating Scale. The collected data were analysed using descriptive and inferential statistics (SPSS 20).\n \n \n \n Eight (53.34%) were in the age group of above 30 years in the interventional group and majority 9 (60%) were in 26–30 years in the control group. Nine (60%) had graduation and above in both the groups. Eight (53.33%) in the interventional group and 10 (66.66%) in the control group were homemakers. Only 3 (20%) in the interventional group and 2 (13.33) in the control group had income above Rs. 20000, and 8 (53.33%) in the interventional group and 9 (60%) in the control group were residing in a rural area. In the interventional group, 7 (46.66%) were Hindus, and in the control group, 6 (40%) were Muslims. Majority 9 (60%) in the interventional group were from a joint family, and in the control group, 8 (53.33%) were living in a nuclear family. Majority 12 (80%) in the interventional group and 10 (66.66%) in the control group had a gestational age between 37 and 38 weeks. Majority 10 (66.66%) were multipara in the interventional group and 8 (53.33%) were primipara in the control group. All the samples 15 (100%) were used analgesics three times a day in both the groups. Half the samples 8 (53.33%) had experienced mild pain in the interventional group, while maximum 14 (93.33%) in the control group had experienced moderate pain. All the samples 15 (100%) in the interventional group and 13 (86.66%) in the control group had experienced good quality of sleep. The interventional group, nearly half 7 (46.66%), had mild physical activity limitation, whereas majority 13 (86.66%) in the control group had moderate physical activity limitation. The post-caesarean section pain in the interventional group (3.13 + 1.506) which was lower than the control group score (4.93+±1.033) which was significant at P < 0.05. The physical activity limitation in the interventional group (11.60 + 8.27) which was lower than the control group (22.53 + 3.889) which was highly significant at P < 0.001. There was no statistically significant difference found in the quality of sleep between both the groups. There was no significant (P < 0.05) association between the level of post-caesarean section pain, quality of sleep and physical activity limitation with selected socio-demographic and clinical variables in both the groups.\n \n \n \n The PMR was effective in reducing pain and improving physical activity after caesarean section among women and did not show an improvement in quality of sleep.\n"
+    },
+    {
+      "paperId": "9e8caa389b6123344c6f1df2da53cb3c5360b069",
+      "url": "https://www.semanticscholar.org/paper/9e8caa389b6123344c6f1df2da53cb3c5360b069",
+      "title": "Effects of Sleep Deprivation on the Acute Skeletal Muscle Recovery after Exercise.",
+      "year": 2019,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1249/MSS.0000000000002137?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1249/MSS.0000000000002137, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        { "authorId": "31946897", "name": "Murilo Dáttilo" },
+        { "authorId": "2153801", "name": "H. K. Antunes" },
+        { "authorId": "2117420516", "name": "Nadine Marques Nunes-Galbes" },
+        { "authorId": "1402211893", "name": "M. Mônico-Neto" },
+        { "authorId": "39989074", "name": "H. Souza" },
+        { "authorId": "2094240462", "name": "M. Quaresma" },
+        { "authorId": "31618769", "name": "K. Lee" },
+        { "authorId": "6457126", "name": "C. Ugrinowitsch" },
+        { "authorId": "3710196", "name": "S. Tufik" },
+        { "authorId": "4354406", "name": "M. D. de Mello" }
+      ],
+      "abstract": "PURPOSE\nSleep is considered essential for muscle recovery, mainly due to its effect on hormone secretion. Total sleep deprivation or restriction is known to alter not only blood hormones but also cytokines that might be related to skeletal muscle recovery. This study aimed to evaluate whether total sleep deprivation after eccentric exercise-induced muscle damage (EEIMD) modifies the profiles of blood hormones and cytokines.\n\n\nMETHODS\nIn two separate conditions, with a crossover and randomized model, ten men (aged = 24.5 ± 2.9 y; body mass index = 22.7 ± 2.3 kg / m) performed a unilateral EEIMD protocol that comprised 240 eccentric contractions of the knee extensor muscles using an isokinetic dynamometer. In one condition, a 'muscle damage' protocol was followed by 48 h of total sleep deprivation and 12 h of normal sleep (DEPRIVATION). In the other condition, the same muscle damage protocol was conducted, followed by three nights of regular sleep (SLEEP). Isometric muscle voluntary contraction (MVC) tests and blood samples were collected serially throughout the protocol and analyzed for creatine kinase (CK), free and total testosterone, IGF-1, cortisol, tumor necrosis factor-alpha, interleukin (IL)-1beta, IL-6, receptor antagonist of IL-1 and IL-10.\n\n\nRESULTS\nMVC and serum CK increased equally over the study period in both conditions. From the cytokines evaluated, only IL-6 increased in DEPRIVATION. No differences were detected in testosterone levels between conditions, but IGF-1, cortisol and cortisol to total testosterone ratio were higher in DEPRIVATION.\n\n\nCONCLUSIONS\nTotal sleep deprivation after EEIMD does not delay muscle strength recovery but modifies inflammatory and hormonal responses."
+    },
+    {
+      "paperId": "d7e3856fcdd7ab1026d0f56c91528b6401b6e399",
+      "url": "https://www.semanticscholar.org/paper/d7e3856fcdd7ab1026d0f56c91528b6401b6e399",
+      "title": "A pilot study investigating the effects of acute sleep restriction and its relationship to markers of muscle recovery from a single session of exercise induced muscle damage in healthy untrained males",
+      "year": 2020,
+      "openAccessPdf": { "url": "", "status": null, "license": null },
+      "authors": [{ "authorId": "2084067514", "name": "G. Atkinson" }],
+      "abstract": null
+    },
+    {
+      "paperId": "eab406943a33b7a9db7b5ff4aa72f064c83263d5",
+      "url": "https://www.semanticscholar.org/paper/eab406943a33b7a9db7b5ff4aa72f064c83263d5",
+      "title": "A pilot study investigating the effects of acute sleep restriction and its relationship to markers of muscle recovery from a single session of exercise induced muscle damage in healthy untrained males. By:",
+      "year": 2020,
+      "openAccessPdf": { "url": "", "status": null, "license": null },
+      "authors": [
+        { "authorId": "2084067514", "name": "G. Atkinson" },
+        { "authorId": "8522301", "name": "N. Brooks" },
+        { "authorId": "2235211357", "name": "Dr Niels Vollaard" },
+        { "authorId": "144547156", "name": "Lee Hamilton" },
+        { "authorId": "2235219243", "name": "Dr Kevin Tipton" },
+        { "authorId": "2235210953", "name": "Dr Naomi Brooks" },
+        { "authorId": "4005513", "name": "N. Vollaard" }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "546f756a3e67739e24513a7f21b31f0a2f843e95",
+      "url": "https://www.semanticscholar.org/paper/546f756a3e67739e24513a7f21b31f0a2f843e95",
+      "title": "A post-exercise infrared sauna session improves recovery of neuromuscular performance and muscle soreness after resistance exercise training",
+      "year": 2022,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": "CCBYSA",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10286597, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        { "authorId": "103770485", "name": "E. Ahokas" },
+        { "authorId": "39266434", "name": "J. Ihalainen" },
+        { "authorId": "10033245", "name": "Helen G. Hanstock" },
+        { "authorId": "4393937", "name": "E. Savolainen" },
+        { "authorId": "4706758", "name": "H. Kyröläinen" }
+      ],
+      "abstract": "The aim of this study was to investigate effects of a single infrared sauna (IRS) session on post-exercise recovery of neuromuscular performance, autonomic nervous system function, subjective sleep quality, and muscle soreness. Male basketball players (n = 16) performed two trials consisting of a complex resistance exercise protocol (maximal strength with plyometrics), followed by either 20 min passive recovery (PAS) or IRS (temperature 43 ± 5°C), in a randomized crossover design, with trials separated by one week. Recovery of neuromuscular performance was assessed using 20 m maximal sprint, maximal countermovement-jump (CMJ), and isometric leg press tests, performed 14 hours after exercise. Heart rate (HR), heart rate variability (HRV), sleep diary, muscle soreness, and indirect muscle damage markers were measured pre and post exercise. The decrease in CMJ performance from pre- to post-exercise was attenuated after IRS compared to PAS (p < 0.01). The IRS session resulted in higher HR and lower root mean square of successive differences between normal heartbeats (RMSSD), and high and low frequency power, compared to PAS (p < 0.002). Post-exercise night-time HR and HRV did not differ following IRS vs. PAS. Muscle soreness was less severe, and perceived recovery was higher after IRS compared to PAS (p < 0.01). Post-exercise IRS attenuated the drop in explosive performance and decreased subjective muscle soreness after resistance training, which may enhance mood, readiness, and physical performance of an athlete. A single IRS session had no detrimental effects on recovery of the autonomic nervous system."
+    },
+    {
+      "paperId": "103926a78514b9f726d854fd95aa8550a9f6fff6",
+      "url": "https://www.semanticscholar.org/paper/103926a78514b9f726d854fd95aa8550a9f6fff6",
+      "title": "Sleep and Subjective Recovery in Amateur Trail Runners After the Ultra-Trail du Mont Blanc^® (UTMB^®)",
+      "year": 2022,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s42978-021-00154-w?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s42978-021-00154-w, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        { "authorId": "2156717305", "name": "Pauline Baron" },
+        { "authorId": "3546387", "name": "É. Hermand" },
+        { "authorId": "1412217164", "name": "Charlotte Elsworth-Edelsten" },
+        { "authorId": "48392423", "name": "T. Pezé" },
+        { "authorId": "2156750700", "name": "Valentin Bourlois" },
+        { "authorId": "3696009", "name": "B. Mauvieux" },
+        { "authorId": "5052142", "name": "Rémy Hurdiel" }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "ade5b46b8f11d1d8f7b51719ae7d903cd6eff465",
+      "url": "https://www.semanticscholar.org/paper/ade5b46b8f11d1d8f7b51719ae7d903cd6eff465",
+      "title": "Self-Rated Recovery and Mood Before and After Resistance Training and Muscle Microcurrent Application",
+      "year": 2022,
+      "openAccessPdf": {
+        "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2022.836695/pdf",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC9046599, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        { "authorId": "2162363903", "name": "Bernd A. C. Stößlein" },
+        { "authorId": "4605377", "name": "K. Kuypers" }
+      ],
+      "abstract": "Background Resistance training (RT) can offer beneficial physiological and psychological effects. The regular continuation of this exercise can be accomplished by improving the recovery and mood after a workout. Frequency-specific microcurrent (microstimulation) might offer a solution here as it has been shown to improve physical injuries, mood state, and sleep. However, knowledge is lacking about the impact of microstimulation after RT on said parameters. The present study aimed to test the effects of RT and muscle-microstimulation on mood and physical recovery in healthy men after performing conventional deadlifts, which is a type of RT. Methods The study was conducted according to a single-blind, randomized, placebo-controlled, and two-way crossover study. Twenty participants naïve to microstimulation (MS) engaged in RT twice on separate days. They were randomized to receive MS on 1 day and no microstimulation (Sham-MS) on another day. Before and after the workout and after their treatment (MS or Sham-MS), participants self-rated their mood state and mental and physical exhaustion levels. Results Findings showed that MS increased the self-ratings of well-rested and sociable and, most importantly, reduced the feeling of exercise-induced exhaustion. There were no MS effects on ratings of feeling sad, happy, or exhausted, although the workout, independent of MS, negatively influenced the level of exhaustion. Conclusion The combination of enhanced sociableness, reduced fatigue, and exercise-induced exhaustion after a workout, followed by microstimulation, has important implications for professional sporters and nonprofessionals who try to get the best result after a workout. Future studies using a double-blind approach including different types of exercises, different durations of programs, and both sexes can shed more light on the full potential of microstimulation after a workout on mood state and exercise-induced exhaustion."
+    },
+    {
+      "paperId": "b42f151a4512484fc716cf21876ac3a5b5df806d",
+      "url": "https://www.semanticscholar.org/paper/b42f151a4512484fc716cf21876ac3a5b5df806d",
+      "title": "The Interplay Between Physical Activity, Protein Consumption, and Sleep Quality in Muscle Protein Synthesis",
+      "year": 2024,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2410.16169, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        { "authorId": "2327054143", "name": "Ayush Devkota" },
+        { "authorId": "2327053813", "name": "Manakamana Gautam" },
+        { "authorId": "2248169666", "name": "Uttam Dhakal" },
+        { "authorId": "2006648414", "name": "Suman Devkota" },
+        { "authorId": "2327054198", "name": "Gaurav Kumar Gupta" },
+        { "authorId": "2327054690", "name": "Ujjwal Nepal" },
+        { "authorId": "2078544153", "name": "A. Dhuru" },
+        { "authorId": "2248402933", "name": "Aniket Kumar Singh" }
+      ],
+      "abstract": "This systematic review examines the synergistic and individual influences of resistance exercise, dietary protein supplementation, and sleep/recovery on muscle protein synthesis (MPS). Electronic databases such as Scopus, Google Scholar, and Web of Science were extensively used. Studies were selected based on relevance to the criteria and were ensured to be directly applicable to the objectives. Research indicates that a protein dose of 20 to 25 grams maximally stimulates MPS post-resistance training. It is observed that physically frail individuals aged 76 to 92 and middle-aged adults aged 62 to 74 have lower mixed muscle protein synthetic rates than individuals aged 20 to 32. High-whey protein and leucine-enriched supplements enhance MPS more efficiently than standard dairy products in older adults engaged in resistance programs. Similarly, protein intake before sleep boosts overnight MPS rates, which helps prevent muscle loss associated with sleep debt, exercise-induced damage, and muscle-wasting conditions like sarcopenia and cachexia. Resistance exercise is a functional intervention to achieve muscular adaptation and improve function. Future research should focus on variables such as fluctuating fitness levels, age groups, genetics, and lifestyle factors to generate more accurate and beneficial results."
+    },
+    {
+      "paperId": "3a215f0ca5df28f983117e1bb924594223d28c7d",
+      "url": "https://www.semanticscholar.org/paper/3a215f0ca5df28f983117e1bb924594223d28c7d",
+      "title": "Monitoring Sleep and Nightly Recovery with Wrist-Worn Wearables: Links to Training Load and Performance Adaptations",
+      "year": 2025,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11768492, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        { "authorId": "25865227", "name": "Olli-Pekka Nuuttila" },
+        { "authorId": "50990948", "name": "Daniela Schäfer Olstad" },
+        { "authorId": "3677852", "name": "K. Martinmäki" },
+        { "authorId": "2249470829", "name": "A. Uusitalo" },
+        { "authorId": "4706758", "name": "H. Kyröläinen" }
+      ],
+      "abstract": "Previous studies on the effects of intensified training on sleep quality/quantity have been somewhat contradictory. Moreover, recreational athletes often track various sleep metrics, and those metrics’ actual connections to training adaptations are unknown. This study explored the effects of intensified training on sleep and nightly recovery along with their associations with training adaptations. A total of 24 participants (10 females) performed a 3-week baseline training period (BL), a 2-week overload period (OL), and a 1-week recovery period (REC), which were followed by test days (T1–T3). The endurance performance was assessed with a 3000 m running test. Throughout all of the periods, the nightly recovery information was monitored with a wrist-worn wearable, including sleep quantity and quality, heart rate (HR) and HR variability (HRV), and proprietary parameters combining several parameters and scaling the results individually. In addition, the perceived strain and muscle soreness were evaluated daily. The 3000 m running performance improved from T1 to T2 (−1.2 ± 1.7%, p = 0.006) and from T1 to T3 (−1.7 ± 1.2%, p = 0.002). The perceived strain and muscle soreness increased (p < 0.001) from the final week of the BL to the final week of the OL, but the subjective sleep quality and nightly recovery metrics remained unchanged. The OL average of the proprietary parameter, autonomic nervous system charge (“ANS charge”, combining the HR, HRV, and breathing rate), as well as the change in the sleep HR and HRV from the BL to the OL, were associated (p < 0.05) with a change in the 3000 m running time. In conclusion, the subjective recovery metrics were impaired by intensified training, while the sleep and nightly recovery metrics showed no consistent changes. However, there were substantial interindividual differences in nightly recovery, which were also associated with the training adaptations. Therefore, monitoring nightly recovery can help in recognizing individual responses to training and assist in optimizing training prescriptions."
+    },
+    {
+      "paperId": "6826b2bb197cfa6781744f99b970b84b406f8693",
+      "url": "https://www.semanticscholar.org/paper/6826b2bb197cfa6781744f99b970b84b406f8693",
+      "title": "How does sleep help recovery from exercise-induced muscle injuries?",
+      "year": 2021,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.1016/j.jsams.2021.05.007",
+        "status": "HYBRID",
+        "license": "CCBYNCND",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.jsams.2021.05.007?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.jsams.2021.05.007, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        { "authorId": "3178749", "name": "M. Chennaoui" },
+        { "authorId": "2087813003", "name": "T. Vanneau" },
+        { "authorId": "2084574929", "name": "A. Trignol" },
+        { "authorId": "5413513", "name": "P. Arnal" },
+        { "authorId": "1399220957", "name": "D. Gomez-Mérino" },
+        { "authorId": "11631556", "name": "C. Baudot" },
+        { "authorId": "2108008025", "name": "Jesus Perez" },
+        { "authorId": "2106664458", "name": "Sebastiano Pochettino" },
+        { "authorId": "6265681", "name": "C. Eirale" },
+        { "authorId": "2213520", "name": "H. Chalabi" }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "d235f4d119d3a8a1753bf4a74f7de14c910fcfb7",
+      "url": "https://www.semanticscholar.org/paper/d235f4d119d3a8a1753bf4a74f7de14c910fcfb7",
+      "title": "Effectiveness of progressive muscle relaxation on sleep disturbance in athletes",
+      "year": 2024,
+      "openAccessPdf": {
+        "url": "https://ojs.trjournal.org/index.php/trehabj/article/download/64/76",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.52567/trehabj.v8i02.64?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.52567/trehabj.v8i02.64, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        { "authorId": "2309409436", "name": "Samra Khokhar" },
+        { "authorId": "2309409078", "name": "Amna Toseef" },
+        { "authorId": "2309409084", "name": "Nazia Jabbar Mahar" },
+        { "authorId": "2309417729", "name": "Fahad Ul Zain" },
+        { "authorId": "2309409889", "name": "Ume Aiman" },
+        { "authorId": "2309417760", "name": "Aqeela Parveen" }
+      ],
+      "abstract": "Background: Athletes have general complaints about sleep disturbance which is important for body recovery, healthy brain and body functions, tissue wear and tear, and the body's immune system. Objective: To determine the effectiveness of Progressive Muscle Relaxation (PMR) on sleep disturbance in athletes. Methodology: N=24 athletes aged 18 to 36 years participating in a competition were included in a randomized controlled trial. Athletes who were training for a competition, aged between 18 -and 36 years, and athletes with sleep disturbance score (SDS) falling above 4 on the Athletic Sleep Screening Questionnaire were included. Athlete sleep screening questionnaire (ASSQ) was used to assess sleep disturbance score (SDS). Athletes were randomly assigned to the experimental (n=12) and control (n=12) groups. The experimental group was given progressive muscle relaxation and re-assessed the next day for SDS. Results: The pre-post analysis showed that progressive muscle relaxation reduced the athletes' sleep disturbance score significantly one day after the intervention with a large effect size (p=0.006 Cohen's d= 1.44) in the experimental group. The mean of the mean differences of SDS of both groups were compared which showed a group had a significantly improved sleep disturbance score compared to a control group with a large effect size. (Mean= 1.41 ±1.44 v/s 0.00±1.85, p≤ 0.01, Cohen's d= 1.66). Conclusion: Progressive Muscle Relaxation exercises can be a non-pharmacological method to help athletes sleep by simple head-to-toe muscles contract and relax technique. Clinical Trail No: NCT05695092"
+    },
+    {
+      "paperId": "9aa16d1b3471f88996969e06ba5129495cb5b565",
+      "url": "https://www.semanticscholar.org/paper/9aa16d1b3471f88996969e06ba5129495cb5b565",
+      "title": "Sleep, Fatigue, and Recovery Profiles of the Longest Solo Unsupported One-Way Polar Ski Journey Across Antarctica.",
+      "year": 2024,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1123/ijspp.2024-0171?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1123/ijspp.2024-0171, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        { "authorId": "2305573886", "name": "Volker Scheer" },
+        { "authorId": "2305573880", "name": "H. Chandi" },
+        { "authorId": "2305575437", "name": "Encarna Valero" },
+        { "authorId": "2167794619", "name": "M. Thuany" },
+        { "authorId": "2239958342", "name": "B. Knechtle" },
+        { "authorId": "2305573878", "name": "M. Steinach" }
+      ],
+      "abstract": "PURPOSE\nAntarctic expeditions are exceptional physiological challenges. Sleep plays a critical role in athletic performance, recovery, and wellness, with sleep disturbances having a negative impact on health and performance.\n\n\nMETHODS\nThe authors investigated sleep, fatigue, and recovery profiles of the longest solo unsupported one-way polar ski journey across Antarctica. A 33-year-old woman covered 1484.53 km from Hercules Inlet to the South Pole, finishing at the Ross Ice Shelf, in 70 days and 16 hours. Questionnaires on sleep (Pittsburgh Insomnia Rating Scale and Karolinska Sleepiness Scale), fatigue (Subjective Assessment of Fatigue), recovery (Total Quality Recovery), and wellness were completed at different time points (before, during, and after the expedition).\n\n\nRESULTS\nAverage daily sleep time was between 4 and 5 hours, increasing to 7 hours for the final part of the expedition. Satisfaction of sleep and lack of energy deteriorated as the expedition progressed, alongside signs of clinical insomnia. Fatigue and muscle soreness increased with increasing milage, with extreme levels and very poor recovery toward the end of the expedition. Despite this, the adventurer continued to perform on extremely high levels. Postexpedition scores returned to baseline, demonstrating the incredible adaptation and ability to recovery. The postexpedition interview showed that prior experience of an Antarctic expedition may have prepared the athlete and made her more resilient for this challenge.\n\n\nCONCLUSIONS\nThe data provide unique insights into Antarctic expeditions and may help us understand the limits of human performance when planning future expeditions of this nature. Female athletes are capable of extreme challenges, breaking established performance boundaries."
+    },
+    {
+      "paperId": "e93c7a8422a54a1bce482cf2baaaf7f1a1a7bb1c",
+      "url": "https://www.semanticscholar.org/paper/e93c7a8422a54a1bce482cf2baaaf7f1a1a7bb1c",
+      "title": "Effects of pre-sleep protein supplementation on plasma markers of muscle damage and inflammatory cytokines resulting from sprint interval training in trained swimmers",
+      "year": 2023,
+      "openAccessPdf": {
+        "url": "https://www.tandfonline.com/doi/pdf/10.1080/15502783.2023.2244478?needAccess=true&role=button",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10405750, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        { "authorId": "70279054", "name": "Cairong Wu" },
+        { "authorId": "2153627299", "name": "Jie Deng" },
+        { "authorId": "2218745362", "name": "Chengli Gao" }
+      ],
+      "abstract": "ABSTRACT Background Pre-sleep protein has been shown to improve muscle recovery overnight following exercise-induced muscle damage. Whether such an approach affects recovery from sprint interval training (SIT) has yet to be elucidated. This study examined the effects of protein supplementation every night before sleep on early (45 min post-SIT) and late (24 and 48 h after SIT) responses of creatine kinase (CK) and inflammatory cytokines, including interleukin-6 and 10 (IL-6 and IL-10) and tumor necrosis factor-alpha (TNFα). Methods Twenty trained swimmers underwent a 2-week in-water swimming SIT (two sets of 12 × 50-m all-out swims, interspersed by 1:1 recovery between each sprint and 3 min of rest between sets) and were randomized to two intervention groups receiving either 0.5 g kg−1 day−1 protein beverage (PRO) or the same amount of carbohydrate (CHO) preceding going to bed every night. For initial and final training sessions, CK and cytokine responses were analyzed at different time points, including resting, immediately after completion, 45 min post-SIT, and 24 and 48 h after SIT. Results CK concentrations elevated from resting point to 24 and 48 h post-SIT for both PRO and CHO groups (p < 0.05). In both training groups, the peak levels of IL-6 and 10 were observed 45 min post-SIT on both occasions. TNFα levels significantly elevated from rest to immediately after SIT (p < 0.001) and returned to values equivalent to the baseline afterward in both groups and on both occasions. In both groups, swimming SIT also switched the cytokine response 48 hours after exercise to an anti-inflammatory status by decreasing the ratio of IL-6 to IL-10 (p < 0.04) in the last training session. Conclusions Pre-sleep protein ingestion failed to ameliorate blood markers of muscle damage. The late anti-inflammatory profile of cytokines and exercise-induced muscle damage improved after two weeks of swimming SIT with either protein or carbohydrate ingestion before sleep."
+    },
+    {
+      "paperId": "d345146393ade95815363291b2db7d3773c40e91",
+      "url": "https://www.semanticscholar.org/paper/d345146393ade95815363291b2db7d3773c40e91",
+      "title": "Impact of Sleep Restriction on Muscle Recovery Following Eccentric Exercise",
+      "year": 2016,
+      "openAccessPdf": { "url": "", "status": null, "license": null },
+      "authors": [
+        { "authorId": "1454248396", "name": "Aaron James Salmeron-Been" }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "b524ee61d150281d1dae7f2abea64c6443319bcd",
+      "url": "https://www.semanticscholar.org/paper/b524ee61d150281d1dae7f2abea64c6443319bcd",
+      "title": "Pre-sleep Protein Ingestion Increases Mitochondrial Protein Synthesis Rates During Overnight Recovery from Endurance Exercise: A Randomized Controlled Trial",
+      "year": 2023,
+      "openAccessPdf": {
+        "url": "https://link.springer.com/content/pdf/10.1007/s40279-023-01822-3.pdf",
+        "status": "HYBRID",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10289916, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        { "authorId": "6367844", "name": "J. Trommelen" },
+        { "authorId": "92488641", "name": "Glenn A. A. van Lieshout" },
+        { "authorId": "14332647", "name": "Pardeep Pabla" },
+        { "authorId": "5882323", "name": "J. Nyakayiru" },
+        { "authorId": "88002037", "name": "Floris K. Hendriks" },
+        { "authorId": "143657207", "name": "J. Senden" },
+        { "authorId": "12199300", "name": "J. Goessens" },
+        { "authorId": "5572297", "name": "J. V. van Kranenburg" },
+        { "authorId": "6923075", "name": "A. Gijsen" },
+        { "authorId": "4335246", "name": "L. Verdijk" },
+        { "authorId": "144693919", "name": "L. D. de Groot" },
+        { "authorId": "144104690", "name": "L. V. van Loon" }
+      ],
+      "abstract": "Casein protein ingestion prior to sleep has been shown to increase myofibrillar protein synthesis rates during overnight sleep. It remains to be assessed whether pre-sleep protein ingestion can also increase mitochondrial protein synthesis rates. Though it has been suggested that casein protein may be preferred as a pre-sleep protein source, no study has compared the impact of pre-sleep whey versus casein ingestion on overnight muscle protein synthesis rates. We aimed to assess the impact of casein and whey protein ingestion prior to sleep on mitochondrial and myofibrillar protein synthesis rates during overnight recovery from a bout of endurance-type exercise. Thirty-six healthy young men performed a single bout of endurance-type exercise in the evening (19:45 h). Thirty minutes prior to sleep (23:30 h), participants ingested 45 g of casein protein, 45 g of whey protein, or a non-caloric placebo. Continuous intravenous l-[ring-13C6]-phenylalanine infusions were applied, with blood and muscle tissue samples being collected to assess overnight mitochondrial and myofibrillar protein synthesis rates. Pooled protein ingestion resulted in greater mitochondrial (0.087 ± 0.020 vs 0.067 ± 0.016%·h−1, p = 0.005) and myofibrillar (0.060 ± 0.014 vs 0.047 ± 0.011%·h−1, p = 0.012) protein synthesis rates when compared with placebo. Casein and whey protein ingestion did not differ in their capacity to stimulate mitochondrial (0.082 ± 0.019 vs 0.092 ± 0.020%·h−1, p = 0.690) and myofibrillar (0.056 ± 0.009 vs 0.064 ± 0.018%·h−1, p = 0.440) protein synthesis rates. Protein ingestion prior to sleep increases both mitochondrial and myofibrillar protein synthesis rates during overnight recovery from exercise. The overnight muscle protein synthetic response to whey and casein protein does not differ. NTR7251."
+    },
+    {
+      "paperId": "5169c82e55a4f997d7444093e359bc64fea77866",
+      "url": "https://www.semanticscholar.org/paper/5169c82e55a4f997d7444093e359bc64fea77866",
+      "title": "Effects Of Sleep Deprivation And Sleep Recovery On Muscular Igf-1 And Muscle Regeneration: 2686 Board #206 June 2 11",
+      "year": 2017,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1249/01.mss.0000519043.32268.40?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1249/01.mss.0000519043.32268.40, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        { "authorId": "1402211893", "name": "M. Mônico-Neto" },
+        { "authorId": "31946897", "name": "Murilo Dáttilo" },
+        { "authorId": "31618769", "name": "K. Lee" },
+        { "authorId": "81906905", "name": "M. Mello" },
+        { "authorId": "2153801", "name": "H. K. Antunes" }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "7aa04e95117079cffe7ce0e88bf599473f7bed3d",
+      "url": "https://www.semanticscholar.org/paper/7aa04e95117079cffe7ce0e88bf599473f7bed3d",
+      "title": "Pre-sleep protein supplementation does not improve recovery from load carriage in British Army recruits (part 2)",
+      "year": 2023,
+      "openAccessPdf": {
+        "url": "https://www.frontiersin.org/articles/10.3389/fnut.2023.1264042/pdf?isPublishedV2=False",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10733965, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        { "authorId": "2241092839", "name": "S. Chapman" },
+        { "authorId": "32852238", "name": "Justin D. Roberts" },
+        { "authorId": "2269275504", "name": "Andrew J. Roberts" },
+        { "authorId": "2165455493", "name": "H. Ogden" },
+        { "authorId": "2269406229", "name": "Rachel Izard" },
+        { "authorId": "2269453508", "name": "Lee Smith" },
+        { "authorId": "7936683", "name": "H. Chichger" },
+        { "authorId": "2165455210", "name": "L. Struszczak" },
+        { "authorId": "7221269", "name": "A. Rawcliffe" }
+      ],
+      "abstract": "British Army basic training (BT) is physically demanding with new recruits completing multiple bouts of physical activity each day with limited recovery. Load carriage is one of the most physically demanding BT activities and has been shown to induce acute exercise-induced muscle damage (EIMD) and impair muscle function. Protein supplementation can accelerate muscle recovery by attenuating EIMD and muscle function loss. This study investigated the impact of an additional daily bolus of protein prior to sleep throughout training on acute muscle recovery following a load carriage test in British Army recruits. Ninety nine men and 23 women (mean ± SD: age: 21.3 ± 3.5 yrs., height: 174.8 ± 8.4 cm, body mass 75.4 ± 12.2 kg) were randomized to dietary control (CON), carbohydrate placebo (PLA), moderate (20 g; MOD) or high (60 g; HIGH) protein supplementation. Muscle function (maximal jump height), perceived muscle soreness and urinary markers of muscle damage were assessed before (PRE), immediately post (POST), 24-h post (24 h-POST) and 40-h post (40 h-POST) a load carriage test. There was no impact of supplementation on muscle function at POST (p = 0.752) or 40 h-POST (p = 0.989) load carriage but jump height was greater in PLA compared to HIGH at 24 h-POST (p = 0.037). There was no impact of protein supplementation on muscle soreness POST (p = 0.605), 24 h-POST (p = 0.182) or 40 h-POST (p = 0.333). All groups had increased concentrations of urinary myoglobin and 3-methylhistidine, but there was no statistical difference between groups at any timepoint (p > 0.05). We conclude that pre-sleep protein supplementation does not accelerate acute muscle recovery following load carriage in British Army recruits during basic training. The data suggests that consuming additional energy in the form of CHO or protein was beneficial at attenuating EIMD, although it is acknowledged there were no statistical differences between groups. Although EIMD did occur as indicated by elevated urinary muscle damage markers, it is likely that the load carriage test was not arduous enough to reduce muscle function, limiting the impact of protein supplementation. Practically, protein supplementation above protein intakes of 1.2 g⸱kg−1⸱day−1 following load carriage over similar distances (4 km) and carrying similar loads (15–20 kg) does not appear to be warranted."
+    },
+    {
+      "paperId": "8d5adf139daa145a04aa02bc79c1208596fbfb2a",
+      "url": "https://www.semanticscholar.org/paper/8d5adf139daa145a04aa02bc79c1208596fbfb2a",
+      "title": "Analysis of Sleep Habits: Prediction of Quality of Sleep and Reasoning Ability (Cognitive Skills)",
+      "year": 2024,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1145/3704198.3704214?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1145/3704198.3704214, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        { "authorId": "2345115069", "name": "Abhishek Bhat" },
+        { "authorId": "2345015170", "name": "C. Hemachandra" },
+        { "authorId": "2345015504", "name": "Vidhathri V" },
+        { "authorId": "2345994297", "name": "M. S. Anand" }
+      ],
+      "abstract": "Sleep is a vital process for overall health and well-being. This is a critical physiological state categorised by altered consciousness, reduced sensory activity and minimal voluntary muscle movement. During this time our body engages in myriad of restorative processes such as repairing damaged tissues, synthesizing proteins, release of growth hormones, muscle recovery and overall cellular regeneration. Without proper sleep our physical and mental health will deteriorate rapidly which leads to a weakened immune system and illness. Beyond restoration, sleep plays an important role in cognitive functions. Chronic lack of sleep leads to a large number of health problems including obesity, diabetes, cardiovascular disease etc. Sleep deprivation impairs cognitive function leading to decreased productivity and poor decision-making. Maintaining healthy sleep patterns have a huge impact on emotional resilience and overall mental well-being. It also helps in enhancing our ability to concentrate, boosts creativity and social interactions. The research paper begins with an extensive literature review on sleep instability and impact of sleep on cognitive skills. We highlight the challenges, consequences of sleep instability by analysis of individual daily habits. The following sections and methodologies provide a detailed information on the process adopted for dataset collection and analysis. In this study we consider several daily habits such as smoking, consumption of alcohol, caffeine to develop few predictive models. Later, the study presents the results of the detailed analysis of sleep habits and reasoning scores. The results of this study will provide insights to the quality of sleep and its effect on reasoning score."
+    },
+    {
+      "paperId": "048af52270a5c1ff2770ea4b62a801192efc2b9a",
+      "url": "https://www.semanticscholar.org/paper/048af52270a5c1ff2770ea4b62a801192efc2b9a",
+      "title": "[Multidisciplinary treatment of orofacial pain and dysfunction after a transoral condylectomy: the role of pain, sleep, and psychotrauma].",
+      "year": 2024,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.5177/ntvt.2024.11.24020?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.5177/ntvt.2024.11.24020, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        { "authorId": "2329313977", "name": "B. Y. Z. Li" },
+        { "authorId": "2329160484", "name": "G. Bousché" },
+        { "authorId": "2329332348", "name": "J. P. T. F. Ho" },
+        { "authorId": "2329160482", "name": "W. Knibbe" }
+      ],
+      "abstract": "A 45-year-old woman continued to suffer from an open bite, pain in the left temporomandibular joint, jaw muscle tightness, and ringing in both ears 6 months after an unilateral left condylectomy. A recovery surgery was planned to treat the open bite and she was referred to the department for Orofacial Pain and Dysfunction for treatment of the pain complaints, muscle tightness, and ringing in the ears. At this department she was diagnosed with temporomandibular disorders. Muscle tension, oral behaviors, and anxiety were expected to play a role in the etiology. Fear for the recovery surgery contributed to the onset and maintenance of the complaints. A multidisciplinary treatment was started, including counseling, exercise therapy, psychological treatment, and stabilization splint therapy that would take place after the replacement of the temporomandibular joint. After completion of the treatment, the anxiety had disappeared, and the pain and muscle tension were reduced significantly. The remaining pain and muscle tension resolved following a successful recovery surgery and further orofacial physiotherapy."
+    },
+    {
+      "paperId": "0f0cfebc796677718448d71a5cfa3c969a0a5b9e",
+      "url": "https://www.semanticscholar.org/paper/0f0cfebc796677718448d71a5cfa3c969a0a5b9e",
+      "title": "Increased game frequency period crossing Ramadan intermittent fasting decreases fat mass, sleep duration, and recovery in male professional basketball players",
+      "year": 2023,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.7717/peerj.16507",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10702331, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        { "authorId": "87663268", "name": "S. Brini" },
+        { "authorId": "2242657454", "name": "L. P. Ardigò" },
+        { "authorId": "2238418134", "name": "F. Clemente" },
+        { "authorId": "2268060316", "name": "Javier Raya-González" },
+        { "authorId": "2270371103", "name": "Jennifer A. Kurtz" },
+        { "authorId": "2270612746", "name": "Gretchen A. Casazza" },
+        { "authorId": "2270598158", "name": "Carlo Castagna" },
+        { "authorId": "5901154", "name": "A. Bouassida" },
+        { "authorId": "2258138580", "name": "Hadi Nobari" }
+      ],
+      "abstract": "Background Increased basketball game frequency may affect athlete performances, especially during Ramadan intermittent fasting (RIF). The objective of the present investigation was to assess the impacts of increased game frequency periods crossing the RIF on body composition, sleep habits, indices of well-being, recovery state, and dietary intake in professional male basketball players. Methods Twenty-eight professional basketball players participated in this study and were divided into increased-games-frequency (INCR) or normal-games-frequency (NORM) groups. INCR trained four times and completed two games per week, whereas NORM completed only one game per week. During the first and fourth weeks of RIF, the following variables were assessed: internal load (weekly session rating of perceived exertion (s-RPE), heartrate (HR)), dietary intake, body composition, sleep quality (PSQI survey), well-being indices questionnaire (sleep, fatigue, stress, delayed onset of muscle soreness (DOMS)), and recovery state with the Total Quality Recovery (TQR) questionnaire. Results The internal load significantly increased after 4 weeks of RIF in INCR compared to NORM (p < 0.001). Significant decrease of TQR, sleep duration, and a significant increase of DOMS only for INCR (26.93%, p < 0.001, ES = 0.48, small; 33.83%, p < 0.001, ES = 0.40, small; 161.17%, p < 0.001, ES = 0.32, small; respectively). Significant group × time interaction was observed for body mass (p = 0.006, ES = 0.46, small) and body fat percentage (p = 0.025, ES = 0.33, small), with INCR having a greater decrease in all these values. Conclusion Increased game frequency period crossing RIF decreases fat mass, sleep duration, and recovery in professional basketball players, which may consequently affect performance and health."
+    },
+    {
+      "paperId": "e3d48afbeea858275a4561f8cd285d27c3f55145",
+      "url": "https://www.semanticscholar.org/paper/e3d48afbeea858275a4561f8cd285d27c3f55145",
+      "title": "Progressive muscle relaxation (PMR), sleep, and recovery in elite performers",
+      "year": 2014,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1016/J.JSAMS.2014.11.071?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/J.JSAMS.2014.11.071, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        { "authorId": "82980537", "name": "Lana J. McCloughan" },
+        { "authorId": "5281406", "name": "S. Hanrahan" },
+        { "authorId": "2107581324", "name": "R. Anderson" },
+        { "authorId": "6806337", "name": "S. Halson" }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "3fb716bbf4513c0c4f9e6311161cf2d9f77ab653",
+      "url": "https://www.semanticscholar.org/paper/3fb716bbf4513c0c4f9e6311161cf2d9f77ab653",
+      "title": "Effects of a 36-h Survival Training with Sleep Deprivation on Oxidative Stress and Muscle Damage Biomarkers in Young Healthy Men",
+      "year": 2018,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.3390/ijerph15102066",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6211103, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        { "authorId": "3679104", "name": "E. Jówko" },
+        { "authorId": "35156787", "name": "P. Różański" },
+        { "authorId": "21314563", "name": "A. Tomczak" }
+      ],
+      "abstract": "The aim of this study was to analyze changes in oxidative stress and muscle damage markers during a 36-h survival training combined with sleep deprivation. The study included 23 male students of physical education (specialty: Physical Education for Uniformed Services), randomly divided into the survival or control group. The students in the survival group completed a 36-h survival training with moderate to low physical activity, without the possibility to sleep. The students in the control group performed only physical activity included in daily routines and had a normal sleep pattern. No significant changes in measured parameters were seen in the control group throughout the study period. In the survival group, plasma lipid hydroperoxides (LHs) and creatine kinase (CK) activity increased at 24 h and remained elevated up to 36 h (main effects for LHs: time, p = 0.006 and group × time, p = 0.00008; main effects for CK: time, p = 0.000001, group, p = 0.005, and group × time, p = 0.000001). A 12-h recovery was sufficient to normalize both LHs and CK to the pre-training level; in fact, the post-recovery LHs and CK levels were even lower than at baseline. Residual total antioxidant capacity (TAC) of plasma (without the major constituents: uric acid and albumin) was elevated at both 24 h and 36 h of survival training, but not following a 12-h recovery (main effects: group, p = 0.001 and group × time, p = 0.04). In turn, the activity of glutathione peroxidase (GPx) in whole blood and superoxide dismutase (SOD) in erythrocytes decreased between 24 h and 36 h of survival training (main group effect for GPx, p = 0.038 and SOD, p = 0.045). In conclusion, these findings imply that a 36-h survival training with sleep deprivation impairs enzymatic antioxidant defense, increases lipid peroxidation, and induces muscle damage. Our findings also indicate that at least in the case of young physically active men, a 12-h recovery after the 36-h period of physical activity with sleep deprivation may be sufficient for the normalization of oxidative and muscle damage markers and restoration of blood prooxidant-antioxidant homeostasis."
+    },
+    {
+      "paperId": "4ea079156998d2b3946a4a406638719d5ec0a0b9",
+      "url": "https://www.semanticscholar.org/paper/4ea079156998d2b3946a4a406638719d5ec0a0b9",
+      "title": "Impact of Abdomen and Lower Back Muscle Relaxation on Sleep Quality in Pregnant Women",
+      "year": 2025,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.58213/vidhyayana.v10isi3.2231?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.58213/vidhyayana.v10isi3.2231, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        { "authorId": "2379860648", "name": "Akshay K." },
+        { "authorId": "2379858196", "name": "Babu Subbiah" },
+        { "authorId": "2379860187", "name": "Dhayalan K." }
+      ],
+      "abstract": "Background: Ensuring proper care during pregnancy is vital, as inadequate care or heightened physical strain and stress can lead to complications. One significant issue during this period is sleep apnea, which can result in adverse outcomes near the end of gestation, including just before, during or after delivery, causing challenges for the mother. By identifying the most supportive sleeping positions, aided by support, can enhance sleep quality for pregnant women. This study incorporates innovative approaches using sleep modifications and adaptations using ergogenic aids, along with Trigno Avanti non-invasive EMG sensors, to promote muscle recovery, improve sleep quality, reduce sleep latency and extend sleep duration. These improvements can potentially decrease complications during pregnancy and enhance the safety and well-being of both mother and baby. Method: This experimental study utilizes PSQI methods sEMG tools. Study Population: Nulliparous pregnant women from the Karaikal district. Results: Pregnant women sleeping in side-lying pillow support (SLPS) positions showed reduced muscle activation and significantly improved sleep quality compared to those in SL and supine positions SS and SSPS (p<0.05) and validated with PSQI, which improves significant increment in sleep quality."
+    },
+    {
+      "paperId": "082ac6e66bec1e33703df0c29f58f61641f80417",
+      "url": "https://www.semanticscholar.org/paper/082ac6e66bec1e33703df0c29f58f61641f80417",
+      "title": "Sleep deprivation reduces the recovery of muscle injury induced by high-intensity exercise in a mouse model.",
+      "year": 2019,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.lfs.2019.116835?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.lfs.2019.116835, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        { "authorId": "2111182012", "name": "Deng-Fa Yang" },
+        { "authorId": "2218864303", "name": "Ying-Ling Shen" },
+        { "authorId": "2118510352", "name": "Changwei Wu" },
+        { "authorId": "2157143744", "name": "Yu-Sheng Huang" },
+        { "authorId": "84051154", "name": "Po-Ying Lee" },
+        { "authorId": "2128246278", "name": "Ng Xin Er" },
+        { "authorId": "47504476", "name": "Wen-Ching Huang" },
+        { "authorId": "2690706", "name": "Yu-Tang Tung" }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "14e1bc657a37c7509d71fe9fb0e479b872d51f47",
+      "url": "https://www.semanticscholar.org/paper/14e1bc657a37c7509d71fe9fb0e479b872d51f47",
+      "title": "Effects of tracheal intubation without muscle relaxants on postoperative recovery conditions in patients with obstructive sleep apnea: A double-blind randomized controlled study",
+      "year": 2019,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.5455/annalsmedres.2019.06.337?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.5455/annalsmedres.2019.06.337, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        { "authorId": "12135501", "name": "Celaleddin Soyalp" },
+        { "authorId": "90142614", "name": "Y. Tunçdemir" },
+        { "authorId": "15467482", "name": "N. Yuzkat" },
+        { "authorId": "5747836", "name": "N. Gulhas" }
+      ],
+      "abstract": "Aim: We aimed to compare intubation with and without neuromuscular blocking agents with regard to intubation success, hemodynamic parameters, and postoperative recovery in Obstructive sleep apnea patients. Materials and Methods: The study included 60 patients with a STOP-Bang (Snoring, Tiredness during daytime, Observed apnea, high blood Pressure, Body mass index, Age, Neck circumference, Gender) score of ≥3. The patients were randomly divided into two groups: (I) rocuronium group (Group E) and (II) remifentanil group (Group R). Group R received 4 mcg/kg remifentanil and Group E received 0.6 mg/kg rocuronium and then the patients’ intubation difficulty scale scores and their responses to train-of-four (TOF) nerve stimulation, and postoperative recovery were evaluated in both groups. Results: The median time to recovery of the TOF ratio to 0 following anesthetic induction was significantly higher in Group R compared to Group E (p<0.001). The overall incidences of postoperative sore throat and hoarseness were remarkably high (p<0.002 and p<0.001, respectively). The numbers of patients with relaxed vocal cords and complete jaw relaxation were significantly higher in Group E compared to Group R (p<0.001). Conclusion: The results indicated that rocuronium provides better intubation conditions and leads to less periand post-operative complications compared to remifentanil."
+    },
+    {
+      "paperId": "4c4749cbbdb0fdde870b4aa68e42c41e03a03763",
+      "url": "https://www.semanticscholar.org/paper/4c4749cbbdb0fdde870b4aa68e42c41e03a03763",
+      "title": "Effects of Wearing a Compression Garment During Night Sleep on Recovery From High-Intensity Eccentric-Concentric Quadriceps Muscle Fatigue",
+      "year": 2017,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1519/JSC.0000000000002116?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1519/JSC.0000000000002116, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        { "authorId": "3532668", "name": "Y. Shimokochi" },
+        { "authorId": "19128027", "name": "Satoshi Kuwano" },
+        { "authorId": "90043908", "name": "Taichi Yamaguchi" },
+        { "authorId": "19269899", "name": "H. Abutani" },
+        { "authorId": "49157566", "name": "N. Shima" }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "ac0da5238b30406060b3a2754a6858acc8a85087",
+      "url": "https://www.semanticscholar.org/paper/ac0da5238b30406060b3a2754a6858acc8a85087",
+      "title": "Sleep deprivation impairs functional muscle recovery following injury",
+      "year": 2013,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1016/J.SLEEP.2013.11.638?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/J.SLEEP.2013.11.638, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        { "authorId": "37089779", "name": "P. Schwarz" },
+        { "authorId": "2052608462", "name": "W. Graham" },
+        { "authorId": "2107626866", "name": "F. Li" },
+        { "authorId": "50764417", "name": "M. Locke" },
+        { "authorId": "5515964", "name": "J. Peever" }
+      ],
+      "abstract": null
+    }
+  ]
+}

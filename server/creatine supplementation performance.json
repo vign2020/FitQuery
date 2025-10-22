@@ -1,0 +1,637 @@
+{
+  "total": 119150,
+  "offset": 0,
+  "next": 30,
+  "data": [
+    {
+      "paperId": "55ab9307271dc02da64ecd82285504a0c5b3a9d6",
+      "url": "https://www.semanticscholar.org/paper/55ab9307271dc02da64ecd82285504a0c5b3a9d6",
+      "title": "Creatine supplementation and endurance performance: surges and sprints to win the race",
+      "year": 2023,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.1080/15502783.2023.2204071",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10132248, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        { "authorId": "2137827", "name": "Scott C. Forbes" },
+        { "authorId": "5796600", "name": "D. Candow" },
+        { "authorId": "113937693", "name": "João Henrique Falk Neto" },
+        { "authorId": "3624241", "name": "M. Kennedy" },
+        { "authorId": "2191153648", "name": "Jennifer L Forbes" },
+        { "authorId": "144221623", "name": "M. Machado" },
+        { "authorId": "2165555223", "name": "Erik Bustillo" },
+        { "authorId": "2106169016", "name": "José Gómez-López" },
+        { "authorId": "2215278729", "name": "Andres Zapata" },
+        { "authorId": "66053606", "name": "J. Antonio" }
+      ],
+      "abstract": "ABSTRACT Creatine supplementation is an effective ergogenic aid to augment resistance training and improve intense, short duration, intermittent performance. The effects on endurance performance are less known. The purpose of this brief narrative review is to discuss the potential mechanisms of how creatine can affect endurance performance, defined as large muscle mass activities that are cyclical in nature and are >~3 min in duration, and to highlight specific nuances within the literature. Mechanistically, creatine supplementation elevates skeletal muscle phosphocreatine (PCr) stores facilitating a greater capacity to rapidly resynthesize ATP and buffer hydrogen ion accumulation. When co-ingested with carbohydrates, creatine enhances glycogen resynthesis and content, an important fuel to support high-intensity aerobic exercise. In addition, creatine lowers inflammation and oxidative stress and has the potential to increase mitochondrial biogenesis. In contrast, creatine supplementation increases body mass, which may offset the potential positive effects, particularly in weight-bearing activities. Overall, creatine supplementation increases time to exhaustion during high-intensity endurance activities, likely due to increasing anaerobic work capacity. In terms of time trial performances, results are mixed; however, creatine supplementation appears to be more effective at improving performances that require multiple surges in intensity and/or during end spurts, which are often key race-defining moments. Given creatines ability to enhance anaerobic work capacity and performance through repeated surges in intensity, creatine supplementation may be beneficial for sports, such as cross-country skiing, mountain biking, cycling, triathlon, and for short-duration events where end-spurts are critical for performance, such as rowing, kayaking, and track cycling."
+    },
+    {
+      "paperId": "771e39ff7e5589860fdfdd617e940d48e71f3a1e",
+      "url": "https://www.semanticscholar.org/paper/771e39ff7e5589860fdfdd617e940d48e71f3a1e",
+      "title": "Impact of Short-Term Creatine Supplementation on Muscular Performance among Breast Cancer Survivors",
+      "year": 2024,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/2072-6643/16/7/979/pdf?version=1711560543",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11013276, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        { "authorId": "2224048904", "name": "Emily J. Parsowith" },
+        { "authorId": "2256728833", "name": "Matt S. Stock" },
+        { "authorId": "2294006757", "name": "Olivia R. Kocuba" },
+        { "authorId": "2204802370", "name": "Alec Schumpp" },
+        { "authorId": "2294002394", "name": "Kylah E. Jackson" },
+        { "authorId": "2279567060", "name": "Alexander M. Brooks" },
+        { "authorId": "2294003854", "name": "Alena Larson" },
+        { "authorId": "2294005470", "name": "Madison Dixon" },
+        { "authorId": "145408502", "name": "C. Fairman" }
+      ],
+      "abstract": "Breast cancer (BC) is one of the most common cancers in the United States. Advances in detection and treatment have resulted in an increased survival rate, meaning an increasing population experiencing declines in muscle mass and strength. Creatine supplementation has consistently demonstrated improvements in strength and muscle performance in older adults, though these findings have not been extended to cancer populations. PURPOSE: The purpose of this study was to investigate the effects of short-term creatine supplementation on muscular performance in BC survivors. METHODS: Using a double-blind, placebo-controlled, randomized design, 19 female BC survivors (mean ± SD age = 57.63 ± 10.77 years) were assigned to creatine (SUPP) (n = 9) or dextrose placebo (PLA) (n = 10) groups. The participants completed two familiarization sessions, then two test sessions, each separated by 7 days, where the participants supplemented with 5 g of SUPP or PLA 4 times/day between sessions. The testing sessions included sit-to-stand power, isometric/isokinetic peak torque, and upper/lower body strength via 10 repetition maximum (10RM) tests. The interaction between supplement (SUPP vs. PLA) and time (Pre vs. Post) was examined using a group × time ANOVA and effect sizes. RESULTS: No significant effects were observed for sit-to-stand power (p = 0.471; ηp2 = 0.031), peak torque at 60°/second (p = 0.533; ηp2 = 0.023), peak torque at 120°/second (p = 0.944; ηp2 < 0.001), isometric peak torque (p = 0.905; ηp2 < 0.001), 10RM chest press (p = 0.407; ηp2 = 0.041), and 10RM leg extension (p = 0.932; ηp2 < 0.001). However, a large effect size for time occurred for the 10RM chest press (ηp2 = 0.531) and leg extension (ηp2 = 0.422). CONCLUSION: Seven days of creatine supplementation does not influence muscular performance among BC survivors."
+    },
+    {
+      "paperId": "74c738e7dd8053cc8b7716e1592a7cf97c5f284e",
+      "url": "https://www.semanticscholar.org/paper/74c738e7dd8053cc8b7716e1592a7cf97c5f284e",
+      "title": "The effects of creatine supplementation on cognitive performance—a randomised controlled study",
+      "year": 2023,
+      "openAccessPdf": {
+        "url": "https://bmcmedicine.biomedcentral.com/counter/pdf/10.1186/s12916-023-03146-5",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10647179, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        { "authorId": "2123311529", "name": "J. F. Sandkühler" },
+        { "authorId": "2266474120", "name": "Xenia Kersting" },
+        { "authorId": "2242551526", "name": "Annika Faust" },
+        { "authorId": "2242549720", "name": "Eva Kathrin Königs" },
+        { "authorId": "2242549726", "name": "George Altman" },
+        { "authorId": "2266474315", "name": "Ulrich Ettinger" },
+        { "authorId": "2257351047", "name": "S. Lux" },
+        { "authorId": "2242977155", "name": "A. Philipsen" },
+        { "authorId": "2266477069", "name": "Helge Müller" },
+        { "authorId": "2266474088", "name": "Jan Brauner" }
+      ],
+      "abstract": "Background Creatine is an organic compound that facilitates the recycling of energy-providing adenosine triphosphate (ATP) in muscle and brain tissue. It is a safe, well-studied supplement for strength training. Previous studies have shown that supplementation increases brain creatine levels, which might increase cognitive performance. The results of studies that have tested cognitive performance differ greatly, possibly due to different populations, supplementation regimens, and cognitive tasks. This is the largest study on the effect of creatine supplementation on cognitive performance to date. Methods Our trial was preregistered, cross-over, double-blind, placebo-controlled, and randomised, with daily supplementation of 5 g for 6 weeks each. We tested participants on Raven’s Advanced Progressive Matrices (RAPM) and on the Backward Digit Span (BDS). In addition, we included eight exploratory cognitive tests. About half of our 123 participants were vegetarians and half were omnivores. Results Bayesian evidence supported a small beneficial effect of creatine. The creatine effect bordered significance for BDS ( p  = 0.064, η ^2_P = 0.029) but not RAPM ( p  = 0.327, η ^2_P = 0.008). There was no indication that creatine improved the performance of our exploratory cognitive tasks. Side effects were reported significantly more often for creatine than for placebo supplementation ( p  = 0.002, RR = 4.25). Vegetarians did not benefit more from creatine than omnivores. Conclusions Our study, in combination with the literature, implies that creatine might have a small beneficial effect. Larger studies are needed to confirm or rule out this effect. Given the safety and broad availability of creatine, this is well worth investigating; a small effect could have large benefits when scaled over time and over many people. Trial registration The trial was prospectively registered (drks.de identifier: DRKS00017250, https://osf.io/xpwkc/ )."
+    },
+    {
+      "paperId": "1795d00c76a1464e32ebb6bdf05719345ee6532f",
+      "url": "https://www.semanticscholar.org/paper/1795d00c76a1464e32ebb6bdf05719345ee6532f",
+      "title": "Creatine supplementation combined with blood flow restriction training enhances muscle thickness and performance: a randomized, placebo-controlled, and double-blind study.",
+      "year": 2023,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1139/apnm-2022-0209?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1139/apnm-2022-0209, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        { "authorId": "1435298272", "name": "Rayssa Sousa-Silva" },
+        { "authorId": "3049764", "name": "J. Cholewa" },
+        { "authorId": "67074404", "name": "Kassiana de Araújo Pessôa" },
+        { "authorId": "2054114650", "name": "X. Zhi" },
+        { "authorId": "4131585", "name": "Jakob D. Lauver" },
+        { "authorId": "40329652", "name": "F. Rossi" },
+        { "authorId": "3746050", "name": "N. Zanchi" }
+      ],
+      "abstract": "This study aimed to compare the effects of an 8-week Creatine (Cr) or placebo (PL) supplementation on muscle strength, thickness, endurance, and body composition employing different training paradigms with blood flow restriction (BFR) vs. traditional resistance training (TRAD). Seventeen healthy males were randomized between the PL (n = 9) or Cr (n = 8) groups. Participants were trained unilaterally utilizing a within-between subject bicep curl exercise where each arm was allocated to TRAD or BFR for eight weeks. Muscular strength, thickness, endurance, and body composition were evaluated. Creatine supplementation promoted increases in muscle thickness in TRAD and BFR, compared to their placebo counterparts, however, without significant difference between treatments (p=0.349). TRAD training-induced increases in maximum strength (1RM) compared to BFR after eight weeks of training (p = 0.021). Repetitions to failure at 30% of 1RM were increased in the BFR-Cr group compared to TRAD-Cr (p = 0.004). Repetitions to failure at 70% 1RM were increased from weeks 0-4 (p<0.05) and 4-8 (p<0.05) in all groups. Creatine supplementation exerted a hypertrophic effect when utilized with TRAD and BFR paradigms and increased muscle performance at 30% 1RM when utilized in conjunction with BFR. Therefore, creatine supplementation seems to amplify muscle adaptation following a BFR program."
+    },
+    {
+      "paperId": "e6a1bd3964f4bb630051aa10849d9cf70db8807c",
+      "url": "https://www.semanticscholar.org/paper/e6a1bd3964f4bb630051aa10849d9cf70db8807c",
+      "title": "Creatine Supplementation and Akt/mTOR Pathway: Unraveling the Connection for Optimal Muscle Performance",
+      "year": 2023,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.29328/journal.jsmt.1001068",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.29328/journal.jsmt.1001068?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.29328/journal.jsmt.1001068, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        { "authorId": "2222862617", "name": "Leite Mateus O" },
+        { "authorId": "2222881418", "name": "Knifis Franz W" },
+        { "authorId": "2054588603", "name": "M. Marco" }
+      ],
+      "abstract": "This review paper investigates the relationship between creatine supplementation and the Akt/mTOR pathway, focusing on their impact on muscle performance. The Akt/mTOR pathway is a crucial signaling pathway that regulates muscle protein synthesis and hypertrophy in response to growth factors, nutrients, and mechanical stimuli. Recent evidence suggests that creatine supplementation can influence anabolic signaling pathways, including the phosphorylation of p70S6K, a downstream target of mTOR, leading to enhanced activation of the Akt/mTOR pathway. Additionally, creatine supplementation has been shown to increase intramuscular creatine and phosphocreatine levels, improving ATP availability during exercise and enhancing high-intensity muscle contractions. Understanding the complex regulatory mechanisms of the Akt/mTOR pathway is vital for optimizing muscle performance, as dysregulated signaling can hinder muscle protein synthesis and hypertrophic responses. This review highlights the potential of creatine supplementation to modulate the Akt/mTOR pathway, offering insights into its mechanisms and implications for muscle performance enhancement. By unraveling this connection, researchers and practitioners can develop targeted strategies to maximize muscle performance and promote adaptive responses in various exercise and athletic contexts."
+    },
+    {
+      "paperId": "a625e8dd0ba0884eaa6bfabe06aa79b17d71be52",
+      "url": "https://www.semanticscholar.org/paper/a625e8dd0ba0884eaa6bfabe06aa79b17d71be52",
+      "title": "Creatine Supplementation Improves Physical Performance, Without Negative Effects on Health Markers, in Young Weightlifters",
+      "year": 2022,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s42978-021-00147-9?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s42978-021-00147-9, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        { "authorId": "144164687", "name": "Douglas Almeida" },
+        { "authorId": "144166255", "name": "R. Pereira" },
+        { "authorId": "150981260", "name": "Elvis Q. Borges" },
+        { "authorId": "1894587", "name": "E. Rawson" },
+        { "authorId": "2130454402", "name": "Leonardo Silva Rocha" },
+        { "authorId": "144221623", "name": "M. Machado" }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "8bcb4b0e0ff0dce2c9e79147534fa9ffcc5aa832",
+      "url": "https://www.semanticscholar.org/paper/8bcb4b0e0ff0dce2c9e79147534fa9ffcc5aa832",
+      "title": "Part II. Common questions and misconceptions about creatine supplementation: what does the scientific evidence really show?",
+      "year": 2024,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11703406, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        { "authorId": "2237167230", "name": "Jose Antonio" },
+        { "authorId": "2337198469", "name": "Ann F Brown" },
+        { "authorId": "5796600", "name": "D. Candow" },
+        { "authorId": "6018365", "name": "P. Chilibeck" },
+        { "authorId": "2337090244", "name": "Stacey J. Ellery" },
+        { "authorId": "2137827", "name": "Scott C. Forbes" },
+        { "authorId": "2287418119", "name": "Bruno Gualano" },
+        { "authorId": "5093449", "name": "Andrew R. Jagim" },
+        { "authorId": "2248586119", "name": "C. Kerksick" },
+        { "authorId": "2304507620", "name": "Rick B. Kreider" },
+        { "authorId": "2237211688", "name": "Sergej M. Ostojic" },
+        { "authorId": "2337090654", "name": "Eric S Rawson" },
+        { "authorId": "2308445244", "name": "Michael D Roberts" },
+        { "authorId": "5217260", "name": "H. Roschel" },
+        { "authorId": "15821634", "name": "A. Smith‐Ryan" },
+        { "authorId": "153233032", "name": "Jeffrey R. Stout" },
+        { "authorId": "2239986549", "name": "M A Tarnopolsky" },
+        { "authorId": "2281807735", "name": "Trisha A VanDusseldorp" },
+        { "authorId": "145351801", "name": "D. Willoughby" },
+        { "authorId": "31482783", "name": "T. Ziegenfuss" }
+      ],
+      "abstract": "ABSTRACT Creatine monohydrate supplementation (CrM) is a safe and effective intervention for improving certain aspects of sport, exercise performance, and health across the lifespan. Despite its evidence-based pedigree, several questions and misconceptions about CrM remain. To initially address some of these concerns, our group published a narrative review in 2021 discussing the scientific evidence as to whether CrM leads to water retention and fat accumulation, is a steroid, causes hair loss, dehydration or muscle cramping, adversely affects renal and liver function, and if CrM is safe and/or effective for children, adolescents, biological females, and older adults. As a follow-up, the purpose of this paper is to evaluate additional questions and misconceptions about CrM. These include but are not limited to: 1. Can CrM provide muscle benefits without exercise? 2. Does the timing of CrM really matter? 3. Does the addition of other compounds with CrM enhance its effectiveness? 4. Does CrM and caffeine oppose each other? 5. Does CrM increase the rates of muscle protein synthesis or breakdown? 6. Is CrM an anti-inflammatory intervention? 7. Can CrM increase recovery following injury, surgery, and/or immobilization? 8. Does CrM cause cancer? 9. Will CrM increase urine production? 10. Does CrM influence blood pressure? 11. Is CrM safe to consume during pregnancy? 12. Does CrM enhance performance in adolescents? 13. Does CrM adversely affect male fertility? 14. Does the brain require a higher dose of CrM than skeletal muscle? 15. Can CrM attenuate symptoms of sleep deprivation? 16. Will CrM reduce the severity of and/or improve recovery from traumatic brain injury? Similar to our 2021 paper, an international team of creatine research experts was formed to perform a narrative review of the literature regarding CrM to formulate evidence-based responses to the aforementioned misconceptions involving CrM."
+    },
+    {
+      "paperId": "f4085aeae086df730846ee0e99922dbd837b8a69",
+      "url": "https://www.semanticscholar.org/paper/f4085aeae086df730846ee0e99922dbd837b8a69",
+      "title": "The Effects of Protein and Carbohydrate Supplementation, with and without Creatine, on Occupational Performance in Firefighters",
+      "year": 2023,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/2072-6643/15/24/5134/pdf?version=1702892821",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10745745, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        { "authorId": "2275460804", "name": "Kaia Elstad" },
+        { "authorId": "2275148353", "name": "Conley Malone" },
+        { "authorId": "31461086", "name": "J. Luedke" },
+        { "authorId": "2275461532", "name": "Salvador J. Jaime" },
+        { "authorId": "2244705522", "name": "Ward C. Dobbs" },
+        { "authorId": "2248691984", "name": "Thomas G Almonroeder" },
+        { "authorId": "2248586119", "name": "C. Kerksick" },
+        { "authorId": "2204752672", "name": "Adam Markert" },
+        { "authorId": "5093449", "name": "Andrew R. Jagim" }
+      ],
+      "abstract": "Background: The purpose of this study was to assess the effects of protein and carbohydrate supplementation, with and without creatine, on occupational performance in firefighters. Methods: Using a randomized, double-blind approach, thirty male firefighters (age: 34.4 ± 8.4 yrs., height: 1.82 ± 0.07 m; weight: 88.6 ± 12.5 kg; BF%: 17.2 ± 5.8%) were randomized to receive either (A.) 25 g of whey protein isolate + 25 g of carbohydrate powder (ProCarb group); or (B.) ProCarb + 5 g of creatine (Creatine group) in a double-blind fashion over a period of 21–26 days (depending on shift rotations) to evaluate the impact of supplementation on occupation-specific performance. At baseline and following supplementation, firefighters completed a battery of tests. These tests included an aerobic speed test on an air-braked cycle ergometer followed by the hose carry, body drag, stair climb, and Keiser sled hammer for time. Results: No significant differences in measures of performance were observed at baseline (p > 0.05). There was a significant main effect for time observed for rescue, stair climb, total time to completion, and time trial performance (p < 0.05). There was a significant group × time (p < 0.05) interaction for rescue and forcible entry. Independent sample t-tests indicated that the Creatine group experienced a greater reduction (from baseline) in completion time for the rescue (1.78 ± 0.57 s, 95% CI: 0.61, 2.95 s, p = 0.004) and forcible entry (2.66 ± 0.97 s, 95% CI: 0.68, 4.65 s, p = 0.01) tests compared to the ProCarb group. No significant group × time interactions were observed for the hose line advance, stair climb, total time to completion, and time trial performance (p > 0.05). Conclusions: The addition of supplemental creatine to a protein and carbohydrate supplement to the diet of career firefighters throughout a three week period improves occupational performance in firefighters in specific areas of high-intensity, repetitive actions."
+    },
+    {
+      "paperId": "bf95359d8f184254cd78bced1041bf0bd4e13176",
+      "url": "https://www.semanticscholar.org/paper/bf95359d8f184254cd78bced1041bf0bd4e13176",
+      "title": "Creatine Supplementation Beyond Athletics: Benefits of Different Types of Creatine for Women, Vegans, and Clinical Populations—A Narrative Review",
+      "year": 2024,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11723027, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        { "authorId": "1403404128", "name": "Jorge Gutiérrez-Hellín" },
+        { "authorId": "3696967", "name": "J. Del Coso" },
+        { "authorId": "2338425924", "name": "Arturo Franco-Andrés" },
+        { "authorId": "52283846", "name": "J. Gamonales" },
+        { "authorId": "2313983479", "name": "Mário C. Espada" },
+        { "authorId": "1405466427", "name": "Jaime González-García" },
+        { "authorId": "2015261633", "name": "Miguel López-Moreno" },
+        { "authorId": "1403566468", "name": "D. Varillas-Delgado" }
+      ],
+      "abstract": "Creatine monohydrate supplementation is widely used by athletes in high-intensity, power-based sports due to its ability to enhance short-term performance by increasing intramuscular phosphocreatine (PCr) stores, which aid in ATP resynthesis during intense muscle contractions. However, emerging evidence suggests that creatine monohydrate offers benefits beyond athletic performance. This narrative review explores the literature supporting the advantages of creatine supplementation in women, vegans, and clinical populations. In women, who typically have lower baseline intramuscular creatine levels, supplementation may help alleviate fatigue-related symptoms associated with the menstrual cycle, particularly during the early follicular and luteal phases. For vegans and vegetarians, who often have reduced creatine stores due to the absence of creatine-rich animal products in their diet, supplementation can improve both physical and cognitive performance while supporting adherence to plant-based diets. Additionally, creatine supplementation holds potential for various clinical populations. It may mitigate muscle wasting in conditions such as sarcopenia and cachexia, support neuroprotection in neurodegenerative diseases such as Parkinson’s and Huntington’s, improve exercise capacity in cardiovascular diseases, and enhance energy metabolism in chronic fatigue syndrome. Creatine may also aid recovery from traumatic brain injury by promoting brain energy metabolism and reducing neuronal damage. In conclusion, creatine monohydrate supplementation can enhance physical performance, cognitive function, and overall health in women, vegans, and clinical populations by addressing creatine deficiencies, improving energy metabolism, and supporting recovery from physical and neurological challenges. Most available evidence supports the effectiveness of creatine monohydrate, which should be considered the preferred form of creatine supplementation over other variants. Additionally, proper creatine dosing is essential to maximize benefits and minimize potential adverse effects that may arise from chronic ingestion of excessively high doses."
+    },
+    {
+      "paperId": "e3258fbcd25f740781b360e381e2909a547c705f",
+      "url": "https://www.semanticscholar.org/paper/e3258fbcd25f740781b360e381e2909a547c705f",
+      "title": "Association of Genetic Profile with Muscle Mass Gain and Muscle Injury Prevention in Professional Football Players after Creatine Supplementation",
+      "year": 2024,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/2072-6643/16/15/2511/pdf?version=1722496140",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11313812, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [{ "authorId": "1403566468", "name": "D. Varillas-Delgado" }],
+      "abstract": "Background: In recent years, the study of creatine supplementation in professional athletes has been of great interest. However, the genetics involved in response to supplementation is unknown. The aim of this study was to analyse, for the first time, the relationship between muscle performance-related genes and the risk of an increased body mass index (BMI) and muscle mass and a decrease in fat mass in professional football players after creatine supplementation. Methods: For this longitudinal study, one hundred and sixty-one men’s professional football players were recruited. The polymorphisms ACE I/D, ACTN3 c.1729C>T, AMPD1 c.34C>T, CKM c.*800A>G, and MLCK (c.49C>T and c.37885C>A) were genotyped using Single-Nucleotide Primer Extension (SNPE). To assess the combined impact of these six polymorphisms, a total genotype score (TGS) was calculated. The creatine supplementation protocol consisted of 20 g/day of creatine monohydrate for 5 days (loading dose) and 3–5 g/day for 7 weeks (maintenance dose). Anthropometric characteristics (body mass index (BMI), fat, and muscle mass) were recorded before and after the creatine supplementation protocol. Characteristics of non-contact muscle injuries during the 2022/2023 season were classified according to a consensus statement for injury recording. The results showed that the allelic frequencies of ACE and AMPD1 differed between responders and non-responders in muscle mass increase (all p < 0.05). Players with a TGS exceeding 54.16 a.u. had an odds ratio (OR) of 2.985 (95%CI: 1.560–5.711; p = 0.001) for muscle mass increase. By contrast, those with a TGS below 54.16 a.u. had an OR of 9.385 (95%CI: 4.535–19.425; p < 0.001) for suffering non-contact muscle injuries during the season. Conclusions: The increase in BMI and muscle mass in response to creatine supplementation in professional football players was influenced by a TGS derived from the combination of favourable genotypes linked to muscle performance. The CC genotype and C allele of AMPD1 were particularly associated with a higher likelihood of muscle mass increase under creatine supplementation in this group of professional football players."
+    },
+    {
+      "paperId": "aacd00607af6a00a380c3c89e6d7847e1a19fff6",
+      "url": "https://www.semanticscholar.org/paper/aacd00607af6a00a380c3c89e6d7847e1a19fff6",
+      "title": "Efficacy of Alternative Forms of Creatine Supplementation on Improving Performance and Body Composition in Healthy Subjects: A Systematic Review",
+      "year": 2021,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1519/JSC.0000000000003873?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1519/JSC.0000000000003873, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        { "authorId": "2089155695", "name": "C. Fazio" },
+        { "authorId": "48892714", "name": "C. Elder" },
+        { "authorId": "2114320184", "name": "M. Harris" }
+      ],
+      "abstract": "Abstract Fazio, C, Elder, CL, and Harris, MM. Efficacy of alternative forms of creatine supplementation on improving performance and body composition in healthy subjects: a systematic review. J Strength Cond Res 36(9): 2663–2670, 2022—Novel forms of creatine have appeared in the marketplace with substantial claims of improved efficacy compared to creatine monohydrate (CrM). The purpose of this study was to conduct a systematic review on alternative forms of creatine to determine (a) whether they are effective ergogenic aids and (b) whether they outperform CrM. A separate comparison was conducted to determine average cost of various forms of creatine. Cochrane Central Register of Controlled Trials (CENTRAL), PubMed, Medline, and Google Scholar were systematically reviewed according to PRISMA guidelines. The design of the review was set to answer the PICOS model (subjects, interventions, comparators, outcomes, and study design). Seventeen randomized placebo controlled clinical trials examining exercise performance outcomes and body composition were included in the analysis. Magnesium-creatine chelate and creatine citrate, malate, ethyl ester, nitrate, and pyruvate were the only forms researched in the literature. Of these studies, only 3 studies compared the alternative creatine form to CrM, making it difficult to compare efficacy to CrM. There were no consistent findings of performance enhancement among alternative forms of creatine when compared to placebo. A review of the marketplace shows that CrM is the lowest cost form of creatine. Due to the paucity of studies on alternative forms of creatine as well as high prices on the market of these alternative forms, CrM remains as the most extensively studied form of creatine that shows efficacy, safety, and lowest cost to consumer."
+    },
+    {
+      "paperId": "d7fca9be8f2e98750abc97841e872c63512d5eb0",
+      "url": "https://www.semanticscholar.org/paper/d7fca9be8f2e98750abc97841e872c63512d5eb0",
+      "title": "Creatine Supplementation in Depression: A Review of Mechanisms, Efficacy, Clinical Outcomes, and Future Directions",
+      "year": 2024,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.7759/cureus.71638",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11567172, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        { "authorId": "2309240528", "name": "Keshav Juneja" },
+        { "authorId": "2212440907", "name": "Hamsa Priya Bhuchakra" },
+        { "authorId": "2326387070", "name": "Soumyodip Sadhukhan" },
+        { "authorId": "2314177941", "name": "Ishani Mehta" },
+        { "authorId": "2326387027", "name": "Alla Niharika" },
+        { "authorId": "2326388000", "name": "Swati Thareja" },
+        { "authorId": "2326384179", "name": "Tharun Nimmakayala" },
+        { "authorId": "9087701", "name": "Sweta Sahu" }
+      ],
+      "abstract": "Depression, affecting millions of people worldwide, is a leading cause of disability globally. It affects not only daily functioning but also interpersonal relationships and overall health by increasing the risks of chronic physical and mental illnesses. Creatine, traditionally recognized for boosting physical performance through its role in producing adenosine triphosphate, has recently shown potential as an adjunctive therapy for treating depression. Creatine’s ability to enhance brain energy metabolisms and provide neuroprotection suggests that it can alleviate mood disorders by improving mitochondrial function, increasing cellular resilience, and modulating neurotransmitter systems that regulate mood. This narrative review aims to critically evaluate the research on creatine supplementation for depression, focusing on its efficacy, mechanism of action, risks, and benefits as a treatment for mood disorders. It analyzes preclinical and clinical studies to understand creatine’s potential as an adjunctive or alternative therapy for major depressive disorder and bipolar depression and underscores any gaps in current research. Both animal models and human trials indicate creatine’s efficacy for the treatment of depression. Creatine supplementation reduces depressive symptoms, particularly when combined with selective serotonin reuptake inhibitors, and may improve brain energy metabolism and neuroplasticity. It is generally well tolerated, though caution is warranted due to potential side effects such as manic episodes in bipolar disorder and renal function impairment in patients with kidney dysfunction. Overall, creatine presents a promising addition to current depression treatments, though further research is needed to establish optimal dosing, long-term efficacy, and safety across diverse patient populations."
+    },
+    {
+      "paperId": "882ea9348d9dd77797fb74e30e5bc28e7f59d34d",
+      "url": "https://www.semanticscholar.org/paper/882ea9348d9dd77797fb74e30e5bc28e7f59d34d",
+      "title": "Exploring the relationship between creatine supplementation and renal function: insights from Mendelian randomization analysis",
+      "year": 2024,
+      "openAccessPdf": {
+        "url": "https://www.tandfonline.com/doi/pdf/10.1080/0886022X.2024.2364762?needAccess=true",
+        "status": "GOLD",
+        "license": "CCBYNC",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11232645, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        { "authorId": "2307596582", "name": "Bing Zhou" },
+        { "authorId": "2306227650", "name": "Minping Hong" },
+        { "authorId": "2306755303", "name": "Liqin Jin" },
+        { "authorId": "2306531410", "name": "Keng Ling" }
+      ],
+      "abstract": "Abstract Background Creatine supplementation is ubiquitously consumed by fitness enthusiasts due to its perceived advantages in enhancing athletic performance. Although there is an increasing concern within this demographic regarding its possible impact on renal function, there is still a lack of rigorous scientific investigations into this alleged association. Methods Data were collected through an online survey on the participants’ demographics, creatine usage and concerns related to renal function. The reliability and validity of the survey were assessed using SPSS software. A total of 1129 participants responded to the survey, and chi-square tests were utilized for data analysis. To explore the potential association between creatine levels (as the exposure) and renal function (as the outcome), we utilized open-access genetic databases, and Mendelian randomization (MR) techniques were used to confirm this correlation. Results Chi-square analysis revealed no significant association between creatine usage and renal function among the participants. Our MR analysis further supported this finding, demonstrating no significant association between creatine levels and six indicators assessing renal function (IVW, all with p values exceeding 0.05). Similar p values were consistently observed across other MR methods, confirming the absence of a statistical correlation. Conclusions This MR study offers compelling evidence indicating that creatine levels are not statistically associated with renal function, suggesting the potential to alleviate concerns within the fitness community and emphasizing the significance of evidence-based decision-making when considering nutritional supplementation."
+    },
+    {
+      "paperId": "45ce09d834bcb52f868eca3f0fe60da0555b155b",
+      "url": "https://www.semanticscholar.org/paper/45ce09d834bcb52f868eca3f0fe60da0555b155b",
+      "title": "Optimum timing in creatine supplementation for improved sporting performance",
+      "year": 2021,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.18176/archmeddeporte.00026",
+        "status": "GOLD",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.18176/ARCHMEDDEPORTE.00026?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.18176/ARCHMEDDEPORTE.00026, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        { "authorId": "2100700722", "name": "JM Jurado-Castro" },
+        { "authorId": "2100698987", "name": "A. Navarrete-Pérez" },
+        { "authorId": "1431308095", "name": "A. Ranchal-Sánchez" },
+        { "authorId": "2100698315", "name": "F. M. Ordóñez" }
+      ],
+      "abstract": "Creatine is a sports supplement with high scientific evidence on its effects on performance and with emerging health’s results, including for vegetarian athletes and older adults. The creatine type and effective doses have been well studied, presenting consistent results. However, not many studies have evaluated the ingestion timing in terms of its interaction with the creatine effects. The aim of this review is to analyze the different existing scientific literature on creatine supplementation protocols and their interaction with the timing of ingestion, in order to assess whether there is a greater effect of the ergogenic dose of creatine considered effective when It is ingested before, post workout or at another time of the day. The results of this work presented different types of protocols and doses in creatine supplementation, despite being diverse the protocols shown in the literature, the most effective consisted of a consumption of 0.3 g/kg/d for five days, followed by a consumption of 0.03 g/kg/d, thus achieving a greater reserve of PCr in skeletal muscle. Studies showed greater benefits when creatine intake was carried out in the moments close to workout due to greater blood flow, the studies pointing to significant improvements in post-workout consumption, since creatine can increase the rate of glycogen uptake in muscle and increase insulin sensitivity"
+    },
+    {
+      "paperId": "48878a3a06dfc3e0d26300b6a8fb52a5ee2fbac3",
+      "url": "https://www.semanticscholar.org/paper/48878a3a06dfc3e0d26300b6a8fb52a5ee2fbac3",
+      "title": "Effects of Creatine Supplementation on Athletic Performance in Soccer Players: A Systematic Review and Meta-Analysis",
+      "year": 2019,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/2072-6643/11/4/757/pdf?version=1554029437",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6520963, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        { "authorId": "1398474077", "name": "J. Mielgo-Ayuso" },
+        { "authorId": "1398303686", "name": "J. Calleja-González" },
+        { "authorId": "1422339160", "name": "D. Marqués-Jiménez" },
+        { "authorId": "1403316072", "name": "Alberto Caballero-García" },
+        { "authorId": "35176213", "name": "A. Córdova" },
+        { "authorId": "1404176086", "name": "Diego Fernández-Lázaro" }
+      ],
+      "abstract": "Studies have shown that creatine supplementation increases intramuscular creatine concentrations, favoring the energy system of phosphagens, which may help explain the observed improvements in high-intensity exercise performance. However, research on physical performance in soccer has shown controversial results, in part because the energy system used is not taken into account. The main aim of this investigation was to perform a systematic review and meta-analysis to determine the efficacy of creatine supplementation for increasing performance in skills related to soccer depending upon the type of metabolism used (aerobic, phosphagen, and anaerobic metabolism). A structured search was carried out following the Preferred Reporting Items for Systematic Review and Meta-Analyses (PRISMA) guidelines in the Medline/PubMed and Web of Science, Cochrane Library, and Scopus databases until January 2019. The search included studies with a double-blind and randomized experimental design in which creatine supplementation was compared to an identical placebo situation (dose, duration, timing, and drug appearance). There were no filters applied to the soccer players’ level, gender, or age. A final meta-analysis was performed using the random effects model and pooled standardized mean differences (SMD) (Hedges’s g). Nine studies published were included in the meta-analysis. This revealed that creatine supplementation did not present beneficial effects on aerobic performance tests (SMD, −0.05; 95% confidence interval (CI), −0.37 to 0.28; p = 0.78) and phosphagen metabolism performance tests (strength, single jump, single sprint, and agility tests: SMD, 0.21; 95% CI, −0.03 to 0.45; p = 0.08). However, creatine supplementation showed beneficial effects on anaerobic performance tests (SMD, 1.23; 95% CI, 0.55–1.91; p <0.001). Concretely, creatine demonstrated a large and significant effect on Wingate test performance (SMD, 2.26; 95% CI, 1.40–3.11; p <0.001). In conclusion, creatine supplementation with a loading dose of 20–30 g/day, divided 3–4 times per day, ingested for 6 to 7 days, and followed by 5 g/day for 9 weeks or with a low dose of 3 mg/kg/day for 14 days presents positive effects on improving physical performance tests related to anaerobic metabolism, especially anaerobic power, in soccer players."
+    },
+    {
+      "paperId": "fc995a4cbf4b3cf263a283bb4ed7ecb73bc95abd",
+      "url": "https://www.semanticscholar.org/paper/fc995a4cbf4b3cf263a283bb4ed7ecb73bc95abd",
+      "title": "Single dose creatine improves cognitive performance and induces changes in cerebral high energy phosphates during sleep deprivation",
+      "year": 2024,
+      "openAccessPdf": {
+        "url": "https://www.nature.com/articles/s41598-024-54249-9.pdf",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10902318, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        { "authorId": "1402886141", "name": "A. Gordji-Nejad" },
+        { "authorId": "2490620", "name": "A. Matusch" },
+        { "authorId": "2288215486", "name": "Sophie Kleedörfer" },
+        { "authorId": "2288215151", "name": "Harshal Jayeshkumar Patel" },
+        { "authorId": "2254727719", "name": "Alexander Drzezga" },
+        { "authorId": "2758948", "name": "D. Elmenhorst" },
+        { "authorId": "2288216359", "name": "Ferdinand Binkofski" },
+        { "authorId": "2276338343", "name": "Andreas Bauer" }
+      ],
+      "abstract": "The inverse effects of creatine supplementation and sleep deprivation on high energy phosphates, neural creatine, and cognitive performances suggest that creatine is a suitable candidate for reducing the negative effects of sleep deprivation. With this, the main obstacle is the limited exogenous uptake by the central nervous system (CNS), making creatine only effective over a long-term diet of weeks. Thus far, only repeated dosing of creatine over weeks has been studied, yielding detectable changes in CNS levels. Based on the hypothesis that a high extracellular creatine availability and increased intracellular energy consumption will temporarily increase the central creatine uptake, subjects were orally administered a high single dose of creatinemonohydrate (0.35 g/kg) while performing cognitive tests during sleep deprivation. Two consecutive 31P-MRS scans, 1H-MRS, and cognitive tests were performed each at evening baseline, 3, 5.5, and 7.5 h after single dose creatine (0.35 g/kg) or placebo during sub-total 21 h sleep deprivation (SD). Our results show that creatine induces changes in PCr/Pi, ATP, tCr/tNAA, prevents a drop in pH level, and improves cognitive performance and processing speed. These outcomes suggest that a high single dose of creatine can partially reverse metabolic alterations and fatigue-related cognitive deterioration."
+    },
+    {
+      "paperId": "1a32cbab881a0026567613273a52b56675f35f9f",
+      "url": "https://www.semanticscholar.org/paper/1a32cbab881a0026567613273a52b56675f35f9f",
+      "title": "Creatine supplementation improves performance, but is it safe? Double-blind placebo-controlled study.",
+      "year": 2020,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.23736/S0022-4707.20.10437-7?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.23736/S0022-4707.20.10437-7, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        { "authorId": "144164687", "name": "Douglas Almeida" },
+        { "authorId": "1713454", "name": "A. Colombini" },
+        { "authorId": "144221623", "name": "M. Machado" }
+      ],
+      "abstract": "BACKGROUND\nCreatine represents a natural supplement and ergogenic aid for sport performance, but there are several concerns regarding its safety for health. The present double-blind placebo-controlled study evaluated the effect of creatine monohydrate supplementation on a panel of blood and urine health indicators in resistance training practitioners.\n\n\nMETHODS\nEighteen males performing resistance training three times per week were supplemented with 0.3 g/kg per day creatine monohydrate for 7 days and compared with matched controls supplemented with dextrosol. Blood and urine samples were collected pre- and 30 days post-supplementation to evaluate 41 biochemical parameters and renal function.\n\n\nRESULTS\nCreatine monohydrate supplementation did not cause adverse events and, as expected, promoted an increase of the performance and body weight. No modification of red blood cells parameters, white blood cells profile, blood lipid profile, metabolic and urine markers, hepatic and renal function were observed in the supplemented group.\n\n\nCONCLUSIONS\nDespite the expected weight increase, the creatine monohydrate supplementation is safe for health and no detrimental effects on different organs and physiological systems were observed in our cohort of volunteers."
+    },
+    {
+      "paperId": "d9f007c2556fd38ce3cc19d019ede96f441ad4e6",
+      "url": "https://www.semanticscholar.org/paper/d9f007c2556fd38ce3cc19d019ede96f441ad4e6",
+      "title": "Guanidinoacetate-Creatine Supplementation Improves Functional Performance and Muscle and Brain Bioenergetics in the Elderly: A Pilot Study",
+      "year": 2021,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.1159/000518499",
+        "status": "BRONZE",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1159/000518499?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1159/000518499, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        { "authorId": "4152383", "name": "V. Šeper" },
+        { "authorId": "5064556", "name": "D. Korovljev" },
+        { "authorId": "34070699", "name": "N. Todorović" },
+        { "authorId": "13959731", "name": "V. Štajer" },
+        { "authorId": "5409899", "name": "J. Ostojić" },
+        { "authorId": "41170948", "name": "Nebojša Nešić" },
+        { "authorId": "6958495", "name": "S. Ostojić" }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "12b2fc01f0104ca859ee4e9e5bb701fe3ca149e0",
+      "url": "https://www.semanticscholar.org/paper/12b2fc01f0104ca859ee4e9e5bb701fe3ca149e0",
+      "title": "Effects of Four Weeks of Beta-Alanine Supplementation Combined with One Week of Creatine Loading on Physical and Cognitive Performance in Military Personnel",
+      "year": 2022,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/1660-4601/19/13/7992/pdf?version=1656552451",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC9265371, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        { "authorId": "2058473539", "name": "M. Samadi" },
+        { "authorId": "2174493298", "name": "Ali Askarian" },
+        { "authorId": "15842007", "name": "H. Shirvani" },
+        { "authorId": "67094730", "name": "Shamsoddini Alireza" },
+        { "authorId": "3979263", "name": "A. Shakibaee" },
+        { "authorId": "2137827", "name": "Scott C. Forbes" },
+        { "authorId": "35346341", "name": "M. Kaviani" }
+      ],
+      "abstract": "The purpose was to investigate the effects of a 7-day creatine (Cr) loading protocol at the end of four weeks of β-alanine supplementation (BA) on physical performance, blood lactate, cognitive performance, and resting hormonal concentrations compared to BA alone. Twenty male military personnel (age: 21.5 ± 1.5 yrs; height: 1.78 ± 0.05 m; body mass: 78.5 ± 7.0 kg; BMI: 23.7 ± 1.64 kg/m2) were recruited and randomized into two groups: BA + Cr or BA + placebo (PL). Participants in each group (n = 10 per group) were supplemented with 6.4 g/day of BA for 28 days. After the third week, the BA + Cr group participants were also supplemented with Cr (0.3 g/kg/day), while the BA + PL group ingested an isocaloric placebo for 7 days. Before and after supplementation, each participant performed a battery of physical and cognitive tests and provided a venous blood sample to determine resting testosterone, cortisol, and IGF-1. Furthermore, immediately after the last physical test, blood lactate was assessed. There was a significant improvement in physical performance and mathematical processing in the BA + Cr group over time (p < 0.05), while there was no change in the BA + PL group. Vertical jump performance and testosterone were significantly higher in the BA + Cr group compared to BA + PL. These results indicate that Cr loading during the final week of BA supplementation (28 days) enhanced muscular power and appears to be superior for muscular strength and cognitive performance compared to BA supplementation alone."
+    },
+    {
+      "paperId": "b3e7cad1f04ab7e6e3d32803535e748c8e8b6001",
+      "url": "https://www.semanticscholar.org/paper/b3e7cad1f04ab7e6e3d32803535e748c8e8b6001",
+      "title": "Effects of 4-Week Creatine Supplementation Combined with Complex Training on Muscle Damage and Sport Performance",
+      "year": 2018,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/2072-6643/10/11/1640/pdf?version=1541157530",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6265971, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        { "authorId": "2116632584", "name": "Chia-Chi Wang" },
+        { "authorId": "31452091", "name": "Chu-Chun Fang" },
+        { "authorId": "119814150", "name": "Ying-Hsian Lee" },
+        { "authorId": "1652649542", "name": "Ming-Ta Yang" },
+        { "authorId": "50020273", "name": "Kuei-Hui Chan" }
+      ],
+      "abstract": "Creatine supplementation has an ergogenic effect in an acute complex training bout, but the benefits of chronic creatine supplementation during long-term complex training remain unknown. The study aimed to evaluate the effects of 4-week complex training combined with creatine supplementation on sport performances and muscle damage biomarkers. Thirty explosive athletes were assigned to the creatine or placebo group, which consumed 20 g of creatine or carboxymethyl cellulose, respectively, per day for 6 days followed by 2 g of the supplements until the end of the study. After 6 days of supplementation, subjects performed tests of one repetition maximum (1-RM) strength of half squat and complex training bouts to determine the optimal individual post-activation potentiation time. Thereafter, all subjects performed a complex training programme consisting of six sets of 5-RM half squats and plyometric jumps 3 times per week for 4 weeks. Body composition, 30-m sprint and jump performances were assessed before and after the training period. Moreover, blood creatine kinase (CK) activity was analysed at the first and the last training bout. After the training, the 1-RM strength in the creatine group was significantly greater than in the placebo group (p < 0.05). CK activity after the complex training bout in the creatine group was significantly reduced compared with the placebo group (p < 0.05). No differences were noted for other variables. This study concluded that creatine supplementation combined with complex training improved maximal muscular strength and reduced muscle damage during training."
+    },
+    {
+      "paperId": "0c966c6beeba5b837677e83f4de8eb9dfaf78a98",
+      "url": "https://www.semanticscholar.org/paper/0c966c6beeba5b837677e83f4de8eb9dfaf78a98",
+      "title": "Creatine Supplementation to Improve Sarcopenia in Chronic Liver Disease: Facts and Perspectives",
+      "year": 2023,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/2072-6643/15/4/863/pdf?version=1675846154",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC9958770, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        { "authorId": "2205278023", "name": "Riccardo Casciola" },
+        { "authorId": "2097569974", "name": "L. Leoni" },
+        { "authorId": "2205243125", "name": "Biagio Cuffari" },
+        { "authorId": "2103213316", "name": "M. Pecchini" },
+        { "authorId": "31221814", "name": "R. Menozzi" },
+        { "authorId": "10376990", "name": "A. Colecchia" },
+        { "authorId": "47012369", "name": "F. Ravaioli" }
+      ],
+      "abstract": "Creatine supplementation has been one of the most studied and useful ergogenic nutritional support for athletes to improve performance, strength, and muscular mass. Over time creatine has shown beneficial effects in several human disease conditions. This review aims to summarise the current evidence for creatine supplementation in advanced chronic liver disease and its complications, primarily in sarcopenic cirrhotic patients, because this condition is known to be associated with poor prognosis and outcomes. Although creatine supplementation in chronic liver disease seems to be barely investigated and not studied in human patients, its potential efficacy on chronic liver disease is indirectly highlighted in animal models of non-alcoholic fatty liver disease, bringing beneficial effects in the fatty liver. Similarly, encephalopathy and fatigue seem to have beneficial effects. Creatine supplementation has demonstrated effects in sarcopenia in the elderly with and without resistance training suggesting a potential role in improving this condition in patients with advanced chronic liver disease. Creatine supplementation could address several critical points of chronic liver disease and its complications. Further studies are needed to support the clinical burden of this hypothesis."
+    },
+    {
+      "paperId": "dacd13e6d5f4cf8127f160f0eb612b71b03552cb",
+      "url": "https://www.semanticscholar.org/paper/dacd13e6d5f4cf8127f160f0eb612b71b03552cb",
+      "title": "Creatine Supplementation Improves Phosphagen Energy Pathway During Supramaximal Effort, but Does Not Improve Anaerobic Capacity or Performance",
+      "year": 2019,
+      "openAccessPdf": {
+        "url": "https://www.frontiersin.org/articles/10.3389/fphys.2019.00352/pdf",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6468287, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        { "authorId": "8407726", "name": "R. A. D. de Poli" },
+        { "authorId": "2098986384", "name": "Luan Henrique Roncada" },
+        { "authorId": "9036004", "name": "E. S. Malta" },
+        { "authorId": "6297579", "name": "G. Artioli" },
+        { "authorId": "145102592", "name": "R. Bertuzzi" },
+        { "authorId": "4576299", "name": "A. Zagatto" }
+      ],
+      "abstract": "This study aimed to investigate the effects of short-duration creatine monohydrate supplementation on anaerobic capacity (AC), anaerobic energy pathways, and time-to-exhaustion during high-intensity running. Fourteen healthy men underwent a graded exercise test (GXT) followed by a O2max confirmation test, 5 submaximal efforts, and 4 supramaximal running bouts at 115% of V˙O2max intensity (the first two supramaximal sessions were applied as familiarization trials) to measure the AC using two procedures; the maximum accumulated oxygen deficit (MAOD) and non-oxidative pathways energetics sum (AC[La-]+EPOCfast). The investigation was conducted in a single-blind and placebo-controlled manner, with participants performing the efforts first after being supplemented with a placebo (dextrose 20 g⋅day-1 for 5 days), and then, after a 7 day “placebo” washout period, they started the same procedure under creatine supplementation (20 g⋅day-1 for 5 days. This order was chosen due to the prolonged washout of creatine. MAOD was not different between placebo (3.35 ± 0.65 L) and creatine conditions (3.39 ± 0.79 L; P = 0.58) and presented a negligible effect [effect size (ES) = 0.08], similar to, AC[La-]+EPOCfast (placebo condition (3.66 ± 0.79 Land under creatine ingestion 3.82 ± 0.85 L; P = 0.07) presenting a small effect (ES = 0.20). The energetics from the phosphagen pathway increased significantly after creatine supplementation (1.66 ± 0.40 L) compared to the placebo condition (1.55 ± 0.42 L; P = 0.03). However, the glycolytic and oxidative pathways were not different between conditions. Furthermore, time to exhaustion did not differ between placebo (160.79 ± 37.76 s) and creatine conditions (163.64 ± 38.72; P = 0.49). Therefore, we can conclude that creatine supplementation improves the phosphagen energy contribution, but with no statistical effect on AC or time to exhaustion in supramaximal running."
+    },
+    {
+      "paperId": "5cd4b2df8715e4a3b75a5271156a3a69951ff1cf",
+      "url": "https://www.semanticscholar.org/paper/5cd4b2df8715e4a3b75a5271156a3a69951ff1cf",
+      "title": "Effect of Creatine Supplementation Dosing Strategies on Aging Muscle Performance",
+      "year": 2018,
+      "openAccessPdf": {
+        "url": "https://ourspace.uregina.ca/bitstream/handle/10294/8456/Chami_Jennifer_MSC_KHS_Fall2017.pdf",
+        "status": "GREEN",
+        "license": "CCBYNCND",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC12280466, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        { "authorId": "66807691", "name": "J. Chami" },
+        { "authorId": "5796600", "name": "D. Candow" }
+      ],
+      "abstract": "ObjectiveThis study compared the effects of different creatine supplementation dosages, independent of resistance training, on aging muscle performance and functionality.Design and ParticipantsUsing a double-blind, repeated measures design, participants were randomized to one of three groups: Creatine-High (CR-H; n=11; 0.3 g/kg/day of creatine + 0.1 g/kg/day of maltodextrin), Creatine-Moderate (CR-M: n=11; 0.1 g/kg/day of creatine + 0.3 g/kg/day of maltodextrin) or Placebo (PLA; n=11; 0.4 g/kg/day of maltodextrin) for 10 consecutive days.MeasurementsThe primary dependent variables measured at baseline and after supplementation included muscle strength (1-repetition maximum leg press, chest press, hand-grip), muscle endurance (leg press and chest press; maximal number of repetitions performed for 1 set at 80% and 70% baseline 1-repetition maximum respectively), and tasks of functionality (walking time, number of falls).ResultsThere was a significant increase over time for muscle strength (Leg press: CR-H pre 161.5 ± 55.1 kg, post 169.2 ± 59.2 kg; CR-M pre 145.2 ± 47.7 kg, post 151.7 ± 45.0 kg; PLA pre 163.7 ± 51.5 kg, post 178.2 ± 65.6 kg, p = 0.001; Chest press: CR-H pre 57.0 ± 26.2 kg, post 58.8 ± 28.0 kg; CR-M pre 54.5 ± 27.9 kg, post 56.8 ± 30.1 kg; PLA pre 55.1 ± 26.9 kg, post 58.5 ± 30.1 kg, p = 0.001) and endurance (Leg press: CR-H pre 17.1 ± 6.0 reps, post 21.0 ± 7.2 reps; CR-M pre 24.1 ± 11.6 reps, post 29.1 ± 17.0 reps; PLA pre 23.8 ± 9.7 reps, post 29.5 ± 11.9 reps, p = 0. 001; Chest press: CR-H pre 15.6 ± 2.7 reps, post 18.9 ± 2.7 reps; CR-M pre 18.0 ± 5.0 reps, post 19.9 ± 7.1 reps; PLA pre 20.5 ± 6.2 reps, post 21.6 ± 5.5 reps, p = 0. 001), with no other differences.ConclusionShort-term creatine supplementation, independent of dosage and resistance training, has no effect on aging muscle performance or tasks of functionality."
+    },
+    {
+      "paperId": "f02dcee29a7e2e59da4fa1ed810f7812a088bcb9",
+      "url": "https://www.semanticscholar.org/paper/f02dcee29a7e2e59da4fa1ed810f7812a088bcb9",
+      "title": "Effects of Short-Term Creatine Monohydrate Supplementation Combined with Strength Training on the Physical Fitness Characteristics and Muscle Hypertrophy in Junior Women Wrestlers",
+      "year": 2024,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1055/s-0044-1788683?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1055/s-0044-1788683, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        { "authorId": "83381627", "name": "G. Zahabi" },
+        { "authorId": "1399076308", "name": "A. García‐Ramos" },
+        { "authorId": "2279096428", "name": "Vladimir Ilic" },
+        { "authorId": "4022314", "name": "A. Nedeljković" },
+        { "authorId": "13959731", "name": "V. Štajer" },
+        { "authorId": "2138182001", "name": "Nenad Žugaj" },
+        { "authorId": "101111532", "name": "Damir Pekas" }
+      ],
+      "abstract": "Abstract Background  Creatine is a nutritional supplement commonly used to increase strength performance and muscle mass, but its effects on female wrestlers are still unclear and equivocal. The purpose of the present study is to investigate the efficacy of short-term creatine monohydrate supplementation combined with strength training on the physical fitness characteristics and muscle hypertrophy in junior women wrestlers. Methodology  Eighteen women wrestlers (age = 18.7 ± 0.9 years, body mass index = 21.4 ± 2.5 kg/m 2 ) participated in this research. Participants were randomly divided into three groups: Experimental Group 1—EXP1: (training with creatine supplementation), Experimental Group 2—EXP2: (training without creatine supplementation), and Control group (without training or creatine supplementation). Strength training was performed for 6 weeks, four sessions per week, with a training intensity ranging from 65 to 75% of the maximal heart rate reserve and one-repetition maximum. EXP1 was supplemented with 10 g creatine during training days. Various physical fitness characteristics and muscle hypertrophy variables were collected at three time points (pretest, midtest, and posttest). Results  A number of variables were significantly improved in the EXP1 after 6 weeks (weight, body mass index, one-repetition maximum, agility, muscular power, and hypertrophy) but not in the EXP2 and control groups. Conclusion  Short-term creatine supplementation, in conjunction with strength training, emerges as a highly effective approach for enhancing hypertrophy and boosting physical fitness factors in female wrestlers. Therefore, it is recommended that junior wrestlers individuals supplement with creatine during their strength training routines."
+    },
+    {
+      "paperId": "f728a223031ebb0bfa4bf247ac5eb6f6606291bc",
+      "url": "https://www.semanticscholar.org/paper/f728a223031ebb0bfa4bf247ac5eb6f6606291bc",
+      "title": "Dose–Response of Creatine Supplementation on Cognitive Function in Healthy Young Adults",
+      "year": 2023,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/2076-3425/13/9/1276/pdf?version=1693551279",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10526554, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        { "authorId": "2237270144", "name": "Terence Moriarty" },
+        { "authorId": "49549092", "name": "Kelsey Bourbeau" },
+        { "authorId": "2068687878", "name": "Katie Dorman" },
+        { "authorId": "2237271103", "name": "Lance Runyon" },
+        { "authorId": "2237267937", "name": "Noah Glaser" },
+        { "authorId": "2237268742", "name": "Jenna Brandt" },
+        { "authorId": "2237274289", "name": "Mallory Hoodjer" },
+        { "authorId": "2137827", "name": "Scott C. Forbes" },
+        { "authorId": "5796600", "name": "D. Candow" }
+      ],
+      "abstract": "To determine if creatine (Cr) supplementation could influence cognitive performance and whether any changes were related to changes in prefrontal cortex (PFC) activation during such cognitive tasks, thirty (M = 11, F = 19) participants were evenly randomized to receive supplementation with Cr (CR10:10 g/day or CR20:20 g/day) or a placebo (PLA:10 g/day) for 6 weeks. Participants completed a cognitive test battery (processing speed, episodic memory, and attention) on two separate occasions prior to and following supplementation. Functional near-infrared spectroscopy (fNIRS) was used to measure PFC oxyhemoglobin (O2Hb) during the cognitive evaluation. A two-way repeated measures ANOVA was used to determine the differences between the groups and the timepoints for the cognitive performance scores and PFC O2Hb. In addition, a one-way ANOVA of % change was used to determine pre- and post-differences between the groups. Creatine (independent of dosage) had no significant effect on the measures of cognitive performance. There was a trend for decreased relative PFC O2Hb in the CR10 group versus the PLA group in the processing speed test (p = 0.06). Overall, six weeks of Cr supplementation at a moderate or high dose does not improve cognitive performance or change PFC activation in young adults."
+    },
+    {
+      "paperId": "c1ae6d55bce4696e39bcb6027c75cab17f21176e",
+      "url": "https://www.semanticscholar.org/paper/c1ae6d55bce4696e39bcb6027c75cab17f21176e",
+      "title": "Creatine supplementation improves performance above critical power but does not influence the magnitude of neuromuscular fatigue at task failure",
+      "year": 2019,
+      "openAccessPdf": {
+        "url": "https://physoc.onlinelibrary.wiley.com/doi/pdfdirect/10.1113/EP087886",
+        "status": "BRONZE",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1113/EP087886?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1113/EP087886, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        { "authorId": "49666214", "name": "L. Schäfer" },
+        { "authorId": "46698049", "name": "M. Hayes" },
+        { "authorId": "4155585", "name": "J. Dekerle" }
+      ],
+      "abstract": "What is the central question of this study? Does the magnitude of neuromuscular fatigue depend on the amount of work done (W′) at task failure when cycling above critical power (CP)? What is the main finding and its importance? Creatine supplementation increases W′ and enhances supra‐CP performance, but induces similar magnitudes of neuromuscular fatigue at task failure compared to placebo. Increased W′ does not lead to higher levels of neuromuscular fatigue. This supports the notion of a critical level of neuromuscular fatigue at task failure and challenges a direct causative link between W′ depletion and neuromuscular fatigue."
+    },
+    {
+      "paperId": "336637ab663f04b90612b6a12272343caac10797",
+      "url": "https://www.semanticscholar.org/paper/336637ab663f04b90612b6a12272343caac10797",
+      "title": "Creatine Supplementation and Upper Limb Strength Performance: A Systematic Review and Meta-Analysis",
+      "year": 2016,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s40279-016-0571-4?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s40279-016-0571-4, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        { "authorId": "6908111", "name": "C. Lanhers" },
+        { "authorId": "2055084705", "name": "B. Pereira" },
+        { "authorId": "144481366", "name": "G. Naughton" },
+        { "authorId": "4338344", "name": "M. Trousselard" },
+        { "authorId": "4212525", "name": "F. Lesage" },
+        { "authorId": "5309753", "name": "F. Dutheil" }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "6547f8e9ecc979254dbae49f8e2e6a523c9da4c0",
+      "url": "https://www.semanticscholar.org/paper/6547f8e9ecc979254dbae49f8e2e6a523c9da4c0",
+      "title": "Neuroprotection and Therapeutic Implications of Creatine Supplementation for Brain Injury Complications.",
+      "year": 2023,
+      "openAccessPdf": { "url": "", "status": null, "license": null },
+      "authors": [
+        { "authorId": "2214015253", "name": "Jamison M Newman" },
+        { "authorId": "36805079", "name": "Timothy B Pekari" },
+        { "authorId": "47532273", "name": "David W Van Wyck" }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "36e6507de750cce22aaa9b7a766d56c73bd6c12b",
+      "url": "https://www.semanticscholar.org/paper/36e6507de750cce22aaa9b7a766d56c73bd6c12b",
+      "title": "Creatine supplementation on cognitive performance following exercise in female Muay Thai athletes",
+      "year": 2020,
+      "openAccessPdf": { "url": "", "status": null, "license": null },
+      "authors": [
+        { "authorId": "2132541394", "name": "Lawert A.M. Pires" },
+        { "authorId": "2137827", "name": "Scott C. Forbes" },
+        { "authorId": "5796600", "name": "D. Candow" },
+        { "authorId": "144221623", "name": "M. Machado" }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "8e3a54c729b9efad8767d0ea809348b1c2f2a5d1",
+      "url": "https://www.semanticscholar.org/paper/8e3a54c729b9efad8767d0ea809348b1c2f2a5d1",
+      "title": "The effects of arginine supplementation through different ratios of arginine:lysine on performance, skin quality and creatine levels of broiler chickens fed diets reduced in protein content",
+      "year": 2022,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.1016/j.psj.2022.102148",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC9508590, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        { "authorId": "2178851874", "name": "C. H. Oliveira" },
+        { "authorId": "2071535634", "name": "K. M. Dias" },
+        { "authorId": "2137542559", "name": "R. D. Bernardes" },
+        { "authorId": "2092618177", "name": "T. F. Diana" },
+        { "authorId": "2005932128", "name": "R. Rodrigueiro" },
+        { "authorId": "2318828475", "name": "A. Calderano" },
+        { "authorId": "48221619", "name": "L. Albino" }
+      ],
+      "abstract": null
+    }
+  ]
+}

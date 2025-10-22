@@ -22,6 +22,34 @@ export const namespace = pc
   )
   .namespace(`namespace-one`);
 
+export const namespace_two = pc
+  .index(
+    "yt-semantic-search",
+    "https://yt-semantic-search-okuppnk.svc.aped-4627-b74a.pinecone.io"
+  )
+  .namespace(`namespace-two`);
+
+export const namespace_three = pc
+  .index(
+    "yt-semantic-search",
+    "https://yt-semantic-search-okuppnk.svc.aped-4627-b74a.pinecone.io"
+  )
+  .namespace(`namespace-three`);
+
+export const namespace_four = pc
+  .index(
+    "yt-semantic-search",
+    "https://yt-semantic-search-okuppnk.svc.aped-4627-b74a.pinecone.io"
+  )
+  .namespace(`namespace-four`);
+
+export const namespace_five = pc
+  .index(
+    "yt-semantic-search",
+    "https://yt-semantic-search-okuppnk.svc.aped-4627-b74a.pinecone.io"
+  )
+  .namespace(`namespace-five`);
+
 export const insertionService = async (
   chunks: I_research_chunk[]
 ): Promise<string> => {

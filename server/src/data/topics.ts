@@ -32,7 +32,7 @@ export const topics: Topics[] = [
     namespace_id: 2,
   },
   {
-    title: "libido and weight training",
+    title: "testosterone levels and weight training",
     namespace_id: 2,
   },
   {

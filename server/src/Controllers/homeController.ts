@@ -10,6 +10,8 @@ import { QueryExpansion } from "../Services/queryExpansion";
 import { dataIngestion } from "../Services/dataIngestion";
 import { topics } from "../data/topics";
 import { writeFile } from "fs/promises";
+import { file_exists } from "../utility/access";
+import { semanticscholar } from "../api/SemanticScholar";
 
 export const GET_Chunks = async (req: Request, res: Response) => {
   try {
@@ -70,25 +72,31 @@ export const GET_data_ingestion = async (req: Request, res: Response) => {
     const newRes: any[] = [];
 
     for (const item of topics) {
+      //check if a file with the name exists.. if it does then no need to call the function again
+
       // Call your ingestion function
-      const content = await dataIngestion(item.title);
 
       const filename = `${item.title}.json`;
 
-      console.log(
-        "file name " + filename + " and  content " + JSON.stringify(content)
-      );
-      await writeFile(filename, content, "utf8");
+      if (await file_exists(filename)) continue;
 
-      newRes.push(content);
+      // console.log("file name " + filename);
+      const content = await semanticscholar(item.title);
+      await writeFile(filename, JSON.stringify(content), "utf8");
+
+      //now we can ingest this data into the pincone db
+      const result_from_ingestion = await dataIngestion(content);
+      console.log("result is  " + result_from_ingestion);
+
+      //now insert the data by identifying the namespace .
 
       // Wait 2 seconds before next iteration
-      await new Promise((resolve) => setTimeout(resolve, 2000));
+      await new Promise((resolve) => setTimeout(resolve, 3500));
     }
 
     res.status(200).send({ ingest: newRes });
   } catch (e) {
     console.log(e);
-    res.status(400).send({ message: e });
+    res.status(400).send({ message: (e as Error).message });
   }
 };

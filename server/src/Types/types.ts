@@ -20,3 +20,7 @@ export interface I_textChunks {
     abstract: string;
   };
 }
+export interface I_author {
+  authorId: string;
+  name: string;
+}
