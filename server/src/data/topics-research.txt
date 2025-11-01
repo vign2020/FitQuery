@@ -1,0 +1,132 @@
+4 namespaces 
+namespace 
+1 . biomechanics ,
+2 . supplements and diet ,
+3. Recovery ,adaptation and injury prevention , 
+4. Cardiovascular and endurance.
+
+
+N1
+1. 30 papers already there
+
+body mass index (BMI)
+body fat percentage
+lean body mass
+somatotype
+skinfold thickness
+waist-to-hip ratio
+body surface area
+stature measurement
+limb segment length
+body proportion analysis
+
+motor learning
+proprioception
+balance control
+coordination
+motor unit synchronization
+neural adaptation
+muscle recruitment
+reflex response
+sensory feedback
+postural stability
+
+3 papers each
+Chest , shoulder , latissimus dorsi , trapezius , rhomboidus , teres major , teres minor , neck , calf muscles , quadriceps , hamstrings , biceps , triceps , branchialis , branchioradialis , forarms , wrists , abdominal muscles ,obliques
+
+3 papers each
+bench press , squats , deadlifts , roman chairs , bicep curls , tricep push downs , push ups , pull ups , calf raises , shoulder press , leg press , seated rows , lat pull downs , hip thrusts , shrugs.
+
+
+N3 - Recovery and adaptation
+
+muscle recovery
+delayed onset muscle soreness (DOMS)
+inflammation
+oxidative stress
+free radicals
+sleep quality
+circadian rhythm
+hormonal recovery
+heart rate recovery
+autonomic balance
+
+overuse injury
+tendinopathy
+muscle strain
+ligament injury
+joint instability
+cartilage degeneration
+stress fracture
+rotator cuff injury
+anterior cruciate ligament (ACL)
+tissue regeneration
+
+physical therapy
+eccentric loading
+proprioception training
+balance training
+mobility work
+flexibility
+injury prevention
+corrective exercise
+neuromuscular control
+stability training
+
+
+N4. Cardiovascular and endurance.
+
+VO2 max
+stroke volume
+cardiac output
+heart rate variability
+blood pressure
+capillary density
+cardiac remodeling
+oxygen uptake
+cardiac hypertrophy
+myocardial efficiency
+
+mitochondrial biogenesis
+aerobic metabolism
+fat oxidation
+glycogen resynthesis
+lactate threshold
+anaerobic threshold
+metabolic flexibility
+substrate utilization
+oxidative phosphorylation
+energy expenditure
+
+endurance training
+high-intensity interval training (HIIT)
+low-intensity steady-state (LISS)
+sprint interval training
+polarized training
+concurrent training
+overtraining
+tapering
+cross-training
+periodization
+
+running economy
+cycling efficiency
+VO2 kinetics
+lactate clearance
+power output
+aerobic capacity
+fatigue resistance
+pacing strategy
+performance adaptation
+exercise tolerance
+
+cardiovascular drift
+autonomic recovery
+oxidative stress
+heart rate recovery
+inflammation
+muscle damage
+adaptation
+resilience
+hormonal response
+allostatic load
