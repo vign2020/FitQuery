@@ -1,6 +1,7 @@
 import { Pinecone } from "@pinecone-database/pinecone";
 import { I_research_chunk } from "../Types/types";
 import * as dotenv from "dotenv";
+import { namespaceMap } from "../utility/namespacemap";
 
 //inserting the title and abstract of the research paper into pinecone db . This service also inserts the embeddings obtained from the gemini api
 
@@ -61,17 +62,12 @@ export const insertionService = async (
   chunks: I_research_chunk[]
 ): Promise<string> => {
   try {
-    console.log("INSERTING INTO THE NAMESPACE .... ");
+    console.log("INSERTING INTO THE NAMESPACE ....   " + chunks.length);
 
-    let records: any[] = [];
+    // let records: any[] = [];
 
     chunks.forEach(async (chunk) => {
-      // console.log(
-      //   "NAMESPACE RECORD : " +
-      //     chunk.namespace_name +
-      //     " " +
-      //     typeof chunk.namespace_name
-      // );
+      console.log("NAMESPACE RECORD : " + chunk.namespace_name_string);
       // let records: any[] =
       let insert = [
         {
@@ -98,7 +94,7 @@ export const insertionService = async (
     // if (no_namespace_name.length)
     //   await namespace_insert.upsert(no_namespace_name);
 
-    return `Inserted ${records.length} records into Pinecone`;
+    return `Inserted ${chunks.length} records into Pinecone`;
   } catch (e) {
     throw new Error(`Error in insertion service : ${(e as Error).message}`);
   }

@@ -3,6 +3,7 @@ import data from "../data/namespace_embeddings.json";
 import {
   namespace_five,
   namespace_four,
+  namespace_misc,
   namespace_three,
   namespace_two,
 } from "../Services/insertionService";
@@ -20,12 +21,14 @@ export const identifynamespace = async (
   const score2 = cosineSimilarity(embeddings, data.namespace_three_embeddings);
   const score3 = cosineSimilarity(embeddings, data.namespace_four_embeddings);
   const score4 = cosineSimilarity(embeddings, data.namespace_five_embeddings);
+  const score5 = cosineSimilarity(embeddings, data.namespace_misc_embeddings);
 
   const arr = [
     { score: score1, name: namespace_two },
     { score: score2, name: namespace_three },
     { score: score3, name: namespace_four },
     { score: score4, name: namespace_five },
+    { score: score5, name: namespace_misc },
   ];
   arr.map((item, _) => {
     if (item.score > max_score) {
@@ -33,6 +36,6 @@ export const identifynamespace = async (
       namespace_max = item.name;
     }
   });
-
+  // console.log("inside identify namespace " + namespace_max);
   return namespace_max;
 };

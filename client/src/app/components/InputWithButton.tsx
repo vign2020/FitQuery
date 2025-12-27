@@ -6,6 +6,7 @@ import { I_setResultType } from "../../Types/types";
 import { toast } from "sonner";
 import { UserInput } from "@/lib/zodUtils";
 import { getQueryAnswer } from "@/lib/axios";
+import axios from "axios";
 
 export function InputWithButton({
   setResult,
@@ -14,7 +15,8 @@ export function InputWithButton({
 }: I_setResultType) {
   const [inputData, setinputData] = useState<string>("");
 
-  const handleSubmit = async () => {
+  const handleSubmit: any = async () => {
+    console.log("inside of handle Submit safe");
     const validation = UserInput.safeParse({ query: inputData });
 
     if (!validation.success) {
@@ -26,16 +28,25 @@ export function InputWithButton({
     }
     try {
       setLoading(true);
-
-      const result = await getQueryAnswer(inputData);
+      console.log("Inside of handle Submit");
+      const result: any = await getQueryAnswer(inputData);
 
       setResult(result.data.geminiAnswer);
-    } catch (e) {
-      toast("API Error!", {
-        description:
-          "There has been an error in fetching response . Please try again ! ",
+    } catch (e: unknown) {
+      let description = "Something went wrong. Please try again.";
+
+      if (axios.isAxiosError(e)) {
+        description =
+          e.response?.data?.message ||
+          e.message ||
+          "Network error. Please check your connection.";
+      } else if (e instanceof Error) {
+        description = e.message;
+      }
+
+      toast("Error!", {
+        description: description,
       });
-      console.error(e);
     } finally {
       setLoading(false);
     }
@@ -45,19 +56,18 @@ export function InputWithButton({
     <div className="flex w-full max-w-2xl items-center gap-2 mb-15">
       <Input
         type="text"
-        placeholder="Enter your query."
+        placeholder="How can i improve my VO2 max?"
         value={inputData}
         onChange={(e) => setinputData(e.target.value)}
-        className="flex-grow border-2 text-white"
       />
       <Button
         type="button"
         variant="outline"
         onClick={handleSubmit}
-        className="text-black whitespace-nowrap cursor-pointer"
+        className="text-black whitespace-nowrap cursor-pointer w-26"
         disabled={loading}
       >
-        Submit
+        Search
       </Button>
     </div>
   );

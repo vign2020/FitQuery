@@ -14,6 +14,7 @@ export interface I_research_chunk {
   abstract: string;
   namespace_id?: number;
   namespace_name?: Index<RecordMetadata>;
+  namespace_name_string?: string;
 }
 export interface I_textChunks {
   id: number;
@@ -33,10 +34,12 @@ export interface I_PaperContent {
   abstract: string;
   namespace_id?: number;
   namespace_name?: Index<RecordMetadata>;
+  namespace_name_string?: string;
 }
 export interface Topics {
   title: string;
   namespace_id?: number;
+  namespace_name_string?: string;
   namespace_name?: Index<RecordMetadata>;
   count?: number;
 }

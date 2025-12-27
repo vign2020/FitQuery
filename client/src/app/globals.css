@@ -120,3 +120,26 @@
     @apply bg-background text-foreground;
   }
 }
+*,
+*::before,
+*::after {
+  box-sizing: border-box; /* Makes managing widths and heights with padding/borders easier */
+  margin: 0; /* Removes default margins from all elements */
+  padding: 0; /* Removes default padding from all elements */
+}
+
+#main-container {
+  background-color: rgb(68, 67, 67);
+  background-image: url("../../public/gym-image.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed; /* 👈 keeps it fixed */
+  background-blend-mode: multiply;
+  color: white;
+  height: 100%;
+}
+
+#green-box {
+  margin-top: 100px;
+}

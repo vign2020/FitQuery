@@ -20,11 +20,11 @@ const namespaces = [
 
 const Preprocess = async (
   topic: any,
-  namespace_name: Index<RecordMetadata> | undefined
+  namespace_name_string: string
 ): Promise<I_PaperContent[]> => {
   try {
     // console.log("length of the fetched data is " + topic.data.length);
-    const preprocess = topic.data.map((item: any) => {
+    const preprocess = topic.map((item: any) => {
       let authors = "";
       item.authors.map((item2: I_author, idx: number) => {
         idx + 1 < item.authors.length
@@ -36,7 +36,7 @@ const Preprocess = async (
       return {
         paperId: item.paperId,
         abstract: item.title,
-        namespace_name: namespace_name,
+        namespace_name_string: namespace_name_string,
       };
     });
     // we need to append the title and all the authors name to the first line of abstract.
@@ -48,10 +48,10 @@ const Preprocess = async (
 };
 export const dataIngestion = async (
   topic: any,
-  namespace_name: Index<RecordMetadata> | undefined
+  namespace_name_string: string
 ) => {
   try {
-    const result = await Preprocess(topic, namespace_name);
+    const result = await Preprocess(topic, namespace_name_string);
 
     return result;
 

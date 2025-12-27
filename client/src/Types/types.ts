@@ -1,10 +1,10 @@
 export interface I_Results {
-  result: string | undefined;
+  result: string | null;
   loading: boolean;
 }
 
 export interface I_setResultType {
-  setResult: React.Dispatch<React.SetStateAction<string | undefined>>;
+  setResult: React.Dispatch<React.SetStateAction<string | null>>;
   setLoading: React.Dispatch<React.SetStateAction<boolean>>;
   loading: boolean;
 }
