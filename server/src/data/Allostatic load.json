@@ -1,0 +1,190 @@
+{
+  "total": 2698363,
+  "offset": 0,
+  "next": 5,
+  "data": [
+    {
+      "paperId": "96b7d72f6406f4882f072dbc1c559bca7d0e14fd",
+      "url": "https://www.semanticscholar.org/paper/96b7d72f6406f4882f072dbc1c559bca7d0e14fd",
+      "title": "Stress, Allostatic Load, and Neuroinflammation: Implications for Racial and Socioeconomic Health Disparities in Glaucoma",
+      "year": 2024,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/1422-0067/25/3/1653/pdf?version=1706532769",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10855412, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2282013472",
+          "name": "Colleen E. McDermott"
+        },
+        {
+          "authorId": "6229504",
+          "name": "Rebecca J. Salowe"
+        },
+        {
+          "authorId": "2210326364",
+          "name": "Isabel Di Rosa"
+        },
+        {
+          "authorId": "2279849631",
+          "name": "Joan M. O’Brien"
+        }
+      ],
+      "abstract": "Glaucoma is the leading cause of irreversible blindness, and its pathophysiology includes neuroinflammatory changes. The present therapies for glaucoma target pressure-lowering mechanisms with limited success, making neuroinflammation a target for future interventions. This review summarizes the neuroinflammatory pathways seen in glaucoma and their interplay with stress. Glucocorticoids have been shown to activate proinflammatory glial cells, contributing to the neuroinflammation in glaucoma. Glucocorticoids have also been shown to increase the IOP directly. Stress-associated autonomic dysfunction can affect the vascular homeostasis in the retina and create oxidative stress. Diabetes, hyperglycemic-mediated endothelial damage, and vascular inflammation also play important roles in the neuroinflammation in glaucoma and diabetic retinopathy. Psychosocial stress has been implicated in an increased IOP and glaucoma outcomes. People who experience maladaptive chronic stress suffer from a condition known as allostatic load, which describes pathologic neuroendocrine dysregulation. The effects of allostatic load and chronic stress have been studied in patients affected by a lower socioeconomic status (SES) and marginalized racial identities. A lower SES is associated with higher rates of glaucoma and also affects the access to care and screening. Additionally, people of African ancestry are disproportionately affected by glaucoma for reasons that are multifactorial. In conclusion, this review explores neuroinflammation in glaucoma, highlighting opportunities for future investigation."
+    },
+    {
+      "paperId": "4516def1095729a91a27c5eb01b531582bb30e1c",
+      "url": "https://www.semanticscholar.org/paper/4516def1095729a91a27c5eb01b531582bb30e1c",
+      "title": "Association of Allostatic Load With Depression, Anxiety, and Suicide: A Prospective Cohort Study",
+      "year": 2024,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.biopsych.2024.09.026?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.biopsych.2024.09.026, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2244369742",
+          "name": "Yifan Gou"
+        },
+        {
+          "authorId": "2353685577",
+          "name": "Shiqiang Cheng"
+        },
+        {
+          "authorId": "2244365634",
+          "name": "Meijuan Kang"
+        },
+        {
+          "authorId": "2244599188",
+          "name": "Ruixue Zhou"
+        },
+        {
+          "authorId": "2244621537",
+          "name": "Chen Liu"
+        },
+        {
+          "authorId": "2220928972",
+          "name": "Jingni Hui"
+        },
+        {
+          "authorId": "2244584936",
+          "name": "Ye Liu"
+        },
+        {
+          "authorId": "2244285649",
+          "name": "Bingyi Wang"
+        },
+        {
+          "authorId": "2265093607",
+          "name": "Panxing Shi"
+        },
+        {
+          "authorId": "2296398352",
+          "name": "Feng Zhang"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "f2c99c06320996e8aef32a47d6df09a5154e83ec",
+      "url": "https://www.semanticscholar.org/paper/f2c99c06320996e8aef32a47d6df09a5154e83ec",
+      "title": "Time outdoors and residential greenness are associated with reduced systemic inflammation and allostatic load.",
+      "year": 2024,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.envpol.2024.123408?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.envpol.2024.123408, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "153695613",
+          "name": "A. Egorov"
+        },
+        {
+          "authorId": "11128227",
+          "name": "Shannon M. Griffin"
+        },
+        {
+          "authorId": "20965684",
+          "name": "Jennifer N. Styles"
+        },
+        {
+          "authorId": "2126986672",
+          "name": "J. Kobylanski"
+        },
+        {
+          "authorId": "2203353605",
+          "name": "Jo Klein"
+        },
+        {
+          "authorId": "1397094368",
+          "name": "L. Wickersham"
+        },
+        {
+          "authorId": "2061226606",
+          "name": "R. Ritter"
+        },
+        {
+          "authorId": "4914706",
+          "name": "E. Sams"
+        },
+        {
+          "authorId": "47692455",
+          "name": "E. Hudgens"
+        },
+        {
+          "authorId": "2245974039",
+          "name": "Timothy J. Wade"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "27a410f80bf2e5c3ba31072a763b5258a1c006f6",
+      "url": "https://www.semanticscholar.org/paper/27a410f80bf2e5c3ba31072a763b5258a1c006f6",
+      "title": "Stress, Adaptation, and Disease: Allostasis and Allostatic Load",
+      "year": 1998,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1111/J.1749-6632.1998.TB09546.X?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1111/J.1749-6632.1998.TB09546.X, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2063057074",
+          "name": "B. Mcewen"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "6b2e1b8e7e6072738bc3c80ddbc53487ee71cf26",
+      "url": "https://www.semanticscholar.org/paper/6b2e1b8e7e6072738bc3c80ddbc53487ee71cf26",
+      "title": "A Review of Tools and Methods for Detection, Analysis, and Prediction of Allostatic Load Due to Workplace Stress",
+      "year": 2024,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/TAFFC.2023.3273201?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/TAFFC.2023.3273201, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "3395600",
+          "name": "K. Magtibay"
+        },
+        {
+          "authorId": "3220155",
+          "name": "K. Umapathy"
+        }
+      ],
+      "abstract": "Chronic stress risks an individual's overall well-being. Chronic stress is associated with allostatic load, the body's wear-and-tear due to prolonged heightened physiological and psychological states. Increased allostatic load among workers increases their risk of injuries and the likelihood of diseases and illnesses. An allostatic load model could explain the basis of a stress response. Stress research in affective computing uses wearable devices, data processing algorithms, and machine learning methods to create models that could benefit from an allostatic load model of stress. We emphasize the need for the allostatic load model in affective computing to create disease and illness prediction models. Predictive models could enhance safeguards in the workplace by helping to create proactive mitigation strategies against chronic stress. First, we briefly introduce allostasis’ physiological and psychological basis. Next, we reviewed stress studies within affective computing that may benefit from an allostatic load model of stress. We focused our review on studies conducted in dynamic settings, such as the workplace, and those incorporating typical stress study elements in affective computing. We conclude our review by identifying gaps between affective computing and neuroscientific stress studies and provide recommendations for adopting the allostatic load model of stress."
+    }
+  ]
+}

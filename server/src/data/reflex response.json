@@ -1,0 +1,88 @@
+{
+  "total": 8444583,
+  "offset": 0,
+  "next": 3,
+  "data": [
+    {
+      "paperId": "93e02415850d698ae39df1c45c2a79c96ede883b",
+      "url": "https://www.semanticscholar.org/paper/93e02415850d698ae39df1c45c2a79c96ede883b",
+      "title": "Portable Wearable and Wireless Systems for Gait and Reflex Response Quantification",
+      "year": 2018,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-981-10-5684-0_5?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-981-10-5684-0_5, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2412963",
+          "name": "R. LeMoyne"
+        },
+        {
+          "authorId": "2765911",
+          "name": "Timothy Mastroianni"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "92229081708edaa2a3e5ef03b71f9ce17dd9129a",
+      "url": "https://www.semanticscholar.org/paper/92229081708edaa2a3e5ef03b71f9ce17dd9129a",
+      "title": "Use of smartphones and portable media devices for quantifying human movement characteristics of gait, tendon reflex response, and Parkinson's disease hand tremor.",
+      "year": 2015,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-1-4939-2172-0_23?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-1-4939-2172-0_23, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2412963",
+          "name": "R. LeMoyne"
+        },
+        {
+          "authorId": "2765911",
+          "name": "Timothy Mastroianni"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "7f4f3e5716dceb2a0ef99786388ed96360b433f3",
+      "url": "https://www.semanticscholar.org/paper/7f4f3e5716dceb2a0ef99786388ed96360b433f3",
+      "title": "Machine learning analysis to automatically measure response time of pharyngeal swallowing reflex in videofluoroscopic swallowing study",
+      "year": 2020,
+      "openAccessPdf": {
+        "url": "https://www.nature.com/articles/s41598-020-71713-4.pdf",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC7477563, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2108613995",
+          "name": "J. T. Lee"
+        },
+        {
+          "authorId": "49054875",
+          "name": "Eunhee Park"
+        },
+        {
+          "authorId": "6742658",
+          "name": "Jong-Moon Hwang"
+        },
+        {
+          "authorId": "3392973",
+          "name": "T. Jung"
+        },
+        {
+          "authorId": "37540588",
+          "name": "Donghwi Park"
+        }
+      ],
+      "abstract": "To evaluate clinical features and determine rehabilitation strategies of dysphagia, it is crucial to measure the exact response time of the pharyngeal swallowing reflex in a videofluoroscopic swallowing study (VFSS). However, measuring the response time of the pharyngeal swallowing reflex is labor-intensive and particularly for inexperienced clinicians, it can be difficult to measure the brief instance of the pharyngeal swallowing reflex by VFSS. To accurately measure the response time of the swallowing reflex, we present a novel framework, able to detect quick events. In this study, we evaluated the usefulness of machine learning analysis of a VFSS video for automatic measurement of the response time of a swallowing reflex in a pharyngeal phase. In total, 207 pharyngeal swallowing event clips, extracted from raw VFSS videos, were annotated at the starting point and end point of the pharyngeal swallowing reflex by expert clinicians as ground-truth. To evaluate the performance and generalization ability of our model, fivefold cross-validation was performed. The average success rates of detection of the class “during the swallowing reflex” for the training and validation datasets were 98.2% and 97.5%, respectively. The average difference between the predicted detection and the ground-truth at the starting point and end point of the swallowing reflex was 0.210 and 0.056 s, respectively. Therefore, the response times during pharyngeal swallowing reflex are automatically detected by our novel framework. This framework can be a clinically useful tool for estimating the absence or delayed response time of the swallowing reflex in patients with dysphagia and improving poor inter-rater reliability of evaluation of response time of pharyngeal swallowing reflex between expert and unskilled clinicians."
+    }
+  ]
+}

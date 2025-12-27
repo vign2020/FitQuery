@@ -1,0 +1,100 @@
+{
+  "total": 2149664,
+  "offset": 0,
+  "next": 3,
+  "data": [
+    {
+      "paperId": "e3d4bde959fdbc1421cbed14e69027d0d5721ecf",
+      "url": "https://www.semanticscholar.org/paper/e3d4bde959fdbc1421cbed14e69027d0d5721ecf",
+      "title": "Cross system autonomic balance and regulation: Associations with depression and anxiety symptoms.",
+      "year": 2020,
+      "openAccessPdf": {
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8054991",
+        "status": "GREEN",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1111/psyp.13636?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1111/psyp.13636, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "32127772",
+          "name": "Lindsey B. Stone"
+        },
+        {
+          "authorId": "1694939878",
+          "name": "Caitlyn C McCormack"
+        },
+        {
+          "authorId": "3822686",
+          "name": "Lauren M. Bylsma"
+        }
+      ],
+      "abstract": "The autonomic nervous system (ANS) has demonstrated utility for identifying alterations in emotion processing associated with common psychopathology, including depression and anxiety. To date though the majority of this ANS research has several limitations. Most studies have examined parasympathetic and sympathetic branches separately, requiring activity in the other branch be inferred. This is problematic as each branch may function independently. Composite indices such as cardiac autonomic balance (CAB) and cardiac autonomic regulation (CAR) which examine the relative input between respiratory sinus arrhythmia (RSA) and pre-ejection period (PEP) should provide more comprehensive measures of autonomic functioning and thus stronger predictors of psychopathology. However, the sympathetic branch is driven by multiple neurotransmitter systems, thus PEP does not necessarily reflect overall SNS arousal. We propose two new metrics for assessing ANS functioning associated with psychopathology: parasympathetic effects on cardiac control (RSA) relative to sympathetic effects on the eccrine system (electrodermal activity, EDA), which we term cross-system autonomic balance (CSAB) and regulation (CSAR). Eighty-five women (18-37) completed a baseline physiological assessment with parasympathetic (RSA) and sympathetic indices (PEP, EDA), along with self-reported depressive and anxiety symptoms. Lower CSAB, indicating sympathetic dominance driven by cholinergic neurotransmission, was associated with higher depressive and anxiety symptoms. Lower CAB indicating sympathetic dominance driven by beta-adrenergic neurotransmission was associated specifically with depressive symptoms. CSAB was a more robust index than RSA. Results support the utility of assessing multiple composite ANS indices for identifying physiological substrates of alterations in emotion regulation associated with internalizing disorders."
+    },
+    {
+      "paperId": "6739c14cb23d9bb5a7ae8aee1a86593ab1592503",
+      "url": "https://www.semanticscholar.org/paper/6739c14cb23d9bb5a7ae8aee1a86593ab1592503",
+      "title": "Mindfulness Effects on Mind Wandering and Autonomic Balance",
+      "year": 2021,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s10484-021-09527-x?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s10484-021-09527-x, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "7972461",
+          "name": "Roberta Bortolla"
+        },
+        {
+          "authorId": "2057482114",
+          "name": "Marco Galli"
+        },
+        {
+          "authorId": "2139691822",
+          "name": "G. E. Spada"
+        },
+        {
+          "authorId": "1844651",
+          "name": "C. Maffei"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "287c2ad089c8d18f3a417868ba48197d1950bad1",
+      "url": "https://www.semanticscholar.org/paper/287c2ad089c8d18f3a417868ba48197d1950bad1",
+      "title": "Autonomic balance determines the severity of COVID-19 courses",
+      "year": 2020,
+      "openAccessPdf": {
+        "url": "https://bioelecmed.biomedcentral.com/counter/pdf/10.1186/s42234-020-00058-0",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC7683278, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "121864449",
+          "name": "M. Leitzke"
+        },
+        {
+          "authorId": "119564586",
+          "name": "D. Stefanovic"
+        },
+        {
+          "authorId": "2107429874",
+          "name": "J. Meyer"
+        },
+        {
+          "authorId": "82536050",
+          "name": "S. Schimpf"
+        },
+        {
+          "authorId": "2633903",
+          "name": "P. Schönknecht"
+        }
+      ],
+      "abstract": "COVID-19 has left mankind desperately seeking how to manage dramatically rising infection rates associated with severe disease progressions. COVID-19 courses range from mild symptoms up to multiple organ failure and death, triggered by excessively high serum cytokine levels (IL 1β, IL 6, TNF α, IL 8). The vagally driven cholinergic anti-inflammatory pathway (CAP) stops the action of nuclear factor κB (NF-κB), the transcriptional factor of pro-inflammatory cytokines. Thus, well-balanced cytokine release depends on adequate vagal signaling. Coronaviruses replicate using NF-κB transcriptional factor as well. By degrading the cytoplasmatic inhibitor of NF-κB subunits (IκB), coronaviruses induce unrestricted NF-κB expression accelerating both, virus replication and cytokine transcription. We hypothesize that CAP detriment due to depressed vagal tone critically determines the severity of COVID-19."
+    }
+  ]
+}

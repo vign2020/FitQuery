@@ -1,0 +1,150 @@
+{
+  "total": 11176926,
+  "offset": 0,
+  "next": 5,
+  "data": [
+    {
+      "paperId": "ae8e41b15eb0622cf616f76c6e5de36b0e8ea86f",
+      "url": "https://www.semanticscholar.org/paper/ae8e41b15eb0622cf616f76c6e5de36b0e8ea86f",
+      "title": "Improved Method for Gas-Turbine Off-Design Performance Adaptation Based on Field Data",
+      "year": 2020,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1115/1.4044470?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1115/1.4044470, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2118325422",
+          "name": "Shiyao Li"
+        },
+        {
+          "authorId": "2009256812",
+          "name": "Zhenlin Li"
+        },
+        {
+          "authorId": "3302811",
+          "name": "Shuying Li"
+        }
+      ],
+      "abstract": "\n Obtaining accurate components' characteristic maps has great significant for gas-turbine operating optimization and gas-path fault diagnosis. A common approach is to modify the original components' characteristic maps by introducing correction factors, which is known as performance adaptation. Among the existing methods, total average prediction error of measurable parameters (MPTAPE) at specified conditions is used to evaluate the adaptation accuracy. However, when a gas turbine undergoes a field operation, the performance parameters of each component are zonally distributed under the operating conditions. Under such circumstances, randomly selecting a few data points as the error control points (ECPs) for performance adaptation may lead to an inappropriate correction of the characteristic maps, further lowering the prediction accuracy of the simulation model. In this paper, a genetic-algorithm-based improved performance adaptation method is proposed, which provides improvements in two aspects. In one aspect, similarity between the components' predicted performance curves and the performance regression curves is used as the criterion with which to evaluate the adaptation accuracy. In the other aspect, in the process of off-design performance adaptation, the performance parameters at the design point are recalibrated. The improved method has been verified by using rig test data and applied to field data of a GE LM2500+SAC gas turbine. The comparison results show that the improved method can obtain more accurate and stable adaptation results, while the computational load can be significantly reduced."
+    },
+    {
+      "paperId": "249c65c8f07ced6cf08f2e6f2d458522697fc9a3",
+      "url": "https://www.semanticscholar.org/paper/249c65c8f07ced6cf08f2e6f2d458522697fc9a3",
+      "title": "Enhanced Component Analytical Solution for Performance Adaptation and Diagnostics of Gas Turbines",
+      "year": 2021,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/1996-1073/14/14/4356/pdf?version=1626706623",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/en14144356?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/en14144356, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2075430084",
+          "name": "Binbin Yan"
+        },
+        {
+          "authorId": "153116354",
+          "name": "Minghui Hu"
+        },
+        {
+          "authorId": "47719447",
+          "name": "K. Feng"
+        },
+        {
+          "authorId": "2171373096",
+          "name": "Jiang Zhinong"
+        }
+      ],
+      "abstract": "Accurate component analytical solution is very important to gas path prognostics and diagnostics of a gas turbine. However, due to the highly complex nonlinear behavior of component performance, the nonlinear relationships between various key parameters still should be further studied. For this purpose, a new component analytical solution is proposed to enhance the current adaptation and diagnostics scheme of gas turbines. First, the tuning factors are defined to construct the enhanced component analytical solution and identify the nonlinear behaviors more accurately. Second, a sensitivity analysis for tuning factors is performed to understand the effect of each factor on the shape of component maps. Then, a particle swarm optimization algorithm is used to capture the optimal tuning factors, and then the performance adaptation is implemented. Finally, the proposed method has been validated with normal field data and fouling fault field data of a PGT25+ gas turbine. Compared with two earlier off-design point adaptation methods, the proposed method shows some advantages in performance adaptation and diagnostics."
+    },
+    {
+      "paperId": "598a13351210dd5aa978828b732f2d12847a42a9",
+      "url": "https://www.semanticscholar.org/paper/598a13351210dd5aa978828b732f2d12847a42a9",
+      "title": "Joint Steady State and Transient Performance Adaptation for Aero Engine Mathematical Model",
+      "year": 2019,
+      "openAccessPdf": {
+        "url": "https://ieeexplore.ieee.org/ielx7/6287639/8600701/08668749.pdf",
+        "status": "GOLD",
+        "license": "CCBYNCND",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ACCESS.2019.2905865?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ACCESS.2019.2905865, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "51068750",
+          "name": "Shuwei Pang"
+        },
+        {
+          "authorId": "2108272985",
+          "name": "Qiuhong Li"
+        },
+        {
+          "authorId": "2088335722",
+          "name": "Hailong Feng"
+        },
+        {
+          "authorId": "2111126460",
+          "name": "Haibo Zhang"
+        }
+      ],
+      "abstract": "In the field of aero-engine control, it is valuable to build highly accurate component level models to meet the requirements of controller validation and model-based control. The accuracy of current performance map generation method is limited by the test data that always cannot cover the full envelope. The scaling-based performance map correction methods only focus on the adjustment of the steady-state performance. Therefore, a performance map segmentation-based joint steady-state and transient performance adaptation technique is proposed. Both the idle point and the design point are taken as precision references to scale the performance maps with large deviations. A scaling factor domain determination method is provided based on the characters of the speed lines. The performance map is first optimized with the steady state calculation based on the steady-state test data, and further optimized with the transient calculation based on the transient test data. Both the steady-state and transient performance adaptations are achieved by adjusting the performance maps. The proposed method was applied to a turbofan engine model. For continuous acceleration case, the average error is less than 1% at steady state points and less than 2% during transient operation. For large magnitude acceleration and rapid deceleration cases, the maximum errors for parameters around the idle point decrease by about one time (from 8.3% to 4.1%) and three and a half times (from 28% to 8%), respectively, by comparing with the model without transient performance adaptation. Thus, the effectiveness of the proposed method is demonstrated."
+    },
+    {
+      "paperId": "2e65ae6aed6839e29ca63a9f23499e775211bc8d",
+      "url": "https://www.semanticscholar.org/paper/2e65ae6aed6839e29ca63a9f23499e775211bc8d",
+      "title": "Re-performance, Adaptation, Legacy and the Future",
+      "year": 2021,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-030-84774-6_6?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-030-84774-6_6, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2052439114",
+          "name": "Sarah Julius"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "80f206800ba4311dd296ebc131b3ded0e1538839",
+      "url": "https://www.semanticscholar.org/paper/80f206800ba4311dd296ebc131b3ded0e1538839",
+      "title": "Drivers for Change: A Study of Distributed Leadership and Performance Adaptation During Policy Innovation Implementation",
+      "year": 2018,
+      "openAccessPdf": {
+        "url": "https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1105&context=cehsedadfacpub",
+        "status": "GREEN",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1080/15700763.2017.1384500?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1080/15700763.2017.1384500, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "117583704",
+          "name": "Sarah J. Zuckerman"
+        },
+        {
+          "authorId": "36452406",
+          "name": "K. Wilcox"
+        },
+        {
+          "authorId": "117054220",
+          "name": "Francesca T. Durand"
+        },
+        {
+          "authorId": "31156172",
+          "name": "H. Lawson"
+        },
+        {
+          "authorId": "39529060",
+          "name": "Kathryn Schiller"
+        }
+      ],
+      "abstract": null
+    }
+  ]
+}

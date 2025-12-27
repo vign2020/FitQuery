@@ -20,6 +20,6 @@ export const createEmbeddingService = async (chunk: string) => {
 
     return response?.embeddings[0].values;
   } catch (e) {
-    throw new Error((e as Error).message);
+    throw new Error(`createEmbeddingService ${(e as Error).message}`);
   }
 };

@@ -1,0 +1,210 @@
+{
+  "total": 2225754,
+  "offset": 0,
+  "next": 5,
+  "data": [
+    {
+      "paperId": "9082893820cfe3d0f46bd85e1920028571fea727",
+      "url": "https://www.semanticscholar.org/paper/9082893820cfe3d0f46bd85e1920028571fea727",
+      "title": "Mapping the Iceberg of Autonomic Recovery: Mechanistic Underpinnings of Neuromodulation following Spinal Cord Injury",
+      "year": 2023,
+      "openAccessPdf": {
+        "url": "https://journals.sagepub.com/doi/pdf/10.1177/10738584221145570",
+        "status": "HYBRID",
+        "license": "CCBYNC",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11107126, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "41034084",
+          "name": "S. Samejima"
+        },
+        {
+          "authorId": "2059140367",
+          "name": "C. Shackleton"
+        },
+        {
+          "authorId": "32310147",
+          "name": "T. Miller"
+        },
+        {
+          "authorId": "7244162",
+          "name": "C. Moritz"
+        },
+        {
+          "authorId": "2167056",
+          "name": "T. Kessler"
+        },
+        {
+          "authorId": "5051789",
+          "name": "K. Krogh"
+        },
+        {
+          "authorId": "39891376",
+          "name": "R. Sachdeva"
+        },
+        {
+          "authorId": "5709064",
+          "name": "A. Krassioukov"
+        }
+      ],
+      "abstract": "Spinal cord injury leads to disruption in autonomic control resulting in cardiovascular, bowel, and lower urinary tract dysfunctions, all of which significantly reduce health-related quality of life. Although spinal cord stimulation shows promise for promoting autonomic recovery, the underlying mechanisms are unclear. Based on current preclinical and clinical evidence, this narrative review provides the most plausible mechanisms underlying the effects of spinal cord stimulation for autonomic recovery, including activation of the somatoautonomic reflex and induction of neuroplastic changes in the spinal cord. Areas where evidence is limited are highlighted in an effort to guide the scientific community to further explore these mechanisms and advance the clinical translation of spinal cord stimulation for autonomic recovery."
+    },
+    {
+      "paperId": "ea6050ee2bf9f36ee625ba609d076146155db8e8",
+      "url": "https://www.semanticscholar.org/paper/ea6050ee2bf9f36ee625ba609d076146155db8e8",
+      "title": "Substance Use Disorder Autonomic Recovery",
+      "year": 2023,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.24966/adsd-9594/100029",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.24966/adsd-9594/100029?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.24966/adsd-9594/100029, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2282007836",
+          "name": "John D Mudie"
+        }
+      ],
+      "abstract": "We have observed that the different methods that people have used to promote recovery from Substance Use Disorders (SUD) all seem to produce a change in the Autonomic Nervous System."
+    },
+    {
+      "paperId": "3790353923ef6d2cdeb596910a53044adc2ae730",
+      "url": "https://www.semanticscholar.org/paper/3790353923ef6d2cdeb596910a53044adc2ae730",
+      "title": "Multisite Transcutaneous Spinal Stimulation for Walking and Autonomic Recovery in Motor-Incomplete Tetraplegia: A Single-Subject Design",
+      "year": 2022,
+      "openAccessPdf": {
+        "url": "https://academic.oup.com/ptj/article-pdf/102/1/pzab228/42263724/pzab228.pdf",
+        "status": "HYBRID",
+        "license": "CCBYNCND",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC8788019, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "41034084",
+          "name": "S. Samejima"
+        },
+        {
+          "authorId": "2151098515",
+          "name": "C. D. Caskey"
+        },
+        {
+          "authorId": "47352252",
+          "name": "F. Inanici"
+        },
+        {
+          "authorId": "2036823129",
+          "name": "Siddhi R. Shrivastav"
+        },
+        {
+          "authorId": "2045220385",
+          "name": "Lorie N. Brighton"
+        },
+        {
+          "authorId": "83227613",
+          "name": "Jared J. Pradarelli"
+        },
+        {
+          "authorId": "2151096736",
+          "name": "Vincente Martinez"
+        },
+        {
+          "authorId": "7389496",
+          "name": "K. Steele"
+        },
+        {
+          "authorId": "32223311",
+          "name": "R. Saigal"
+        },
+        {
+          "authorId": "7244162",
+          "name": "C. Moritz"
+        }
+      ],
+      "abstract": "Abstract Objective This study investigated the effect of cervical and lumbar transcutaneous spinal cord stimulation (tSCS) combined with intensive training to improve walking and autonomic function after chronic spinal cord injury (SCI). Methods Two 64-year-old men with chronic motor incomplete cervical SCI participated in this single-subject design study. They each underwent 2 months of intensive locomotor training and 2 months of multisite cervical and lumbosacral tSCS paired with intensive locomotor training. Results The improvement in 6-Minute Walk Test distance after 2 months of tSCS with intensive training was threefold greater than after locomotor training alone. Both participants improved balance ability measured by the Berg Balance Scale and increased their ability to engage in daily home exercises. Gait analysis demonstrated increased step length for each individual. Both participants experienced improved sensation and bowel function, and 1 participant eliminated the need for intermittent catheterization after the stimulation phase of the study. Conclusion These results suggest that noninvasive spinal cord stimulation might promote recovery of locomotor and autonomic functions beyond traditional gait training in people with chronic incomplete cervical SCI. Impact Multisite transcutaneous spinal stimulation may induce neuroplasticity of the spinal networks and confer functional benefits following chronic cervical SCI."
+    },
+    {
+      "paperId": "077a4878d744fc5e9e0c459b148bc0cfd9653c23",
+      "url": "https://www.semanticscholar.org/paper/077a4878d744fc5e9e0c459b148bc0cfd9653c23",
+      "title": "Low-Frequency Vibration Facilitates Post-Exercise Cardiovascular Autonomic Recovery.",
+      "year": 2021,
+      "openAccessPdf": {
+        "url": "https://www.jssm.org/hfpdf.php?volume=20&issue=3&page=431",
+        "status": "HYBRID",
+        "license": "CCBYNCND",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.52082/jssm.2021.431?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.52082/jssm.2021.431, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "48087873",
+          "name": "Kuo-Cheng Liu"
+        },
+        {
+          "authorId": "14981985",
+          "name": "J. Wang"
+        },
+        {
+          "authorId": "1609659850",
+          "name": "Chien-Ya Hsu"
+        },
+        {
+          "authorId": "2144634707",
+          "name": "Chia-Hao Liu"
+        },
+        {
+          "authorId": "46729316",
+          "name": "Carl P C Chen"
+        },
+        {
+          "authorId": "66660979",
+          "name": "Shu-Chun Huang"
+        }
+      ],
+      "abstract": "It is important to use short breaks to accelerate post-exercise recovery in sports. Previous studies have revealed that vibration can reduce post-exercise muscle soreness. However, there is still high heterogeneity in the effects of vibration on cardiovascular autonomic activities, and most studies to date have focused on high-frequency vibration. This study aimed to investigate the effect of low-frequency lower-body vibration (LBV) on post-exercise changes in heart rate variability and peripheral arterial tone. Ten men and 9 women aged 20 to 25 were recruited for this study. Each subject visited the testing room three times with at least 2 days in between. Each time, the subject received one of the three different vibration frequencies (0, 5, and 15 Hz) in a random order in the sitting position for 10 minutes. LBV was performed immediately after a static standing (control) test and 3-min-step test. Heart rate variability and digital volume pulse wave were recorded during the vibration phase (V1: vibration 0-5 minutes; V2: 6-10 minutes) and the recovery phase (Rc1: recovery phase 11-15 minutes; Rc2: 16-20 minutes). The result of digital pulse wave analysis showed that the reflection index (RI) under 15 Hz decreased during V1. Heart rate of the 15-Hz group also decreased during Rc1 and Rc2. According to the analysis of heart rate variability, low-frequency power/high-frequency power (LF/HF) decreased and normalized high-frequency power (nHF) increased during V2, Rc1 and Rc2 under 15 Hz and, during Rc2 under 5 Hz vibration. This study confirmed that the application of low-frequency LBV after exercise can reduce peripheral vascular tone, accelerate heart rate recovery, decrease cardiac sympathetic nerve activity, and promote parasympathetic nerve activity. The effect was more pronounced at 15 Hz than at 5 Hz. The findings provide a method to accelerate cardiovascular autonomic recovery after exercise."
+    },
+    {
+      "paperId": "a9a1edea7562b8357ba68f0194f78d5ad2b55a3b",
+      "url": "https://www.semanticscholar.org/paper/a9a1edea7562b8357ba68f0194f78d5ad2b55a3b",
+      "title": "FOAM ROLLING AND INDICES OF AUTONOMIC RECOVERY FOLLOWING EXERCISE-INDUCED MUSCLE DAMAGE.",
+      "year": 2020,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.26603/ijspt20200429?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.26603/ijspt20200429, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2059226905",
+          "name": "A. D’Amico"
+        },
+        {
+          "authorId": "47610900",
+          "name": "J. Gillis"
+        },
+        {
+          "authorId": "1753647770",
+          "name": "K. McCarthy"
+        },
+        {
+          "authorId": "1753653222",
+          "name": "Jessica Leftin"
+        },
+        {
+          "authorId": "143835391",
+          "name": "Melissa Molloy"
+        },
+        {
+          "authorId": "1753651317",
+          "name": "Heather Heim"
+        },
+        {
+          "authorId": "1753653877",
+          "name": "C. Burke"
+        }
+      ],
+      "abstract": "Background\nWith the increased popularity of foam rolling as a recovery tool, it is important to explore possible mechanisms of action toward mitigating soreness and restoring athletic performance.\n\n\nPurpose\nThe purpose of the present experiment was to assess the influence of foam rolling on gross measures of physical performance and indices of autonomic function following exercise-induced muscle damage (EIMD).\n\n\nMethod\nIn a between-group design, 40 participants performed a session of 40x15 meter sprints, inducing muscle damage. Immediately following sprinting and in the four days following, heart rate variability and pulse wave velocity were recorded, in addition to perceived muscle soreness, vertical jump, and agility. Nineteen subjects (mean±sd; age 23.1±5.0 yrs; BMI 25.6±3.3 kg.m-2) foam rolled their quadricep, gluteal, and gastrocnemius areas prior to testing each day, while 21 (mean±sd; age 24.2±3.4 yrs; BMI 26.3±4.0 kg.m-2) served as a control. Mean values from three days of baseline testing were compared to the area under the curve during five days of recovery after the performance of the repeated sprint protocol. The area under the curve was calculated by summing all five values recorded the recovery days, then these data were compared by condition using a two-tailed Mann-Whitney U test (alpha level = 0.05).\n\n\nResults\nFollowing EIMD, neither heart rate variability, pulse wave velocity, agility, nor vertical jumping performance versus previously measured baseline differed significantly between groups (p>0.05). Perceived muscle soreness was significantly diminished in the foam rolling condition (p<0.05). Mean Day 1 to Day 5 values for perceived muscle soreness in controls were 16.52, 30.24, 24.48, 17.19, and 11.10. Mean Day 1 to Day 5 values in foam rolling subjects were 12.63, 24.63, 21.79, 15.05, and 10.16.\n\n\nConclusion\nFoam rolling may be useful for reducing soreness following damaging exercise, but according to the outcomes measured in the present experiment, the effect does not appear to be mediated by the autonomic nervous system.\n\n\nLevel of evidence\n2c."
+    }
+  ]
+}

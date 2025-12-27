@@ -1,0 +1,174 @@
+{
+  "total": 66729,
+  "offset": 0,
+  "next": 5,
+  "data": [
+    {
+      "paperId": "49e45ccd47570aff813edf17a311bdf6e1d4a5a5",
+      "url": "https://www.semanticscholar.org/paper/49e45ccd47570aff813edf17a311bdf6e1d4a5a5",
+      "title": "A Comparative Analysis of High-Intensity Technique-Specific Intervals and Short Sprint Interval Training in Taekwondo Athletes: Effects on Cardiorespiratory Fitness and Anaerobic Power.",
+      "year": 2024,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.52082/jssm.2024.672",
+        "status": "HYBRID",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.52082/jssm.2024.672?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.52082/jssm.2024.672, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2319494540",
+          "name": "Yuan Song"
+        },
+        {
+          "authorId": "11412828",
+          "name": "Mohsen Sheykhlouvand"
+        }
+      ],
+      "abstract": "Technique-specific high-intensity interval training (HIITTS) has been proven to be an effective method to enhance the sport-specific bio-motor abilities of taekwondo athletes. However, studies regarding its effects on comprehensive measures of cardiorespiratory fitness are limited. Furthermore, there is a lack of clarity regarding the extent of individual adaptations to this method compared to HIIT in the form of repeated sprints (HIITRS). This study compared the individual adaptations to HIITRS and HIITTS on cardiorespiratory fitness and anaerobic power in trained taekwondo athletes (age = 19.8 ± 1.3 years; body mass = 75.4 ± 9.1 kg; height = 1.73 ± 0.0 .m). All participants completed three sessions per week of a 60-minute regular taekwondo training. Following the 60-minute training, participants completed 3 sets of 10 × 4 s all-out HIITRS or same sets of repeated kicks with both legs (HIITTS) over a 6-week training period. In both groups, rest intervals were set at 15 seconds between efforts and one minute between sets. Before and after the training period, participants underwent a series of lab- and field-based tests to evaluate cardiorespiratory fitness and bio-motor abilities. Both interventions resulted in significant improvements in maximum oxygen uptake (V̇O2max), O2 pulse (V̇O2/HR), first ventilatory threshold (VT1), second ventilatory threshold (VT2), cardiac output (Q̇max), stroke volume (SV), peak power output (PPO), average power output (APO), squat jump (SJ), and countermovement jump (CMJ). However, linear speed (20-m speed time) and taekwondo-specific agility test (TSAT) only responded to HIITRS. HIITRS resulted in greater changes in V̇O2max, V̇O2/HR, VT2, and Q̇max, and higher percentage of responders in measured parameters than HIITTS. In addition, HIITRS elicited lower inter-individual variability (CV) in percent changes from pre- to post-training in all measured variables. These results suggest that incorporating 3 sessions per week of HIITRS into regular taekwondo training results in significantly greater and more homogenized adaptations in cardiorespiratory fitness and bio-motor abilities than HIITTS among trained taekwondo athletes."
+    },
+    {
+      "paperId": "808b0f43057de72d8cf7c70220789870c3f32699",
+      "url": "https://www.semanticscholar.org/paper/808b0f43057de72d8cf7c70220789870c3f32699",
+      "title": "Physiological and Performance Adaptations to Varying Rest Distributions During Short Sprint Interval Training Trials in Female Volleyball Players: A Comparative Analysis of Interindividual Variability.",
+      "year": 2024,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1123/ijspp.2024-0104?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1123/ijspp.2024-0104, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2316113056",
+          "name": "Tao Tao"
+        },
+        {
+          "authorId": "2316207037",
+          "name": "Na Zhang"
+        },
+        {
+          "authorId": "2316168435",
+          "name": "Dawei Yu"
+        },
+        {
+          "authorId": "11412828",
+          "name": "Mohsen Sheykhlouvand"
+        }
+      ],
+      "abstract": "PURPOSE\nThis study aimed to examine the impact of different rest periods between short sprint interval training (SSIT) trials on the physiological and performance adaptations of female volleyball players.\n\n\nMETHODS\nTwenty-four trained college athletes volunteered to participate in this study and were randomly assigned to 3 SSIT groups with different work-to-rest ratios (1:2 [5-s run:10-s rest], 1:4 [5-s run:20-s rest], and 1:6 [5-s work:30-s rest]). Before and after 6-week training, physiological parameters (maximum oxygen uptake, first and second ventilatory thresholds, and peak and mean power output) and physical performance measures (ie, countermovement vertical jump, 10-m sprint, and T-test change-of-direction speed) were evaluated.\n\n\nRESULTS\nAfter the training period, all groups improved (P = .001) their sport-related performance and physiological parameters, ranging from moderate to very large effect sizes. Comparative analysis of the magnitude of training effects indicated that the 1:6 SSIT group had in a significantly greater change in countermovement vertical jump (P = .007), 10-m sprint (P = .014), peak power output (P = .019), and mean power output (P = .05) compared with 1:2 SSIT group. By contrast, the 1:2 SSIT group demonstrated significantly (P = .022) greater changes in maximum oxygen uptake than the 1:6 SSIT group. However, the change-of-direction speed and changes in first and second ventilatory thresholds were the same among the groups (P > .05).\n\n\nCONCLUSIONS\nWhen performing SSIT, longer rest intervals are suitable for physical and anaerobic performance, and shorter rest periods are appropriate for enhancing the cardiorespiratory fitness of female volleyball players' performance."
+    },
+    {
+      "paperId": "2c66aec8ba078210fd0541354d599db1ac286d18",
+      "url": "https://www.semanticscholar.org/paper/2c66aec8ba078210fd0541354d599db1ac286d18",
+      "title": "Eight weeks of high-intensity interval vs. sprint interval training effects on overweight and obese adolescents carried out during the cool-down period of physical education classes: randomized controlled trial",
+      "year": 2024,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.3389/fpubh.2024.1394328",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11092892, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "1403806034",
+          "name": "N. González-Gálvez"
+        },
+        {
+          "authorId": "2273691498",
+          "name": "Antonio Soler-Marín"
+        },
+        {
+          "authorId": "1945169866",
+          "name": "T. Abelleira-Lamela"
+        },
+        {
+          "authorId": "2006837033",
+          "name": "L. Abenza-Cano"
+        },
+        {
+          "authorId": "2072505274",
+          "name": "Adrián Mateo-Orcajada"
+        },
+        {
+          "authorId": "2323117247",
+          "name": "R. Vaquero-Cristóbal"
+        }
+      ],
+      "abstract": "Objective The aim of this study was to evaluate the effect of sprint interval training (SIT) and [high intensive interval training (HIIT)] carried out during the cool-down period of the physical education classes on body composition, blood pressure variables (BP) and pulse rate (PR), and cardiorespiratory fitness of adolescents who are overweight and obese, and to compare the differences in enjoyment in response to SIT vs. HIIT. Methods For this randomized controlled trial, forty-five adolescents were recruited from a high school and were randomly placed into three groups. SIT and HIIT trained for 8 weeks, twice a week, for 12 min/session. Experimental group (EG) 3 was the control, and they maintained their regular physical education class schedule. The SIT group performed 6 sets of 60 s of work (90-95%HRmax) / 60 s of rest (50-55%HRmax), and the HIIT group performed 3 sets of 2 min of work (80-85%HRmax) / 2 min of rest (50-55%HRmax). Results Both experimental groups showed a significant improvement in fat mass (FM) (%) and trunk FM (kg). In addition, EG2 reported a significance improvement in lean mass (kg), blood pressure BP (mmHG), systolic blood pressure (SBP) (mmHg), diastolic blood pressure (DBP) (mmHg), PR (bpm), and VO2max (ml/kg/min). Conclusion The present study found that a HIIT protocol performed during the cool-down period of the physical education classes generated adaptations such as improvement in body composition, BP variables and PR, and cardiorespiratory fitness, in overweight and obese adolescents. In contrast, the group of overweight and obese adolescents who performed SIT showed limited benefits, with changes in fat mass only."
+    },
+    {
+      "paperId": "f9229d5d90a38ed87e1598fff9aaf85336352938",
+      "url": "https://www.semanticscholar.org/paper/f9229d5d90a38ed87e1598fff9aaf85336352938",
+      "title": "Optimal Prescription for Superior Outcomes: A Comparative Analysis of Inter-Individual Variability in Adaptations to Small-Sided Games and Short Sprint Interval Training in Young Basketball Players.",
+      "year": 2024,
+      "openAccessPdf": {
+        "url": "https://www.jssm.org/hfpdf.php?volume=23&issue=2&page=305",
+        "status": "HYBRID",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.52082/jssm.2024.305?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.52082/jssm.2024.305, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2293815137",
+          "name": "Haoming Xu"
+        },
+        {
+          "authorId": "2228371392",
+          "name": "Junyi Song"
+        },
+        {
+          "authorId": "2293495958",
+          "name": "Guoxing Li"
+        },
+        {
+          "authorId": "2307434276",
+          "name": "Hengtong Wang"
+        }
+      ],
+      "abstract": "This study compared the inter-individual variability in adaptive responses to six weeks of small-sided games (SSG) and short sprint interval training (sSIT) in young basketball players. Thirty well-trained young athletes (age: 16.4 ± 0.6 years; stature: 190 ± 8.4 cm; weight: 84.1 ± 8.2 kg) voluntarily participated and were randomly assigned to SSG (3 sets of 5 min 3v3 on full length (28 m) and half-width (7.5 m) court, with 2 minutes of passive recovery in-between), sSIT (3 sets of 12 × 5 s sprinting with 20 s recovery between efforts and 2 min of rest between sets), or CON (routine basketball-specific technical and tactical drills) groups, each of ten. Before and after the training period, participants underwent a series of laboratory- and field-based measurements to evaluate their maximum oxygen uptake (V̇O2max), first and second ventilatory threshold (VT1 and VT2), oxygen pulse, peak and average power output (PPO and APO), linear speed, change of direction (COD), countermovement jump (CMJ), and vertical jump (VJ). Both SSG and sSIT sufficiently stimulated adaptive mechanisms involved in enhancement of the mentioned variables (p < 0.05). However, sSIT resulted in lower residuals in percent changes in V̇O2max (p = 0.02), O2pulse (p = 0.005), VT1 (p = 0.001), PPO (p = 0.03), and linear speed (p = 0.01) across athletes compared to the SSG. Moreover, sSIT resulted in more responders than SSG in V̇O2max (p = 0.02, φ = 0.500), O2pulse (p = 0.003, φ = 0.655), VT1 (p = 0.003, φ = 0.655), VT2 (p = 0.05, φ = 0.436), and linear speed (p = 0.05, φ = 0.420). Our results indicate that sSIT creates a more consistent level of mechanical and physiological stimulus than SSG, potentially leading to more similar adaptations across team members."
+    },
+    {
+      "paperId": "56216e26c3698b75fa89014f836560baa0aebecb",
+      "url": "https://www.semanticscholar.org/paper/56216e26c3698b75fa89014f836560baa0aebecb",
+      "title": "The impact of sprint interval training versus moderate intensity continuous training on blood pressure and cardiorespiratory health in adults: a systematic review and meta-analysis",
+      "year": 2024,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.7717/peerj.17064",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10944631, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2291749724",
+          "name": "Weibao Liang"
+        },
+        {
+          "authorId": "2291617796",
+          "name": "Chuannan Liu"
+        },
+        {
+          "authorId": "2291991998",
+          "name": "Xujie Yan"
+        },
+        {
+          "authorId": "2292353765",
+          "name": "Yu Hou"
+        },
+        {
+          "authorId": "2292089312",
+          "name": "Guan Yang"
+        },
+        {
+          "authorId": "2291986447",
+          "name": "Jianmin Dai"
+        },
+        {
+          "authorId": "2291897329",
+          "name": "Songtao Wang"
+        }
+      ],
+      "abstract": "Background Although aerobic exercise is the primary modality recommended for the treatment of hypertension, it remains unclear whether high-intensity all-out sprint interval training (SIT) can result in greater reductions of blood pressure (BP) and cardiorespiratory health. This systematic review aims to compare the impact of SIT versus Moderate-intensity continuous training (MICT) on improvements in resting systolic blood pressure (SBP), diastolic blood pressure (DBP) and maximal oxygen uptake (VO2 max) among adults. Methods We conducted a systematic search of three online databases (PubMed, Embase, and Web of Science) from January 2000 to July 2023 to identify randomized controlled trials that compared the chronic effects of SIT versus MICT on BP in participants with high or normal blood pressure. We extracted information on participant characteristics, exercise protocols, BP outcomes, and intervention settings. Furthermore, the changes in VO2 max between the two groups were analyzed using a meta-analysis. The pooled results were presented as weighted means with 95% confidence intervals (CI). Results Out of the 1,874 studies initially were found, eight were included in this review, totaling 169 participants. A significant decrease in SBP (MD = −2.82 mmHg, 95% CI [−4.53 to −1.10], p = 0.08, I2 =45%) was observed in the SIT group compared to before the training, but no significant decrease in DBP (MD = −0.75 mmHg, 95% CI [−1.92 to 0.42], p = 0.16, I2 = 33%) was observed. In contrast, both SBP (MD = −3.00 mmHg, 95% CI [−5.31 to −0.69], p = 0.68, I2 = 0%) and DBP (MD = −2.11 mmHg, 95% CI [−3.63 to −0.60], p = 0.72, I2 = 0%) significantly decreased in the MICT group with low heterogeneity. No significant difference was found in resting SBP and DBP between SIT and MICT after the intervention. Both SIT and MICT significantly increased VO2 peak, with SIT resulting in a mean difference (MD) of 1.75 mL/kg/min (95% CI [0.39–3.10], p = 0.02, I2 = 61%), and MICT resulting in a mean difference of 3.10 mL/kg/min (95% CI [1.03–5.18], p = 0.007, I2 = 69%). MICT was more effective in improving VO2 peak (MD = −1.36 mL/kg/min, 95% CI [−2.31 to 0.40], p = 0.56, I2 = 0%). Subgroup analysis of duration and single sprint time showed that SIT was more effective in reducing SBP when the duration was ≥8 weeks or when the sprint time was <30 s. Conclusion Our meta-analysis showed that SIT is an effective intervention in reducing BP and improving cardiorespiratory fitness among adults. Consequently, SIT can be used in combination with traditional MICT to increase the variety, utility, and time efficiency of exercise prescriptions for different populations."
+    }
+  ]
+}

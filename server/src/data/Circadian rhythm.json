@@ -1,0 +1,120 @@
+{
+  "total": 310437,
+  "offset": 0,
+  "next": 3,
+  "data": [
+    {
+      "paperId": "32f2a580e2f29ae04de3ce7065e2f0cff2548bc2",
+      "url": "https://www.semanticscholar.org/paper/32f2a580e2f29ae04de3ce7065e2f0cff2548bc2",
+      "title": "Circadian rhythm regulates the function of immune cells and participates in the development of tumors",
+      "year": 2024,
+      "openAccessPdf": {
+        "url": "https://www.nature.com/articles/s41420-024-01960-1.pdf",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1038/s41420-024-01960-1?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1038/s41420-024-01960-1, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2298843983",
+          "name": "Yuen Zeng"
+        },
+        {
+          "authorId": "2298861151",
+          "name": "Zichan Guo"
+        },
+        {
+          "authorId": "2298835374",
+          "name": "Mengqi Wu"
+        },
+        {
+          "authorId": "2298844713",
+          "name": "Fulin Chen"
+        },
+        {
+          "authorId": "2290900226",
+          "name": "Lihua Chen"
+        }
+      ],
+      "abstract": "Circadian rhythms are present in almost all cells and play a crucial role in regulating various biological processes. Maintaining a stable circadian rhythm is essential for overall health. Disruption of this rhythm can alter the expression of clock genes and cancer-related genes, and affect many metabolic pathways and factors, thereby affecting the function of the immune system and contributing to the occurrence and progression of tumors. This paper aims to elucidate the regulatory effects of BMAL1, clock and other clock genes on immune cells, and reveal the molecular mechanism of circadian rhythm’s involvement in tumor and its microenvironment regulation. A deeper understanding of circadian rhythms has the potential to provide new strategies for the treatment of cancer and other immune-related diseases."
+    },
+    {
+      "paperId": "b699e91c48758540dbf2e17cf52c47eab66beeab",
+      "url": "https://www.semanticscholar.org/paper/b699e91c48758540dbf2e17cf52c47eab66beeab",
+      "title": "Molecular regulations of circadian rhythm and implications for physiology and diseases",
+      "year": 2022,
+      "openAccessPdf": {
+        "url": "https://www.nature.com/articles/s41392-022-00899-y.pdf",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC8825842, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "3676017",
+          "name": "F. Fagiani"
+        },
+        {
+          "authorId": "49686845",
+          "name": "D. Di Marino"
+        },
+        {
+          "authorId": "118193760",
+          "name": "A. Romagnoli"
+        },
+        {
+          "authorId": "6293147",
+          "name": "C. Travelli"
+        },
+        {
+          "authorId": "2153538027",
+          "name": "Davide Voltan"
+        },
+        {
+          "authorId": "5755096",
+          "name": "L. di Cesare Mannelli"
+        },
+        {
+          "authorId": "5230588",
+          "name": "M. Racchi"
+        },
+        {
+          "authorId": "9285484",
+          "name": "S. Govoni"
+        },
+        {
+          "authorId": "5546149",
+          "name": "C. Lanni"
+        }
+      ],
+      "abstract": "The term “circadian rhythms” describes endogenous oscillations with ca. 24-h period associated with the earth’s daily rotation and light/dark cycle. Such rhythms reflect the existence of an intrinsic circadian clock that temporally orchestrates physiological processes to adapt the internal environment with the external cues. At the molecular level, the circadian clock consists of multiple sets of transcription factors resulting in autoregulatory transcription-translation feedback loops. Notably, in addition to their primary role as generator of circadian rhythm, the biological clock plays a key role in controlling physiological functions of almost all tissues and organs. It regulates several intracellular signaling pathways, ranging from cell proliferation, DNA damage repair and response, angiogenesis, metabolic and redox homeostasis, to inflammatory and immune response. In this review, we summarize findings showing the crosstalk between the circadian molecular clock and some key intracellular pathways, describing a scenario wherein their reciprocal regulation impinges upon several aspects of mammalian physiology. Moreover, based on evidence indicating that circadian rhythms can be challenged by environmental factors, social behaviors, as well as pre-existing pathological conditions, we discuss implications of circadian misalignment in human pathologies, such as cancer and inflammatory diseases. Accordingly, disruption of circadian rhythm has been reported to affect several physiological processes that are relevant to human diseases. Expanding our understanding of this field represents an intriguing and transversal medicine challenge in order to establish a circadian precision medicine."
+    },
+    {
+      "paperId": "4d652c8f674bc72b3ecd3ab504ee03a977cc2172",
+      "url": "https://www.semanticscholar.org/paper/4d652c8f674bc72b3ecd3ab504ee03a977cc2172",
+      "title": "Circadian rhythm as a therapeutic target",
+      "year": 2021,
+      "openAccessPdf": {
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8525418",
+        "status": "GREEN",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1038/s41573-020-00109-w?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1038/s41573-020-00109-w, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "11771160",
+          "name": "Wei Ruan"
+        },
+        {
+          "authorId": "2350413535",
+          "name": "Xiaoyi Yuan"
+        },
+        {
+          "authorId": "4292971",
+          "name": "H. Eltzschig"
+        }
+      ],
+      "abstract": null
+    }
+  ]
+}

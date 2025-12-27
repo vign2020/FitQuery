@@ -1,0 +1,152 @@
+{
+  "total": 3998563,
+  "offset": 0,
+  "next": 3,
+  "data": [
+    {
+      "paperId": "6c879074bddd92b1bbc200336c8a206f8d722706",
+      "url": "https://www.semanticscholar.org/paper/6c879074bddd92b1bbc200336c8a206f8d722706",
+      "title": "Endothelial Piezo1 sustains muscle capillary density and contributes to physical activity",
+      "year": 2022,
+      "openAccessPdf": {
+        "url": "http://www.jci.org/articles/view/141775/files/pdf",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC8884896, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "14858988",
+          "name": "Fiona Bartoli"
+        },
+        {
+          "authorId": "9628916",
+          "name": "M. Debant"
+        },
+        {
+          "authorId": "1405266793",
+          "name": "Eulashini Chuntharpursat-Bon"
+        },
+        {
+          "authorId": "38754990",
+          "name": "Elizabeth L. Evans"
+        },
+        {
+          "authorId": "4792262",
+          "name": "Katie E. Musialowski"
+        },
+        {
+          "authorId": "2150000224",
+          "name": "Gregory Parsonage"
+        },
+        {
+          "authorId": "7787317",
+          "name": "L. Morley"
+        },
+        {
+          "authorId": "5720244",
+          "name": "T. Futers"
+        },
+        {
+          "authorId": "46767364",
+          "name": "P. Sukumar"
+        },
+        {
+          "authorId": "38050857",
+          "name": "T. Bowen"
+        },
+        {
+          "authorId": "2222836",
+          "name": "M. Kearney"
+        },
+        {
+          "authorId": "50743151",
+          "name": "L. Lichtenstein"
+        },
+        {
+          "authorId": "14532610",
+          "name": "L. Roberts"
+        },
+        {
+          "authorId": "3762287",
+          "name": "D. Beech"
+        }
+      ],
+      "abstract": "Piezo1 forms mechanically activated nonselective cation channels that contribute to endothelial response to fluid flow. Here we reveal an important role in the control of capillary density. Conditional endothelial cell–specific deletion of Piezo1 in adult mice depressed physical performance. Muscle microvascular endothelial cell apoptosis and capillary rarefaction were evident and sufficient to account for the effect on performance. There was selective upregulation of thrombospondin-2 (TSP2), an inducer of endothelial cell apoptosis, with no effect on TSP1, a related important player in muscle physiology. TSP2 was poorly expressed in muscle endothelial cells but robustly expressed in muscle pericytes, in which nitric oxide (NO) repressed the Tsp2 gene without an effect on Tsp1. In endothelial cells, Piezo1 was required for normal expression of endothelial NO synthase. The data suggest an endothelial cell–pericyte partnership of muscle in which endothelial Piezo1 senses blood flow to sustain capillary density and thereby maintain physical capability."
+    },
+    {
+      "paperId": "68974af697446b17de569c6272bbfc7c7f8fa8f7",
+      "url": "https://www.semanticscholar.org/paper/68974af697446b17de569c6272bbfc7c7f8fa8f7",
+      "title": "Associations Between Capillary Diameter, Capillary Density, and Microaneurysms in Diabetic Retinopathy: A High-Resolution Confocal Microscopy Study",
+      "year": 2021,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.1167/tvst.10.2.6",
+        "status": "GOLD",
+        "license": "CCBYNCND",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC7873504, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "145959159",
+          "name": "D. An"
+        },
+        {
+          "authorId": "2089661159",
+          "name": "Riley Pulford"
+        },
+        {
+          "authorId": "3828727",
+          "name": "W. Morgan"
+        },
+        {
+          "authorId": "37753490",
+          "name": "Dao-Yi Yu"
+        },
+        {
+          "authorId": "3643177",
+          "name": "Chandrakumar Balaratnasingam"
+        }
+      ],
+      "abstract": "Purpose To use high-resolution histology to define the associations between microaneurysms, capillary diameter and capillary density alterations in diabetic retinopathy (DR). Methods Quantitative comparisons of microaneurysm number, capillary density and capillary diameter were performed between eight human donor eyes with nonproliferative DR and six age- and eccentricity-matched normal donor eyes after retinal vascular perfusion labelling. The parafovea, 3-mm, 6-mm, and 9-mm retinal eccentricities were analyzed and associations between microvascular alterations defined. Results Mean capillary density was reduced in all retina regions in the DR group (P = 0.013). Microaneurysms occurred in all retina regions in the DR group, but the association between decreased capillary density and microaneurysm number was only significant in the 3-mm (P = 0.040) and 6-mm (P = 0.007) eccentricities. The mean capillary diameter of the DR group (8.9 ± 0.53 µm) was greater than the control group (7.60 ± 0.40 µm; P = 0.033). There was no association between capillary diameter increase and capillary density decrease (P = 0.257) and capillary diameter increase and microaneurysm number (P = 0.147) in the DR group. Within the parafovea of the DR group, capillary density was significantly reduced, and capillary diameter was significantly increased in the deep capillary plexus compared with the superficial and intermediate plexuses (all P < 0.05). Conclusions In DR, capillary density reduction occurs across multiple retina eccentricities with a predilection for the deep capillary plexus. The association between microaneurysm number and capillary density is specific to retina eccentricity. Capillary diameter increase may be an early biomarker of DR. These findings may refine the application of optical coherence tomography angiography techniques for the management of DR."
+    },
+    {
+      "paperId": "9b781095c04b70a365da00b34d8974ed7634d11a",
+      "url": "https://www.semanticscholar.org/paper/9b781095c04b70a365da00b34d8974ed7634d11a",
+      "title": "Evaluation of capillary density in psoriasis: An intrapatient study and literature review",
+      "year": 2021,
+      "openAccessPdf": {
+        "url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0247835&type=printable",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC7946227, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2168968",
+          "name": "G. Micali"
+        },
+        {
+          "authorId": "6388807",
+          "name": "A. Verzì"
+        },
+        {
+          "authorId": "49812170",
+          "name": "G. Broggi"
+        },
+        {
+          "authorId": "1944137",
+          "name": "R. Caltabiano"
+        },
+        {
+          "authorId": "40302935",
+          "name": "M. Musumeci"
+        },
+        {
+          "authorId": "4987993",
+          "name": "F. Lacarrubba"
+        }
+      ],
+      "abstract": "Background Dilated and tortuous vessels within elongated dermal papillae represent a histopathological clue of psoriasis. However, the number of dilated capillaries (capillary density) in psoriasis remains undefined as the results from the available studies differ significantly. Objectives To evaluate the capillary density in psoriasis using dermoscopy and horizontal histopathological sections (HHS), two techniques that share the horizontal view of the skin, and to compare the results with the existing data. Methods Twenty adult patients with stable plaque psoriasis were enrolled and, in each patient, a target area of the examined plaque, previously engraved by gently rotating a 5-mm biopsy punch device, underwent dermoscopy and biopsy for HHS. In all examined fields, capillary density was evaluated in a centered 4-mm diameter area, counting the number of red dots at dermoscopy and of dermal papillae at HHS. Results A total of 20 target lesions located on the trunk, arms and tights were evaluated. The mean capillary density resulting from dermoscopy was 43.02±6.60/mm 2 whereas that from HHS was 50.30±9.05/mm 2. These data showed a statistically significant difference (p = 0.006), with a strong correlation at Pearson’s test (r = 0.88). Conclusions Our results when compared with those from the existing literature showed some differences. The peculiarity of our work is represented by the precise measurement and correlation of the capillary density using two different methods, as the preliminary skin engraving allowed a perfect match between the area undergoing dermoscopy and that of skin sampling for HHS. Compared to dermoscopy in which deep-located vessels might have gone undetected, HHS seems to reflect more precisely and reliably the real capillary density showing an average of 50 capillaries/mm 2 that in a common 5x5 cm psoriatic patch corresponds to an average of 125.000 capillaries. These results highlight the extraordinary potential of psoriatic skin to develop such a complex and intricate vascular network."
+    }
+  ]
+}

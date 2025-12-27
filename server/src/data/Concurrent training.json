@@ -1,0 +1,190 @@
+{
+  "total": 3688542,
+  "offset": 0,
+  "next": 5,
+  "data": [
+    {
+      "paperId": "8496fb24b426469eabe389c4715ffd654ffbeb64",
+      "url": "https://www.semanticscholar.org/paper/8496fb24b426469eabe389c4715ffd654ffbeb64",
+      "title": "Reduction in systemic muscle stress markers after exercise-induced muscle damage following concurrent training and supplementation with specific collagen peptides – a randomized controlled trial",
+      "year": 2024,
+      "openAccessPdf": {
+        "url": "https://www.frontiersin.org/articles/10.3389/fnut.2024.1384112/pdf?isPublishedV2=False",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10999617, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2265599920",
+          "name": "Kevin Bischof"
+        },
+        {
+          "authorId": "4115183",
+          "name": "S. Stafilidis"
+        },
+        {
+          "authorId": "2267103945",
+          "name": "Larissa Bundschuh"
+        },
+        {
+          "authorId": "2267101809",
+          "name": "Steffen Oesser"
+        },
+        {
+          "authorId": "2267104002",
+          "name": "Arnold Baca"
+        },
+        {
+          "authorId": "2264265768",
+          "name": "Daniel König"
+        }
+      ],
+      "abstract": "Introduction Collagen peptide supplementation in conjunction with exercise has been shown to improve structural and functional adaptations of both muscles and the extracellular matrix. This study aimed to explore whether specific collagen peptide (SCP) supplementation combined with a concurrent training intervention can improve muscular stress after exercise-induced muscle damage, verified by reliable blood markers. Methods 55 sedentary to moderately active males participating in a concurrent training (CT) intervention (3x/week) for 12 weeks were administered either 15 g of SCP or placebo (PLA) daily. Before (T1) and after the intervention (T2), 150 muscle-damaging drop jumps were performed. Blood samples were collected to measure creatine kinase (CK), lactate dehydrogenase (LDH), myoglobin (MYO) and high-sensitivity C-reactive protein (hsCRP) before, after, and at 2 h, 24 h and 48 h post exercise. Results A combination of concurrent training and SCP administration showed statistically significant interaction effects, implying a lower increase in the area under the curve (AUC) of MYO (p = 0.004, ηp2 = 0.184), CK (p = 0.01, ηp2 = 0.145) and LDH (p = 0.016, ηp2 = 0.133) in the SCP group. On closer examination, the absolute mean differences (ΔAUCs) showed statistical significance in MYO (p = 0.017, d = 0.771), CK (p = 0.039, d = 0.633) and LDH (p = 0.016, d = 0.764) by SCP supplementation. Conclusion In conclusion, 12 weeks of 15 g SCP supplementation combined with CT intervention reduced acute markers of exercise-induced muscle damage and improved post-exercise regenerative capacity, as evidenced by the altered post-exercise time course. The current findings indicate that SCP supplementation had a positive effect on the early phase of muscular recovery by either improving the structural integrity of the muscle and extracellular matrix during the training period or by accelerating membrane and cytoskeletal protein repair. Clinical trial registration https://www.clinicaltrials.gov/study/NCT05220371?cond=NCT05220371&rank=1, NCT05220371."
+    },
+    {
+      "paperId": "7c279bc8a82f3c9ac724327eff9102f7816aad02",
+      "url": "https://www.semanticscholar.org/paper/7c279bc8a82f3c9ac724327eff9102f7816aad02",
+      "title": "Effect of concurrent training on physical performance and quality of life in children with malignancy: A systematic review and meta-analysis",
+      "year": 2023,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.3389/fpubh.2023.1127255",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10063894, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2192834226",
+          "name": "Wanli Zang"
+        },
+        {
+          "authorId": "2111764417",
+          "name": "M. Fang"
+        },
+        {
+          "authorId": "2204925540",
+          "name": "Haohao Chen"
+        },
+        {
+          "authorId": "2211867370",
+          "name": "Xinmeng Huang"
+        },
+        {
+          "authorId": "2330369566",
+          "name": "Dong Li"
+        },
+        {
+          "authorId": "2211928120",
+          "name": "Jin Yan"
+        },
+        {
+          "authorId": "2212188624",
+          "name": "Heng Shu"
+        },
+        {
+          "authorId": "1979721938",
+          "name": "Mingyuan Zhao"
+        }
+      ],
+      "abstract": "Objective This study aims to evaluate the intervention effect of concurrent training on children with malignant tumors to provide evidence for prescribing exercise for children with malignant tumors. Methods Twelve databases were searched from inception to October 15, 2022. Two researchers independently screened the literature, evaluated the quality, extracted the data, and performed the meta-analysis using R. Result A total of nine randomized controlled trials involving 371 children were included in this study. The meta-analysis revealed that muscle strength was significantly greater in the exercise group compared to the usual care group [SMD = 0.26, 95% CI (0.04, 0.48), P = 0.023], with subgroup analysis showing no significant difference in upper limb [SMD = 0.13, 95% CI (−0.17, 0.43), P = 0.318] and a considerable difference in lower limb strength [SMD = 0.41, 95% CI (0.08, 0.74), P = 0.015]. Physical activity [SMD = 0.57, 95% CI (0.03, 1.1), P = 0.038], timed up and down stairs test [SMD = −1.22, 95% CI (−2.04, −0.4), P = 0.004], 6-min walking ability [SMD = 0.75, 95% CI (0.38, 1.11), P < 0.01], quality of life [SMD = 0.28, 95% CI (0.02, 0.53), P = 0.033], and cancer-related fatigue [SMD = −0.53, 95% CI (−0.86, −0.19), P = 0.002] were significantly better than the usual care group. There were no significant differences in peak oxygen uptake [SMD = 0.13, 95% CI (−0.18, 0.44), P = 0.397], depression [SMD = 0.06, 95% CI (−0.38, 0.5), P = 0.791], and withdrawal rates [RR = 0.59, 95% CI (0.21, 1.63), P = 0.308] between the two groups. Conclusion Concurrent training could improve physical performance for children with malignancy but had no significant effect on mental health. Because the quality level of evidence is mostly very low, future high-quality randomized controlled trials are required to confirm these findings. Systematic review registration https://www.crd.york.ac.uk/PROSPERO/display_record.php?RecordID=364140, identifier CRD42022308176."
+    },
+    {
+      "paperId": "5d5812c5236c5fc576ba308dd9ccbd573f5dd7ef",
+      "url": "https://www.semanticscholar.org/paper/5d5812c5236c5fc576ba308dd9ccbd573f5dd7ef",
+      "title": "Concurrent Training of a Control Policy and a State Estimator for Dynamic and Robust Legged Locomotion",
+      "year": 2022,
+      "openAccessPdf": {
+        "url": "https://arxiv.org/pdf/2202.05481",
+        "status": "GREEN",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2202.05481, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2121329086",
+          "name": "Gwanghyeon Ji"
+        },
+        {
+          "authorId": "39950634",
+          "name": "Juhyeok Mun"
+        },
+        {
+          "authorId": "46695932",
+          "name": "Hyeongjun Kim"
+        },
+        {
+          "authorId": "1707297",
+          "name": "Jemin Hwangbo"
+        }
+      ],
+      "abstract": "In this letter, we propose a locomotion training framework where a control policy and a state estimator are trained concurrently. The framework consists of a policy network which outputs the desired joint positions and a state estimation network which outputs estimates of the robot’s states such as the base linear velocity, foot height, and contact probability. We exploit a fast simulation environment to train the networks and the trained networks are transferred to the real robot. The trained policy and state estimator are capable of traversing diverse terrains such as a hill, slippery plate, and bumpy road. We also demonstrate that the learned policy can run at up to 3.75 m/s on normal flat ground and 3.54 m/s on a slippery plate with the coefficient of friction of 0.22."
+    },
+    {
+      "paperId": "41f6d6f0dd62b489c9521f103735394413abb4ab",
+      "url": "https://www.semanticscholar.org/paper/41f6d6f0dd62b489c9521f103735394413abb4ab",
+      "title": "Effects of concurrent training sequence on VO2max and lower limb strength performance: A systematic review and meta-analysis",
+      "year": 2023,
+      "openAccessPdf": {
+        "url": "https://www.frontiersin.org/articles/10.3389/fphys.2023.1072679/pdf",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC9908959, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2025130257",
+          "name": "Jiuxiang Gao"
+        },
+        {
+          "authorId": "2112488990",
+          "name": "Liang Yu"
+        }
+      ],
+      "abstract": "The aim of this study is to compare the effects of concurrent strength and endurance training sequences on VO2max and lower limb strength performance to provide scientific guidance for training practice. We searched PubMed, EBSCO, Web of Science (WOS), Wanfang, and China National Knowledge Infrastructure (CNKI) databases up to December 2022. The included articles were randomized controlled trials that allowed us to compare the strength–endurance (S-E) sequence and endurance–strength (E-S) sequence on VO2max, maximum knee extension strength, maximum knee flexion strength, and lower limb power. The Cochrane bias risk tool was used to evaluate the methodological quality of the included literature, and Stata 12.0 was used for the heterogeneity test, subgroup analysis, draw forest map, sensitivity analysis, and publication bias evaluation. The results have been presented as standardized mean differences (SMDs) between treatments with 95% confidence intervals and calculations performed using random effects models. Significance was accepted when p < 0.05. The studies included 19 randomized controlled trials (285 males and 197 females), 242 subjects in S-E sequence, and 240 subjects in E-S sequence in the analyses. No difference changes between S-E and E-S sequences has been observed on VO2max in the overall analysis (SMD = 0.02, 95% CI: −0.21–0.25, p = 0.859). The S-E sequence shows a greater increase in lower limb strength performance than does the E-S sequence (SMD = 0.19, 95% CI: 0.02–0.37, p = 0.032), which was manifested in the elderly (p = 0.039) and women (p = 0.017); in training periods >8 weeks (p = 0.002) and training frequencies twice a week (p = 0.003); and with maximum knee flexion (p = 0.040) and knee extension strength (p = 0.026), while no difference was found in lower limb power (p = 0.523). In conclusion, the effect of VO2max will not change with different concurrent training sequences. The S-E sequence improves lower limb strength more significantly, mainly in the improvement of knee flexion and knee extension. This advantage is more related to factors such as age, gender, training period, and training frequency."
+    },
+    {
+      "paperId": "75771ade5524fbb7ac27ba8155bf43381e842b7c",
+      "url": "https://www.semanticscholar.org/paper/75771ade5524fbb7ac27ba8155bf43381e842b7c",
+      "title": "Effects of a concurrent training, respiratory muscle exercise, and self-management recommendations on recovery from post-COVID-19 conditions: the RECOVE trial",
+      "year": 2022,
+      "openAccessPdf": {
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9829459",
+        "status": "GREEN",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC9829459, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2078873376",
+          "name": "Amaya Jimeno-Almazán"
+        },
+        {
+          "authorId": "2034267005",
+          "name": "Ángel Buendía-Romero"
+        },
+        {
+          "authorId": "1401976400",
+          "name": "Alejandro Martínez-Cava"
+        },
+        {
+          "authorId": "2106132386",
+          "name": "Francisco Franco-López"
+        },
+        {
+          "authorId": "1405261190",
+          "name": "B. Sánchez-Alcaraz"
+        },
+        {
+          "authorId": "1404360730",
+          "name": "J. Courel-Ibáñez"
+        },
+        {
+          "authorId": "5896849",
+          "name": "J. Pallarés"
+        }
+      ],
+      "abstract": "The aim of this study was to determine the effectiveness of physical exercise, respiratory muscle training, and the self-management World Health Organization (WHO) recommendations leaflet on the recovery of physical fitness, quality of life, and symptom status in people with post-COVID-19 conditions. Eighty nonhospitalized adults with a post-COVID-19 condition were randomly assigned to one of four 8-wk parallel intervention groups: 1) multicomponent exercise program based on concurrent training (CT, number of subjects (n) = 20; 3 resistance and endurance supervised sessions per week at low-moderate intensity); 2) inspiratory muscle training (RM, n = 17; 2 standardized daily sessions); 3) a combination of both of the above (CTRM, n = 23); and 4) control group (CON, n = 20; following the WHO guidelines for post-COVID-19-related illness rehabilitation). No significant differences between groups were detected at baseline. Although no significant differences between interventions were detected in the V̇o2max, significant individual improvements were identified in the CT (7.5%; effect size, ES = 0.28) and CTRM (7.8%; ES = 0.36) groups. Lower body muscle strength significantly improved in the CT and CTRM (14.5%-32.6%; ES = 0.27-1.13) groups compared with RM and CON (-0.3% to 11.3%; ES = 0.10-0.19). The CT and CTRM groups improved significantly for dyspnea and fatigue, as did the health status. In addition, significant differences between interventions were described in fatigue and depression scales favoring CT and CTRM interventions. An individualized and supervised concurrent training with or without inspiratory muscle training was safe and more effective than self-care recommendations and inspiratory muscle training alone, to regain cardiovascular and muscular fitness, improve symptom severity, and health status in outpatients with post-COVID-19 conditions.NEW & NOTEWORTHY Eight weeks of concurrent training, with or without inspiratory muscle exercise, was better than WHO \"Support for Rehabilitation: Self-Management after COVID-19-Related Illness\" recommendations or inspiratory muscle training alone to improve cardiopulmonary fitness, strength, and symptom severity, in a safe and effective manner. The RECOVE trial proved the benefits and utility of a supervised exercise program in people with post-COVID-19 conditions after mild COVID-19 in an ambulatory setting."
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "total": 6535291,
+  "offset": 0,
+  "next": 3,
+  "data": [
+    {
+      "paperId": "307a51afed6bd21bff48e07ad478edcf3bd50a47",
+      "url": "https://www.semanticscholar.org/paper/307a51afed6bd21bff48e07ad478edcf3bd50a47",
+      "title": "CerebelluMorphic: Large-Scale Neuromorphic Model and Architecture for Supervised Motor Learning",
+      "year": 2021,
+      "openAccessPdf": {
+        "url": "https://researchonline.jcu.edu.au/68684/7/JCU_68684_AAM.pdf",
+        "status": "GREEN",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/TNNLS.2021.3057070?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/TNNLS.2021.3057070, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2900258",
+          "name": "Shuangming Yang"
+        },
+        {
+          "authorId": "48094742",
+          "name": "Jiang Wang"
+        },
+        {
+          "authorId": "1596798563",
+          "name": "Nan Zhang"
+        },
+        {
+          "authorId": "145424017",
+          "name": "Bin Deng"
+        },
+        {
+          "authorId": "145134722",
+          "name": "Yanwei Pang"
+        },
+        {
+          "authorId": "2119862",
+          "name": "M. Azghadi"
+        }
+      ],
+      "abstract": "The cerebellum plays a vital role in motor learning and control with supervised learning capability, while neuromorphic engineering devises diverse approaches to high-performance computation inspired by biological neural systems. This article presents a large-scale cerebellar network model for supervised learning, as well as a cerebellum-inspired neuromorphic architecture to map the cerebellar anatomical structure into the large-scale model. Our multinucleus model and its underpinning architecture contain approximately 3.5 million neurons, upscaling state-of-the-art neuromorphic designs by over 34 times. Besides, the proposed model and architecture incorporate 3411k granule cells, introducing a 284 times increase compared to a previous study including only 12k cells. This large scaling induces more biologically plausible cerebellar divergence/convergence ratios, which results in better mimicking biology. In order to verify the functionality of our proposed model and demonstrate its strong biomimicry, a reconfigurable neuromorphic system is used, on which our developed architecture is realized to replicate cerebellar dynamics during the optokinetic response. In addition, our neuromorphic architecture is used to analyze the dynamical synchronization within the Purkinje cells, revealing the effects of firing rates of mossy fibers on the resonance dynamics of Purkinje cells. Our experiments show that real-time operation can be realized, with a system throughput of up to 4.70 times larger than previous works with high synaptic event rate. These results suggest that the proposed work provides both a theoretical basis and a neuromorphic engineering perspective for brain-inspired computing and the further exploration of cerebellar learning."
+    },
+    {
+      "paperId": "ce19de679ce0e0f2fc0ea6f4d712244f106bde1a",
+      "url": "https://www.semanticscholar.org/paper/ce19de679ce0e0f2fc0ea6f4d712244f106bde1a",
+      "title": "Motor learning in neurological rehabilitation",
+      "year": 2020,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1080/09638288.2020.1752317?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1080/09638288.2020.1752317, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "33433288",
+          "name": "M. Levin"
+        },
+        {
+          "authorId": "6673755",
+          "name": "M. Demers"
+        }
+      ],
+      "abstract": "Abstract While most upper limb training interventions in neurological rehabilitation are based on established principles of motor learning and neural plasticity, recovery potential may be improved if the focus includes remediating an individual’s specific motor impairment within the framework of a motor control theory. This paper reviews current theories of motor control and motor learning and describes how they can be incorporated into training programs to enhance sensorimotor recovery in patients with neurological lesions. An emphasis is placed on dynamical systems theory and the use of new technologies such as virtual, augmented and mixed reality applications for rehabilitation to facilitate learning. Implications for Rehabilitation Kinematic abundance allows the healthy nervous system to produce different combinations of joint rotations to perform a desired task. The structure of practice to improve the movement repertoire in rehabilitation should take into account the kinematic abundance of the system. Learning can be enhanced by varied practice with feedback about key movement elements. Virtual reality environments provide opportunities to manipulate the structure and schedule of practice and feedback."
+    },
+    {
+      "paperId": "c4bc00e44efc39a8470ba9f6eb65bac340fa18b3",
+      "url": "https://www.semanticscholar.org/paper/c4bc00e44efc39a8470ba9f6eb65bac340fa18b3",
+      "title": "Interpreting the role of the striatum during multiple phases of motor learning",
+      "year": 2021,
+      "openAccessPdf": {
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8590810",
+        "status": "GREEN",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1111/febs.15908?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1111/febs.15908, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "34419165",
+          "name": "Stefano Cataldi"
+        },
+        {
+          "authorId": "1980609843",
+          "name": "A. Stanley"
+        },
+        {
+          "authorId": "3596760",
+          "name": "M. C. Miniaci"
+        },
+        {
+          "authorId": "3843761",
+          "name": "D. Sulzer"
+        }
+      ],
+      "abstract": "The synaptic pathways in the striatum are central to basal ganglia functions including motor control, learning and organization, action selection, acquisition of motor skills, cognitive function, and emotion. Here, we review the role of the striatum and its connections in motor learning and performance. The development of new techniques to record neuronal activity and animal models of motor disorders using neurotoxin, pharmacological, and genetic manipulations are revealing pathways that underlie motor performance and motor learning, as well as how they are altered by pathophysiological mechanisms. We discuss approaches that can be used to analyze complex motor skills, particularly in rodents, and identify specific questions central to understanding how striatal circuits mediate motor learning."
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "total": 3208123,
+  "offset": 0,
+  "next": 3,
+  "data": [
+    {
+      "paperId": "a9da1dd14ceb68163ef71e5ff922262ebddd16c8",
+      "url": "https://www.semanticscholar.org/paper/a9da1dd14ceb68163ef71e5ff922262ebddd16c8",
+      "title": "Diffusion tensor imaging and quantitative T2 mapping to monitor muscle recovery following hamstring injury",
+      "year": 2023,
+      "openAccessPdf": {
+        "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/nbm.4902",
+        "status": "HYBRID",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1002/nbm.4902?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/nbm.4902, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "151057443",
+          "name": "Jithsa R. Monte"
+        },
+        {
+          "authorId": "4809746",
+          "name": "M. Hooijmans"
+        },
+        {
+          "authorId": "2310142",
+          "name": "M. Froeling"
+        },
+        {
+          "authorId": "4316347",
+          "name": "J. Oudeman"
+        },
+        {
+          "authorId": "5803071",
+          "name": "J. Tol"
+        },
+        {
+          "authorId": "2148059",
+          "name": "G. Strijkers"
+        },
+        {
+          "authorId": "1913826",
+          "name": "A. Nederveen"
+        },
+        {
+          "authorId": "2099111754",
+          "name": "M. Maas"
+        }
+      ],
+      "abstract": "MRI examinations are accurate for diagnosing sports‐related acute hamstring injuries. However, sensitive imaging methods for assessing recovery of these injuries are lacking. Diffusion tensor imaging (DTI) and quantitative T2 (qT2) mapping have both shown promise for assessing recovery of muscle micro trauma and exercise effects. The purpose of this study was to explore the potential of DTI and qT2 mapping for monitoring the muscle recovery processes after acute hamstring injury. In this prospective study, athletes with an acute hamstring injury underwent a 3‐T MRI examination of the injured and contralateral hamstrings including DTI and qT2 measurements at three time points: (1) within 1 week after sustaining the injury, (2) 2 weeks after time point 1, and (3) return to play (RTP). A linear mixed model was used for time‐effect analysis and paired t‐tests for the detection of differences between injured and uninjured muscles. Forty‐one athletes (age 27.8 ± 7 years; two females and 39 males) were included. Mean RTP time was 50 (range 12–169) days. A significant time effect was found for mean diffusivity, radial diffusivity, and the second and third eigenvalues (p ≤ 0.001) in the injured muscles. Fractional anisotropy (p = 0.40), first eigenvalue (p = 0.02), and qT2 (p = 0.61) showed no significant time effect. All DTI indices, except for fractional anisotropy, were significantly elevated compared with control muscles right after the injury (p < 0.001). Values normalized during the recovery period, with no significant differences between control and injured muscles at RTP (p values ranged from 0.08 to 0.51). Mean qT2 relaxation times in injured muscles were not significantly elevated compared with control muscles at any time point (p > 0.04). In conclusion, DTI can be used to monitor recovery after an acute hamstring injury. Future work should explore the potential of DTI indices to predict RTP and recovery times in athletes after an acute strain injury."
+    },
+    {
+      "paperId": "7801ef63b8b6b3a7f8ac744dc826c8eca90d0f19",
+      "url": "https://www.semanticscholar.org/paper/7801ef63b8b6b3a7f8ac744dc826c8eca90d0f19",
+      "title": "Impaired proteostatic mechanisms other than decreased protein synthesis limit old skeletal muscle recovery after disuse atrophy",
+      "year": 2023,
+      "openAccessPdf": {
+        "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/jcsm.13285",
+        "status": "GOLD",
+        "license": "CCBYNCND",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10570113, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "46224176",
+          "name": "J. Fuqua"
+        },
+        {
+          "authorId": "7763917",
+          "name": "M. Lawrence"
+        },
+        {
+          "authorId": "1518648357",
+          "name": "Zachary R. Hettinger"
+        },
+        {
+          "authorId": "39705355",
+          "name": "Agnieszka K. Borowik"
+        },
+        {
+          "authorId": "2219279595",
+          "name": "Parker Brecheen"
+        },
+        {
+          "authorId": "2121758506",
+          "name": "Marcelina M Szczygiel"
+        },
+        {
+          "authorId": "2111953426",
+          "name": "Claire B Abbott"
+        },
+        {
+          "authorId": "5772710",
+          "name": "F. Peelor"
+        },
+        {
+          "authorId": "4686206",
+          "name": "Amy L Confides"
+        },
+        {
+          "authorId": "50179894",
+          "name": "M. Kinter"
+        },
+        {
+          "authorId": "5102252",
+          "name": "S. Bodine"
+        },
+        {
+          "authorId": "1390134650",
+          "name": "E. Dupont-Versteegden"
+        },
+        {
+          "authorId": "2147137781",
+          "name": "Benjamin F. Miller"
+        }
+      ],
+      "abstract": "Skeletal muscle mass and strength diminish during periods of disuse but recover upon return to weight bearing in healthy adults but are incomplete in old muscle. Efforts to improve muscle recovery in older individuals commonly aim at increasing myofibrillar protein synthesis via mammalian target of rapamycin (mTOR) stimulation despite evidence demonstrating that old muscle has chronically elevated levels of mammalian target of rapamycin complex 1 (mTORC1) activity. We hypothesized that protein synthesis is higher in old muscle than adult muscle, which contributes to a proteostatic stress that impairs recovery."
+    },
+    {
+      "paperId": "c0d8fe1df7af46eae6289ea19ca2401548a51126",
+      "url": "https://www.semanticscholar.org/paper/c0d8fe1df7af46eae6289ea19ca2401548a51126",
+      "title": "Ergothioneine Improves Aerobic Performance Without Any Negative Effect on Early Muscle Recovery Signaling in Response to Acute Exercise",
+      "year": 2022,
+      "openAccessPdf": {
+        "url": "https://www.frontiersin.org/articles/10.3389/fphys.2022.834597/pdf",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC8864143, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "1491845146",
+          "name": "Théo Fovet"
+        },
+        {
+          "authorId": "2139863313",
+          "name": "Corentin Guilhot"
+        },
+        {
+          "authorId": "4635837",
+          "name": "P. Delobel"
+        },
+        {
+          "authorId": "5521637",
+          "name": "A. Chopard"
+        },
+        {
+          "authorId": "4211005",
+          "name": "G. Py"
+        },
+        {
+          "authorId": "4573845",
+          "name": "T. Brioche"
+        }
+      ],
+      "abstract": "Physical activity is now recognized as an essential element of healthy lifestyles. However, intensive and repeated exercise practice produces a high level of stress that must be managed, particularly oxidative damage and inflammation. Many studies investigated the effect of antioxidants, but reported only few positive effects, or even muscle recovery impairment. Secondary antioxidants are frequently highlighted as a way to optimize these interactions. Ergothioneine is a potential nutritional supplement and a secondary antioxidant that activates the cellular NRF2 pathway, leading to antioxidant response gene activation. Here, we hypothesized that ergothioneine could improve performance during aerobic exercise up to exhaustion and reduce exercise-related stress without impairing early muscle recovery signaling. To test this hypothesis, 5-month-old C56B6J female mice were divided in two groups matched for maximal aerobic speed (MAS): control group (Ctrl; n = 9) and group supplemented with 70 mg ergothioneine/kg/day (ET; n = 9). After 1 week of supplementation (or not), mice performed a maximum time-to-exhaustion test by running on a treadmill at 70% of their MAS, and gastrocnemius and soleus muscles were collected 2 h after exercise. Time to exhaustion was longer in the ET than Ctrl group (+41.22%, p < 0.01). Two hours after exercise, the ET group showed higher activation of protein synthesis and satellite cells, despite their longer effort. Conversely, expression in muscles of metabolic stress and inflammation markers was decreased, as well as oxidative damage markers in the ET group. Moreover, ergothioneine did not seem to impair mitochondrial recovery. These results suggest an important effect of ergothioneine on time-to-exhaustion performance and improved muscle recovery after exercise."
+    }
+  ]
+}

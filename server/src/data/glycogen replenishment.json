@@ -1,0 +1,202 @@
+{
+  "total": 139869,
+  "offset": 0,
+  "next": 5,
+  "data": [
+    {
+      "paperId": "3482adf92c3fb1190cedfd1eef8e0ac941c02a7b",
+      "url": "https://www.semanticscholar.org/paper/3482adf92c3fb1190cedfd1eef8e0ac941c02a7b",
+      "title": "Oral post-exercise garlic extract supplementation enhances glycogen replenishment but does not up-regulate mitochondria biogenesis mRNA expression in human-exercised skeletal muscle",
+      "year": 2024,
+      "openAccessPdf": {
+        "url": "https://www.tandfonline.com/doi/pdf/10.1080/15502783.2024.2336095?needAccess=true",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11000618, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "35850792",
+          "name": "I-Shiung Cheng"
+        },
+        {
+          "authorId": "120118166",
+          "name": "Jung-Piao Tsao"
+        },
+        {
+          "authorId": "2295111499",
+          "name": "Jeffrey R Bernard"
+        },
+        {
+          "authorId": "121225341",
+          "name": "Tsen-Wei Tsai"
+        },
+        {
+          "authorId": "2109692720",
+          "name": "Chia-Chen Chang"
+        },
+        {
+          "authorId": "15544312",
+          "name": "S. Liao"
+        }
+      ],
+      "abstract": "ABSTRACT Purpose Garlic extract (GA) is purported to enhance antioxidant and anti-inflammatory activity and glucose regulation in humans. The present study investigated the effects of post-exercise GA supplementation on GLUT4 expression, glycogen replenishment, and the transcript factors involved with mitochondrial biosynthesis in exercised human skeletal muscle. Methods The single-blinded crossover counterbalanced study was completed by 12 participants. Participants were randomly divided into either GA (2000 mg of GA) or placebo trials immediately after completing a single bout of cycling exercise at 75% Maximal oxygen uptake (VO2max) for 60 minutes. Participants consumed either GA (2000 mg) or placebo capsules with a high glycemic index carbohydrate meal (2 g carb/body weight) immediately after exercise. Muscle samples were collected at 0-h and 3-h post-exercise. Muscle samples were used to measure glycogen levels, GLUT4 protein expression, as well as transcription factors for glucose uptake, and mitochondria biogenesis. Plasma glucose, insulin, glycerol, non-esterified fatty acid (NEFA) concentrations, and respiratory exchange ratio (RER) were also analyzed during the post-exercise recovery periods. Results Skeletal muscle glycogen replenishment was significantly elevated during the 3-h recovery period for GA concurrent with no difference in GLUT4 protein expression between the garlic and placebo trials. PGC1-α gene expression was up-regulated for both GA and placebo after exercise (p < 0.05). Transcript factors corresponding to muscle mitochondrial biosynthesis were significantly enhanced under acute garlic supplementation as demonstrated by TFAM and FIS1. However, the gene expression of SIRT1, ERRα, NFR1, NFR2, MFN1, MFN2, OPA1, Beclin-1, DRP1 were not enhanced, nor were there any improvements in GLUT4 expression, following post-exercise garlic supplementation. Conclusion Acute post-exercise garlic supplementation may improve the replenishment of muscle glycogen, but this appears to be unrelated to the gene expression for glucose uptake and mitochondrial biosynthesis in exercised human skeletal muscle."
+    },
+    {
+      "paperId": "5b216f583743d474964d02e75a20eba63f5475b3",
+      "url": "https://www.semanticscholar.org/paper/5b216f583743d474964d02e75a20eba63f5475b3",
+      "title": "Melatonin Potentiates Exercise-Induced Increases in Skeletal Muscle PGC-1α and Optimizes Glycogen Replenishment",
+      "year": 2022,
+      "openAccessPdf": {
+        "url": "https://www.frontiersin.org/articles/10.3389/fphys.2022.803126/pdf",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC9087193, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2129369516",
+          "name": "Vinícius Silva Faria"
+        },
+        {
+          "authorId": "1398673477",
+          "name": "F. Manchado-Gobatto"
+        },
+        {
+          "authorId": "7432268",
+          "name": "P. Scariot"
+        },
+        {
+          "authorId": "4576299",
+          "name": "A. Zagatto"
+        },
+        {
+          "authorId": "5223560",
+          "name": "W. Beck"
+        }
+      ],
+      "abstract": "Compelling evidence has demonstrated the effect of melatonin on exhaustive exercise tolerance and its modulatory role in muscle energy substrates at the end of exercise. In line with this, PGC-1α and NRF-1 also seem to act on physical exercise tolerance and metabolic recovery after exercise. However, the literature still lacks reports on these proteins after exercise until exhaustion for animals treated with melatonin. Thus, the aim of the current study was to determine the effects of acute melatonin administration on muscle PGC-1α and NRF-1, and its modulatory role in glycogen and triglyceride contents in rats subjected to exhaustive swimming exercise at an intensity corresponding to the anaerobic lactacidemic threshold (iLAn). In a randomized controlled trial design, thirty-nine Wistar rats were allocated into four groups: control (CG = 10), rats treated with melatonin (MG = 9), rats submitted to exercise (EXG = 10), and rats treated with melatonin and submitted to exercise (MEXG = 10). Forty-eight hours after the graded exercise test, the animals received melatonin (10 mg/kg) or vehicles 30 min prior to time to exhaustion test in the iLAn (tlim). Three hours after tlim the animals were euthanized, followed by muscle collection for specific analyses: soleus muscles for immunofluorescence, gluteus maximus, red and white gastrocnemius for the assessment of glycogen and triglyceride contents, and liver for the measurement of glycogen content. Student t-test for independent samples, two-way ANOVA, and Newman keuls post hoc test were used. MEXG swam 120.3% more than animals treated with vehicle (EXG; p < 0.01). PGC-1α and NRF-1 were higher in MEXG with respect to the CG (p < 0.05); however, only PGC-1α was higher for MEXG when compared to EXG. Melatonin reduced the triglyceride content in gluteus maximus, red and white gastrocnemius (F = 6.66, F = 4.51, and F = 6.02, p < 0.05). The glycogen content in red gastrocnemius was higher in MEXG than in CG (p = 0.01), but not in EXG (p > 0.05). In conclusion, melatonin was found to enhance exercise tolerance, potentiate exercise-mediated increases in PGC-1α, decrease muscle triglyceride content and increase muscle glycogen 3 h after exhaustive exercise, rapidly providing a better cellular metabolic environment for future efforts."
+    },
+    {
+      "paperId": "abd95b839f44b45794f8047814ee90570878f445",
+      "url": "https://www.semanticscholar.org/paper/abd95b839f44b45794f8047814ee90570878f445",
+      "title": "Effects of Oral Resveratrol Supplementation on Glycogen Replenishment and Mitochondria Biogenesis in Exercised Human Skeletal Muscle",
+      "year": 2020,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/2072-6643/12/12/3721/pdf",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC7760965, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "92605326",
+          "name": "Chun-Ching Huang"
+        },
+        {
+          "authorId": "1489217437",
+          "name": "Chia-Chen Liu"
+        },
+        {
+          "authorId": "120118166",
+          "name": "Jung-Piao Tsao"
+        },
+        {
+          "authorId": "4164954",
+          "name": "Chin-Lin Hsu"
+        },
+        {
+          "authorId": "35850792",
+          "name": "I-Shiung Cheng"
+        }
+      ],
+      "abstract": "The present study aimed to investigate the effect of oral resveratrol supplementation on the key molecular gene expressions involved in mitochondria biogenesis and glycogen resynthesis in human skeletal muscle. Nine young male athletes participated in the single-blind and crossover designed study. All subjects completed a 4-day resveratrol and placebo supplement in a randomized order while performing a single bout of cycling exercise. Immediately after the exercise challenge, the subjects consumed a carbohydrate (CHO) meal (2 g CHO/Kg body mass) with either resveratrol or placebo capsules. Biopsied muscle samples, blood samples and expired gas samples were obtained at 0 h and 3 h after exercise. The muscle samples were measured for gene transcription factor expression by real-time PCR for glucose uptake and mitochondria biogenesis. Plasma glucose, insulin, glycerol, non-esterified fatty acid concentrations and respiratory exchange ratio were analyzed during post-exercise recovery periods. The results showed that the muscle glycogen concentrations were higher at 3 h than at 0 h; however, there were no difference between resveratrol trial and placebo trial. There were no significantly different concentrations in plasma parameters between the two trials. Similarly, no measured gene expressions were significant between the two trials. The evidence concluded that the 4-day oral resveratrol supplementation did not improve post-exercise muscle glycogen resynthesis and related glucose uptake and mitochondrial biosynthesis gene expression in men."
+    },
+    {
+      "paperId": "f45d42080c7a325e12f2b2b89b2a1fda6783ec39",
+      "url": "https://www.semanticscholar.org/paper/f45d42080c7a325e12f2b2b89b2a1fda6783ec39",
+      "title": "Nucleic acid-guided genome editing of plant carbohydrate pathways for functional crops supporting glycogen replenishment in athletes.",
+      "year": 2025,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.ijbiomac.2025.145574?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.ijbiomac.2025.145574, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2368864353",
+          "name": "ShaoBin Zhang"
+        },
+        {
+          "authorId": "2366813248",
+          "name": "Guang Bu"
+        },
+        {
+          "authorId": "2358503983",
+          "name": "Hao Jin"
+        },
+        {
+          "authorId": "2369277576",
+          "name": "Biao Zhang"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "8ca1a038e5389fad53e16118c6ede122a4b77db9",
+      "url": "https://www.semanticscholar.org/paper/8ca1a038e5389fad53e16118c6ede122a4b77db9",
+      "title": "Does cooling affect skeletal muscle glycogen replenishment after an acute bout of fear-induced exertional hyperthermia in blesbok (Damaliscus pygargus phillipsi)?",
+      "year": 2025,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.cbpa.2025.111921?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.cbpa.2025.111921, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2284196210",
+          "name": "Tertius A Kohn"
+        },
+        {
+          "authorId": "2376206181",
+          "name": "Mahmooda Martin"
+        },
+        {
+          "authorId": "1471268967",
+          "name": "Kathryn M van Boom"
+        },
+        {
+          "authorId": "2311855748",
+          "name": "Byron Donaldson"
+        },
+        {
+          "authorId": "2294429759",
+          "name": "Dee M Blackhurst"
+        },
+        {
+          "authorId": "116981117",
+          "name": "Agustina Fitte"
+        },
+        {
+          "authorId": "2375987976",
+          "name": "Richard Burroughs"
+        },
+        {
+          "authorId": "2375988340",
+          "name": "Johan C A Steyl"
+        },
+        {
+          "authorId": "2337368743",
+          "name": "Amelia Goddard"
+        },
+        {
+          "authorId": "2375989046",
+          "name": "Leith C R Meyer"
+        }
+      ],
+      "abstract": null
+    }
+  ]
+}

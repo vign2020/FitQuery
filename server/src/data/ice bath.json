@@ -1,0 +1,162 @@
+{
+  "total": 617707,
+  "offset": 0,
+  "next": 5,
+  "data": [
+    {
+      "paperId": "5a1bcbdac95cd2b73f4c38dcc96f0c69e91ea0c5",
+      "url": "https://www.semanticscholar.org/paper/5a1bcbdac95cd2b73f4c38dcc96f0c69e91ea0c5",
+      "title": "Smart Portable Ice Bath Monitoring System for Athlete",
+      "year": 2023,
+      "openAccessPdf": {
+        "url": "https://jmeditec.utm.my/index.php/jmeditec/article/download/44/31",
+        "status": "BRONZE",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.11113/jmeditec.v2n2.44?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.11113/jmeditec.v2n2.44, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2278229745",
+          "name": "Mohd Riduan"
+        },
+        {
+          "authorId": "2278230127",
+          "name": "Muhammad Hamizan"
+        },
+        {
+          "authorId": "2278230341",
+          "name": "Hilmi Sulaiman"
+        },
+        {
+          "authorId": "2278230166",
+          "name": "Mohd"
+        },
+        {
+          "authorId": "2278229733",
+          "name": "Riduan Mohamad"
+        }
+      ],
+      "abstract": "After athletic injuries, cold techniques are used commonly, with clear physiological effects. The main theory about the advantages of immersion in cold water is that it decreases skeletal muscle inflammation. This study was to design the electronic part of smart portable ice bath monitoring system for the athletes to use after their exercises. The design can capture cold water temperature reading and heart rate precisely during the therapy. The readings also were used to give out notifications and alarm to prevent cold related diseases. Various of components were listed and only the most compatible with the design were chosen. The criteria of the components are small, light in weight and the most important is waterproof. To have the portable design of cold-water immersion easy to use and understand, a smartphone application was created by using MIT App inventor, thus giving the athlete a platform to monitor their heart rate data and aware of the benefit and disadvantage of cold-water immersion. Three independent subjects' heart rates were recorded and compared to test the hypothesis that there is a significant difference in heart rate readings between the heart rate sensor and the Amazfit GTS 2. While three tests on the temperature of cold water were used to test the hypothesis that the temperature readings produced by temperature sensor and mercury thermometer had a significant difference. Response of the data from both tests were analysed by using a t-test. The results of both experiments revealed that the hypothesis was rejected, indicating that the heart rate sensor and temperature sensor are adequate for monitoring heart rate and cold-water temperature. They were displayed on the LCD display and the MIT app inventor application in a smartphone. The notification alarm is also effective. In conclusion, the study's objectives have been achieved, and the design can be applied in cold water immersion therapy."
+    },
+    {
+      "paperId": "53bb55f3934349f9c9581ed00216f1fd54e30d41",
+      "url": "https://www.semanticscholar.org/paper/53bb55f3934349f9c9581ed00216f1fd54e30d41",
+      "title": "Pelatihan Terapi Ice Bath Untuk Recovery Cabang Olahraga Futsal Pada Tim Cosmo Futsal Club Jakarta",
+      "year": 2020,
+      "openAccessPdf": {
+        "url": "http://ejurnal.ubharajaya.ac.id/index.php/Jabdimas/article/download/57/53",
+        "status": "GOLD",
+        "license": "CCBYSA",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.31599/jabdimas.v3i1.57?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.31599/jabdimas.v3i1.57, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "69503794",
+          "name": "Robby Kurniawan"
+        },
+        {
+          "authorId": "133917712",
+          "name": "Eko Prabowo"
+        },
+        {
+          "authorId": "1752802729",
+          "name": "Asrori Yudhaprawira"
+        }
+      ],
+      "abstract": "Abstract \n  \nVulnerable injury and fatigue in futsal athletes at the professional level at the National level in 2019, one of the reasons is the high instability and volume during training and competition which requires every player to perform optimally in every training activity and match. This shows how important recovery programs are in an exercise program that will make the energy quickly recover and speed up the healing process when injured. One of the recovery methods that are widely used today is ice bath therapy, which is therapy by soaking in ice water with a predetermined time and temperature.This activity aims to increase the understanding of sports players both as athletes, coaches and coaching staff about one recovery model that aims to restore energy depleted during training and competition so as to make athletes recover faster and refreshed and help the healing process when an event occurs injury. In carrying out our community service activities from the Sports Coaching Education Study Program, Bhayangkara Jakarta Raya University, we hope to provide enlightenment for sports people at the Cosmo FC Team to better understand and understand the ice bath method for recovery so that the team will be better prepared to join the Futsal Professional League in Indonesia and to a higher level. In the future, Sports Coaching Education Study Program can continue to provide training and guidance on the development and progress of sports in other sports at both national and regional levels so that good cooperation in fostering sports achievements will be established and helps to produce good athletes at national and regional levels. compete at the international level in making Indonesia proud. \n  \nKeywords: Training, Therapy, Ice Bath, Recovery, Sports, Futsal \n  \nAbstrak \n  \nRentannya cedera dan kelelahan pada atlet futsal dilevel profesional di tingkat Nasional pada tahun 2019, salah satu penyebabnya adalah tingginya instensitas serta volume saat latihan dan pertandingan yang menuntut setiap pemain tampil maksimal dalam setiap aktivitas latihan dan pertandingan. Hal ini menunjukkan betapa pentingnya program recovery dalam suatu program latihan yang akan membuat tenaga akan cepat kembali pulih dan mempercepat proses penyembuhan saat cedera. Salah satu metode recovery yang banyak digunakan saat ini yaitu terapi ice bath yaitu terapi dengan berendam dalam air es dengan waktu dan suhu yang sudah ditentukan. Kegiatan ini bertujuan untuk meningkatkan pemahaman para pelaku olahraga baik sebagai atlit, pembina dan staff kepelatihan tentang salah satu model recovery yang bertujuan untuk memulihkan kembali tenaga yang terkuras ketika latihan dan pertandingan sehingga membuat atlit pulih lebih cepat dan segar kembali serta membantu proses penyembuhan saat terjadinya suatu cedera. Dalam pelaksanaan kegiatan pengabdian masyarakat kami dari Prodi Pendidikan Kepelatihan Olahraga Universitas Bhayangkara Jakarta Raya berharap dapat memberikan suatu pencerahan bagi pelaku olahraga di Tim Cosmo FC agar lebih memahami dan mengerti tentang metode ice bath untuk recovery sehingga membuat tim menjadi lebih siap dalam mengikuti Liga Profesional Futsal di Indonesia maupun untuk level yang lebih tinggi. Kedepannya Prodi Pendidikan Kepelatihan Olahraga bisa terus memberikan pelatihan dan bimbingan terhadap perkembangan dan kemajuan olahraga pada cabang olahraga yang lain baik pada level nasional ataupun level daerah sehingga nantinya terjalin kerjasama yang baik dalam pembinaan olahraga prestasi serta membantu melahirkan atlet berprestasi baik dilevel nasional maupun daerah dan mampu bersaing ditingkat internasional dalam mengharumkan nama Indonesia. \n  \nKata Kunci: Pelatihan, Terapi, Ice Bath, Recovery, Olahraga, Futsal"
+    },
+    {
+      "paperId": "ebe06330acd03126d66540ff09cace12b02837ec",
+      "url": "https://www.semanticscholar.org/paper/ebe06330acd03126d66540ff09cace12b02837ec",
+      "title": "EFEK CONTRAST BATH DIBANDINGKAN ICE BATH PADA PEMULIHAN KEKUATAN OTOT PEMAIN FUTSAL",
+      "year": 2020,
+      "openAccessPdf": {
+        "url": "https://ejournal.umm.ac.id/index.php/physiohs/article/download/13886/pdf",
+        "status": "GOLD",
+        "license": "CCBYSA",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.22219/PHYSIOHS.V1I2.13886?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.22219/PHYSIOHS.V1I2.13886, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "50981221",
+          "name": "K. Utami"
+        },
+        {
+          "authorId": "1396609575",
+          "name": "Azumah Azumah"
+        },
+        {
+          "authorId": "2079182465",
+          "name": "Ali Multazam"
+        },
+        {
+          "authorId": "1391790710",
+          "name": "Nikmatur Rosidah"
+        }
+      ],
+      "abstract": "Latar belakang: Pemain futsal dituntut memiliki komponen kondisi fisik yang baik terutama kekuatan otot. Bermain dengan intensitas tinggi dapat mengakibatkan kelelahan otot dan dapat mengurangi performa pemain. Secara fisiologis, kondisi pemain akan kembali seperti semula setelah beristirahat. Namun, pemain dituntut untuk secepatnya pulih dari kelelahan sehingga dibutuhkan metode pemulihan yang tepat salah satunya menggunakan hidroterapi, yaitu contrast bath dan ice bath. Metode ini sudah banyak diaplikasikan pada atlet, tetapi penelitian secara komprehensif tentang efektivitas kedua metode ini masih terbatas. Tujuan: penelitian ini dilakukan untuk mengetahui perbandingan pengaruh contrast bath dan ice bath terhadap pemulihan kekuatan otot pada pemain futsal. Metode penelitian: Jenis penelitian ini adalah Quasi Eksperimental dengan model eksperimen two group pretest-posttest menggunakan tekhnik purposive sampling. Responden dalam penelitian ini adalah siswa SMA yang mengikuti ekstrakurikuler futsal yang dikelompokkan dalam grup contrast bath dan grup ice bath. Pengukuran kekuatan otot dilakukan menggunakan Leg dynamometer test.Hasil: Berdasarkan hasil analisis statistic Mann-Whitney U-Test, tidak terdapat perbedaan bermakna pada pengaruh contrast bath dan ice bath terhadap pemulihan kekuatan otot (p<0,05). Kesimpulan: Tidak terdapat perbedaan pengaruh contrast bath dan ice bath terhadap pemulihan kekuatan otot pada pemain futsal SMA kota Malang. \nKata Kunci: Contrast Bath, Ice Bath, Kekuatan Otot, Futsal"
+    },
+    {
+      "paperId": "e030ce10969733aa4aa4d8690c37a0a98a9c2eeb",
+      "url": "https://www.semanticscholar.org/paper/e030ce10969733aa4aa4d8690c37a0a98a9c2eeb",
+      "title": "Warming to the ice bath: Don’t go cool on cold water immersion just yet!",
+      "year": 2020,
+      "openAccessPdf": {
+        "url": "https://www.tandfonline.com/doi/pdf/10.1080/23328940.2020.1727085?needAccess=true",
+        "status": "BRONZE",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1080/23328940.2020.1727085?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1080/23328940.2020.1727085, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "108793414",
+          "name": "M. Ihsan"
+        },
+        {
+          "authorId": "6729388",
+          "name": "C. Abbiss"
+        },
+        {
+          "authorId": "5490160",
+          "name": "W. Gregson"
+        },
+        {
+          "authorId": "74997179",
+          "name": "R. Allan"
+        }
+      ],
+      "abstract": "Comment on: \n \n1) Arthur J. Cheng. Cooling down the use of cryotherapy for post-exercise skeletal muscle recovery. Temperature. 2018. 5(2): 103-105. doi: 10.1080/23328940.2017.1413284. \n \n2) Cheng et al. Post-exercise recovery of contractile function and endurance in humans and mice is accelerated by heating and slowed by cooling skeletal muscle. Journal of Physiology. 2017. 595(24): 7413-7426. doi: 10.1113/JP274870"
+    },
+    {
+      "paperId": "7e5e410f80e637ce5ece36b2ebb7218db447c973",
+      "url": "https://www.semanticscholar.org/paper/7e5e410f80e637ce5ece36b2ebb7218db447c973",
+      "title": "The Effects of Roller Massage, Massage, and Ice Bath on Lactate Removal and Delayed Onset Muscle Soreness",
+      "year": 2019,
+      "openAccessPdf": {
+        "url": "http://www.sportmont.ucg.ac.me/clanci/SM_June_2019_Hartono_111-114.pdf",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.26773/smj.190620?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.26773/smj.190620, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "94563351",
+          "name": "Soetanto Hartono"
+        },
+        {
+          "authorId": "2736867",
+          "name": "A. Widodo"
+        },
+        {
+          "authorId": "2085493392",
+          "name": "Himawan Wismanadi"
+        },
+        {
+          "authorId": "151010820",
+          "name": "Gulbuldin Hikmatyar"
+        }
+      ],
+      "abstract": "The purpose of the study was to investigate the effects of rolling massage, massage, and ice bath on lactate removal and delayed onset muscle soreness. Thirty students of Faculty of Sport Sciences of third semester were randomly selected and assigned to three groups, roller massage, massage, and ice bath group. All groups were doing Running-based Anaerobic Sprint Test (RAST) after 10 minute warm up. Eight minutes after RAST, all students were examined their blood lactate using blood lactate analyzer. The roller massage group was treated using foam roller for 5 minutes, , the massage group was massaged for 5 minutes, the ice bath group were put in 10 degree cold water for 5 minutes, then their blood lactate were reexamined. The normality test of roller massage is .022, and homogeinity test p=.133, so the data was analized using nonparametric Kruskal Wallis. Contrary to results of other studies, lactate removal tends to be the most effective in ice bath treatment (17.40) compared with massage treatment (16.65), and roller massage (12.45), and reduction in Delayed Onset Muscle Soreness (DOMS) tends to be most effective in ice bath treatment (12.25) compared with massage treatment (13.95), and roller massage (20.30) eventhough non significant (p=.399). Vasoconstriction effect of ice bath made a faster lactate removal, physique trait also might have an effect. Cooling effect of ice bath has an effective analgetic effect."
+    }
+  ]
+}

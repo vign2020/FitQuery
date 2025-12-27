@@ -1,0 +1,174 @@
+{
+  "total": 25907,
+  "offset": 0,
+  "next": 5,
+  "data": [
+    {
+      "paperId": "0794e34a38ee32b4256dff5280df7bfe05a72dfc",
+      "url": "https://www.semanticscholar.org/paper/0794e34a38ee32b4256dff5280df7bfe05a72dfc",
+      "title": "Whey Protein Supplementation Combined with Exercise on Muscle Protein Synthesis and the AKT/mTOR Pathway in Healthy Adults: A Systematic Review and Meta-Analysis",
+      "year": 2025,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC12389377, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2284188610",
+          "name": "Xiaorong Ji"
+        },
+        {
+          "authorId": "2378210790",
+          "name": "Xuanyin Ye"
+        },
+        {
+          "authorId": "2378077699",
+          "name": "Shuyi Ji"
+        },
+        {
+          "authorId": "2283710486",
+          "name": "Shuxin Zhang"
+        },
+        {
+          "authorId": "2377927706",
+          "name": "Yuwen Wang"
+        },
+        {
+          "authorId": "2378204201",
+          "name": "Zhibei Zhou"
+        },
+        {
+          "authorId": "2283587588",
+          "name": "Dao Xiang"
+        },
+        {
+          "authorId": "2359992516",
+          "name": "Beibei Luo"
+        }
+      ],
+      "abstract": "Background: The process of muscle protein synthesis (MPS) plays a pivotal role in the enhancement of muscle function. Following a bout of exercise, the rate of MPS experiences an elevation for a brief period, known as the “anabolic window.” Despite whey protein supplementation has been demonstrated to augment the post-exercise anabolic window, the optimal timing and dosage remain controversial. Therefore, the present systematic review and meta-analysis were conducted to evaluate the effects of whey protein supplementation on post-exercise MPS and its protein kinase B (AKT)/mammalian target of the rapamycin (mTOR) pathway in healthy adults. Methods: Following PRISMA guidelines, this review included 21 RCTs, with 15 studies subjected to meta-analysis and 6 studies to qualitative analysis. Eligible studies examined myofibrillar fractional synthetic rate (FSR) or the AKT/mTOR pathway-related protein phosphorylation levels in muscle biopsy samples. Results: The combination of whey protein supplementation and exercise has been shown to significantly enhance FSR (Hedge’s g = 1.24, 95% CI: 0.71–1.77; p < 0.001), with increases ranging from 1.3 to 1.6 folds when consumed immediately after exercise and up to 2.5 folds when given 45 min prior to multiple-set resistance exercise. A dose-dependent increase in FSR was observed in response to whey protein supplementation, ranging from 10 to 60 g. In comparison to the placebo group, whey protein supplementation enhanced the phosphorylation levels of AKT, mTOR, eukaryotic translation initiation factor 4E-binding protein-1 (4E-BP1), 70 kDa ribosomal protein S6 kinase (p70S6K), and ribosomal protein S6 (rpS6) at 1–2 h post-exercise. Phosphorylation levels of p70S6K and rpS6 decreased 4–5 h after exercise. Conclusions: The combination of whey protein supplementation and exercise improves MPS in a time- and dose-dependent manner. Consumption of 20–40g of whey protein before multiple sets of resistance exercise may enhance myofibrillar FSR and activate the AKT/mTOR pathway, thereby augmenting MPS and extending the anabolic window."
+    },
+    {
+      "paperId": "072d74392ecc7931faf713190691a1e820b19290",
+      "url": "https://www.semanticscholar.org/paper/072d74392ecc7931faf713190691a1e820b19290",
+      "title": "Resistance exercise and skeletal muscle: protein synthesis, degradation, and controversies",
+      "year": 2025,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s00421-025-05832-z?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s00421-025-05832-z, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2315488314",
+          "name": "Fujue Ji"
+        },
+        {
+          "authorId": "2315629943",
+          "name": "Haesung Lee"
+        },
+        {
+          "authorId": "2243917628",
+          "name": "Jong-Hee Kim"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "90c69af686f5725d6e7e1d5e98f7d309914b3ee5",
+      "url": "https://www.semanticscholar.org/paper/90c69af686f5725d6e7e1d5e98f7d309914b3ee5",
+      "title": "High-Quality Supplemental Protein Enhances Acute Muscle Protein Synthesis and Long-Term Strength Adaptations to Resistance Training in Young and Old Adults.",
+      "year": 2021,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.1093/jn/nxab099",
+        "status": "BRONZE",
+        "license": "publisher-specific-oa",
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1093/jn/nxab099?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1093/jn/nxab099, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "5145938",
+          "name": "S. Pasiakos"
+        },
+        {
+          "authorId": "1454174375",
+          "name": "Emily E. Howard"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "459763cfa91aafd3648ed55ec88efd299ef9f461",
+      "url": "https://www.semanticscholar.org/paper/459763cfa91aafd3648ed55ec88efd299ef9f461",
+      "title": "Time-of-day effect of high-intensity muscle contraction on mTOR signaling and protein synthesis in mice",
+      "year": 2025,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": "CCBYNCND",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC12229473, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2113686427",
+          "name": "Taiga Mishima"
+        },
+        {
+          "authorId": "2370099204",
+          "name": "Yosuke Takenaka"
+        },
+        {
+          "authorId": "2370100461",
+          "name": "Akiko Hashimoto-Hachiya"
+        },
+        {
+          "authorId": "2370099832",
+          "name": "Yukiko Tanigawa"
+        },
+        {
+          "authorId": "2370101211",
+          "name": "Natsumi Suzuki"
+        },
+        {
+          "authorId": "2356128586",
+          "name": "Katsutaka Oishi"
+        },
+        {
+          "authorId": "4617915",
+          "name": "R. Ogasawara"
+        }
+      ],
+      "abstract": "Resistance exercise promotes muscle protein synthesis by activating mechanistic target of rapamycin (mTOR). The magnitude of muscle hypertrophy might differ depending on the timing of resistance exercise, but the molecular mechanism remains unclear. We aimed to define whether the time of day when muscles are contracted affects mTOR signaling and muscle protein synthesis. Adult male C57BL/6 J mice were housed under a 12 h/12 h light/dark cycle, and right gastrocnemius muscles were contracted using percutaneous electrical stimulation at 1, 7, 13, or 19 h after lights on. Contractions induced more phosphorylation of downstream targets of mTOR complex 1 (mTORC1) signaling such as S6K1 and rpS6 during the light (sleep), than the dark (active) phase, while expression of the negative regulator of mTORC1 that regulates development and DNA damage responses 1 (REDD1) was anti-phasic. Basal muscle protein synthesis in the sedentary leg was higher during the light, compared to the dark phase, while contraction-induced synthesis did not significantly vary throughout the day. Muscle hypertrophy is controlled by the balance between protein synthesis and degradation. Therefore, further studies are needed to elucidate the time-of-day effects of resistance exercise on muscle hypertrophy."
+    },
+    {
+      "paperId": "a996b82bd84217501cb3370e3c6c1874f7fcb3b5",
+      "url": "https://www.semanticscholar.org/paper/a996b82bd84217501cb3370e3c6c1874f7fcb3b5",
+      "title": "The Role of Protein Intake and its Timing on Body Composition and Muscle Function in Healthy Adults: A Systematic Review and Meta-Analysis of Randomized Controlled Trials.",
+      "year": 2020,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.1093/jn/nxaa049",
+        "status": "BRONZE",
+        "license": "publisher-specific-oa",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1093/jn/nxaa049?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1093/jn/nxaa049, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "47476111",
+          "name": "Janine Wirth"
+        },
+        {
+          "authorId": "6149319",
+          "name": "Elaine Hillesheim"
+        },
+        {
+          "authorId": "143634736",
+          "name": "L. Brennan"
+        }
+      ],
+      "abstract": "BACKGROUND\nIncreased protein intake has been suggested to improve gains in muscle mass and strength in adults. Furthermore, the timing of protein intake has been discussed as a margin of opportunity for improved prevention measures.\n\n\nOBJECTIVE\nThis systematic review investigated the effect of protein supplementation on body composition and muscle function (strength and synthesis) in healthy adults, with an emphasis on the timing of protein intake.\n\n\nMETHODS\nRandomized controlled trials were identified using PubMed, Web of Science, CINAHL, and Embase, up to March 2019. For meta-analyses, data on lean body mass (LBM), handgrip strength, and leg press strength were pooled by age group (mean age 18-55 or >55 y) and timing of protein intake. The quality of evidence was assessed using the Grading of Recommendations, Assessment, Development and Evaluations approach.\n\n\nRESULTS\nData from 65 studies with 2907 participants (1514 men and 1380 women, 13 unknown sex) were included in the review. Twenty-six, 8, and 24 studies were used for meta-analysis on LBM, handgrip strength, and leg press strength, respectively. The protein supplementation was effective in improving (mean difference; 95% CI) LBM in adults (0.62 kg; 0.36, 0.88) and older adults (0.46 kg; 0.23, 0.70), but not handgrip strength (older adults: 0.26 kg; -0.51, 1.04) and leg press strength (adults: 5.80 kg; -0.33, 11.93; older adults: 1.97 kg; -2.78, 6.72). Sensitivity analyses removing studies without exercise training had no impact on the outcomes. Data regarding muscle synthesis were scarce and inconclusive. Subgroup analyses showed no beneficial effect of a specific timing of protein intake on LBM, handgrip strength, and leg press strength.\n\n\nCONCLUSION\nOverall, the results support the positive impact of protein supplementation on LBM of adults and older adults, independently of intake timing. Effects on muscle strength and synthesis are less clear and need further investigation. This systematic review was registered on PROSPERO as CRD42019126742."
+    }
+  ]
+}

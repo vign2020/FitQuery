@@ -1,0 +1,182 @@
+{
+  "total": 4146,
+  "offset": 0,
+  "next": 5,
+  "data": [
+    {
+      "paperId": "02426a3ae7cc35848c4ee53ab62b9ce1372be1ab",
+      "url": "https://www.semanticscholar.org/paper/02426a3ae7cc35848c4ee53ab62b9ce1372be1ab",
+      "title": "Overuse Injuries, Overtraining, and Burnout in Young Athletes.",
+      "year": 2024,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1542/peds.2023-065129?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1542/peds.2023-065129, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "145082643",
+          "name": "J. Brenner"
+        },
+        {
+          "authorId": "2280113118",
+          "name": "Andrew Watson"
+        }
+      ],
+      "abstract": "Sports participation can have tremendous physical and mental health benefits for children. Properly implemented progressive training programs can yield a broad range of beneficial physiologic adaptations, but imbalances of training load and recovery can have important negative consequences. Overuse injuries, for example, can result from repetitive stress without sufficient recovery that leads to accumulated musculoskeletal damage. In addition, extended periods of increased training loads that exceed the intervening recovery can have systemic consequences such as overtraining syndrome, which results in decreased performance, increased injury and illness risk, and derangement of endocrine, neurologic, cardiovascular, and psychological systems. Burnout represents one of the primary reasons for attrition in youth sports. Broadly defined as physical or mental exhaustion and a reduced sense of accomplishment that leads to devaluation of sport, burnout represents a direct threat to the goal of lifelong physical activity and the wide-ranging health benefits that it provides. This clinical report is intended to provide pediatricians with information regarding the risk factors, diagnosis, management, and prevention of these conditions to assist in the identification of at-risk children, the treatment of young athletes, and the guidance of families in the promotion of safe and healthy sport participation."
+    },
+    {
+      "paperId": "3a1496e7fc980f0158472969786513efed181e30",
+      "url": "https://www.semanticscholar.org/paper/3a1496e7fc980f0158472969786513efed181e30",
+      "title": "A Narrative Review on Adipose Tissue and Overtraining: Shedding Light on the Interplay among Adipokines, Exercise and Overtraining",
+      "year": 2024,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/1422-0067/25/7/4089/pdf?version=1712474776",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11012884, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "1511701767",
+          "name": "Marta Mallardo"
+        },
+        {
+          "authorId": "46392688",
+          "name": "A. Daniele"
+        },
+        {
+          "authorId": "2248425117",
+          "name": "G. Musumeci"
+        },
+        {
+          "authorId": "3524667",
+          "name": "E. Nigro"
+        }
+      ],
+      "abstract": "Lifestyle factors, particularly physical inactivity, are closely linked to the onset of numerous metabolic diseases. Adipose tissue (AT) has been extensively studied for various metabolic diseases such as obesity, type 2 diabetes, and immune system dysregulation due to its role in energy metabolism and regulation of inflammation. Physical activity is increasingly recognized as a powerful non-pharmacological tool for the treatment of various disorders, as it helps to improve metabolic, immune, and inflammatory functions. However, chronic excessive training has been associated with increased inflammatory markers and oxidative stress, so much so that excessive training overload, combined with inadequate recovery, can lead to the development of overtraining syndrome (OTS). OTS negatively impacts an athlete’s performance capabilities and significantly affects both physical health and mental well-being. However, diagnosing OTS remains challenging as the contributing factors, signs/symptoms, and underlying maladaptive mechanisms are individualized, sport-specific, and unclear. Therefore, identifying potential biomarkers that could assist in preventing and/or diagnosing OTS is an important objective. In this review, we focus on the possibility that the endocrine functions of AT may have significant implications in the etiopathogenesis of OTS. During physical exercise, AT responds dynamically, undergoing remodeling of endocrine functions that influence the production of adipokines involved in regulating major energy and inflammatory processes. In this scenario, we will discuss exercise about its effects on AT activity and metabolism and its relevance to the prevention and/or development of OTS. Furthermore, we will highlight adipokines as potential markers for diagnosing OTS."
+    },
+    {
+      "paperId": "ce3c42629a3ccc9186c63bde591793946b303252",
+      "url": "https://www.semanticscholar.org/paper/ce3c42629a3ccc9186c63bde591793946b303252",
+      "title": "The Impact of Inadequate Sleep on Overtraining Syndrome in 18-22-Year-Old Male and Female College Athletes: A Literature Review",
+      "year": 2024,
+      "openAccessPdf": {
+        "url": "https://assets.cureus.com/uploads/review_article/pdf/204273/20240314-21972-4nzyqb.pdf",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11015874, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2283968869",
+          "name": "Hemangi Patel"
+        },
+        {
+          "authorId": "2289710955",
+          "name": "Pradeep Vanguri"
+        },
+        {
+          "authorId": "2291715451",
+          "name": "Divya Kumar"
+        },
+        {
+          "authorId": "2291505385",
+          "name": "Dianna Levin"
+        }
+      ],
+      "abstract": "Both male and female athletes experience acute fatigue and decreased performance from intense training sessions and training cycles with inadequate recovery. The concept of training with insufficient recovery time is known as overtraining syndrome (OTS). Primary stressors leading to OTS include excessive training, environmental factors, and inadequate levels of sleep. Sleep is a critical component of rest, recovery, memory, and cognitive function in collegiate athletes, known as male and female athletes between 18 and 22 years old. Collegiate athletes are more prone to inadequate levels of sleep, which can lead to elevated levels of fatigue, a lack of energy, motivation, alertness, and a weakened immune system. Additionally, inadequate levels of sleep lead to decreased glycogen stores in the body, affecting the functioning of physiological pathways. The processes of removing toxins and the release of growth hormones (GHs) are also impacted. GH is secreted as the rapid eye movement (REM) phase alternates with the non-REM phase and continues to rise until it peaks in the REM sleep stage, which is important for physical recovery, memory formation, and emotional regulation. This literature review aims to summarize current research on overtraining and the physiological changes that are present in both males and females from inadequate levels of sleep, emphasizing its importance in body homeostasis."
+    },
+    {
+      "paperId": "fe0308b88975f135be9dabb74edfc94b8bffc13b",
+      "url": "https://www.semanticscholar.org/paper/fe0308b88975f135be9dabb74edfc94b8bffc13b",
+      "title": "Up-to-date understanding of overtraining syndrome and overlap with related disorders",
+      "year": 2024,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.1024/2674-0052/a000072",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1024/2674-0052/a000072?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1024/2674-0052/a000072, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2094340042",
+          "name": "Nekisa Haghighat"
+        },
+        {
+          "authorId": "114061824",
+          "name": "Todd Stull"
+        }
+      ],
+      "abstract": "Abstract: Introduction: The rigorous training regimens of elite athletes are, by nature, emotionally, physically, and mentally demanding. These regimens can result in marked improvements in athletic performance when they incorporate adequate intervals of rest and recovery. Continued training in the absence of adequate recovery progresses to a constellation of symptoms that affect medical and mental health, which is referred to as overtraining syndrome (OTS). Method: A literature review was conducted using PubMed, a database of reference on medical research maintained by the US national Library of Medicine and the National Institute of Health. Search terms included “overtraining syndrome”, “Unexplained Underperformance” (UUPS), “Burnout” in athletes. Results: The collection of the published work provides insight into the multidimensional composition and complexity of OTS in athletes. OTS progresses along a continuum without adequate recovery. Conclusion: Decreased athletic performance in the setting of increased training intensity without appropriate recovery, often accompanied by changes in mood, motivation, and general well-being are the distinctive features of OTS. OTS is preceded by stages of underperformance that are reversable and preventable, highlighting the importance of recognizing, managing, and preventing overtraining in athletes in order to prevent long-term negative outcomes is a maladaptive response to an imbalance between exercise and recovery."
+    },
+    {
+      "paperId": "1a52add8ec02a1c6d83744a66dbe2e93244c7ba5",
+      "url": "https://www.semanticscholar.org/paper/1a52add8ec02a1c6d83744a66dbe2e93244c7ba5",
+      "title": "The Potential Role of Nutrition in Overtraining Syndrome: A Narrative Review",
+      "year": 2023,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/2072-6643/15/23/4916/pdf?version=1700842555",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10708264, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2124581303",
+          "name": "M. E. la Torre"
+        },
+        {
+          "authorId": "2222829870",
+          "name": "Antonietta Monda"
+        },
+        {
+          "authorId": "3065827",
+          "name": "A. Messina"
+        },
+        {
+          "authorId": "2214417124",
+          "name": "Maria Ida de Stefano"
+        },
+        {
+          "authorId": "5396974",
+          "name": "V. Monda"
+        },
+        {
+          "authorId": "34830574",
+          "name": "Fiorenzo Moscatelli"
+        },
+        {
+          "authorId": "2204753582",
+          "name": "Francesco Tafuri"
+        },
+        {
+          "authorId": "2215419886",
+          "name": "Emma Saraiello"
+        },
+        {
+          "authorId": "48906147",
+          "name": "F. Latino"
+        },
+        {
+          "authorId": "2212834273",
+          "name": "Marcellino Monda"
+        },
+        {
+          "authorId": "145188467",
+          "name": "G. Messina"
+        },
+        {
+          "authorId": "2184142015",
+          "name": "Rita Polito"
+        },
+        {
+          "authorId": "2254798775",
+          "name": "Domenico Tafuri"
+        }
+      ],
+      "abstract": "Competition between athletes and an increase in sporting knowledge have greatly influenced training methods while increasing the number of them more and more. As a result, the number of athletes who have increased the number and intensity of their workouts while decreasing recovery times is rising. Positive overtraining could be considered a natural and fundamental process when the result is adaptation and improved performance; however, in the absence of adequate recovery, negative overtraining could occur, causing fatigue, maladaptation, and inertia. One of the earliest forms of fatigue is overreaching. It is considered to be an accumulation of training that leads to reduced sports performance, requiring days or weeks to recover. Overreaching, if followed by adequate recovery, can lead to an increase in athletic performance. Nonetheless, if overreaching becomes extreme, combined with additional stressors, it could lead to overtraining syndrome (OTS). OTS, caused by systemic inflammation, leads to central nervous system (CNS) effects, including depressed mood, further inflammation, central fatigue, and ultimately neurohormonal changes. There are therefore not only physiological, biochemical, and immunological but also psychological symptoms or markers that must be considered, independently or together, being intrinsically linked with overtraining, to fully understand OTS. However, to date, there are very few published studies that have analyzed how nutrition in its specific food aspects, if compromised during OTS, can be both etiology and consequence of the syndrome. To date, OTS has not yet been fully studied, and the topic needs further research. The purpose of this narrative review is therefore to study how a correct diet and nutrition can influence OTS in all its aspects, from prevention to treatment."
+    }
+  ]
+}

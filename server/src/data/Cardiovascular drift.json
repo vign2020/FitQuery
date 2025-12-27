@@ -1,0 +1,202 @@
+{
+  "total": 1377379,
+  "offset": 0,
+  "next": 5,
+  "data": [
+    {
+      "paperId": "880df7dc965002d6a82168c6ea2bb86d314c63d0",
+      "url": "https://www.semanticscholar.org/paper/880df7dc965002d6a82168c6ea2bb86d314c63d0",
+      "title": "Age-Related Differences in the Onset of Cardiovascular Drift during Progressive Heat Stress (PSU HEAT Project)",
+      "year": 2024,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1152/physiol.2024.39.s1.555?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1152/physiol.2024.39.s1.555, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2119215999",
+          "name": "Rachel M. Cottle"
+        },
+        {
+          "authorId": "2214857441",
+          "name": "Kat G. Fisher"
+        },
+        {
+          "authorId": "144051435",
+          "name": "S. Wolf"
+        },
+        {
+          "authorId": "2304412732",
+          "name": "F. T. W. Larry Kenney"
+        }
+      ],
+      "abstract": "As a result of the increasing duration, frequency, and severity of heat waves, older men and women are at greater risk for heat-related morbidity and mortality, with the majority of excess heat-related deaths attributed to increased cardiovascular strain associated with heat stress. PURPOSE: To (1) identify the environmental conditions (ambient temperature (Tdb) and humidity (rh)) at which heart rate (HR) begins to increase from equilibrium (i.e., the onset of cardiovascular drift), and (2) compare the environments in which cardiovascular drift begins relative to those at which a continuous rise in core temperature (Tc) is observed in young (Y), middle (MA), and older (O) adults. Methods: 26 Y (10 F; 19-29 yrs), 27 MA (21F; 40-64 yrs), and 19 O (7 F; 65-76 yrs) subjects were exposed to progressive heat stress in an environmental chamber at a low metabolic rate reflecting activities of daily living (159 ± 34 W) in a warm-humid (WH, 34-36°C, 50-80% rh) and a hot-dry (HD, 38°C-52°C, <30% rh) environment. The environmental thresholds above which HR and Tc equilibrium could no longer be maintained were identified. Results: In WH environments, sustained increases in HR preceded the Tc inflection point in Y (73±5% rh vs. 81±5% rh; p<0.001), MA (67±11% rh vs. 73±12% rh; p<0.001), and O adults (53±11% rh vs. 57±12% rh; p=0.041). Similarly, in HD (15-20% rh) environments, the onset of cardiovascular drift preceded the Tc inflection point in Y (47±3°C vs. 49±3°C; p=0.004), MA (44±4°C vs. 46±4°C; p<0.001), and O adults (42±5°C vs. 44±4°C; p=0.007). Additionally, in WH environments, cardiovascular drift began at lower combinations of Tdb and rh in O vs. Y subjects (34°C, 53±11% rh vs. 34°C, 73±5% rh; p<0.001) and O vs. MA adults (34°C, 53±11% rh vs. 34°C, 67±11% rh; p=0.008). In HD environments, cardiovascular drift began at lower environments in MA vs. Y (44±4°C, 18% rh vs. 47±3°C, 15% rh; p=0.044) and O vs. Y (42±5°C, 20% rh vs. 47±3°C, 15% rh; p=0.006) CONCLUSION: These data suggest that cardiovascular drift, indicating increases in cardiovascular strain, occurs during compensable heat stress at metabolic rates reflecting activities of daily living in Y, MA, and O adults. Further, there is an age-associated shift in the onset of cardiovascular drift toward lower combinations of Tdb and rh. SIGNIFICANCE/NOVELTY: These results are the first to identify the specific environmental conditions at which increases in cardiovascular strain occur across the adult age spectrum. These findings provide concrete data for the development of safety guidelines and policy decisions to mitigate cardiovascular-related morbidity and mortality during impending heat events. Supported by NIA Grant T32 AG049676 (to R.M.C.) and NIH Grant R01 AG067471 (to W.L.K.). This is the full abstract presented at the American Physiology Summit 2024 meeting and is only available in HTML format. There are no additional versions or additional content available for this abstract. Physiology was not involved in the peer review process."
+    },
+    {
+      "paperId": "f0281974b068dc688030dffeea4ecc4387e414e5",
+      "url": "https://www.semanticscholar.org/paper/f0281974b068dc688030dffeea4ecc4387e414e5",
+      "title": "Metabolic Heat Production Modulates the Cardiovascular Drift–V̇O2max Relationship Independent of Aerobic Fitness in Women",
+      "year": 2024,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1249/MSS.0000000000003543?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1249/MSS.0000000000003543, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "40257554",
+          "name": "Tori Stone"
+        },
+        {
+          "authorId": "2316471655",
+          "name": "Sarah G Burnash"
+        },
+        {
+          "authorId": "2242816783",
+          "name": "R. L. Earley"
+        },
+        {
+          "authorId": "2248029494",
+          "name": "Anne M Mulholland"
+        },
+        {
+          "authorId": "13859424",
+          "name": "Hillary A Yoder"
+        },
+        {
+          "authorId": "2248614440",
+          "name": "Hayley V. MacDonald"
+        },
+        {
+          "authorId": "2311852704",
+          "name": "Mark T. Richardson"
+        },
+        {
+          "authorId": "2248564061",
+          "name": "Jonathan E. Wingo"
+        }
+      ],
+      "abstract": "ABSTRACT Introduction/Purpose The purpose of this study was to test the hypothesis that cardiovascular (CV) drift and associated decrements in maximal oxygen uptake (V̇O2max) are greater in high-fit compared with low-fit women during exercise at the same %V̇O2max, but comparable at the same rate of metabolic heat production. Methods Six high-fit (HI) and six low-fit (LO) women cycled in 35°C for 15 or 45 min at the same relative intensity (60% V̇O2max; 15REL and 45REL) or fixed rate of heat production (500 W; 15FX and 45FX), immediately followed by a graded exercise test to measure V̇O2max. The separate 15- and 45-min trials permitted measurements of V̇O2max over the same time interval as CV drift. Results During 45REL, higher heat production in HI (496 ± 51 vs 364 ± 44 W in LO) resulted in greater end-exercise core temperature (38.7°C ± 0.4°C vs 38.2°C ± 0.1°C, P = 0.03), greater increases in HR (15 bpm (10%) vs 10 bpm (6%), P = 0.03) and decreases in stroke volume (11 mL per beat (16%) vs 5 mL per beat (8%), P = 0.001), and larger reductions in V̇O2max (16% vs 5%, P = 0.04) compared with LO. During 45FX, temperature responses, CV drift, and decreased V̇O2max were not different between groups (all P > 0.05), despite differences in %V̇O2max (60% vs 75% for HI and LO, respectively). Conclusions We conclude metabolic heat production modulates the CV drift–V̇O2max relationship, independent of fitness level. These results support previous findings showing the magnitude of CV drift is proportional to reductions in V̇O2max."
+    },
+    {
+      "paperId": "d7610e1a20455df1b8b75c06fcf1aa5d82f8bb17",
+      "url": "https://www.semanticscholar.org/paper/d7610e1a20455df1b8b75c06fcf1aa5d82f8bb17",
+      "title": "Onset of Cardiovascular Drift during Progressive Heat Stress in Young Adults (PSU HEAT Project).",
+      "year": 2023,
+      "openAccessPdf": {
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10393325",
+        "status": "GREEN",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1152/japplphysiol.00222.2023?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1152/japplphysiol.00222.2023, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2119215999",
+          "name": "Rachel M. Cottle"
+        },
+        {
+          "authorId": "2214857441",
+          "name": "Kat G. Fisher"
+        },
+        {
+          "authorId": "144051435",
+          "name": "S. Wolf"
+        },
+        {
+          "authorId": "6934148",
+          "name": "W. Kenney"
+        }
+      ],
+      "abstract": "With climate change, humans are at greater risk for heat-related morbidity and mortality, often secondary to increased cardiovascular strain associated with an elevated core temperature (Tc). Critical environmental limits (i.e., the upper limits of compensable heat stress) have been established based on Tc responses for healthy, young individuals. However, specific environmental limits for the maintenance of cardiovascular homeostasis have not been investigated in the context of thermal strain during light activity. Therefore, the purposes of this study were to (1) identify the specific environmental conditions (combinations of ambient temperature and water vapor pressure) at which cardiovascular drift (i.e., a continuous rise in heart rate (HR)) began to occur and (2) compare those environments to the environmental limits for the maintenance of heat balance. Fifty-one subjects (27F;23±4yrs) were exposed to progressive heat stress across a wide range of environmental conditions in an environmental chamber at two low metabolic rates reflecting minimal activity (MinAct;159±34W) or light ambulation (LightAmb;260±55W). Whether systematically increasing ambient temperature or humidity, the onset of cardiovascular drift occurred at lower environmental conditions compared with Tc inflection points at both light intensities (P<0.05). Further, the time at which cardiovascular drift began preceded the time of Tc inflection (MinAct P=0.005; LightAmb P=0.0002), and the difference in time between HR and Tc inflection points did not differ across environmental conditions for either exercise intensity (MinAct P=0.08; LightAmb P=0.06). These data suggest that even in young adults, increases in cardiovascular strain precede the point at which heat stress becomes uncompensable during light activity."
+    },
+    {
+      "paperId": "aa42a50f29184220b019144a4f3f85ac4228cdaa",
+      "url": "https://www.semanticscholar.org/paper/aa42a50f29184220b019144a4f3f85ac4228cdaa",
+      "title": "The Effects Of Different Prolonged Aerobic Exercise Modalities On Physiological Components Of Cardiovascular Drift",
+      "year": 2024,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1249/01.mss.0001061172.31968.f3?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1249/01.mss.0001061172.31968.f3, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2203064666",
+          "name": "Ricardo Torres"
+        },
+        {
+          "authorId": "2321477706",
+          "name": "Leroy K. Bolden"
+        },
+        {
+          "authorId": "1573856172",
+          "name": "Tomas J. Chapman-Lopez"
+        },
+        {
+          "authorId": "2321473599",
+          "name": "Jordan Ledington"
+        },
+        {
+          "authorId": "2248734641",
+          "name": "Meena Meiyyappan"
+        },
+        {
+          "authorId": "2321479023",
+          "name": "Kaitlyn Gingell"
+        },
+        {
+          "authorId": "2321476914",
+          "name": "Adam Crone"
+        },
+        {
+          "authorId": "2321645008",
+          "name": "Brian Leutholtz"
+        },
+        {
+          "authorId": "5166497",
+          "name": "Jeffrey S. Forsse"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "6ec35a674d61f561e105a9fb6dae67bf76c3e401",
+      "url": "https://www.semanticscholar.org/paper/6ec35a674d61f561e105a9fb6dae67bf76c3e401",
+      "title": "A new perspective on cardiovascular drift during prolonged exercise.",
+      "year": 2021,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.1016/j.lfs.2021.120109",
+        "status": "HYBRID",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.lfs.2021.120109?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.lfs.2021.120109, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "90617014",
+          "name": "A. Souissi"
+        },
+        {
+          "authorId": "4826553",
+          "name": "M. Haddad"
+        },
+        {
+          "authorId": "151397304",
+          "name": "Ismail Dergaa"
+        },
+        {
+          "authorId": "7746601",
+          "name": "H. Saad"
+        },
+        {
+          "authorId": "5446245",
+          "name": "K. Chamari"
+        }
+      ],
+      "abstract": null
+    }
+  ]
+}

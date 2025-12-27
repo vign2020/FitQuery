@@ -9,33 +9,51 @@ namespace
 N1
 1. 30 papers already there
 
-body mass index (BMI)
+body mass index (BMI) 
 body fat percentage
 lean body mass
 somatotype
 skinfold thickness
 waist-to-hip ratio
-body surface area
 stature measurement
 limb segment length
 body proportion analysis
-
 motor learning
-proprioception
 balance control
 coordination
 motor unit synchronization
 neural adaptation
 muscle recruitment
 reflex response
-sensory feedback
-postural stability
 
+(will include later on )
 3 papers each
 Chest , shoulder , latissimus dorsi , trapezius , rhomboidus , teres major , teres minor , neck , calf muscles , quadriceps , hamstrings , biceps , triceps , branchialis , branchioradialis , forarms , wrists , abdominal muscles ,obliques
 
 3 papers each
 bench press , squats , deadlifts , roman chairs , bicep curls , tricep push downs , push ups , pull ups , calf raises , shoulder press , leg press , seated rows , lat pull downs , hip thrusts , shrugs.
+
+
+
+N2 - Diet and supplements
+
+Creatine supplementation and strength performance
+Beta-alanine and muscular endurance
+Caffeine and cognitive or physical performance
+whey protein
+BCCA 
+EAA
+High-protein diets and muscle hypertrophy
+Low-carbohydrate vs high-carbohydrate diets for endurance performance
+Effects of dietary fat intake on hormone regulation
+Protein timing and muscle protein synthesis
+
+Adaptogens (ashwagandha, rhodiola) and stress resistance
+Omega-3 fatty acids and muscle recovery
+Collagen supplementation and tendon or joint health
+Caloric restriction and lean mass preservation
+Protein leverage hypothesis in dieting
+Metabolic adaptation during prolonged caloric deficit
 
 
 N3 - Recovery and adaptation
@@ -50,7 +68,6 @@ circadian rhythm
 hormonal recovery
 heart rate recovery
 autonomic balance
-
 overuse injury
 tendinopathy
 muscle strain
@@ -61,7 +78,6 @@ stress fracture
 rotator cuff injury
 anterior cruciate ligament (ACL)
 tissue regeneration
-
 physical therapy
 eccentric loading
 proprioception training
@@ -86,7 +102,6 @@ cardiac remodeling
 oxygen uptake
 cardiac hypertrophy
 myocardial efficiency
-
 mitochondrial biogenesis
 aerobic metabolism
 fat oxidation
@@ -97,7 +112,6 @@ metabolic flexibility
 substrate utilization
 oxidative phosphorylation
 energy expenditure
-
 endurance training
 high-intensity interval training (HIIT)
 low-intensity steady-state (LISS)
@@ -108,7 +122,6 @@ overtraining
 tapering
 cross-training
 periodization
-
 running economy
 cycling efficiency
 VO2 kinetics
@@ -119,7 +132,6 @@ fatigue resistance
 pacing strategy
 performance adaptation
 exercise tolerance
-
 cardiovascular drift
 autonomic recovery
 oxidative stress

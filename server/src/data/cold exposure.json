@@ -1,0 +1,214 @@
+{
+  "total": 2995673,
+  "offset": 0,
+  "next": 5,
+  "data": [
+    {
+      "paperId": "1f50de43c4fe2e92dbd7c1d0d1575b11b4178098",
+      "url": "https://www.semanticscholar.org/paper/1f50de43c4fe2e92dbd7c1d0d1575b11b4178098",
+      "title": "A systematic review and meta-analysis of cold exposure and cardiovascular disease outcomes",
+      "year": 2023,
+      "openAccessPdf": {
+        "url": "https://www.frontiersin.org/articles/10.3389/fcvm.2023.1084611/pdf?isPublishedV2=False",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10083291, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2151632135",
+          "name": "Jie Fan"
+        },
+        {
+          "authorId": "2164063831",
+          "name": "Yu-Chen Xiao"
+        },
+        {
+          "authorId": "2213451160",
+          "name": "Yi-Fei Feng"
+        },
+        {
+          "authorId": "151094895",
+          "name": "Lu Niu"
+        },
+        {
+          "authorId": "46880173",
+          "name": "Xing Tan"
+        },
+        {
+          "authorId": "5339655",
+          "name": "Jia-Cen Sun"
+        },
+        {
+          "authorId": "2080192985",
+          "name": "Yue-Qi Leng"
+        },
+        {
+          "authorId": "2164284696",
+          "name": "Wan-Yang Li"
+        },
+        {
+          "authorId": "2127988298",
+          "name": "Weizhong Wang"
+        },
+        {
+          "authorId": "97594715",
+          "name": "Yang-Kai Wang"
+        }
+      ],
+      "abstract": "Background Cold exposure has been considered an essential risk factor for the global disease burden, while its role in cardiovascular diseases is still underappreciated. The increase in frequency and duration of extreme cold weather events like cold spells makes it an urgent task to evaluate the effects of ambient cold on different types of cardiovascular disease and to understand the factors contributing to the population's vulnerability. Methods In the present systematic review and meta-analysis, we searched PubMed, Scopus, and Cochrane. We included original research that explored the association between cold exposure (low temperature and cold spell) and cardiovascular disease outcomes (mortality and morbidity). We did a random-effects meta-analysis to pool the relative risk (RR) of the association between a 1°C decrease in temperature or cold spells and cardiovascular disease outcomes. Results In total, we included 159 studies in the meta-analysis. As a result, every 1°C decrease in temperature increased cardiovascular disease-related mortality by 1.6% (RR 1.016; [95% CI 1.015–1.018]) and morbidity by 1.2% (RR 1.012; [95% CI 1.010–1.014]). The most pronounced effects of low temperatures were observed in the mortality of coronary heart disease (RR 1.015; [95% CI 1.011–1.019]) and the morbidity of aortic aneurysm and dissection (RR 1.026; [95% CI 1.021–1.031]), while the effects were not significant in hypertensive disease outcomes. Notably, we identified climate zone, country income level and age as crucial influential factors in the impact of ambient cold exposure on cardiovascular disease. Moreover, the impact of cold spells on cardiovascular disease outcomes is significant, which increased mortality by 32.4% (RR 1.324; [95% CI 1.2341.421]) and morbidity by 13.8% (RR 1.138; [95% CI 1.015–1.276]). Conclusion Cold exposure could be a critical risk factor for cardiovascular diseases, and the cold effect varies between disease types and climate zones. Systematic Review Registration https://www.crd.york.ac.uk/PROSPERO, identifier: CRD42022347247."
+    },
+    {
+      "paperId": "b62246d6eb6c70ff29b4a1024c62ae92647cfb97",
+      "url": "https://www.semanticscholar.org/paper/b62246d6eb6c70ff29b4a1024c62ae92647cfb97",
+      "title": "Many Ways to Rome: Exercise, Cold Exposure and Diet—Do They All Affect BAT Activation and WAT Browning in the Same Manner?",
+      "year": 2022,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/1422-0067/23/9/4759/pdf?version=1650964917",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC9103087, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2128056394",
+          "name": "Anna K Scheel"
+        },
+        {
+          "authorId": "84388803",
+          "name": "L. Espelage"
+        },
+        {
+          "authorId": "2223752",
+          "name": "A. Chadt"
+        }
+      ],
+      "abstract": "The discovery of functional brown adipose tissue (BAT) in adult humans and the possibility to recruit beige cells with high thermogenic potential within white adipose tissue (WAT) depots opened the field for new strategies to combat obesity and its associated comorbidities. Exercise training as well as cold exposure and dietary components are associated with the enhanced accumulation of metabolically-active beige adipocytes and BAT activation. Both activated beige and brown adipocytes increase their metabolic rate by utilizing lipids to generate heat via non-shivering thermogenesis, which is dependent on uncoupling protein 1 (UCP1) in the inner mitochondrial membrane. Non-shivering thermogenesis elevates energy expenditure and promotes a negative energy balance, which may ameliorate metabolic complications of obesity and Type 2 Diabetes Mellitus (T2DM) such as insulin resistance (IR) in skeletal muscle and adipose tissue. Despite the recent advances in pharmacological approaches to reduce obesity and IR by inducing non-shivering thermogenesis in BAT and WAT, the administered pharmacological compounds are often associated with unwanted side effects. Therefore, lifestyle interventions such as exercise, cold exposure, and/or specified dietary regimens present promising anchor points for future disease prevention and treatment of obesity and T2DM. The exact mechanisms where exercise, cold exposure, dietary interventions, and pharmacological treatments converge or rather diverge in their specific impact on BAT activation or WAT browning are difficult to determine. In the past, many reviews have demonstrated the mechanistic principles of exercise- and/or cold-induced BAT activation and WAT browning. In this review, we aim to summarize not only the current state of knowledge on the various mechanistic principles of diverse external stimuli on BAT activation and WAT browning, but also present their translational potential in future clinical applications."
+    },
+    {
+      "paperId": "73003cb8cebc26bee385bacdd466c735cd4501ff",
+      "url": "https://www.semanticscholar.org/paper/73003cb8cebc26bee385bacdd466c735cd4501ff",
+      "title": "Cold exposure induces lipid dynamics and thermogenesis in brown adipose tissue of goats",
+      "year": 2022,
+      "openAccessPdf": {
+        "url": "https://bmcgenomics.biomedcentral.com/counter/pdf/10.1186/s12864-022-08765-5",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC9306100, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2157431303",
+          "name": "Xin Liu"
+        },
+        {
+          "authorId": "2152930253",
+          "name": "Jing Tang"
+        },
+        {
+          "authorId": "2220074075",
+          "name": "Runan Zhang"
+        },
+        {
+          "authorId": "50623478",
+          "name": "S. Zhan"
+        },
+        {
+          "authorId": "1916701",
+          "name": "T. Zhong"
+        },
+        {
+          "authorId": "4080120",
+          "name": "Jiazhong Guo"
+        },
+        {
+          "authorId": "2152545825",
+          "name": "Yan Wang"
+        },
+        {
+          "authorId": "50491828",
+          "name": "Jiaxue Cao"
+        },
+        {
+          "authorId": "50703838",
+          "name": "Li Li"
+        },
+        {
+          "authorId": "2108532844",
+          "name": "Hongping Zhang"
+        },
+        {
+          "authorId": "2108523148",
+          "name": "Linjie Wang"
+        }
+      ],
+      "abstract": "Adaptive thermogenesis by brown adipose tissue (BAT) is important to the maintenance of temperature in newborn mammals. Cold exposure activates gene expression and lipid metabolism to provide energy for BAT thermogenesis. However, knowledge of BAT metabolism in large animals after cold exposure is still limited. In this study, we found that cold exposure induced expression of BAT thermogenesis genes and increased the protein levels of UCP1 and PGC1α. Pathway analysis showed that cold exposure activated BAT metabolism, which involved in cGMP-PKG, TCA cycle, fatty acid elongation, and degradation pathways. These were accompanied by decreased triglyceride (TG) content and increased phosphatidylcholine (PC) and phosphatidylethanolamine (PE) content in BAT. These results demonstrate that cold exposure induces metabolites involved in glycerolipids and glycerophospholipids metabolism in BAT. The present study provides evidence for lipid composition associated with adaptive thermogenesis in goat BAT and metabolism pathways regulated by cold exposure."
+    },
+    {
+      "paperId": "4404a26ee7d274e91b66e7cac6124260556dda97",
+      "url": "https://www.semanticscholar.org/paper/4404a26ee7d274e91b66e7cac6124260556dda97",
+      "title": "Cold exposure and musculoskeletal conditions; A scoping review",
+      "year": 2022,
+      "openAccessPdf": {
+        "url": "https://www.frontiersin.org/articles/10.3389/fphys.2022.934163/pdf",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC9475294, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "8020154",
+          "name": "E. Farbu"
+        },
+        {
+          "authorId": "37280979",
+          "name": "A. Höper"
+        },
+        {
+          "authorId": "5729977",
+          "name": "Eirik Reierth"
+        },
+        {
+          "authorId": "39224814",
+          "name": "T. Nilsson"
+        },
+        {
+          "authorId": "50483522",
+          "name": "M. Skandfer"
+        }
+      ],
+      "abstract": "Background: Musculoskeletal conditions are major contributors to years lived with disability. Cold exposure can be a risk factor, but any conclusion is obscure. Aim: The aim of the present scoping review was to identify the existing evidence of an association between cold exposure and musculoskeletal conditions. The aim also included to consider pain in different regions and their assessment, as well as different measures of cold exposure, effect sizes, and to assess the feasibility of future systematic reviews and meta-analyses. Eligibility criteria: The studies must have: an epidemiological design, defined cold exposure to come prior to the health outcome, defined exposure and outcome(s), existence of effect estimate(s) or data that made it possible to calculate such an estimate. Further, studies were required to be in English language and published in peer-reviewed journals. Studies that had a specific goal of studying cold exposure as an aggravator of already existing health problems were excluded. Sources: We searched Ovid MEDLINE(R) and Epub Ahead of Print, In-Process and Other Non-Indexed Citations, Daily and Versions(R), and Embase Classic + Embase for original studies. Charting method: The included studies were reviewed for study population, measurement of exposure and outcome, and effect size. Each publication was assessed for risk of bias. Results: The included studies were heterogeneous in populations, measures of cold exposure and musculoskeletal conditions. Most studies used self-reported data. They were mostly cross-sectional studies, only two were prospective and one was a case-control study. Associations were found for different cold exposures and regional musculoskeletal conditions, but the heterogeneity and lack of studies impeded valid synthesis of risk magnitude, or meta-analyses. Conclusion: The studies identified in this review indicate that cold exposure increases the risk of musculoskeletal conditions. However, there is a need for studies that better assess temporality between exposure and outcome. Future studies should also include better exposure assessment, including both objective measurements and measures of subjective experience of cold exposure. The heterogeneity in measurement of exposure and outcome impeded any meta-analysis."
+    },
+    {
+      "paperId": "5504934091a41edd09a07b4149726ebb658f90f6",
+      "url": "https://www.semanticscholar.org/paper/5504934091a41edd09a07b4149726ebb658f90f6",
+      "title": "The Effect of Cold Exposure on Cognitive Performance in Healthy Adults: A Systematic Review",
+      "year": 2021,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/1660-4601/18/18/9725/pdf",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC8470111, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "6943308",
+          "name": "M. Falla"
+        },
+        {
+          "authorId": "2474569",
+          "name": "A. Micarelli"
+        },
+        {
+          "authorId": "1891262",
+          "name": "K. Hüfner"
+        },
+        {
+          "authorId": "4188220",
+          "name": "G. Strapazzon"
+        }
+      ],
+      "abstract": "Several aspects of cognition can be affected after cold exposure, but contradictory results have been reported regarding affected cognitive domains. The aim of the current systematic review was to evaluate the effects of specific cold exposure on cognitive performance in healthy subjects. A systematic search was performed using MEDLINE (through PubMed), EMBASE (Scopus) and PsycINFO databases according to the Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines. Inclusion criteria were healthy subjects exposed to a cold environment (either simulated or not) and cognitive performance related to cold exposure with an experimental design. The literature search identified 18 studies, eight studies investigated the effect of cold air exposure and ten the effect of cold water immersion on cognitive performance of healthy subjects. There were several differences among the studies (environmental temperature reached, time of exposure, timing, and type of cognitive test administration). Cold exposure induced in most of the experimental settings (15 of 18) an impairment of CP even before accidental hypothermia was established. The most investigated and affected cognitive domains were attention and processing speed, executive function, and memory. Gender differences and effects of repeated exposure and possible acclimation on cognitive performance need further studies to be confirmed."
+    }
+  ]
+}

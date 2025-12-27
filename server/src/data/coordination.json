@@ -1,0 +1,79 @@
+{
+  "total": 661985,
+  "offset": 0,
+  "next": 3,
+  "data": [
+    {
+      "paperId": "f75933216c0a97db07a0c12b06f905f521117d6d",
+      "url": "https://www.semanticscholar.org/paper/f75933216c0a97db07a0c12b06f905f521117d6d",
+      "title": "Infrared and Raman Spectra of Inorganic and Coordination Compounds",
+      "year": 1978,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1002/0470027320.s4104?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/0470027320.s4104, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "87871389",
+          "name": "K. Nakamoto"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "20be6a4e06295792977d2d6e4c9eb9a8405226e9",
+      "url": "https://www.semanticscholar.org/paper/20be6a4e06295792977d2d6e4c9eb9a8405226e9",
+      "title": "Coordination of groups of mobile autonomous agents using nearest neighbor rules",
+      "year": 2002,
+      "openAccessPdf": {
+        "url": "https://repository.upenn.edu/cgi/viewcontent.cgi?article=1029&context=ese_papers",
+        "status": "GREEN",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/CDC.2002.1184304?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/CDC.2002.1184304, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "1688304",
+          "name": "A. Jadbabaie"
+        },
+        {
+          "authorId": "2155486351",
+          "name": "Jie Lin"
+        },
+        {
+          "authorId": "144959157",
+          "name": "A. Morse"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "7be008c8dd7d074b2428471b0e512b60e36f622d",
+      "url": "https://www.semanticscholar.org/paper/7be008c8dd7d074b2428471b0e512b60e36f622d",
+      "title": "Performance Analysis of the IEEE 802 . 11 Distributed Coordination Function",
+      "year": 2005,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "authors": [
+        {
+          "authorId": "40132385",
+          "name": "A. Girotra"
+        },
+        {
+          "authorId": "50262357",
+          "name": "Yi-Jie Jiang"
+        },
+        {
+          "authorId": "39037167",
+          "name": "M. Liu"
+        }
+      ],
+      "abstract": null
+    }
+  ]
+}

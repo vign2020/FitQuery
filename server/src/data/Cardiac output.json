@@ -1,0 +1,96 @@
+{
+  "total": 3398663,
+  "offset": 0,
+  "next": 3,
+  "data": [
+    {
+      "paperId": "078ad598968e47dffed6e0b7228d4fb3571ebc8f",
+      "url": "https://www.semanticscholar.org/paper/078ad598968e47dffed6e0b7228d4fb3571ebc8f",
+      "title": "Pulse Wave Analysis to Estimate Cardiac Output",
+      "year": 2020,
+      "openAccessPdf": {
+        "url": "https://pubs.asahq.org/anesthesiology/article-pdf/134/1/119/513741/20210100.0-00023.pdf",
+        "status": "BRONZE",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1097/ALN.0000000000003553?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1097/ALN.0000000000003553, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "115308485",
+          "name": "K. Kouz"
+        },
+        {
+          "authorId": "5233793",
+          "name": "T. Scheeren"
+        },
+        {
+          "authorId": "4258947",
+          "name": "D. De Backer"
+        },
+        {
+          "authorId": "39920984",
+          "name": "B. Saugel"
+        }
+      ],
+      "abstract": "Pulse wave analysis enables cardiac output to be estimated continuously and in real time. Pulse wave analysis methods can be classified into invasive, minimally invasive, and noninvasive and into externally calibrated, internally calibrated, and uncalibrated methods."
+    },
+    {
+      "paperId": "8f9a38a9a7d57cea03a7f769a410b7b09f1cd8aa",
+      "url": "https://www.semanticscholar.org/paper/8f9a38a9a7d57cea03a7f769a410b7b09f1cd8aa",
+      "title": "Cardiac Output Monitoring: Technology and Choice",
+      "year": 2019,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.4103/aca.aca_41_18",
+        "status": "GOLD",
+        "license": "CCBYNCSA",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6350438, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "34705055",
+          "name": "Jeff Kobe"
+        },
+        {
+          "authorId": "29088502",
+          "name": "Nitasha Mishra"
+        },
+        {
+          "authorId": "3115173",
+          "name": "V. Arya"
+        },
+        {
+          "authorId": "2104364109",
+          "name": "Waiel Al-Moustadi"
+        },
+        {
+          "authorId": "11238455",
+          "name": "Wayne Nates"
+        },
+        {
+          "authorId": "145816836",
+          "name": "B. Kumar"
+        }
+      ],
+      "abstract": "The accurate quantification of cardiac output (CO) is given vital importance in modern medical practice, especially in high-risk surgical and critically ill patients. CO monitoring together with perioperative protocols to guide intravenous fluid therapy and inotropic support with the aim of improving CO and oxygen delivery has shown to improve perioperative outcomes in high-risk surgical patients. Understanding of the underlying principles of CO measuring devices helps in knowing the limitations of their use and allows more effective and safer utilization. At present, no single CO monitoring device can meet all the clinical requirements considering the limitations of diverse CO monitoring techniques. The evidence for the minimally invasive CO monitoring is conflicting; however, different CO monitoring devices may be used during the clinical course of patients as an integrated approach based on their invasiveness and the need for additional hemodynamic data. These devices add numerical trend information for anesthesiologists and intensivists to use in determining the most appropriate management of their patients and at present, do not completely prohibit but do increasingly limit the use of the pulmonary artery catheter."
+    },
+    {
+      "paperId": "21100f3c78f16e4fb598d11a2183c7a464d66f8e",
+      "url": "https://www.semanticscholar.org/paper/21100f3c78f16e4fb598d11a2183c7a464d66f8e",
+      "title": "Cardiac Output",
+      "year": 2020,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.32388/zyi5x8",
+        "status": "HYBRID",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.32388/zyi5x8?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.32388/zyi5x8, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "3477862",
+          "name": "S. Bacon"
+        }
+      ],
+      "abstract": "The total volume of blood pumped by the heart over a set period of time, conventionally one minute; it is calculated as heart rate times stroke volume (CO= HR x SV), and is additionally dependent on preload and afterload for functional output."
+    }
+  ]
+}

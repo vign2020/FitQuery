@@ -1,4 +1,5 @@
-import { I_author } from "../Types/types";
+import { Index, RecordMetadata } from "@pinecone-database/pinecone";
+import { I_author, I_PaperContent } from "../Types/types";
 
 //2 , 3, 4, 5
 const namespaces = [
@@ -17,8 +18,12 @@ const namespaces = [
 
 //api calls
 
-const Preprocess = async (topic: any): Promise<string[]> => {
+const Preprocess = async (
+  topic: any,
+  namespace_name: Index<RecordMetadata> | undefined
+): Promise<I_PaperContent[]> => {
   try {
+    // console.log("length of the fetched data is " + topic.data.length);
     const preprocess = topic.data.map((item: any) => {
       let authors = "";
       item.authors.map((item2: I_author, idx: number) => {
@@ -28,7 +33,11 @@ const Preprocess = async (topic: any): Promise<string[]> => {
       });
       item.title += " " + authors + item.abstract;
       //here the item.title will now contain the title in the first line followed by name of authors and abstract.
-      return item.title;
+      return {
+        paperId: item.paperId,
+        abstract: item.title,
+        namespace_name: namespace_name,
+      };
     });
     // we need to append the title and all the authors name to the first line of abstract.
 
@@ -37,14 +46,17 @@ const Preprocess = async (topic: any): Promise<string[]> => {
     throw new Error((e as Error).message);
   }
 };
-export const dataIngestion = async (topic: any) => {
+export const dataIngestion = async (
+  topic: any,
+  namespace_name: Index<RecordMetadata> | undefined
+) => {
   try {
-    const result = await Preprocess(topic);
+    const result = await Preprocess(topic, namespace_name);
 
     return result;
 
     //find which namespace it should go to.
   } catch (e) {
-    throw new Error((e as Error).message);
+    throw new Error(`Error from dataIngestion ${(e as Error).message}`);
   }
 };

@@ -1,0 +1,322 @@
+{
+  "total": 5803018,
+  "offset": 0,
+  "next": 5,
+  "data": [
+    {
+      "paperId": "35a6a54bbf598f3c587c62aa80eea4f6f97260cb",
+      "url": "https://www.semanticscholar.org/paper/35a6a54bbf598f3c587c62aa80eea4f6f97260cb",
+      "title": "Mitochondrial Substrate Utilization Regulates Cardiomyocyte Cell Cycle Progression",
+      "year": 2020,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC7331943, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "35468697",
+          "name": "Alisson C. Cardoso"
+        },
+        {
+          "authorId": "38039024",
+          "name": "N. Lam"
+        },
+        {
+          "authorId": "12894260",
+          "name": "Jainy J. Savla"
+        },
+        {
+          "authorId": "3613098",
+          "name": "Y. Nakada"
+        },
+        {
+          "authorId": "36232644",
+          "name": "A. H. Pereira"
+        },
+        {
+          "authorId": "38764299",
+          "name": "Abdallah Elnwasany"
+        },
+        {
+          "authorId": "1626253992",
+          "name": "Ivan Menendez-Montes"
+        },
+        {
+          "authorId": "1454437043",
+          "name": "Emily Ensley"
+        },
+        {
+          "authorId": "1577353578",
+          "name": "U. Petric"
+        },
+        {
+          "authorId": "49819782",
+          "name": "Gaurav Sharma"
+        },
+        {
+          "authorId": "144005478",
+          "name": "A. Sherry"
+        },
+        {
+          "authorId": "94088617",
+          "name": "C. Malloy"
+        },
+        {
+          "authorId": "5916837",
+          "name": "C. Khemtong"
+        },
+        {
+          "authorId": "50179894",
+          "name": "M. Kinter"
+        },
+        {
+          "authorId": "1894586",
+          "name": "W. Tan"
+        },
+        {
+          "authorId": "1436057685",
+          "name": "C. Anene-Nzelu"
+        },
+        {
+          "authorId": "2387433601",
+          "name": "R. Foo"
+        },
+        {
+          "authorId": "13357751",
+          "name": "N. Nguyen"
+        },
+        {
+          "authorId": "122616306",
+          "name": "Shujuan Li"
+        },
+        {
+          "authorId": "145430635",
+          "name": "M. Ahmed"
+        },
+        {
+          "authorId": "7209330",
+          "name": "Waleed M. Elhelaly"
+        },
+        {
+          "authorId": "6831558",
+          "name": "Salim Abdisalaam"
+        },
+        {
+          "authorId": "4536435",
+          "name": "A. Asaithamby"
+        },
+        {
+          "authorId": "1694501",
+          "name": "Chao Xing"
+        },
+        {
+          "authorId": "7716454",
+          "name": "M. Kanchwala"
+        },
+        {
+          "authorId": "145259658",
+          "name": "G. Vale"
+        },
+        {
+          "authorId": "66993224",
+          "name": "Kaitlyn M. Eckert"
+        },
+        {
+          "authorId": "6814555",
+          "name": "Matthew A. Mitsche"
+        },
+        {
+          "authorId": "40434820",
+          "name": "J. McDonald"
+        },
+        {
+          "authorId": "1399955114",
+          "name": "Joseph A. Hill"
+        },
+        {
+          "authorId": "47033145",
+          "name": "Linzhang Huang"
+        },
+        {
+          "authorId": "4970329",
+          "name": "P. Shaul"
+        },
+        {
+          "authorId": "3012078",
+          "name": "L. Szweda"
+        },
+        {
+          "authorId": "4523274",
+          "name": "Hesham A. Sadek"
+        }
+      ],
+      "abstract": "The neonatal mammalian heart is capable of regeneration for a brief window of time after birth. However, this regenerative capacity is lost within the first week of life, which coincides with a postnatal shift from anaerobic glycolysis to mitochondrial oxidative phosphorylation, particularly towards fatty-acid utilization. Despite the energy advantage of fatty-acid beta-oxidation, cardiac mitochondria produce elevated rates of reactive oxygen species when utilizing fatty acids, which is thought to play a role in cardiomyocyte cell-cycle arrest through induction of DNA damage and activation of DNA-damage response (DDR) pathway. Here we show that inhibiting fatty-acid utilization promotes cardiomyocyte proliferation in the postnatal heart. First, neonatal mice fed fatty-acid-deficient milk showed prolongation of the postnatal cardiomyocyte proliferative window; however, cell-cycle arrest eventually ensued. Next, we generated a tamoxifen-inducible cardiomyocyte-specific pyruvate dehydrogenase kinase 4 (PDK4) knockout mouse model to selectively enhance oxidation of glycolytically derived pyruvate in cardiomyocytes. Conditional PDK4 deletion resulted in an increase in pyruvate dehydrogenase activity and consequently an increase in glucose relative to fatty-acid oxidation. Loss of PDK4 also resulted in decreased cardiomyocyte size, decreased DNA damage and expression of DDR markers and an increase in cardiomyocyte proliferation. Following myocardial infarction, inducible deletion of PDK4 improved left ventricular function and decreased remodelling. Collectively, inhibition of fatty-acid utilization in cardiomyocytes promotes proliferation, and may be a viable target for cardiac regenerative therapies. Proliferation of cardiomyocytes typically ceases shortly after birth. Here the authors show that decreasing fatty-acid oxidation extends the perinatal cardiomyocyte proliferative window and can reintroduce cell-cycle activity in adult cardiomyocytes."
+    },
+    {
+      "paperId": "aabb3ba0e9ee45b5ff38406c5faa67e7f18a764b",
+      "url": "https://www.semanticscholar.org/paper/aabb3ba0e9ee45b5ff38406c5faa67e7f18a764b",
+      "title": "Analysis of sex-based differences in energy substrate utilization during moderate-intensity aerobic exercise",
+      "year": 2021,
+      "openAccessPdf": {
+        "url": "https://link.springer.com/content/pdf/10.1007/s00421-021-04802-5.pdf",
+        "status": "HYBRID",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC8748379, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2058878181",
+          "name": "A. Cano"
+        },
+        {
+          "authorId": "104450858",
+          "name": "L. Ventura"
+        },
+        {
+          "authorId": "39059903",
+          "name": "G. Martinez"
+        },
+        {
+          "authorId": "3973805",
+          "name": "L. Cugusi"
+        },
+        {
+          "authorId": "5460266",
+          "name": "M. Caria"
+        },
+        {
+          "authorId": "5021200",
+          "name": "F. Deriu"
+        },
+        {
+          "authorId": "46860406",
+          "name": "A. Manca"
+        }
+      ],
+      "abstract": "To explore sex-based differences in energy substrate utilization during moderate-intensity aerobic exercise; to identify the underpinning candidate physiological mechanisms. Three databases were searched from inception to August 2020. Pertinent studies quantifying the utilization of substrates during moderate aerobic exercise in healthy men and reproductive-age women were considered. Studies conducted on sedentary/recreationally active and athletic populations were included and analyzed separately. Thirty-five studies entered the meta-analysis (21 in sedentary/recreationally active, 14 in athletic populations). Compared to women, the respiratory exchange ratio was significantly higher both in sedentary (mean difference, MD: + 0.03; p < 0.00001) and athletic men (MD: + 0.02; p < 0.0001). Greater carbohydrate oxidation was observed both in sedentary (standardized MD, SMD: 0.53; p = 0.006) and athletic men (SMD: 1.24; p < 0.00001). Regarding lipid substrates, sedentary men oxidized less fat than women (SMD: − 0.77; p = 0.0002), while no sex-based differences in fat oxidation were observed in athletes (SMD: 0.06; p = 0.77). Paucity of data prevented robust meta-analyses for protein sources. Sex hormones and different adrenergic activation were the most cited mechanisms to discuss sex-based differences. Meta-analyses confirmed that men display greater reliance on carbohydrates while women rely more on lipids to sustain moderate aerobic exercise. The latter finding was not confirmed in athletes, a novel aspect of the present study. Mechanistically driven research is needed to further dissect the physiological underpinnings of sex differences in substrate utilization during aerobic exercise, especially for proteins, which are still less investigated than other substrates."
+    },
+    {
+      "paperId": "d8fb328efcd81404b18abd28f25dbcbdba8b5412",
+      "url": "https://www.semanticscholar.org/paper/d8fb328efcd81404b18abd28f25dbcbdba8b5412",
+      "title": "Genome of Ganoderma Species Provides Insights Into the Evolution, Conifers Substrate Utilization, and Terpene Synthesis for Ganoderma tsugae",
+      "year": 2021,
+      "openAccessPdf": {
+        "url": "https://www.frontiersin.org/articles/10.3389/fmicb.2021.724451/pdf",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC8481371, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2075423438",
+          "name": "Nan Jiang"
+        },
+        {
+          "authorId": "2152694847",
+          "name": "Shuang Hu"
+        },
+        {
+          "authorId": "2054590336",
+          "name": "B. Peng"
+        },
+        {
+          "authorId": "2135209644",
+          "name": "Zhenhao Li"
+        },
+        {
+          "authorId": "2151461263",
+          "name": "Xiaohui Yuan"
+        },
+        {
+          "authorId": "46440882",
+          "name": "Shijun Xiao"
+        },
+        {
+          "authorId": "48467518",
+          "name": "Yongping Fu"
+        }
+      ],
+      "abstract": "Ganoderma tsugae is an endemic medicinal mushroom in Northeast China, providing important source of pharmaceutical product. Comparing with other Ganoderma species, wild G. tsugae can utilize coniferous wood. However, functional genes related to medicinal component synthesis and the genetic mechanism of conifer substrate utilization is still obscure. Here, we assembled a high-quality G. tsugae genome with 18 contigs and 98.5% BUSCO genes and performed the comparative genomics with other Ganoderma species. G. tsugae diverged from their common ancestor of G. lingzhi and G. sinense about 21 million years ago. Genes in G. tsugae-specific and G. tsugae-expanded gene families, such as salh, phea, cyp53a1, and cyp102a, and positively selected genes, such as glpk and amie, were functionally enriched in plant-pathogen interaction, benzoate degradation, and fanconi anemia pathway. Those functional genes might contribute to conifer substrate utilization of G. tsugae. Meanwhile, gene families in the terpene synthesis were identified and genome-wide SNP variants were detected in population. Finally, the study provided valuable genomic resources and offered useful hints for the functional gene mapping and investigation of key gene contributing to conifer cultivation substrate utilization and medicinal component biosynthesis."
+    },
+    {
+      "paperId": "13d0e0e490785730f43eee5ae0d2e4a76cf9d739",
+      "url": "https://www.semanticscholar.org/paper/13d0e0e490785730f43eee5ae0d2e4a76cf9d739",
+      "title": "Substrate Utilization by Brown Adipose Tissue: What’s Hot and What’s Not?",
+      "year": 2020,
+      "openAccessPdf": {
+        "url": "https://www.frontiersin.org/articles/10.3389/fendo.2020.571659/pdf",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC7545119, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "1963922071",
+          "name": "Ben T. McNeill"
+        },
+        {
+          "authorId": "39623866",
+          "name": "N. Morton"
+        },
+        {
+          "authorId": "1725186",
+          "name": "R. Stimson"
+        }
+      ],
+      "abstract": "Our understanding of brown adipose tissue (BAT) function in humans has increased rapidly over the past 10 years. This is predominantly due to the development of powerful non-invasive imaging techniques such as positron emission tomography that can quantify BAT mass and function using metabolic tracers. Activation of BAT during cold–induced thermogenesis is an effective way to dissipate energy to generate heat and requires utilization of multiple energy substrates for optimal function. This has led to interest in the activation of BAT as a potential therapeutic target for type 2 diabetes, dyslipidaemia, and obesity. Here, we provide an overview of the current understanding of BAT substrate utilization in humans and highlight additional mechanisms found in rodents, where BAT more prominently contributes to energy expenditure. During thermogenesis, BAT demonstrates substantially increased glucose uptake which appears to be critical for BAT function. However, glucose is not fully oxidized, with a large proportion converted to lactate. The primary energy substrate for thermogenesis is fatty acids, released from brown adipocyte triglyceride stores. Active BAT also sequesters circulating lipids to sustain optimal thermogenesis. Recent evidence reveals that metabolic intermediates from the tricarboxylic acid cycle and glycolytic pathways also play a critical role in BAT function. Understanding the role of these metabolites in regulating thermogenesis and whole body substrate utilization may elucidate novel strategies for therapeutic BAT activation."
+    },
+    {
+      "paperId": "41653a06a930a3ee018b390d58dfcaae078723ff",
+      "url": "https://www.semanticscholar.org/paper/41653a06a930a3ee018b390d58dfcaae078723ff",
+      "title": "Insulin-Mediated Substrate Utilization in Women with the Different Phenotypes of PCOS: Role of Androgens.",
+      "year": 2021,
+      "openAccessPdf": {
+        "url": "https://academic.oup.com/jcem/article-pdf/106/9/e3414/41379478/dgab380.pdf",
+        "status": "BRONZE",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1210/clinem/dgab380?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1210/clinem/dgab380, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "4409984",
+          "name": "F. Tosi"
+        },
+        {
+          "authorId": "2089401938",
+          "name": "M. Villani"
+        },
+        {
+          "authorId": "2089086484",
+          "name": "M. Migazzi"
+        },
+        {
+          "authorId": "2106361226",
+          "name": "Giulia Faccin"
+        },
+        {
+          "authorId": "2106359583",
+          "name": "Sabrina Garofalo"
+        },
+        {
+          "authorId": "2037882",
+          "name": "T. Fiers"
+        },
+        {
+          "authorId": "117924485",
+          "name": "J. Kaufman"
+        },
+        {
+          "authorId": "2021371",
+          "name": "E. Bonora"
+        },
+        {
+          "authorId": "6291333",
+          "name": "P. Moghetti"
+        }
+      ],
+      "abstract": "CONTEXT/OBJECTIVE\nFew studies have explored in vivo insulin action on substrate utilization in women with PCOS. In particular, no data are available in women with different PCOS phenotypes. The aim of the study was to evaluate insulin action on glucose (Gox) and lipid (Lox) oxidation, non-oxidative glucose metabolism (Gnonox), and serum free fatty acid (FFA) in different PCOS phenotypes.\n\n\nSUBJECTS\nOne hundred and eighty-seven non-diabetic women with PCOS, diagnosed according to the Rotterdam criteria. Data from a historical sample of 20 healthy women were used as reference values.\n\n\nDESIGN\nWhole body substrate utilization data were obtained by the hyperinsulinemic euglycemic clamp associated with indirect calorimetry. Serum androgens were assessed by liquid chromatography-mass spectrometry and equilibrium dialysis.\n\n\nRESULTS\nDuring hyperinsulinemia, the increase of Gox (Δ Gox), Gnonox, as well as the suppression of Lox (Δ Lox) and serum FFA (Δ% FFA) were altered in each PCOS phenotype. Moreover, Gnonox and Δ% FFA were lower in women with the classic phenotype than in those with the ovulatory or the normoandrogenic phenotypes, and Δ Gox was lower in women with the classic than in those with the ovulatory phenotype. In multivariate analysis fat mass and free testosterone were independent predictors of Δ Gox, Gnonox and Δ% FFA, whereas only fat mass predicted Δ Lox.\n\n\nCONCLUSIONS\nIn women with PCOS, regardless of their phenotypes, insulin-mediated substrate utilization is impaired. This phenomenon is greater in subjects with the classic phenotype. Free testosterone plays an independent role on insulin action abnormalities on glucose and lipid metabolism."
+    }
+  ]
+}

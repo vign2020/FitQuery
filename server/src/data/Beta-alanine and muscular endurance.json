@@ -1,0 +1,103 @@
+{
+  "total": 23,
+  "offset": 0,
+  "next": 3,
+  "data": [
+    {
+      "paperId": "e4d05e09614655eb09bbd7c76bc114ca7ad9a03e",
+      "url": "https://www.semanticscholar.org/paper/e4d05e09614655eb09bbd7c76bc114ca7ad9a03e",
+      "title": "The Interactive Effects of Beta-Alanine and Resistance Training on Muscular Endurance in Older Adults",
+      "year": 2015,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null
+      },
+      "authors": [
+        {
+          "authorId": "49153270",
+          "name": "Christopher H Bailey"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "b6e1d4a614543f627dcc1a1500e320651b1491b9",
+      "url": "https://www.semanticscholar.org/paper/b6e1d4a614543f627dcc1a1500e320651b1491b9",
+      "title": "Ingesting a pre-workout supplement containing caffeine, B-vitamins, amino acids, creatine, and beta-alanine before exercise delays fatigue while improving reaction time and muscular endurance",
+      "year": 2012,
+      "openAccessPdf": {
+        "url": "https://nutritionandmetabolism.biomedcentral.com/counter/pdf/10.1186/1743-7075-9-28",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC3361498, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "3531040",
+          "name": "B. Spradley"
+        },
+        {
+          "authorId": "32545895",
+          "name": "K. Crowley"
+        },
+        {
+          "authorId": "2093338",
+          "name": "C. Tai"
+        },
+        {
+          "authorId": "40042260",
+          "name": "K. Kendall"
+        },
+        {
+          "authorId": "34566236",
+          "name": "D. Fukuda"
+        },
+        {
+          "authorId": "5888409",
+          "name": "Enrico N. Esposito"
+        },
+        {
+          "authorId": "8373904",
+          "name": "S. E. Moon"
+        },
+        {
+          "authorId": "5936176",
+          "name": "J. Moon"
+        }
+      ],
+      "abstract": "BackgroundThe purpose of this study was to determine the effects of the pre-workout supplement Assault™ (MusclePharm, Denver, CO, USA) on upper and lower body muscular endurance, aerobic and anaerobic capacity, and choice reaction time in recreationally-trained males. Subjective feelings of energy, fatigue, alertness, and focus were measured to examine associations between psychological factors and human performance.MethodsTwelve recreationally-trained males participated in a 3-week investigation (mean +/- SD, age: 28 +/- 5 y, height: 178 +/- 9 cm, weight: 79.2 +/- 15.7 kg, VO2max: 45.7 +/- 7.6 ml/kg/min). Subjects reported to the human performance laboratory on three separate occasions. All participants completed a baseline/familiarization day of testing that included a maximal graded exercise test for the determination of aerobic capacity (VO2max), one-rep maximum (1-RM) for bench and leg press to determine 75% of 1-RM, choice reaction tests, and intermittent critical velocity familiarization. Choice reaction tests included the following: single-step audio and visual, one-tower stationary protocol, two-tower lateral protocol, three-tower multi-directional protocol, and three-tower multi-directional protocol with martial arts sticks. Subjects were randomly assigned to ingest either the supplement (SUP) or the placebo (PL) during Visit 2. Subjects were provided with the cross-over treatment on the last testing visit. Testing occurred 20 min following ingestion of both treatments.ResultsSignificant (p < 0.05) main effects for the SUP were observed for leg press (SUP: 13 ± 6 reps, PL: 11 ± 3 reps), perceived energy (SUP: 3.4 ± 0.9, PL: 3.1 ± 0.8), alertness (SUP: 4.0 ± 0.7, PL: 3.5 ± 0.8), focus (SUP: 4.1 ± 0.6, PL: 3.5 ± 0.8), choice reaction audio single-step (SUP: 0.92 ± 0.10 s, PL: 0.97 ± 0.11 s), choice reaction multi-direction 15 s (SUP: 1.07 ± 0.12 s, PL: 1.13 ± 0.14 s), and multi-direction for 30 s (SUP: 1.10 ± 0.11 s, PL: 1.14 ± 0.13 s).ConclusionsIngesting the SUP before exercise significantly improved agility choice reaction performance and lower body muscular endurance, while increasing perceived energy and reducing subjective fatigue. These findings suggest that the SUP may delay fatigue during strenuous exercise."
+    },
+    {
+      "paperId": "4cce4e9ea46cd513728c581b2393dee8ebeae73e",
+      "url": "https://www.semanticscholar.org/paper/4cce4e9ea46cd513728c581b2393dee8ebeae73e",
+      "title": "Interactive Effect of Beta-Alanine and Resistance Training on Muscular Endurance in Older Adults: 252 Board #89 June 1, 9: 30 AM - 11: 00 AM.",
+      "year": 2016,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1249/01.mss.0000485183.36409.ea?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1249/01.mss.0000485183.36409.ea, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "49153270",
+          "name": "Christopher H Bailey"
+        },
+        {
+          "authorId": "5985418",
+          "name": "J. Signorile"
+        },
+        {
+          "authorId": "13002483",
+          "name": "Amanda M Luiso"
+        },
+        {
+          "authorId": "28099922",
+          "name": "Caitlin A Lowe"
+        }
+      ],
+      "abstract": null
+    }
+  ]
+}

@@ -1,0 +1,236 @@
+{
+  "total": 515629,
+  "offset": 0,
+  "next": 3,
+  "data": [
+    {
+      "paperId": "739f466b4a710533f96f319b8141cf4e3f7cce42",
+      "url": "https://www.semanticscholar.org/paper/739f466b4a710533f96f319b8141cf4e3f7cce42",
+      "title": "Crosstalk between mitochondrial biogenesis and mitophagy to maintain mitochondrial homeostasis",
+      "year": 2023,
+      "openAccessPdf": {
+        "url": "https://jbiomedsci.biomedcentral.com/counter/pdf/10.1186/s12929-023-00975-7",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10568841, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2150801979",
+          "name": "Lei Liu"
+        },
+        {
+          "authorId": "2128155332",
+          "name": "Yanjun Li"
+        },
+        {
+          "authorId": "2257039020",
+          "name": "Guo Chen"
+        },
+        {
+          "authorId": "2143601900",
+          "name": "Quan Chen"
+        }
+      ],
+      "abstract": "Mitochondrial mass and quality are tightly regulated by two essential and opposing mechanisms, mitochondrial biogenesis (mitobiogenesis) and mitophagy, in response to cellular energy needs and other cellular and environmental cues. Great strides have been made to uncover key regulators of these complex processes. Emerging evidence has shown that there exists a tight coordination between mitophagy and mitobiogenesis, and their defects may cause many human diseases. In this review, we will first summarize the recent advances made in the discovery of molecular regulations of mitobiogenesis and mitophagy and then focus on the mechanism and signaling pathways involved in the simultaneous regulation of mitobiogenesis and mitophagy in the response of tissue or cultured cells to energy needs, stress, or pathophysiological conditions. Further studies of the crosstalk of these two opposing processes at the molecular level will provide a better understanding of how the cell maintains optimal cellular fitness and function under physiological and pathophysiological conditions, which holds promise for fighting aging and aging-related diseases."
+    },
+    {
+      "paperId": "e404dc5365970047c0425502f8beb44ed602151f",
+      "url": "https://www.semanticscholar.org/paper/e404dc5365970047c0425502f8beb44ed602151f",
+      "title": "Induction of lysosomal and mitochondrial biogenesis by AMPK phosphorylation of FNIP1",
+      "year": 2023,
+      "openAccessPdf": {
+        "url": "https://escholarship.org/content/qt3hq4s0wz/qt3hq4s0wz.pdf?t=s883gv",
+        "status": "GREEN",
+        "license": "other-oa",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1126/science.abj5559?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1126/science.abj5559, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "8898317",
+          "name": "Nazma Malik"
+        },
+        {
+          "authorId": "46612843",
+          "name": "Bibiana I. Ferreira"
+        },
+        {
+          "authorId": "6028952",
+          "name": "Pablo E. Hollstein"
+        },
+        {
+          "authorId": "51933604",
+          "name": "Stephanie D. Curtis"
+        },
+        {
+          "authorId": "46511327",
+          "name": "Elijah Trefts"
+        },
+        {
+          "authorId": "7624608",
+          "name": "S. Weiser Novak"
+        },
+        {
+          "authorId": "47891148",
+          "name": "Jingting Yu"
+        },
+        {
+          "authorId": "2214867662",
+          "name": "Rebecca Gilson"
+        },
+        {
+          "authorId": "47088230",
+          "name": "Kristina Hellberg"
+        },
+        {
+          "authorId": "2214860385",
+          "name": "Lingjing Fang"
+        },
+        {
+          "authorId": "49636458",
+          "name": "Arlo Sheridan"
+        },
+        {
+          "authorId": "6161517",
+          "name": "N. Hah"
+        },
+        {
+          "authorId": "3590954",
+          "name": "G. Shadel"
+        },
+        {
+          "authorId": "5231993",
+          "name": "U. Manor"
+        },
+        {
+          "authorId": "4426388",
+          "name": "R. Shaw"
+        }
+      ],
+      "abstract": "Cells respond to mitochondrial poisons with rapid activation of the adenosine monophosphate–activated protein kinase (AMPK), causing acute metabolic changes through phosphorylation and prolonged adaptation of metabolism through transcriptional effects. Transcription factor EB (TFEB) is a major effector of AMPK that increases expression of lysosome genes in response to energetic stress, but how AMPK activates TFEB remains unresolved. We demonstrate that AMPK directly phosphorylates five conserved serine residues in folliculin-interacting protein 1 (FNIP1), suppressing the function of the folliculin (FLCN)–FNIP1 complex. FNIP1 phosphorylation is required for AMPK to induce nuclear translocation of TFEB and TFEB-dependent increases of peroxisome proliferator–activated receptor gamma coactivator 1-alpha (PGC1α) and estrogen-related receptor alpha (ERRα) messenger RNAs. Thus, mitochondrial damage triggers AMPK-FNIP1–dependent nuclear translocation of TFEB, inducing sequential waves of lysosomal and mitochondrial biogenesis. Description Linking AMPK to organelle biogenesis The kinase AMPK is a key sensor that helps to control energy homeostasis. Malik et al. reveal the mechanism by which AMPK controls the transcription factor TFEB to increase gene transcription and to support mitochondrial and lysosomal biogenesis. AMPK appears to act by direct phosphorylation of folliculin-interacting protein 1 (FNIP1). FNIP is part of a complex that acts as a GTP-activating protein for the GTPases RagC and RagD, which regulate the mechanistic target of rapamycin complex 1 protein kinase signaling complex on the lysosomal surface. This results in release of TFEB from the lysosome, allowing it to act at the nucleus. —LBR The energy-sensing protein kinase AMPK also regulates organelle biogenesis. INTRODUCTION Eukaryotes contain a highly conserved signaling pathway that becomes rapidly activated when adenosine triphosphate (ATP) levels decrease, as happens during conditions of nutrient shortage or mitochondrial dysfunction. The adenosine monophosphate (AMP)–activated protein kinase (AMPK) is activated within minutes of energetic stress and phosphorylates a limited number of substrates to biochemically rewire metabolism from an anabolic state to a catabolic state to restore metabolic homeostasis. AMPK also promotes prolonged metabolic adaptation through transcriptional changes, decreasing biosynthetic genes while increasing expression of genes promoting lysosomal and mitochondrial biogenesis. The transcription factor EB (TFEB) is a well-appreciated effector of AMPK-dependent signals, but many of the molecular details of how AMPK controls these processes remain unknown. RATIONALE The requirement of AMPK and its specific downstream targets that control aspects of the transcriptional adaptation of metabolism remain largely undefined. We performed time courses examining gene expression changes after various mitochondrial stresses in wild-type (WT) or AMPK knockout cells. We hypothesized that a previously described interacting protein of AMPK, folliculin-interacting protein 1 (FNIP1), may be involved in how AMPK promotes increases in gene expression after metabolic stress. FNIP1 forms a complex with the protein folliculin (FLCN), together acting as a guanosine triphosphate (GTP)–activating protein (GAP) for RagC. The FNIP1-FLCN complex has emerged as an amino acid sensor to the mechanistic target of rapamycin complex 1 (mTORC1), involved in how amino acids control TFEB activation. We therefore examined whether AMPK may regulate FNIP1 to dominantly control TFEB independently of amino acids. RESULTS AMPK was found to govern expression of a core set of genes after various mitochondrial stresses. Hallmark features of this response were activation of TFEB and increases in the transcription of genes specifying lysosomal and mitochondrial biogenesis. AMPK directly phosphorylated five conserved serine residues in FNIP1, suppressing the function of the FLCN-FNIP1 GAP complex, which resulted in dissociation of RagC and mTOR from the lysosome, promoting nuclear translocation of TFEB even in the presence of amino acids. FNIP1 phosphorylation was required for AMPK to activate TFEB and for subsequent increases in peroxisome proliferation–activated receptor gamma coactivator 1-alpha (PGC1α) and estrogen-related receptor alpha (ERRα) mRNAs. Cells in which the five serines in FNIP1 were mutated to alanine were unable to increase lysosomal and mitochondrial gene expression programs after treatment with mitochondrial poisons or AMPK activators despite the presence and normal regulation of all other substrates of AMPK. By contrast, neither AMPK nor its control of FNIP1 were needed for activation of TFEB after amino acid withdrawal, illustrating the specificity to energy-limited conditions. CONCLUSION Our data establish FNIP1 as the long-sought substrate of AMPK that controls TFEB translocation to the nucleus, defining AMPK phosphorylation of FNIP1 as a singular event required for increased lysosomal and mitochondrial gene expression programs after metabolic stresses. This study also illuminates the larger biological question of how mitochondrial damage triggers a temporal response of repair and replacement of damaged mitochondria: Within early hours, AMPK-FNIP1–activated TFEB induces a wave of lysosome and autophagy genes to promote degradation of damaged mitochondria, and a few hours later, TFEB–up-regulated PGC1⍺ and ERR⍺ promote expression of a second wave of genes specifying mitochondrial biogenesis. These insights open therapeutic avenues for several common diseases associated with mitochondrial dysfunction, ranging from neurodegeneration to type 2 diabetes to cancer. Mitochondrial damage activates AMPK to phosphorylate FNIP1, stimulating TFEB translocation to the nucleus and sequential waves of lysosomal and mitochondrial biogenesis. After mitochondrial damage, activated AMPK phosphorylates FNIP1 (1), causing inhibition of FLCN-FNIP1 GAP activity (2). This leads to accumulation of RagC in its GTP-bound form, causing dissociation of RagC, mTORC1, and TFEB from the lysosome (3). TFEB is therefore not phosphorylated and translocates to the nucleus, inducing transcription of lysosomal or autophagy genes, with parallel increases in NT-PGC1α mRNA (4), which, in concert with ERRα (5), subsequently induces mitochondrial biogenesis (6). CCCP, carbonyl cyanide m-chlorophenylhydrazone; CLEAR, coordinated lysosomal expression and regulation; GDP, guanosine diphosphate; P, phosphorylation. [Figure created using BioRender]"
+    },
+    {
+      "paperId": "dddea5d03b5ae1facec8a1e83ddfb945afc63114",
+      "url": "https://www.semanticscholar.org/paper/dddea5d03b5ae1facec8a1e83ddfb945afc63114",
+      "title": "Nicotinamide riboside improves muscle mitochondrial biogenesis, satellite cell differentiation, and gut microbiota in a twin study",
+      "year": 2023,
+      "openAccessPdf": {
+        "url": "https://www.science.org/doi/pdf/10.1126/sciadv.add5163?download=true",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC9839336, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "52197089",
+          "name": "H. Lapatto"
+        },
+        {
+          "authorId": "2037318355",
+          "name": "M. Kuusela"
+        },
+        {
+          "authorId": "51144567",
+          "name": "A. Heikkinen"
+        },
+        {
+          "authorId": "9411901",
+          "name": "M. Muniandy"
+        },
+        {
+          "authorId": "14963268",
+          "name": "Birgitta W. van der Kolk"
+        },
+        {
+          "authorId": "2143892887",
+          "name": "Swetha Gopalakrishnan"
+        },
+        {
+          "authorId": "1782841603",
+          "name": "Noora Pöllänen"
+        },
+        {
+          "authorId": "21053116",
+          "name": "M. Sandvik"
+        },
+        {
+          "authorId": "11023878",
+          "name": "Mark S. Schmidt"
+        },
+        {
+          "authorId": "40196835",
+          "name": "S. Heinonen"
+        },
+        {
+          "authorId": "49929687",
+          "name": "Sina Saari"
+        },
+        {
+          "authorId": "84049934",
+          "name": "Juho Kuula"
+        },
+        {
+          "authorId": "3175275",
+          "name": "A. Hakkarainen"
+        },
+        {
+          "authorId": "1857277353",
+          "name": "Janne Tampio"
+        },
+        {
+          "authorId": "14255791",
+          "name": "Tuure Saarinen"
+        },
+        {
+          "authorId": "143690978",
+          "name": "M. Taskinen"
+        },
+        {
+          "authorId": "2150910",
+          "name": "N. Lundbom"
+        },
+        {
+          "authorId": "4490610",
+          "name": "P. Groop"
+        },
+        {
+          "authorId": "5497479",
+          "name": "M. Tiirola"
+        },
+        {
+          "authorId": "3581044",
+          "name": "P. Katajisto"
+        },
+        {
+          "authorId": "39142820",
+          "name": "M. Lehtonen"
+        },
+        {
+          "authorId": "145182360",
+          "name": "C. Brenner"
+        },
+        {
+          "authorId": "2056955378",
+          "name": "J. Kaprio"
+        },
+        {
+          "authorId": "47928595",
+          "name": "S. Pekkala"
+        },
+        {
+          "authorId": "3352165",
+          "name": "M. Ollikainen"
+        },
+        {
+          "authorId": "144549606",
+          "name": "K. Pietiläinen"
+        },
+        {
+          "authorId": "3958500",
+          "name": "E. Pirinen"
+        }
+      ],
+      "abstract": "Nicotinamide adenine dinucleotide (NAD+) precursor nicotinamide riboside (NR) has emerged as a promising compound to improve obesity-associated mitochondrial dysfunction and metabolic syndrome in mice. However, most short-term clinical trials conducted so far have not reported positive outcomes. Therefore, we aimed to determine whether long-term NR supplementation boosts mitochondrial biogenesis and metabolic health in humans. Twenty body mass index (BMI)–discordant monozygotic twin pairs were supplemented with an escalating dose of NR (250 to 1000 mg/day) for 5 months. NR improved systemic NAD+ metabolism, muscle mitochondrial number, myoblast differentiation, and gut microbiota composition in both cotwins. NR also showed a capacity to modulate epigenetic control of gene expression in muscle and adipose tissue in both cotwins. However, NR did not ameliorate adiposity or metabolic health. Overall, our results suggest that NR acts as a potent modifier of NAD+ metabolism, muscle mitochondrial biogenesis and stem cell function, gut microbiota, and DNA methylation in humans irrespective of BMI."
+    }
+  ]
+}

@@ -2,101 +2,206 @@ import { Request, Response } from "express";
 import { createEmbeddingService } from "../Services/createEmbeddigService";
 import { insertionService } from "../Services/insertionService";
 import { queryService } from "../Services/queryService";
-import { I_textChunks } from "../Types/types";
+import { I_PaperContent, I_textChunks } from "../Types/types";
 import { questionAnsweringService } from "../Services/questionAnsweringService";
-import research_data from "../data/data.json";
-import old_data from "../data/data_old.json";
 import { QueryExpansion } from "../Services/queryExpansion";
 import { dataIngestion } from "../Services/dataIngestion";
-import { topics } from "../data/topics";
-import { writeFile } from "fs/promises";
-import { file_exists } from "../utility/access";
-import { semanticscholar } from "../api/SemanticScholar";
+import { topics_insert } from "../utility/topicsinsert";
 
-export const GET_Chunks = async (req: Request, res: Response) => {
-  try {
-    const sizeOfdata = old_data.data.length;
+import {
+  Topics_biomechanics,
+  Topics_cardio_endurance,
+  Topics_diet_supplementation,
+  Topics_recovery_adaptations,
+} from "../data/topics";
+import path from "path";
+import { file_insertion } from "../utility/fileinsertion";
+import { isJsxOpeningElement } from "typescript";
+import { identifynamespace } from "../utility/identifynamespace";
+import { resourceUsage } from "process";
+import { Index, RecordMetadata } from "@pinecone-database/pinecone";
+import { namespaceMap } from "../utility/namespacemap";
 
-    const embedding_result = await Promise.all(
-      research_data.data.map(async (item, idx) => {
-        const embedding = await createEmbeddingService(item.abstract);
-        return {
-          _id: idx + sizeOfdata,
-          title: item.title,
-          embedding: embedding,
-          abstract: item.abstract,
-        };
-      })
-    );
+const LIST_OF_NAMESPACES = [
+  // Topics_biomechanics,
+  // Topics_diet_supplementation,
+  Topics_recovery_adaptations,
+  Topics_cardio_endurance,
+];
 
-    const send_embeddings: string = await insertionService(embedding_result);
+// export const GET_Chunks = async (req: Request, res: Response) => {
+//   try {
+//     const sizeOfdata = old_data.data.length;
 
-    res.status(200).send({ message: send_embeddings });
-  } catch (error) {
-    res.status(500).send({ error: error });
-  }
-};
+//     const embedding_result = await Promise.all(
+//       research_data.data.map(async (item, idx) => {
+//         const embedding = await createEmbeddingService(item.abstract);
+//         return {
+//           _id: idx + sizeOfdata,
+//           title: item.title,
+//           embedding: embedding,
+//           abstract: item.abstract,
+//         };
+//       })
+//     );
+
+//     const send_embeddings: string = await insertionService(embedding_result);
+
+//     res.status(200).send({ message: send_embeddings });
+//   } catch (error) {
+//     res.status(500).send({ error: error });
+//   }
+// };
 
 export const POST_query = async (req: Request, res: Response) => {
   try {
     const { query } = req.body;
-    // expand the query for better context
+    // EXPAND THE QUERY FOR BETTER CONTEXT
     const expanded = await QueryExpansion(query);
-    console.log("This is the expanded query " + expanded);
-    //send this query to the fetchTranscriptService;
+
+    // CREATE EMBEDDINGS FOR THE EXPANDED QUERY
     const embeddings = await createEmbeddingService(expanded);
-    const results = await queryService(expanded, embeddings);
 
-    const abstract_context = results?.matches.map((item: I_textChunks) => {
-      return item.metadata.abstract;
-    });
+    //NAMESPACE IDENTIFICATION . FINDING THE BEST ONE OUT OF THE 4
+    const filter_namespace = await identifynamespace(embeddings);
 
-    console.log("ABSTRACT CONTEXT " + abstract_context);
+    //FINDING THE TOP K RESULTS FROM THAT PARTICULAR NAMESPACE
+    const results = await queryService(expanded, embeddings, filter_namespace);
 
-    const geminiAnswer: string = await questionAnsweringService(
-      abstract_context,
-      query
-    );
+    // const abstract_context = results?.matches.map((item: I_textChunks) => {
+    //   return item.metadata.abstract;
+    // });
 
-    res.status(200).send({ geminiAnswer: geminiAnswer });
+    // console.log("ABSTRACT CONTEXT " + abstract_context);
 
-    // res.status(200).send({ expanded: expanded });
+    // const geminiAnswer: string = await questionAnsweringService(
+    //   abstract_context,
+    //   query
+    // );
+
+    res.status(200).send({ resulsts: results });
+
+    // res.status(200).send({ search_namespace: search_namespace });
   } catch (error) {
     console.log(error);
     res.status(400).send({ message: error });
   }
 };
 
-export const GET_data_ingestion = async (req: Request, res: Response) => {
+// export const GET_data_ingestion_new = async (req: Request, res: Response) => {
+//   try {
+//     console.log("inside the get data ingestion new ");
+//     let cnt = 0;
+
+//     //going through the namespaces
+//     for (const namespace of LIST_OF_NAMESPACES) {
+//       const newRes: I_PaperContent[] = [];
+//       //going through each topic of the namespace and extracting k papers from each (3 for now)
+
+//       for (const item of namespace) {
+//         ++cnt;
+
+//         // console.log(item.title);
+
+//         console.log("inside of namespace " + " and titlte " + item.title);
+
+//         const content = await topics_insert(item);
+//         // const content = await semanticscholar(item.title, item.count ?? 3);
+
+//         //saving to a file just in case i run out requests to make.
+
+//         const filePath = path.join(__dirname, "../data", `${item.title}.json`);
+
+//         file_insertion(filePath, content);
+
+//         //Does preprocessing i.e returns paperId , inserts abstract and title in one para.
+//         const result_from_ingestion = await dataIngestion(
+//           content,
+//           item.namespace_name
+//         );
+
+//         newRes.push(...result_from_ingestion);
+
+//         await new Promise((resolve) => setTimeout(resolve, 30000));
+//       }
+
+//       //newRes will therby store all the papers for a particular namespace ie. if N1 has 5 topics and each have 3 papers then it will store 15 elements
+
+//       const insertData = await Promise.all(
+//         newRes.map(async (item, idx) => {
+//           const embeddings = await createEmbeddingService(item.abstract);
+
+//           return {
+//             id: item.paperId,
+//             abstract: item.abstract,
+//             embedding: embeddings,
+//             namespace_id: item.namespace_id,7
+//             namespace_name: item.namespace_name,
+//           };
+//         })
+//       );
+
+//       //insert data into pinecone
+//       insertionService(insertData);
+//     }
+
+//     //now insert this into the pinecone db
+
+//     // USE THE PAPER ID AS THE ID IN PINECONE . REMOVE ALL THE EXISTING DATA IN NAMESPACE 1
+
+//     res
+//       .status(200)
+//       .send({ message: "successfully inserted " + cnt + "records" });
+//   } catch (e) {
+//     res.status(400).send({ message: (e as Error).message });
+//   }
+// };
+
+export const GET_data_ingestion_new = async (req: Request, res: Response) => {
   try {
-    const newRes: any[] = [];
+    let { namespace_name_string, namespace_no, title } = req.body;
+    const newRes: I_PaperContent[] = [];
 
-    for (const item of topics) {
-      //check if a file with the name exists.. if it does then no need to call the function again
+    let namespace_name: Index<RecordMetadata> =
+      namespaceMap[namespace_name_string];
 
-      // Call your ingestion function
+    const item = {
+      namespace_name: namespace_name,
+      namespace_no: namespace_no,
+      title: title,
+    };
+    const content = await topics_insert(item);
 
-      const filename = `${item.title}.json`;
+    const result_from_ingestion = await dataIngestion(
+      content,
+      item.namespace_name
+    );
+    newRes.push(...result_from_ingestion);
 
-      if (await file_exists(filename)) continue;
+    // console.log("new Res is " + JSON.stringify(newRes));
 
-      // console.log("file name " + filename);
-      const content = await semanticscholar(item.title);
-      await writeFile(filename, JSON.stringify(content), "utf8");
+    // await new Promise((resolve) => setTimeout(resolve, 30000));
 
-      //now we can ingest this data into the pincone db
-      const result_from_ingestion = await dataIngestion(content);
-      console.log("result is  " + result_from_ingestion);
+    //newRes will therby store all the papers for a particular namespace ie. if N1 has 5 topics and each have 3 papers then it will store 15 elements
 
-      //now insert the data by identifying the namespace .
+    const insertData = await Promise.all(
+      newRes.map(async (item, idx) => {
+        const embeddings = await createEmbeddingService(item.abstract);
 
-      // Wait 2 seconds before next iteration
-      await new Promise((resolve) => setTimeout(resolve, 3500));
-    }
+        return {
+          id: item.paperId,
+          abstract: item.abstract,
+          embedding: embeddings,
+          namespace_id: item.namespace_id,
+          namespace_name: item.namespace_name,
+        };
+      })
+    );
 
-    res.status(200).send({ ingest: newRes });
+    insertionService(insertData);
+
+    res.status(200).send({ message: "inserted recoreds successfully" });
   } catch (e) {
-    console.log(e);
     res.status(400).send({ message: (e as Error).message });
   }
 };

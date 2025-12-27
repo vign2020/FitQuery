@@ -1,0 +1,166 @@
+{
+  "total": 6577435,
+  "offset": 0,
+  "next": 5,
+  "data": [
+    {
+      "paperId": "4962c83b6ed048a9ef8277c82a3e858f02dd5176",
+      "url": "https://www.semanticscholar.org/paper/4962c83b6ed048a9ef8277c82a3e858f02dd5176",
+      "title": "Passive heat therapy: A promising preventive measure for people at risk of adverse health outcomes during heat extremes.",
+      "year": 2024,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1152/japplphysiol.00701.2023?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1152/japplphysiol.00701.2023, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2282130174",
+          "name": "Patrick Rodrigues"
+        },
+        {
+          "authorId": "16218754",
+          "name": "L. Orssatto"
+        },
+        {
+          "authorId": "2074756047",
+          "name": "D. Gagnon"
+        },
+        {
+          "authorId": "2282132574",
+          "name": "Amine Dahhak"
+        },
+        {
+          "authorId": "2261184729",
+          "name": "A. Hecksteden"
+        },
+        {
+          "authorId": "2282127975",
+          "name": "Ian B. Stewart"
+        },
+        {
+          "authorId": "4898545",
+          "name": "G. Minett"
+        }
+      ],
+      "abstract": "The world is experiencing increased frequency, duration, and severity of life-threatening heat extremes. Most hospitalizations and excess deaths during extreme heat events are associated with pre-existing diseases in older adults. As climate change persists, the global population ages, and the number of individuals with chronic diseases expands, more people are at risk of adverse health outcomes during extreme heat events. Therefore, proactive preventive measures are urgently needed to mitigate heat-related health risks within these populations. In this context, passive heat therapy (e.g., hot baths, saunas, and water-perfused suits) emerges as a promising countermeasure to improve physiological resilience to a warming planet. Passive heating improves cardiovascular function and overall health in older adults and individuals living with chronic diseases, offering the prospect of reducing cardiovascular strain during hotter days. Moreover, some studies suggest that passive heat therapy can be an effective strategy for heat acclimation (i.e., improved thermoregulation). This review describes the existing literature on the effects of passive heat therapy on cardiovascular and thermoregulatory responses in individuals with higher heat-related health risks and explores the use of passive heating as a strategy for heat acclimation to mitigate health risks during extreme heat events."
+    },
+    {
+      "paperId": "59e5a90cc6edd42d72012ba5727625e217dd3adc",
+      "url": "https://www.semanticscholar.org/paper/59e5a90cc6edd42d72012ba5727625e217dd3adc",
+      "title": "Heat therapy for different knee diseases: expert opinion",
+      "year": 2024,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.3389/fresc.2024.1390416",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11270809, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2309874674",
+          "name": "Roberto Rossi"
+        }
+      ],
+      "abstract": "Musculoskeletal pain is a major burden in our society. Management of musculoskeletal pain or injuries includes both pharmacological and non-pharmacological approaches, including heat therapy (HT). HT is a well-established treatment option due to its ability to promote muscle relaxation, enhance blood circulation, and modulate nociceptors with a good safety profile. The main focus of this paper is to review the available literature about HT in knee pathologies (i.e., arthrosis, arthritis, traumatic pathologies in the subacute phase, muscle and tendon pathologies linked to fatigue, muscle tension and distractions) and to provide an expert opinion in case of lack of data."
+    },
+    {
+      "paperId": "07066f8c16150b20ec2fc9220c56c1968f6a272e",
+      "url": "https://www.semanticscholar.org/paper/07066f8c16150b20ec2fc9220c56c1968f6a272e",
+      "title": "The impact of heat therapy on neuromuscular function and muscle atrophy in diabetic rats",
+      "year": 2023,
+      "openAccessPdf": {
+        "url": "https://www.frontiersin.org/articles/10.3389/fphys.2022.1039588/pdf",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC9849254, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2199511499",
+          "name": "Abdullah T. AlSabagh"
+        },
+        {
+          "authorId": "123800866",
+          "name": "M. Rao"
+        },
+        {
+          "authorId": "5534900",
+          "name": "W. Renno"
+        }
+      ],
+      "abstract": "Introduction: Diabetes Mellitus (DM) is the most common metabolic disease worldwide and is associated with many systemic complications. Muscle atrophy is one of the significant complications in DM patients, making routine tasks laborious as atrophy continues. It is known that heat stress stimulates heat shock proteins and other proteins that maintain muscle mass; however, it is not thoroughly studied in diabetic conditions. This study addressed whether heat therapy can attenuate muscle atrophy in STZ-induced diabetic rats and explored its mechanism of action on specific muscle proteins. Methods: Male Sprague Dawley rats were randomly divided into short-term (3 weeks) and long-term (6 weeks) experiments. In each experiment rats were divided into control, heat therapy, diabetic and diabetic + heat therapy groups. Rats in heat therapy groups were exposed to heat therapy for 30 min daily for three or six weeks in a temperature-controlled (42°C) chamber. Results: The attenuation of neuromuscular functions assessed by Rotarod, Kondziella’s inverted screen, and extensor postural thrust tests showed that diabetic rats exposed to heat therapy performed significantly better than diabetic controls. Muscle cross sectional area data established that heat therapy reduced muscle atrophy by 34.3% within 3 weeks and 44.1% within 6 weeks in the diabetic groups. Further, heat therapy significantly decreased muscle atrophy markers (CD68, KLF, and MAFbx) and significantly elevated muscle hypertrophy markers (AKT, mTOR, and HSP70). Conclusions: This study shows the relevance and clinical significance of utilizing heat therapy as a viable treatment to attenuate muscle atrophy in diabetic patients."
+    },
+    {
+      "paperId": "3a16948ed65cb87106b2cf5e4cc420e36b8bea8a",
+      "url": "https://www.semanticscholar.org/paper/3a16948ed65cb87106b2cf5e4cc420e36b8bea8a",
+      "title": "Acute and adaptive cardiovascular and metabolic effects of passive heat therapy or high‐intensity interval training in patients with severe lower‐limb osteoarthritis",
+      "year": 2023,
+      "openAccessPdf": {
+        "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.14814/phy2.15699",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10257080, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "7225887",
+          "name": "B. Roxburgh"
+        },
+        {
+          "authorId": "1752608357",
+          "name": "H. Campbell"
+        },
+        {
+          "authorId": "3754341",
+          "name": "J. Cotter"
+        },
+        {
+          "authorId": "1768837957",
+          "name": "U. Reymann"
+        },
+        {
+          "authorId": "2334831713",
+          "name": "Michael J. A. Williams"
+        },
+        {
+          "authorId": "83772951",
+          "name": "D. Gwynne-Jones"
+        },
+        {
+          "authorId": "2147359418",
+          "name": "Kate N. Thomas"
+        }
+      ],
+      "abstract": "Exercise is painful and difficult to perform for patients with severe lower‐limb osteoarthritis; consequently, reduced physical activity contributes to increased cardiometabolic disease risk. The aim of this study was to characterize the acute and adaptive cardiovascular and metabolic effects of two low or no impact therapies in patients with severe lower‐limb osteoarthritis: passive heat therapy (Heat) and high‐intensity interval training (HIIT) utilizing primarily the unaffected limbs, compared to a control intervention of home‐based exercise (Home). Participants completed up to 12 weeks of either Heat (20–30 min immersed in 40°C water followed by ~15‐min light resistance exercise), HIIT (6–8 × 60‐s intervals on a cross‐trainer or arm ergometer at ~90–100% peak V̇$$ \\dot{V} $$ O2) or Home (~15‐min light resistance exercise); all 3 sessions/week. Reductions in systolic (12 & 10 mm Hg), diastolic (7 & 4 mm Hg), and mean arterial (8 & 6 mm Hg) blood pressure (BP) were observed following one bout of Heat or HIIT exposure, lasting for the duration of the 20‐min monitoring period. Across the interventions (i.e., 12 weeks), resting systolic BP and diastolic BP decreased with Heat (−9 & ‐4 mm Hg; p < 0.001) and HIIT (−7 & ‐3 mm Hg; p ≤ 0.011), but not Home (0 & 0 mm Hg; p ≥ 0.785). The systolic and diastolic BP responses to an acute exposure of Heat or HIIT in the first intervention session were moderately correlated with adaptive responses across the intervention (r ≥ 0.54, p ≤ 0.005). Neither intervention improved indices of glycemic control (p = 0.310). In summary, both Heat and HIIT induced potent immediate and adaptive hypotensive effects, and the acute response was moderately predictive of the long‐term response."
+    },
+    {
+      "paperId": "1a245589cb9e1aa13019457aeb77fec12c9337ed",
+      "url": "https://www.semanticscholar.org/paper/1a245589cb9e1aa13019457aeb77fec12c9337ed",
+      "title": "Skeletal muscle oxidative adaptations following localized heat therapy",
+      "year": 2023,
+      "openAccessPdf": {
+        "url": "https://link.springer.com/content/pdf/10.1007/s00421-023-05159-7.pdf",
+        "status": "HYBRID",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10363048, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "108793414",
+          "name": "M. Ihsan"
+        },
+        {
+          "authorId": "2008294942",
+          "name": "Mariem Labidi"
+        },
+        {
+          "authorId": "4046811",
+          "name": "S. Racinais"
+        }
+      ],
+      "abstract": "Repeated heat treatment has been shown to induce oxidative adaptations in cell cultures and rodents, but similar work within human models is scarce. This study investigated the effects of 6 weeks of localized heat therapy on near-infrared spectroscopy-(NIRS) derived indices of muscle oxidative and microvascular function. Twelve physically active participants (8 males and 4 females, age: 34.9 ± 5.9 years, stature: 175 ± 7 cm, body mass: 76.7 ± 13.3 kg) undertook a 6-week intervention, where adhesive heat pads were applied for 8 h/day, 5 days/week, on one calf of each participant, while the contralateral leg acted as control. Prior to and following the intervention, the microvascular function was assessed using NIRS-based methods, where 5 min of popliteal artery occlusion was applied, and the reperfusion (i.e., re-saturation rate, re-saturation amplitude, and hyperemic response) was monitored for 2 min upon release. Participants also performed a 1-min isometric contraction of the plantar flexors (30% maximal voluntary contraction), following which a further 2 min interval was undertaken for the assessment of recovery kinetics. A 20-min time interval was allowed before the assessment protocol was repeated on the contralateral leg. Repeated localized heating of the gastrocnemius did not influence any of the NIRS-derive indices of microvascular or oxidative function ( p  > 0.05) following 6 weeks of treatment. Our findings indicate that localized heating via the use of adhesive heat pads may not be a potent stimulus for muscle adaptations in physically active humans."
+    }
+  ]
+}

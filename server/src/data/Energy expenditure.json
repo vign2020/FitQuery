@@ -1,0 +1,622 @@
+{
+  "total": 6757869,
+  "offset": 0,
+  "next": 5,
+  "data": [
+    {
+      "paperId": "2351e8752fe4bed96f351de578ab2d902cd3a844",
+      "url": "https://www.semanticscholar.org/paper/2351e8752fe4bed96f351de578ab2d902cd3a844",
+      "title": "GDF15 promotes weight loss by enhancing energy expenditure in muscle",
+      "year": 2023,
+      "openAccessPdf": {
+        "url": "https://www.nature.com/articles/s41586-023-06249-4.pdf",
+        "status": "HYBRID",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10322716, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2157415828",
+          "name": "Dongdong Wang"
+        },
+        {
+          "authorId": "6604332",
+          "name": "Logan K. Townsend"
+        },
+        {
+          "authorId": "1864084160",
+          "name": "Geneviève J DesOrmeaux"
+        },
+        {
+          "authorId": "1390797580",
+          "name": "Sara M. Frangos"
+        },
+        {
+          "authorId": "1923948",
+          "name": "Battsetseg Batchuluun"
+        },
+        {
+          "authorId": "38778187",
+          "name": "L. Dumont"
+        },
+        {
+          "authorId": "5887033",
+          "name": "R. Kuhre"
+        },
+        {
+          "authorId": "10749939",
+          "name": "Ehsan Ahmadi"
+        },
+        {
+          "authorId": "5332374",
+          "name": "Sumei Hu"
+        },
+        {
+          "authorId": "4368667",
+          "name": "I. Rebalka"
+        },
+        {
+          "authorId": "2220804437",
+          "name": "Jaya Gautam"
+        },
+        {
+          "authorId": "2220821303",
+          "name": "Maria Joy Therese Jabile"
+        },
+        {
+          "authorId": "40301380",
+          "name": "C. Pileggi"
+        },
+        {
+          "authorId": "2254533991",
+          "name": "S. Rehal"
+        },
+        {
+          "authorId": "39351104",
+          "name": "Eric M. Desjardins"
+        },
+        {
+          "authorId": "51207406",
+          "name": "E. Tsakiridis"
+        },
+        {
+          "authorId": "3566016",
+          "name": "J. Lally"
+        },
+        {
+          "authorId": "51211452",
+          "name": "E. S. Juracic"
+        },
+        {
+          "authorId": "3645951",
+          "name": "A. R. Tupling"
+        },
+        {
+          "authorId": "2639684",
+          "name": "H. Gerstein"
+        },
+        {
+          "authorId": "1702625",
+          "name": "G. Paré"
+        },
+        {
+          "authorId": "4361265",
+          "name": "T. Tsakiridis"
+        },
+        {
+          "authorId": "145329436",
+          "name": "M. Harper"
+        },
+        {
+          "authorId": "6116323",
+          "name": "T. Hawke"
+        },
+        {
+          "authorId": "3229359",
+          "name": "J. Speakman"
+        },
+        {
+          "authorId": "40175035",
+          "name": "D. Blondin"
+        },
+        {
+          "authorId": "4002860",
+          "name": "G. Holloway"
+        },
+        {
+          "authorId": "35112371",
+          "name": "S. Jørgensen"
+        },
+        {
+          "authorId": "6017944",
+          "name": "G. Steinberg"
+        }
+      ],
+      "abstract": "GDF15 treatment in mice counteracts compensatory reductions in energy expenditure, resulting in greater weight loss and reductions in non-alcoholic fatty liver disease compared to caloric restriction alone. Caloric restriction that promotes weight loss is an effective strategy for treating non-alcoholic fatty liver disease and improving insulin sensitivity in people with type 2 diabetes^ 1 . Despite its effectiveness, in most individuals, weight loss is usually not maintained partly due to physiological adaptations that suppress energy expenditure, a process known as adaptive thermogenesis, the mechanistic underpinnings of which are unclear^ 2 , 3 . Treatment of rodents fed a high-fat diet with recombinant growth differentiating factor 15 (GDF15) reduces obesity and improves glycaemic control through glial-cell-derived neurotrophic factor family receptor α-like (GFRAL)-dependent suppression of food intake^ 4 – 7 . Here we find that, in addition to suppressing appetite, GDF15 counteracts compensatory reductions in energy expenditure, eliciting greater weight loss and reductions in non-alcoholic fatty liver disease (NAFLD) compared to caloric restriction alone. This effect of GDF15 to maintain energy expenditure during calorie restriction requires a GFRAL–β-adrenergic-dependent signalling axis that increases fatty acid oxidation and calcium futile cycling in the skeletal muscle of mice. These data indicate that therapeutic targeting of the GDF15–GFRAL pathway may be useful for maintaining energy expenditure in skeletal muscle during caloric restriction."
+    },
+    {
+      "paperId": "6889198aa40368bd8936c1be20646184274e797a",
+      "url": "https://www.semanticscholar.org/paper/6889198aa40368bd8936c1be20646184274e797a",
+      "title": "Daily energy expenditure through the human life course",
+      "year": 2021,
+      "openAccessPdf": {
+        "url": "https://pure.tue.nl/ws/files/182501079/808.full.pdf",
+        "status": "GREEN",
+        "license": "other-oa",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1126/science.abe5017?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1126/science.abe5017, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "6635287",
+          "name": "H. Pontzer"
+        },
+        {
+          "authorId": "2198361",
+          "name": "Yosuke Yamada"
+        },
+        {
+          "authorId": "34827326",
+          "name": "Hiroyuki Sagayama"
+        },
+        {
+          "authorId": "2913027",
+          "name": "P. Ainslie"
+        },
+        {
+          "authorId": "2237712",
+          "name": "L. Andersen"
+        },
+        {
+          "authorId": "2111937372",
+          "name": "L. Anderson"
+        },
+        {
+          "authorId": "144763212",
+          "name": "L. Arab"
+        },
+        {
+          "authorId": "2051825413",
+          "name": "Issaad Baddou"
+        },
+        {
+          "authorId": "1402600621",
+          "name": "K. Bedu-Addo"
+        },
+        {
+          "authorId": "144059731",
+          "name": "E. Blaak"
+        },
+        {
+          "authorId": "145296676",
+          "name": "S. Blanc"
+        },
+        {
+          "authorId": "34004536",
+          "name": "A. Bonomi"
+        },
+        {
+          "authorId": "48773479",
+          "name": "C. Bouten"
+        },
+        {
+          "authorId": "4199011",
+          "name": "P. Bovet"
+        },
+        {
+          "authorId": "3434006",
+          "name": "M. Buchowski"
+        },
+        {
+          "authorId": "6706416",
+          "name": "N. Butte"
+        },
+        {
+          "authorId": "4156311",
+          "name": "S. Camps"
+        },
+        {
+          "authorId": "4480173",
+          "name": "G. Close"
+        },
+        {
+          "authorId": "37811596",
+          "name": "J. Cooper"
+        },
+        {
+          "authorId": "2105592958",
+          "name": "R. Cooper"
+        },
+        {
+          "authorId": "2116117380",
+          "name": "S. Das"
+        },
+        {
+          "authorId": "4978089",
+          "name": "L. Dugas"
+        },
+        {
+          "authorId": "144077400",
+          "name": "U. Ekelund"
+        },
+        {
+          "authorId": "4505874",
+          "name": "S. Entringer"
+        },
+        {
+          "authorId": "2102136161",
+          "name": "Terrence Forrester"
+        },
+        {
+          "authorId": "5575044",
+          "name": "Barry W. Fudge"
+        },
+        {
+          "authorId": "144299128",
+          "name": "A. Goris"
+        },
+        {
+          "authorId": "3336433",
+          "name": "M. Gurven"
+        },
+        {
+          "authorId": "4153271",
+          "name": "C. Hambly"
+        },
+        {
+          "authorId": "143722323",
+          "name": "A. El Hamdouchi"
+        },
+        {
+          "authorId": "2123056811",
+          "name": "Marjije B. Hoos"
+        },
+        {
+          "authorId": "5332374",
+          "name": "Sumei Hu"
+        },
+        {
+          "authorId": "50723773",
+          "name": "N. Joonas"
+        },
+        {
+          "authorId": "3549556",
+          "name": "A. Joosen"
+        },
+        {
+          "authorId": "9559079",
+          "name": "P. Katzmarzyk"
+        },
+        {
+          "authorId": "143645925",
+          "name": "K. Kempen"
+        },
+        {
+          "authorId": "21560873",
+          "name": "M. Kimura"
+        },
+        {
+          "authorId": "1729501",
+          "name": "W. Kraus"
+        },
+        {
+          "authorId": "5265067",
+          "name": "R. Kushner"
+        },
+        {
+          "authorId": "2374774",
+          "name": "E. Lambert"
+        },
+        {
+          "authorId": "2242394",
+          "name": "W. Leonard"
+        },
+        {
+          "authorId": "5940687",
+          "name": "N. Lessan"
+        },
+        {
+          "authorId": "153090177",
+          "name": "Corby K. Martin"
+        },
+        {
+          "authorId": "8657687",
+          "name": "A. Medin"
+        },
+        {
+          "authorId": "47689396",
+          "name": "E. P. Meijer"
+        },
+        {
+          "authorId": "13608990",
+          "name": "James C. Morehen"
+        },
+        {
+          "authorId": "2827988",
+          "name": "J. Morton"
+        },
+        {
+          "authorId": "4033325",
+          "name": "M. Neuhouser"
+        },
+        {
+          "authorId": "3683577",
+          "name": "T. Nicklas"
+        },
+        {
+          "authorId": "49824682",
+          "name": "R. Ojiambo"
+        },
+        {
+          "authorId": "144549606",
+          "name": "K. Pietiläinen"
+        },
+        {
+          "authorId": "6136751",
+          "name": "Y. Pitsiladis"
+        },
+        {
+          "authorId": "1398816905",
+          "name": "J. Plange-Rhule"
+        },
+        {
+          "authorId": "3634833",
+          "name": "G. Plasqui"
+        },
+        {
+          "authorId": "46789170",
+          "name": "R. Prentice"
+        },
+        {
+          "authorId": "2620803",
+          "name": "R. Rabinovich"
+        },
+        {
+          "authorId": "4602873",
+          "name": "S. Racette"
+        },
+        {
+          "authorId": "4591466",
+          "name": "D. Raichlen"
+        },
+        {
+          "authorId": "3580532",
+          "name": "E. Ravussin"
+        },
+        {
+          "authorId": "145710055",
+          "name": "R. Reynolds"
+        },
+        {
+          "authorId": "2201031485",
+          "name": "S. Roberts"
+        },
+        {
+          "authorId": "19339018",
+          "name": "A. Schuit"
+        },
+        {
+          "authorId": "3138631",
+          "name": "A. Sjödin"
+        },
+        {
+          "authorId": "3206846",
+          "name": "E. Stice"
+        },
+        {
+          "authorId": "4728111",
+          "name": "S. Urlacher"
+        },
+        {
+          "authorId": "31635827",
+          "name": "Giulio Valenti"
+        },
+        {
+          "authorId": "2103117327",
+          "name": "Ludo M. Van Etten"
+        },
+        {
+          "authorId": "144224975",
+          "name": "E. V. Van Mil"
+        },
+        {
+          "authorId": "50707448",
+          "name": "J. Wells"
+        },
+        {
+          "authorId": "143859707",
+          "name": "George Wilson"
+        },
+        {
+          "authorId": "3431475",
+          "name": "B. Wood"
+        },
+        {
+          "authorId": "2103685",
+          "name": "J. Yanovski"
+        },
+        {
+          "authorId": "2110674831",
+          "name": "T. Yoshida"
+        },
+        {
+          "authorId": "1500505839",
+          "name": "Xueying Zhang"
+        },
+        {
+          "authorId": "1404967834",
+          "name": "A. Murphy-Alford"
+        },
+        {
+          "authorId": "8575104",
+          "name": "C. Loechl"
+        },
+        {
+          "authorId": "47852659",
+          "name": "A. Luke"
+        },
+        {
+          "authorId": "1969897",
+          "name": "J. Rood"
+        },
+        {
+          "authorId": "3362788",
+          "name": "D. Schoeller"
+        },
+        {
+          "authorId": "32820654",
+          "name": "K. Westerterp"
+        },
+        {
+          "authorId": "2093341628",
+          "name": "W. Wong"
+        },
+        {
+          "authorId": "3229359",
+          "name": "J. Speakman"
+        }
+      ],
+      "abstract": "A lifetime of change Measurements of total and basal energy in a large cohort of subjects at ages spanning from before birth to old age document distinct changes that occur during a human lifetime. Pontzer et al. report that energy expenditure (adjusted for weight) in neonates was like that of adults but increased substantially in the first year of life (see the Perspective by Rhoads and Anderson). It then gradually declined until young individuals reached adult characteristics, which were maintained from age 20 to 60 years. Older individuals showed reduced energy expenditure. Tissue metabolism thus appears not to be constant but rather to undergo transitions at critical junctures. Science, abe5017, this issue p. 808; see also abl4537, p. 738 A study analyzes how metabolism and energy expenditure change over the human life span. Total daily energy expenditure (“total expenditure”) reflects daily energy needs and is a critical variable in human health and physiology, but its trajectory over the life course is poorly studied. We analyzed a large, diverse database of total expenditure measured by the doubly labeled water method for males and females aged 8 days to 95 years. Total expenditure increased with fat-free mass in a power-law manner, with four distinct life stages. Fat-free mass–adjusted expenditure accelerates rapidly in neonates to ~50% above adult values at ~1 year; declines slowly to adult levels by ~20 years; remains stable in adulthood (20 to 60 years), even during pregnancy; then declines in older adults. These changes shed light on human development and aging and should help shape nutrition and health strategies across the life span."
+    },
+    {
+      "paperId": "f13a12621f8f90d9a47af73399037959fc469802",
+      "url": "https://www.semanticscholar.org/paper/f13a12621f8f90d9a47af73399037959fc469802",
+      "title": "Reliability and Validity of Commercially Available Wearable Devices for Measuring Steps, Energy Expenditure, and Heart Rate: Systematic Review",
+      "year": 2020,
+      "openAccessPdf": {
+        "url": "https://jmir.org/api/download?alt_name=mhealth_v8i9e18694_app1.pdf&filename=985308c6944e04acc33324c4dfb6ac54.pdf",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC7509623, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2053890491",
+          "name": "D. Fuller"
+        },
+        {
+          "authorId": "87016185",
+          "name": "E. Colwell"
+        },
+        {
+          "authorId": "145619427",
+          "name": "Jonathan Low"
+        },
+        {
+          "authorId": "1933443147",
+          "name": "Kassia Orychock"
+        },
+        {
+          "authorId": "1931681674",
+          "name": "M. Tobin"
+        },
+        {
+          "authorId": "2072426325",
+          "name": "Bongai Simango"
+        },
+        {
+          "authorId": "14718316",
+          "name": "R. Buote"
+        },
+        {
+          "authorId": "1933460738",
+          "name": "Desiree Van Heerden"
+        },
+        {
+          "authorId": "48803731",
+          "name": "Hui Luan"
+        },
+        {
+          "authorId": "15172263",
+          "name": "K. Cullen"
+        },
+        {
+          "authorId": "2077255040",
+          "name": "Logan Slade"
+        },
+        {
+          "authorId": "1439440315",
+          "name": "Nathan G A Taylor"
+        }
+      ],
+      "abstract": "Background Consumer-wearable activity trackers are small electronic devices that record fitness and health-related measures. Objective The purpose of this systematic review was to examine the validity and reliability of commercial wearables in measuring step count, heart rate, and energy expenditure. Methods We identified devices to be included in the review. Database searches were conducted in PubMed, Embase, and SPORTDiscus, and only articles published in the English language up to May 2019 were considered. Studies were excluded if they did not identify the device used and if they did not examine the validity or reliability of the device. Studies involving the general population and all special populations were included. We operationalized validity as criterion validity (as compared with other measures) and construct validity (degree to which the device is measuring what it claims). Reliability measures focused on intradevice and interdevice reliability. Results We included 158 publications examining nine different commercial wearable device brands. Fitbit was by far the most studied brand. In laboratory-based settings, Fitbit, Apple Watch, and Samsung appeared to measure steps accurately. Heart rate measurement was more variable, with Apple Watch and Garmin being the most accurate and Fitbit tending toward underestimation. For energy expenditure, no brand was accurate. We also examined validity between devices within a specific brand. Conclusions Commercial wearable devices are accurate for measuring steps and heart rate in laboratory-based settings, but this varies by the manufacturer and device type. Devices are constantly being upgraded and redesigned to new models, suggesting the need for more current reviews and research."
+    },
+    {
+      "paperId": "ee8ca847a671c9391fddc7018103a2dbb54d4b07",
+      "url": "https://www.semanticscholar.org/paper/ee8ca847a671c9391fddc7018103a2dbb54d4b07",
+      "title": "Hypothalamic control of energy expenditure and thermogenesis",
+      "year": 2022,
+      "openAccessPdf": {
+        "url": "https://www.nature.com/articles/s12276-022-00741-z.pdf",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC9076616, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2055288476",
+          "name": "L. Tran"
+        },
+        {
+          "authorId": "2118349337",
+          "name": "Sohee Park"
+        },
+        {
+          "authorId": "2109568339",
+          "name": "Seul Ki Kim"
+        },
+        {
+          "authorId": "2159316014",
+          "name": "Jin Sun Lee"
+        },
+        {
+          "authorId": "2109398168",
+          "name": "Ki Woo Kim"
+        },
+        {
+          "authorId": "145895448",
+          "name": "Obin Kwon"
+        }
+      ],
+      "abstract": "Energy expenditure and energy intake need to be balanced to maintain proper energy homeostasis. Energy homeostasis is tightly regulated by the central nervous system, and the hypothalamus is the primary center for the regulation of energy balance. The hypothalamus exerts its effect through both humoral and neuronal mechanisms, and each hypothalamic area has a distinct role in the regulation of energy expenditure. Recent studies have advanced the understanding of the molecular regulation of energy expenditure and thermogenesis in the hypothalamus with targeted manipulation techniques of the mouse genome and neuronal function. In this review, we elucidate recent progress in understanding the mechanism of how the hypothalamus affects basal metabolism, modulates physical activity, and adapts to environmental temperature and food intake changes. The hypothalamus is a key regulator of metabolism, controlling resting metabolism, activity levels, and responses to external temperature and food intake. The balance between energy intake and expenditure must be tightly controlled, with imbalances resulting in metabolic disorders such as obesity or diabetes. Obin Kwon at Seoul National University College of Medicine and Ki Woo Kim at Yonsei University College of Dentistry, Seoul, both in South Korea, and coworkers reviewed how metabolism is regulated by the hypothalamus, a small hormone-producing brain region. They report that hormonal and neuronal signals from the hypothalamus influence the ratio of lean to fatty tissue, gender-based differences in metabolism, activity levels, and weight gain in response to food intake. They note that further studies to untangle cause-and-effect relationships and other genetic factors will improve our understanding of metabolic regulation."
+    },
+    {
+      "paperId": "0d1738c4ef148cb47d18feee74a5195fce0f8f5a",
+      "url": "https://www.semanticscholar.org/paper/0d1738c4ef148cb47d18feee74a5195fce0f8f5a",
+      "title": "Beyond appetite regulation: Targeting energy expenditure, fat oxidation, and lean mass preservation for sustainable weight loss",
+      "year": 2022,
+      "openAccessPdf": {
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9310705",
+        "status": "GREEN",
+        "license": "CCBYNCND",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC9310705, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "9784008",
+          "name": "B. Christoffersen"
+        },
+        {
+          "authorId": "1398083624",
+          "name": "G. Sanchez-Delgado"
+        },
+        {
+          "authorId": "49168283",
+          "name": "L. M. John"
+        },
+        {
+          "authorId": "4905609",
+          "name": "D. Ryan"
+        },
+        {
+          "authorId": "5789594",
+          "name": "K. Raun"
+        },
+        {
+          "authorId": "3580532",
+          "name": "E. Ravussin"
+        }
+      ],
+      "abstract": "New appetite‐regulating antiobesity treatments such as semaglutide and agents under investigation such as tirzepatide show promise in achieving weight loss of 15% or more. Energy expenditure, fat oxidation, and lean mass preservation are important determinants of weight loss and weight‐loss maintenance beyond appetite regulation. This review discusses prior failures in clinical development of weight‐loss drugs targeting energy expenditure and explores novel strategies for targeting energy expenditure: mitochondrial proton leak, uncoupling, dynamics, and biogenesis; futile calcium and substrate cycling; leptin for weight maintenance; increased sympathetic nervous system activity; and browning of white fat. Relevant targets for preserving lean mass are also reviewed: growth hormone, activin type II receptor inhibition, and urocortin 2 and 3. We endorse moderate modulation of energy expenditure and preservation of lean mass in combination with efficient appetite reduction as a means of obtaining a significant, safe, and long‐lasting weight loss. Furthermore, we suggest that the regulatory guidelines should be revisited to focus more on the quality of weight loss and its maintenance rather than the absolute weight loss. Commitment to this research focus both from a scientific and from a regulatory point of view could signal the beginning of the next era in obesity therapies."
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "total": 7040896,
+  "offset": 0,
+  "next": 5,
+  "data": [
+    {
+      "paperId": "7c92ae997e7719de212bd074d4e2cfe10c16bc16",
+      "url": "https://www.semanticscholar.org/paper/7c92ae997e7719de212bd074d4e2cfe10c16bc16",
+      "title": "Stand in surgeon’s shoes: virtual reality cross-training to enhance teamwork in surgery",
+      "year": 2024,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s11548-024-03138-7?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s11548-024-03138-7, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "46180168",
+          "name": "Benjamin Killeen"
+        },
+        {
+          "authorId": "2291399582",
+          "name": "Han Zhang"
+        },
+        {
+          "authorId": "2291084796",
+          "name": "Liam J. Wang"
+        },
+        {
+          "authorId": "2297806237",
+          "name": "Zixuan Liu"
+        },
+        {
+          "authorId": "2322435110",
+          "name": "Constantin Kleinbeck"
+        },
+        {
+          "authorId": "2297655473",
+          "name": "Michael Rosen"
+        },
+        {
+          "authorId": "2287408892",
+          "name": "Russell H. Taylor"
+        },
+        {
+          "authorId": "2291063361",
+          "name": "Greg Osgood"
+        },
+        {
+          "authorId": "2296677876",
+          "name": "Mathias Unberath"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "b571670c93cd0c784bd826a3ccd10ffb55ed14f0",
+      "url": "https://www.semanticscholar.org/paper/b571670c93cd0c784bd826a3ccd10ffb55ed14f0",
+      "title": "Cross-Training with Prototypical Distillation for improving the generalization of Federated Learning",
+      "year": 2023,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICME55011.2023.00117?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICME55011.2023.00117, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2233769098",
+          "name": "Tianhan Liu"
+        },
+        {
+          "authorId": "2182292307",
+          "name": "Zhuang Qi"
+        },
+        {
+          "authorId": "3353201",
+          "name": "Zitan Chen"
+        },
+        {
+          "authorId": "2150591081",
+          "name": "Xiangxu Meng"
+        },
+        {
+          "authorId": "2113609032",
+          "name": "Lei Meng"
+        }
+      ],
+      "abstract": "Cross-training has become a promising strategy to handle data heterogeneity problem in federated learning, which re-train a local model across different clients to improve its generalization capability in a privacy-preserving manner. Its main idea is to make the local models to fit the data of all clients. However, the heterogeneity between data sources may lead the local models to quickly forget the knowledge learned in several rounds of cross-training. To address the problem, this paper presents a novel prototype guided cross training mechanism, termed PGCT, to regularize the change of class-level data representations across clients. It includes two main modules, where the prototype guided representation learning module employs client-aware prototypes of data patterns learned by clustering to guide the learning of consistency representation across feature spaces. This maintains the similar decision boundary across different clients. The prototype-based feature augmentation module uses prototypes as soft attention regularizers to further aggregate rich information to enhance the discrimination of historical features. Experiments were conducted on four datasets in terms of performance comparison, ablation study and case study, and the results verified that PGCT can learn discriminative features with different classes under the guidance of prototypes, which leads to better performance than the state-of-the-art methods."
+    },
+    {
+      "paperId": "89e13c80ff90c6e2f2dda700b5dd6c3be1aabf7d",
+      "url": "https://www.semanticscholar.org/paper/89e13c80ff90c6e2f2dda700b5dd6c3be1aabf7d",
+      "title": "Continual Pre-Training for Cross-Lingual LLM Adaptation: Enhancing Japanese Language Capabilities",
+      "year": 2024,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2404.17790, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2298889885",
+          "name": "Kazuki Fujii"
+        },
+        {
+          "authorId": "2294513555",
+          "name": "Taishi Nakamura"
+        },
+        {
+          "authorId": "2150167420",
+          "name": "Mengsay Loem"
+        },
+        {
+          "authorId": "2298898569",
+          "name": "Hiroki Iida"
+        },
+        {
+          "authorId": "2286881602",
+          "name": "Masanari Ohi"
+        },
+        {
+          "authorId": "2298900795",
+          "name": "Kakeru Hattori"
+        },
+        {
+          "authorId": "2298900322",
+          "name": "Hirai Shota"
+        },
+        {
+          "authorId": "98889783",
+          "name": "Sakae Mizuki"
+        },
+        {
+          "authorId": "2294362068",
+          "name": "Rio Yokota"
+        },
+        {
+          "authorId": "2298897174",
+          "name": "Naoaki Okazaki"
+        }
+      ],
+      "abstract": "Cross-lingual continual pre-training of large language models (LLMs) initially trained on English corpus allows us to leverage the vast amount of English language resources and reduce the pre-training cost. In this study, we constructed Swallow, an LLM with enhanced Japanese capability, by extending the vocabulary of Llama 2 to include Japanese characters and conducting continual pre-training on a large Japanese web corpus. Experimental results confirmed that the performance on Japanese tasks drastically improved through continual pre-training, and the performance monotonically increased with the amount of training data up to 100B tokens. Consequently, Swallow achieved superior performance compared to other LLMs that were trained from scratch in English and Japanese. An analysis of the effects of continual pre-training revealed that it was particularly effective for Japanese question answering tasks. Furthermore, to elucidate effective methodologies for cross-lingual continual pre-training from English to Japanese, we investigated the impact of vocabulary expansion and the effectiveness of incorporating parallel corpora. The results showed that the efficiency gained through vocabulary expansion had no negative impact on performance, except for the summarization task, and that the combined use of parallel corpora enhanced translation ability."
+    },
+    {
+      "paperId": "94e9cf589c0679eefc85a1a94fc8a29db69e5815",
+      "url": "https://www.semanticscholar.org/paper/94e9cf589c0679eefc85a1a94fc8a29db69e5815",
+      "title": "FMWDCT: Foreground Mixup Into Weighted Dual-Network Cross Training for Semisupervised Remote Sensing Road Extraction",
+      "year": 2022,
+      "openAccessPdf": {
+        "url": "https://ieeexplore.ieee.org/ielx7/4609443/4609444/09814858.pdf",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/jstars.2022.3188025?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/jstars.2022.3188025, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2174899656",
+          "name": "Zhi-Hui You"
+        },
+        {
+          "authorId": "2109784517",
+          "name": "Jiaxin Wang"
+        },
+        {
+          "authorId": "50358605",
+          "name": "Sibao Chen"
+        },
+        {
+          "authorId": "37864689",
+          "name": "Jin Tang"
+        },
+        {
+          "authorId": "2075399909",
+          "name": "Bin Luo"
+        }
+      ],
+      "abstract": "With the development of deep learning, the application of automatic road extraction has achieved great success. However, the main challenge is how to make full use of a large number of unlabeled images to improve segmentation models and how alleviate sample imbalance in road extraction tasks. In this article, we propose a novel semisupervised remote sensing road extraction approach is defined as foreground mixup into weighted dual-network cross training (FMWDCT), which combines labeled images with unlabeled images to extract road from remote sensing images. FMWDCT is composed of dual-network cross training (DCT) and foreground pasting (FP). DCT is a new semisupervised training method and FP is an effective data perturbation method for road extraction. We first paste the foreground pixels obtained from labeled images into unlabeled images to produce mixed input images. The mixed pseudolabels are then generated by a combination of high-confidence predictions from the augmented network and labeled masks. Finally, the mixed pseudolabels are used to guide another adversarial basic network for cross training, and this basic network is used to smoothly update the augmented network that corresponds to it. The proposed FMWDCT effectively solve the overfitting problem and imbalance problem of positive and negative sample in the case of a few labeled training samples. We demonstrate the effectiveness of our method on three road extraction datasets, and achieve a better performance with few labeled data. Extensive experiments show that the proposed semisupervised method can learn latent information from the unlabeled data to improve the performance."
+    },
+    {
+      "paperId": "1e1855ca80e8ac3de0e169871f320416902e9ad1",
+      "url": "https://www.semanticscholar.org/paper/1e1855ca80e8ac3de0e169871f320416902e9ad1",
+      "title": "Generalized Cross Entropy Loss for Training Deep Neural Networks with Noisy Labels",
+      "year": 2018,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1805.07836, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "1491240545",
+          "name": "Zhilu Zhang"
+        },
+        {
+          "authorId": "2369409",
+          "name": "M. Sabuncu"
+        }
+      ],
+      "abstract": "Deep neural networks (DNNs) have achieved tremendous success in a variety of applications across many disciplines. Yet, their superior performance comes with the expensive cost of requiring correctly annotated large-scale datasets. Moreover, due to DNNs' rich capacity, errors in training labels can hamper performance. To combat this problem, mean absolute error (MAE) has recently been proposed as a noise-robust alternative to the commonly-used categorical cross entropy (CCE) loss. However, as we show in this paper, MAE can perform poorly with DNNs and challenging datasets. Here, we present a theoretically grounded set of noise-robust loss functions that can be seen as a generalization of MAE and CCE. Proposed loss functions can be readily applied with any existing DNN architecture and algorithm, while yielding good performance in a wide range of noisy label scenarios. We report results from experiments conducted with CIFAR-10, CIFAR-100 and FASHION-MNIST datasets and synthetically generated noisy labels."
+    }
+  ]
+}

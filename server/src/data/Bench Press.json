@@ -1,0 +1,210 @@
+{
+  "total": 1254112,
+  "offset": 0,
+  "next": 5,
+  "data": [
+    {
+      "paperId": "6b0fef25160d80a28ccf3ba8e64c54dc6122ed90",
+      "url": "https://www.semanticscholar.org/paper/6b0fef25160d80a28ccf3ba8e64c54dc6122ed90",
+      "title": "Optimal Minimum Velocity Threshold to Estimate the 1-Repetition Maximum: The Case of the Smith Machine Bench Press Exercise.",
+      "year": 2023,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1123/ijspp.2022-0355?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1123/ijspp.2022-0355, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2395862174",
+          "name": "Amador García‐Ramos"
+        }
+      ],
+      "abstract": "PURPOSE\nTo compare the accuracy in the estimation of the Smith machine bench press 1-repetition maximum (1RM) when using a novel minimum velocity threshold (MVT) called optimal MVT (MVT that minimizes the differences between the actual and predicted 1RM in a preliminary session) with respect to using the 2 standard MVTs (general and individual MVTs).\n\n\nMETHODS\nA total of 126 young men (Smith machine bench press 1RM = 80.7 [13.6] kg) completed 2 identical sessions consisting of an incremental loading test until reaching the 1RM load. Four individual load-velocity relationships were modeled in each session considering all loading conditions until reaching the load that showed the closest mean velocity to 0.60, 0.50, 0.40, and 0.30 m·s-1. The first testing session was used to determine the preindividual MVT and 4 optimal MVTs (1 for each final test velocity), while the second testing session was used to estimate the 1RM using 4 types of MVT (general MVT, preindividual MVT, actual-individual MVT, and optimal MVT).\n\n\nRESULTS\nThe absolute errors in the prediction of the 1RM were significantly lower for the optimal MVT (2.94 [2.40] kg) compared to the general MVT (3.66 [2.99] kg), preindividual MVT (3.80 [3.15] kg), and actual-individual MVT (4.02 [3.21] kg). The optimal MVT (intraclass correlation coefficient [ICC] ranged from .56 to .62) was always more reliable than the individual MVT (ICC = .34).\n\n\nCONCLUSIONS\nThe optimal MVT provides more accurate estimates of the Smith machine bench press 1RM than the standard MVTs previously used in scientific research (general and individual MVTs)."
+    },
+    {
+      "paperId": "e11d436dbab36bac8e8bfcbbaa542131c8808300",
+      "url": "https://www.semanticscholar.org/paper/e11d436dbab36bac8e8bfcbbaa542131c8808300",
+      "title": "Post-Activation Performance Enhancement as a Strategy to Improve Bench Press Performance to Volitional Failure",
+      "year": 2023,
+      "openAccessPdf": {
+        "url": "https://jhk.termedia.pl/pdf-162958-90546?filename=Post_Activation.pdf",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10407312, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "1611203316",
+          "name": "Arkaitz Garbisu-Hualde"
+        },
+        {
+          "authorId": "2061079430",
+          "name": "Laura Gutiérrez"
+        },
+        {
+          "authorId": "1398301445",
+          "name": "J. Santos-Concejero"
+        }
+      ],
+      "abstract": "Post-Activation Performance Enhancement (PAPE) has been commonly used as a strategy to improve acute force production, although its effects on performance to volitional failure are still unknown. The aim of this study was to analyse the influence of a PAPE protocol on bench press performance in a training set to volitional failure in trained individuals. Fourteen participants with at least two years of resistance training experience (age 24.57 ± 2.7 years; body mass 77.47 ± 12.2 kg; body height 174.21 ± 7.4 cm; medium grip bench press 1 repetition maximum (1RM): 101.6 ± 25.8 kg), of which 14 completed the control protocol and 12 completed the experimental protocol, took part in the study. After a standardised warm-up, participants completed three sessions: 1) a 1RM test for the medium grip bench press, 2) a control condition consisting of a set of the bench press to volitional failure with 80% 1RM (CON), and 3) an experimental condition consisting of a set of the bench press to volitional failure with 80% 1RM after a PAPE protocol (PAPE). The PAPE protocol consisted of a heavy set of one repetition with their 93% 1RM as the conditioning activity. Under the PAPE condition, participants performed significantly more repetitions than under the CON condition (p = 0.008, ES = 0.5, small effect), their last repetition was slower (p = 0.02, ES = 0.52, small effect) and presented a higher velocity loss (p = 0.004, ES = 0.75, moderate effect). These results suggest that a traditional PAPE protocol improves the number of repetitions performed to volitional failure."
+    },
+    {
+      "paperId": "94a5f96308729e31c1ffbc0f0618db87795092fe",
+      "url": "https://www.semanticscholar.org/paper/94a5f96308729e31c1ffbc0f0618db87795092fe",
+      "title": "SWE-bench: Can Language Models Resolve Real-World GitHub Issues?",
+      "year": 2023,
+      "openAccessPdf": {
+        "url": "https://arxiv.org/pdf/2310.06770",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2310.06770, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2155269683",
+          "name": "Carlos E. Jimenez"
+        },
+        {
+          "authorId": "2109727379",
+          "name": "John Yang"
+        },
+        {
+          "authorId": "2127066887",
+          "name": "Alexander Wettig"
+        },
+        {
+          "authorId": "2256984659",
+          "name": "Shunyu Yao"
+        },
+        {
+          "authorId": "2256993083",
+          "name": "Kexin Pei"
+        },
+        {
+          "authorId": "40170001",
+          "name": "Ofir Press"
+        },
+        {
+          "authorId": "2135381714",
+          "name": "Karthik Narasimhan"
+        }
+      ],
+      "abstract": "Language models have outpaced our ability to evaluate them effectively, but for their future development it is essential to study the frontier of their capabilities. We find real-world software engineering to be a rich, sustainable, and challenging testbed for evaluating the next generation of language models. To this end, we introduce SWE-bench, an evaluation framework consisting of $2,294$ software engineering problems drawn from real GitHub issues and corresponding pull requests across $12$ popular Python repositories. Given a codebase along with a description of an issue to be resolved, a language model is tasked with editing the codebase to address the issue. Resolving issues in SWE-bench frequently requires understanding and coordinating changes across multiple functions, classes, and even files simultaneously, calling for models to interact with execution environments, process extremely long contexts and perform complex reasoning that goes far beyond traditional code generation tasks. Our evaluations show that both state-of-the-art proprietary models and our fine-tuned model SWE-Llama can resolve only the simplest issues. The best-performing model, Claude 2, is able to solve a mere $1.96$% of the issues. Advances on SWE-bench represent steps towards LMs that are more practical, intelligent, and autonomous."
+    },
+    {
+      "paperId": "de4c06af3323e42f7bda597183550ac70f6866c7",
+      "url": "https://www.semanticscholar.org/paper/de4c06af3323e42f7bda597183550ac70f6866c7",
+      "title": "Effectiveness of either short-duration ischemic pre-conditioning, single-set high-resistance exercise, or their combination in potentiating bench press exercise performance",
+      "year": 2022,
+      "openAccessPdf": {
+        "url": "https://www.frontiersin.org/articles/10.3389/fphys.2022.1083299/pdf",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC9797974, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "1389649771",
+          "name": "Andreas Salagas"
+        },
+        {
+          "authorId": "5808719",
+          "name": "Athanasios Tsoukos"
+        },
+        {
+          "authorId": "50474580",
+          "name": "G. Terzis"
+        },
+        {
+          "authorId": "4292885",
+          "name": "V. Paschalis"
+        },
+        {
+          "authorId": "6195662",
+          "name": "C. Katsikas"
+        },
+        {
+          "authorId": "50819650",
+          "name": "M. Krzysztofik"
+        },
+        {
+          "authorId": "38702871",
+          "name": "M. Wilk"
+        },
+        {
+          "authorId": "37473648",
+          "name": "A. Zając"
+        },
+        {
+          "authorId": "3448990",
+          "name": "G. Bogdanis"
+        }
+      ],
+      "abstract": "This study compared the effects of short-duration ischemic preconditioning, a single-set high-resistance exercise and their combination on subsequent bench press performance. Twelve men (age: 25.8 ± 6.0 years, bench press 1-RM: 1.21 ± 0.17 kg kg−1 body mass) performed four 12 s sets as fast as possible, with 2 min of recovery between sets, against 60% 1-RM, after: a) 5 min ischemic preconditioning (IPC; at 100% of full arterial occlusion pressure), b) one set of three bench press repetitions at 90% 1-RM (PAPE), c) their combination (PAPE + IPC) or d) control (CTRL). Mean barbell velocity in ischemic preconditioning was higher than CTRL (by 6.6–9.0%, p < 0.05) from set 1 to set 3, and higher than PAPE in set 1 (by 4.4%, p < 0.05). Mean barbell velocity in PAPE was higher than CTRL from set 2 to set 4 (by 6.7–8.9%, p < 0.05), while mean barbell velocity in PAPE + IPC was higher than CTRL only in set 1 (+5.8 ± 10.0%). Peak barbell velocity in ischemic preconditioning and PAPE was higher than CTRL (by 7.8% and 8.5%, respectively; p < 0.05). Total number of repetitions was similarly increased in all experimental conditions compared with CTRL (by 7.0–7.9%, p < 0.05). Rating of perceived exertion was lower in ischemic preconditioning compared with CTRL (p < 0.001) and PAPE (p = 0.045), respectively. These results highlight the effectiveness of short-duration ischemic preconditioning in increasing bench press performance, and suggest that it may be readily used by strength and conditioning coaches during resistance training due to its brevity and lower perceived exertion."
+    },
+    {
+      "paperId": "9592f252cee4899040e6e232805b6c13b1aaf790",
+      "url": "https://www.semanticscholar.org/paper/9592f252cee4899040e6e232805b6c13b1aaf790",
+      "title": "Accuracy of Predicting One-Repetition Maximum from Submaximal Velocity in The Barbell Back Squat and Bench Press",
+      "year": 2022,
+      "openAccessPdf": {
+        "url": "https://www.sciendo.com/pdf/10.2478/hukin-2022-0046",
+        "status": "GOLD",
+        "license": "CCBYNCND",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC9465738, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2005782859",
+          "name": "Christian T. Macarilla"
+        },
+        {
+          "authorId": "92018362",
+          "name": "N. Sautter"
+        },
+        {
+          "authorId": "1412577769",
+          "name": "Zac P. Robinson"
+        },
+        {
+          "authorId": "151119077",
+          "name": "Matthew C. Juber"
+        },
+        {
+          "authorId": "2150201881",
+          "name": "Landyn M. Hickmott"
+        },
+        {
+          "authorId": "151181696",
+          "name": "Rebecca M Cerminaro"
+        },
+        {
+          "authorId": "2157259173",
+          "name": "Brian Benitez"
+        },
+        {
+          "authorId": "5962282",
+          "name": "Joseph P. Carzoli"
+        },
+        {
+          "authorId": "5707946",
+          "name": "Caleb D. Bazyler"
+        },
+        {
+          "authorId": "51952806",
+          "name": "R. Zoeller"
+        },
+        {
+          "authorId": "144969846",
+          "name": "M. Whitehurst"
+        },
+        {
+          "authorId": "6617889",
+          "name": "Michael C. Zourdos"
+        }
+      ],
+      "abstract": "Abstract This study examined the accuracy of predicting a free-weight back squat and a bench press one-repetition maximum (1RM) using both 2- and 4-point submaximal average concentric velocity (ACV) methods. Seventeen resistance trained men performed a warm-up and a 1RM test on the squat and bench press with ACV assessed on all repetitions. The ACVs during the warm-up closest to 1.0 and 0.5m.s-1 were used in the 2-point linear regression forecast of the 1RM and the ACVs established at loads closest to 20, 50, 70, and 80% of the 1RM were used in the 4-point 1RM prediction. Repeated measures ANOVA and Bland-Altman and Mountain plots were used to analyze agreement between predicted and actual 1RMs. ANOVA indicated significant differences between the predicted and the actual 1RM for both the 2- and 4-point equations in both exercises (p<0.001). The 2-point squat prediction overestimated the 1RM by 29.12±0.07kg and the 4-point squat prediction overestimated the 1RM by 38.53±5.01kg. The bench press 1RM was overestimated by 9.32±4.68kg with the 2-point method and by 7.15±6.66kg using the 4-point method. Bland-Altman and Mountain plots confirmed the ANOVA findings as data were not tightly conformed to the respective zero difference lines and Bland-Altman plots showed wide limits of agreement. These data demonstrate that both 2- and 4-point velocity methods predicted the bench press 1RM more accurately than the squat 1RM. However, a lack of agreement between the predicted and the actual 1RM was observed for both exercises when volitional velocity was used."
+    }
+  ]
+}

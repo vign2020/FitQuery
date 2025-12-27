@@ -1,0 +1,140 @@
+{
+  "total": 2808974,
+  "offset": 0,
+  "next": 3,
+  "data": [
+    {
+      "paperId": "57ab1d05b44dc15e18a2786632f76a9494c1ed00",
+      "url": "https://www.semanticscholar.org/paper/57ab1d05b44dc15e18a2786632f76a9494c1ed00",
+      "title": "Effects of the Menstrual Cycle and Hormonal Contraceptive Use on Metabolic Outcomes, Strength Performance, and Recovery: A Narrative Review",
+      "year": 2024,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/2218-1989/14/7/347/pdf?version=1718964063",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11278889, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2038002224",
+          "name": "Hannah E. Cabre"
+        },
+        {
+          "authorId": "4834722",
+          "name": "Lacey M Gould"
+        },
+        {
+          "authorId": "2260735847",
+          "name": "L. Redman"
+        },
+        {
+          "authorId": "15821634",
+          "name": "A. Smith‐Ryan"
+        }
+      ],
+      "abstract": "The effects of female sex hormones on optimal performance have been increasingly recognized as an important consideration in exercise and sport science research. This narrative review explores the findings of studies evaluating the effects of menstrual cycle phase in eumenorrheic women and the use of hormonal contraception (oral contraceptives and hormonal intrauterine devices) on metabolism, muscular strength, and recovery in active females. Ovarian hormones are known to influence metabolism because estrogen is a master regulator of bioenergetics. Importantly, the menstrual cycle may impact protein synthesis, impacting skeletal muscle quality and strength. Studies investigating muscular strength in eumenorrheic women report equivocal findings between the follicular phase and luteal phase with no differences compared to oral contraceptive users. Studies examining recovery measures (using biomarkers, blood lactate, and blood flow) do not report clear or consistent effects of the impact of the menstrual cycle or hormonal contraception use on recovery. Overall, the current literature may be limited by the evaluation of only one menstrual cycle and the use of group means for statistical significance. Hence, to optimize training and performance in females, regardless of hormonal contraception use, there is a need for future research to quantify the intra-individual impact of the menstrual cycle phases and hormonal contraceptive use in active females."
+    },
+    {
+      "paperId": "58f51c994a929c565bdbf0dfb1aa76f8ae1cb89e",
+      "url": "https://www.semanticscholar.org/paper/58f51c994a929c565bdbf0dfb1aa76f8ae1cb89e",
+      "title": "Early hormonal recovery following endoscopic transsphenoidal surgery for silent non-functioning pituitary adenomas with hormone dysfunction",
+      "year": 2021,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s11060-021-03774-y?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s11060-021-03774-y, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2109514310",
+          "name": "M. H. Lee"
+        },
+        {
+          "authorId": "6158864",
+          "name": "K. Hur"
+        },
+        {
+          "authorId": "2212855276",
+          "name": "S. Hong"
+        },
+        {
+          "authorId": "4260677",
+          "name": "H. Seol"
+        },
+        {
+          "authorId": "32478751",
+          "name": "J. Choi"
+        },
+        {
+          "authorId": "2119170796",
+          "name": "J. Lee"
+        },
+        {
+          "authorId": "47835558",
+          "name": "D. Nam"
+        },
+        {
+          "authorId": "145239192",
+          "name": "D. Kong"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "052b6b7f9013c282fcbfbf8b9c934ad217feb8fe",
+      "url": "https://www.semanticscholar.org/paper/052b6b7f9013c282fcbfbf8b9c934ad217feb8fe",
+      "title": "SUN-077 Immune Checkpoint Inhibitor-induced Hypophysitis In Adults: A Systematic Review Of Clinical Patterns And Hormonal Recovery",
+      "year": 2025,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": "CCBYNCND",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC12544953, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2387326508",
+          "name": "Ana Clara Bocato"
+        },
+        {
+          "authorId": "2387327343",
+          "name": "Luiza Dotto"
+        },
+        {
+          "authorId": "2387325585",
+          "name": "Daniel Martins dos Santos"
+        },
+        {
+          "authorId": "2387320193",
+          "name": "José Nogueira da Silva Neto"
+        },
+        {
+          "authorId": "2387324822",
+          "name": "Fernanda Gabriele Pedroso Ecamila Ecamila"
+        },
+        {
+          "authorId": "2387685110",
+          "name": "Ana Luiza Barbosa"
+        },
+        {
+          "authorId": "2387325341",
+          "name": "Andrielly Collioni Beatricci"
+        },
+        {
+          "authorId": "2387325056",
+          "name": "Bárbara Rico Vieira"
+        },
+        {
+          "authorId": "2387324023",
+          "name": "Giovanna Bifulco Soares"
+        },
+        {
+          "authorId": "2387327338",
+          "name": "Júlia Gallardo Gomes Alciati"
+        }
+      ],
+      "abstract": "Abstract Disclosure: A.C. Bocato: None. L. Dotto: None. D.M. Santos: None. J.N. Silva Neto: None. F.G. Ecamila: None. A.L. Barbosa: None. A.C. Beatricci: None. B.R. Vieira: None. G.B. Soares: None. J.G. Alciati: None. Introduction: Immune checkpoint inhibitor-induced hypophysitis (ICI-H) is a significant endocrine toxicity related to oncologic immunotherapy, characterized by inflammation of the anterior pituitary and persistent hormonal dysfunction. This study aims to review the clinical manifestations of ICI-H in adults, focusing on the frequency of hormonal deficits, disease progression, and factors associated with either recovery or persistence of endocrine dysfunction. Methods: A systematic review was conducted in the PubMed, SciELO, and BVS databases, using MeSH descriptors and free terms related to immune checkpoint inhibitors, hypophysitis, and cancer. Primary clinical studies involving adult patients with clinical, hormonal, and/or imaging data related to ICI-H were included. Pediatric studies, studies without relevant clinical data, and those that addressed hypophysitis only as a secondary adverse event were excluded. Study quality was assessed using the Jadad and Newcastle-Ottawa Scales. Results: Nine studies were included. Most patients presented with adrenal axis deficiency as the main dysfunction, often without recovery during follow-up. Thyroid and gonadal axis dysfunctions were also observed, with partial recovery in a few cases. High-dose glucocorticoid therapy, evaluated in a clinical trial, did not improve pituitary function recovery and was associated with adverse metabolic effects. Patients receiving combined immunotherapy regimens (anti-CTLA-4 + anti-PD-1) showed a higher frequency and severity of hypophysitis. Some studies identified potential predictive markers, including hematologic and genetic alterations, as well as characteristic findings on imaging. Nevertheless, diagnostic criteria remain variable, and there is no consensus on optimal treatment strategies. Conclusion: ICI-H is a clinically relevant condition, often marked by abrupt hormonal dysfunction with incomplete recovery. Adrenal axis deficiency is predominant, and high-dose glucocorticoid therapy has not shown functional benefit. Identifying risk markers and standardizing diagnostic criteria are key priorities for the appropriate management of affected patients. Presentation: Sunday, July 13, 2025"
+    }
+  ]
+}

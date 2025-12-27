@@ -1,0 +1,206 @@
+{
+  "total": 8987846,
+  "offset": 0,
+  "next": 5,
+  "data": [
+    {
+      "paperId": "ac9c495bd7bd862aac0059b721485dd597d25674",
+      "url": "https://www.semanticscholar.org/paper/ac9c495bd7bd862aac0059b721485dd597d25674",
+      "title": "Velocity-based resistance training: Impact of velocity loss in the set on neuromuscular performance and hormonal response.",
+      "year": 2020,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1139/apnm-2019-0829?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1139/apnm-2019-0829, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "1399089791",
+          "name": "D. Rodríguez-Rosell"
+        },
+        {
+          "authorId": "1402838807",
+          "name": "J. Yáñez-García"
+        },
+        {
+          "authorId": "1402839108",
+          "name": "R. Mora-Custodio"
+        },
+        {
+          "authorId": "1398145288",
+          "name": "F. Pareja-Blanco"
+        },
+        {
+          "authorId": "1389967607",
+          "name": "A. Ravelo-García"
+        },
+        {
+          "authorId": "65822665",
+          "name": "J. Ribas-Serna"
+        },
+        {
+          "authorId": "1396099792",
+          "name": "J. González-Badillo"
+        }
+      ],
+      "abstract": "This study aimed to compare the effects of two resistance training (RT) programs with different velocity losses allowed in each set: 10% (VL10%) vs. 30% (VL30%) on neuromuscular performance and hormonal response. Twenty-five young healthy males were randomly assigned into two groups: VL10% (n=12) or VL30% (n=13). Subjects followed a velocity-based RT program for 8 weeks (2 sessions per week) using only the full-squat (SQ) exercise at 70-85% 1RM. Repetition velocity was recorded in all training sessions. A 20-m running sprint, countermovement jump (CMJ), 1RM, muscle endurance and EMG during SQ exercise, and resting hormonal concentrations were assessed before and after RT program. Both groups showed similar improvements in muscle strength and endurance variables (VL10%: 7.0-74.8%; VL30%: 4.2-73.2%). The VL10% resulted in greater percentage increments in CMJ (9.2% vs. 5.4%) and sprint performance (-1.5% vs. 0.4%) than VL30%, despite VL10% performed less than half of the repetitions than VL30% during RT. In addition, only VL10% showed slight increments in EMG variables, whereas no significant changes in resting hormonal concentrations were observed. Therefore, our results suggest that velocity losses in the set as low as 10% are enough to achieve significant improvements in neuromuscular performance, which means greater efficiency during RT. Novelty bullets • The VL10% group showed similar or even greater percentage of changes in physical performance compared to VL30%. • No significant changes in resting hormonal concentrations were observed for any training group. • Curvilinear relationships between percentage VL in the set and changes in strength and CMJ performance were observed."
+    },
+    {
+      "paperId": "deb114e2a21c36033f62dee027f2112ca53ab079",
+      "url": "https://www.semanticscholar.org/paper/deb114e2a21c36033f62dee027f2112ca53ab079",
+      "title": "Resistance Exercise-Induced Hormonal Response Promotes Satellite Cell Proliferation in Untrained Men but not in Women.",
+      "year": 2019,
+      "openAccessPdf": {
+        "url": "https://journals.physiology.org/doi/pdf/10.1152/ajpendo.00473.2018",
+        "status": "BRONZE",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1152/ajpendo.00473.2018?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1152/ajpendo.00473.2018, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "40502756",
+          "name": "H. Luk"
+        },
+        {
+          "authorId": "6069135",
+          "name": "D. Levitt"
+        },
+        {
+          "authorId": "147033948",
+          "name": "J. Boyett"
+        },
+        {
+          "authorId": "121191631",
+          "name": "S. Rojas"
+        },
+        {
+          "authorId": "148044124",
+          "name": "Shawn M. Flader"
+        },
+        {
+          "authorId": "1972369",
+          "name": "B. McFarlin"
+        },
+        {
+          "authorId": "5520371",
+          "name": "J. Vingren"
+        }
+      ],
+      "abstract": "The purpose was to determine the effect of resistance exercise (RE)-induced hormonal changes on satellite cell (SC) myogenic state in response to muscle damage. Untrained men (n=10, 22±3y) and women (n=9, 21±4y) completed 2 sessions of 80 unilateral maximal eccentric knee extensions followed by either an upper body RE protocol (EX) or a 20-min rest (CON). Muscle samples were collected and analyzed for protein content of Pax7, MyoD, myogenin, cyclin D1, p21 before (PRE), 12h, and 24h after the session was completed. Serum testosterone, growth hormone, cortisol, and myoglobin concentrations were analyzed at PRE, post damage, immediately after (IP), 15, 30, and 60 min after the session was completed. Testosterone was significantly (p<0.05) higher immediately after the session in EX versus CON for men. A significant time × gender x condition interaction was found for MyoD with an increase in EX (men) and CON (women) at 12h. A significant time x condition interaction was found for Pax7 with a decrease in EX and increase in CON at 24h. A significant time effect was found for myogenin, p21, and cyclin D1. Myogenin and p21 were increased at 12h and 24h and Cyclin D1 was increased at 12h. These results suggest that the acute RE-induced hormonal response can be important for men to promote SC proliferation after muscle damage but had no effect in women. Markers of SC differentiation appeared unaffected by the hormonal response but increased in response to muscle damage."
+    },
+    {
+      "paperId": "bacf0371a76c1149d63a4450709ee752e8af5c0f",
+      "url": "https://www.semanticscholar.org/paper/bacf0371a76c1149d63a4450709ee752e8af5c0f",
+      "title": "Hormonal response to physical exercise",
+      "year": 2016,
+      "openAccessPdf": {
+        "url": "https://www.endocrine-abstracts.org/ea/0041/eposters/ea0041ep828_eposter.pdf",
+        "status": "BRONZE",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1530/ENDOABS.41.EP828?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1530/ENDOABS.41.EP828, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "5164727",
+          "name": "Codruța Lencu"
+        },
+        {
+          "authorId": "8284676",
+          "name": "T. Alexescu"
+        },
+        {
+          "authorId": "8077883",
+          "name": "M. Lencu"
+        },
+        {
+          "authorId": "49550092",
+          "name": "C. Georgescu"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "27ff2f0b33162b33abf1257f0172f840be5e9f8b",
+      "url": "https://www.semanticscholar.org/paper/27ff2f0b33162b33abf1257f0172f840be5e9f8b",
+      "title": "Genetic Architecture of a Hormonal Response to Gene Knockdown in Honey Bees",
+      "year": 2015,
+      "openAccessPdf": {
+        "url": "https://academic.oup.com/jhered/article-pdf/106/2/155/10007086/esu086.pdf",
+        "status": "HYBRID",
+        "license": "CCBYNC",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC4323067, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "6678128",
+          "name": "Kate E Ihle"
+        },
+        {
+          "authorId": "4039147",
+          "name": "O. Rueppell"
+        },
+        {
+          "authorId": "35193623",
+          "name": "Z. Huang"
+        },
+        {
+          "authorId": "46396321",
+          "name": "Ying Wang"
+        },
+        {
+          "authorId": "3699827",
+          "name": "M. Fondrk"
+        },
+        {
+          "authorId": "5316813",
+          "name": "R. Page"
+        },
+        {
+          "authorId": "6574276",
+          "name": "G. Amdam"
+        }
+      ],
+      "abstract": "Variation in endocrine signaling is proposed to underlie the evolution and regulation of social life histories, but the genetic architecture of endocrine signaling is still poorly understood. An excellent example of a hormonally influenced set of social traits is found in the honey bee (Apis mellifera): a dynamic and mutually suppressive relationship between juvenile hormone (JH) and the yolk precursor protein vitellogenin (Vg) regulates behavioral maturation and foraging of workers. Several other traits cosegregate with these behavioral phenotypes, comprising the pollen hoarding syndrome (PHS) one of the best-described animal behavioral syndromes. Genotype differences in responsiveness of JH to Vg are a potential mechanistic basis for the PHS. Here, we reduced Vg expression via RNA interference in progeny from a backcross between 2 selected lines of honey bees that differ in JH responsiveness to Vg reduction and measured JH response and ovary size, which represents another key aspect of the PHS. Genetic mapping based on restriction site-associated DNA tag sequencing identified suggestive quantitative trait loci (QTL) for ovary size and JH responsiveness. We confirmed genetic effects on both traits near many QTL that had been identified previously for their effect on various PHS traits. Thus, our results support a role for endocrine control of complex traits at a genetic level. Furthermore, this first example of a genetic map of a hormonal response to gene knockdown in a social insect helps to refine the genetic understanding of complex behaviors and the physiology that may underlie behavioral control in general."
+    },
+    {
+      "paperId": "3037ea32784dd597ec08f5e5b6ea965240194892",
+      "url": "https://www.semanticscholar.org/paper/3037ea32784dd597ec08f5e5b6ea965240194892",
+      "title": "The Acute Hormonal Response to Free Weight and Machine Weight Resistance Exercise",
+      "year": 2014,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.1519/jsc.0000000000000317",
+        "status": "BRONZE",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1519/JSC.0000000000000317?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1519/JSC.0000000000000317, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "36639145",
+          "name": "A. A. Shaner"
+        },
+        {
+          "authorId": "5520371",
+          "name": "J. Vingren"
+        },
+        {
+          "authorId": "6523751",
+          "name": "D. Hatfield"
+        },
+        {
+          "authorId": "6617683",
+          "name": "R. Budnar"
+        },
+        {
+          "authorId": "4844246",
+          "name": "Anthony A. Duplanty"
+        },
+        {
+          "authorId": "50570985",
+          "name": "D. Hill"
+        }
+      ],
+      "abstract": null
+    }
+  ]
+}

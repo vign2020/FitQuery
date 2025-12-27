@@ -1,0 +1,330 @@
+{
+  "total": 3547367,
+  "offset": 0,
+  "next": 5,
+  "data": [
+    {
+      "paperId": "9f7c6410b919e10dda7c2cd03d305ed37a839dc2",
+      "url": "https://www.semanticscholar.org/paper/9f7c6410b919e10dda7c2cd03d305ed37a839dc2",
+      "title": "High fatigue resistance in a titanium alloy via near-void-free 3D printing",
+      "year": 2024,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1038/s41586-024-07048-1?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1038/s41586-024-07048-1, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2288183669",
+          "name": "Z. Qu"
+        },
+        {
+          "authorId": "2299922483",
+          "name": "Zhenjun Zhang"
+        },
+        {
+          "authorId": "2288854914",
+          "name": "Rui Liu"
+        },
+        {
+          "authorId": "2289137239",
+          "name": "Ling Xu"
+        },
+        {
+          "authorId": "2288251858",
+          "name": "Yining Zhang"
+        },
+        {
+          "authorId": "2282086023",
+          "name": "Xiaotao Li"
+        },
+        {
+          "authorId": "2288493660",
+          "name": "Zhenkai Zhao"
+        },
+        {
+          "authorId": "2274944366",
+          "name": "Qiqiang Duan"
+        },
+        {
+          "authorId": "2145317567",
+          "name": "Shaogang Wang"
+        },
+        {
+          "authorId": "2288240345",
+          "name": "Shujun Li"
+        },
+        {
+          "authorId": "2185826283",
+          "name": "Yingjie Ma"
+        },
+        {
+          "authorId": "2288088994",
+          "name": "Xiaohong Shao"
+        },
+        {
+          "authorId": "2237127581",
+          "name": "Rui Yang"
+        },
+        {
+          "authorId": "2282116376",
+          "name": "J. Eckert"
+        },
+        {
+          "authorId": "2239995802",
+          "name": "R. Ritchie"
+        },
+        {
+          "authorId": "2331376700",
+          "name": "Zhefeng Zhang"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "59b95cbaa181fb7de1388249459da993856821b0",
+      "url": "https://www.semanticscholar.org/paper/59b95cbaa181fb7de1388249459da993856821b0",
+      "title": "Nacre-like surface nanolaminates enhance fatigue resistance of pure titanium",
+      "year": 2024,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.1038/s41467-024-51423-5",
+        "status": "GOLD",
+        "license": "CCBYNCND",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11319618, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2144287927",
+          "name": "Yong Zhang"
+        },
+        {
+          "authorId": "2140520502",
+          "name": "Chenyun He"
+        },
+        {
+          "authorId": "2153795327",
+          "name": "Q. Yu"
+        },
+        {
+          "authorId": "2309095641",
+          "name": "Xiao Li"
+        },
+        {
+          "authorId": "2316002872",
+          "name": "Xiaogang Wang"
+        },
+        {
+          "authorId": "2274187901",
+          "name": "Yin Zhang"
+        },
+        {
+          "authorId": "2110218253",
+          "name": "Ji Wang"
+        },
+        {
+          "authorId": "2315978776",
+          "name": "Chao Jiang"
+        },
+        {
+          "authorId": "2244356759",
+          "name": "Yun-Fei Jia"
+        },
+        {
+          "authorId": "2108085478",
+          "name": "Xiancheng Zhang"
+        },
+        {
+          "authorId": "2267221229",
+          "name": "Binhan Sun"
+        },
+        {
+          "authorId": "2239995802",
+          "name": "R. Ritchie"
+        },
+        {
+          "authorId": "2287090703",
+          "name": "Shan-Tung Tu"
+        }
+      ],
+      "abstract": "Fatigue failure is invariably the most crucial failure mode for metallic structural components. Most microstructural strategies for enhancing fatigue resistance are effective in suppressing either crack initiation or propagation, but often do not work for both synergistically. Here, we demonstrate that this challenge can be overcome by architecting a gradient structure featuring a surface layer of nacre-like nanolaminates followed by multi-variant twinned structure in pure titanium. The polarized accommodation of highly regulated grain boundaries in the nanolaminated layer to cyclic loading enhances the structural stability against lamellar thickening and microstructure softening, thereby delaying surface roughening and thus crack nucleation. The decohesion of the nanolaminated grains along horizonal high-angle grain boundaries gives rise to an extraordinarily high frequency (≈1.7 × 103 times per mm) of fatigue crack deflection, effectively reducing fatigue crack propagation rate (by 2 orders of magnitude lower than the homogeneous coarse-grained counterpart). These intriguing features of the surface nanolaminates, along with the various toughening mechanisms activated in the subsurface twinned structure, result in a fatigue resistance that significantly exceeds those of the homogeneous and gradient structures with equiaxed grains. Our work on architecting the surface nanolaminates in gradient structure provides a scalable and sustainable strategy for designing more fatigue-resistant alloys. Most strategies to improve fatigue resistance address either crack initiation or growth. Here, the authors design a gradient-structured Ti with nacre-like surface nanolaminates that increase fatigue performance by suppressing both stages of cracking"
+    },
+    {
+      "paperId": "644dc3b5521b8575f6bc2e848d9f4d4480c211ae",
+      "url": "https://www.semanticscholar.org/paper/644dc3b5521b8575f6bc2e848d9f4d4480c211ae",
+      "title": "Achieving ultrahigh fatigue resistance in AlSi10Mg alloy by additive manufacturing",
+      "year": 2023,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1038/s41563-023-01651-9?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1038/s41563-023-01651-9, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "31640078",
+          "name": "C. Dan"
+        },
+        {
+          "authorId": "92562000",
+          "name": "Yuchi Cui"
+        },
+        {
+          "authorId": "2108052394",
+          "name": "Yi Wu"
+        },
+        {
+          "authorId": "144782419",
+          "name": "Zhe Chen"
+        },
+        {
+          "authorId": "2117911553",
+          "name": "Hui-min Liu"
+        },
+        {
+          "authorId": "2055422064",
+          "name": "Gang Ji"
+        },
+        {
+          "authorId": "1484151282",
+          "name": "Yakai Xiao"
+        },
+        {
+          "authorId": "2126421427",
+          "name": "Han Chen"
+        },
+        {
+          "authorId": "1470654575",
+          "name": "Mingliang Wang"
+        },
+        {
+          "authorId": "2108377694",
+          "name": "Jun Liu"
+        },
+        {
+          "authorId": "2086787",
+          "name": "L. Wang"
+        },
+        {
+          "authorId": "48513301",
+          "name": "Y. Li"
+        },
+        {
+          "authorId": "6524966",
+          "name": "A. Addad"
+        },
+        {
+          "authorId": "2174657604",
+          "name": "Ying Zhou"
+        },
+        {
+          "authorId": "47325682",
+          "name": "Siming Ma"
+        },
+        {
+          "authorId": "9399793",
+          "name": "Q. Shi"
+        },
+        {
+          "authorId": "2266682956",
+          "name": "Haowei Wang"
+        },
+        {
+          "authorId": "2152962330",
+          "name": "Jian Lu"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "3f45b3a11a47059cbbfe56854d47d54031c921e3",
+      "url": "https://www.semanticscholar.org/paper/3f45b3a11a47059cbbfe56854d47d54031c921e3",
+      "title": "Multiscale stress deconcentration amplifies fatigue resistance of rubber",
+      "year": 2023,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1038/s41586-023-06782-2?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1038/s41586-023-06782-2, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "74572054",
+          "name": "J. Steck"
+        },
+        {
+          "authorId": "2274460611",
+          "name": "Junsoo Kim"
+        },
+        {
+          "authorId": "95951853",
+          "name": "Yakov Kutsovsky"
+        },
+        {
+          "authorId": "2242897830",
+          "name": "Zhigang Suo"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "401973f4a79fc84806ff212f80a373d1a8a4faba",
+      "url": "https://www.semanticscholar.org/paper/401973f4a79fc84806ff212f80a373d1a8a4faba",
+      "title": "Highly cross-linked carbon tube aerogels with enhanced elasticity and fatigue resistance",
+      "year": 2023,
+      "openAccessPdf": {
+        "url": "https://www.nature.com/articles/s41467-023-38664-6.pdf",
+        "status": "CLOSED",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10235059, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2144783877",
+          "name": "Lei Zhuang"
+        },
+        {
+          "authorId": "92093243",
+          "name": "De Lu"
+        },
+        {
+          "authorId": "2144168857",
+          "name": "Jijun Zhang"
+        },
+        {
+          "authorId": "2152254626",
+          "name": "Pengfei Guo"
+        },
+        {
+          "authorId": "144928710",
+          "name": "Lei Su"
+        },
+        {
+          "authorId": "2116661516",
+          "name": "Yuanbin Qin"
+        },
+        {
+          "authorId": "2396921461",
+          "name": "Pengcheng Zhang"
+        },
+        {
+          "authorId": "2158341174",
+          "name": "Liang Xu"
+        },
+        {
+          "authorId": "46819031",
+          "name": "Min Niu"
+        },
+        {
+          "authorId": "50227784",
+          "name": "K. Peng"
+        },
+        {
+          "authorId": "2109344601",
+          "name": "Hongjie Wang"
+        }
+      ],
+      "abstract": "Carbon aerogels are elastic, mechanically robust and fatigue resistant and are known for their promising applications in the fields of soft robotics, pressure sensors etc. However, these aerogels are generally fragile and/or easily deformable, which limits their applications. Here, we report a synthesis strategy for fabricating highly compressible and fatigue-resistant aerogels by assembling interconnected carbon tubes. The carbon tube aerogels demonstrate near-zero Poisson’s ratio, exhibit a maximum strength over 20 MPa and a completely recoverable strain up to 99%. They show high fatigue resistance (less than 1.5% permanent degradation after 1000 cycles at 99% strain) and are thermally stable up to 2500 °C in an Ar atmosphere. Additionally, they possess tunable conductivity and electromagnetic shielding. The combined mechanical and multi-functional properties offer an attractive material for the use in harsh environments."
+    }
+  ]
+}

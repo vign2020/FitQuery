@@ -1,0 +1,104 @@
+{
+  "total": 5588383,
+  "offset": 0,
+  "next": 3,
+  "data": [
+    {
+      "paperId": "f40fa8b4e27b023a7570fd16de4956dc9913702f",
+      "url": "https://www.semanticscholar.org/paper/f40fa8b4e27b023a7570fd16de4956dc9913702f",
+      "title": "Effects of Whey Protein, Leucine, and Vitamin D Supplementation in Patients with Sarcopenia: A Systematic Review and Meta-Analysis",
+      "year": 2023,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/2072-6643/15/3/521/pdf?version=1674116664",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC9920795, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "21816012",
+          "name": "M. Chang"
+        },
+        {
+          "authorId": "123566397",
+          "name": "Yoo Jin Choo"
+        }
+      ],
+      "abstract": "(1) Background: In this study, a meta-analysis was performed to investigate the effects of whey protein, leucine, and vitamin D in sarcopenia; (2) Methods: We searched PubMed, Cochrane Library, Embase, and Scopus databases and retrieved studies published until 5 December 2022. Randomized controlled trials were included to evaluate muscle mass, strength, and function, after using whey protein, leucine, and vitamin D supplementation in patients with sarcopenia; (3) Results: A total of three studies including 637 patients reported the effectiveness of using whey protein, leucine, and vitamin D supplementation in patients with sarcopenia. Without considering whether or not a physical exercise program was combined with nutritional supplementation, no significant differences in grip strength or short physical performance battery (SPPB) scores between the experimental and control groups were noted. However, appendicular muscle mass significantly improved in the experimental group compared to the control group. The results were analyzed according to the presence or absence of a concomitant physical exercise program. With the use of a concomitant physical exercise program, handgrip strength and SPPB scores in the experimental group significantly improved when compared to the control group. In contrast, when physical exercise was not combined, there was no significant improvement in the handgrip strength and SPPB scores of patients with sarcopenia. In addition, the appendicular muscle mass significantly increased regardless of the presence of a concomitant physical exercise program; (4) Conclusions: Whey protein, leucine, and vitamin D supplementation can increase appendicular muscle mass in patients with sarcopenia. In addition, combining a physical exercise program with whey protein, leucine, and vitamin D supplementation can improve muscle strength and function."
+    },
+    {
+      "paperId": "45a58fbe831187e54399abc6129dc044530f3962",
+      "url": "https://www.semanticscholar.org/paper/45a58fbe831187e54399abc6129dc044530f3962",
+      "title": "Separation Technologies for Whey Protein Fractionation",
+      "year": 2023,
+      "openAccessPdf": {
+        "url": "https://link.springer.com/content/pdf/10.1007/s12393-022-09330-2.pdf",
+        "status": "HYBRID",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s12393-022-09330-2?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s12393-022-09330-2, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2116388735",
+          "name": "George Q. Chen"
+        },
+        {
+          "authorId": "2067317005",
+          "name": "Yiran Qu"
+        },
+        {
+          "authorId": "2161340355",
+          "name": "Sally L. Gras"
+        },
+        {
+          "authorId": "49815464",
+          "name": "S. Kentish"
+        }
+      ],
+      "abstract": "Whey is a by-product of cheese, casein, and yogurt manufacture. It contains a mixture of proteins that need to be isolated and purified to fully exploit their nutritional and functional characteristics. Protein-enriched fractions and highly purified proteins derived from whey have led to the production of valuable ingredients for many important food and pharmaceutical applications. This article provides a review on the separation principles behind both the commercial and emerging techniques used for whey protein fractionation, as well as the efficacy and limitations of these techniques in isolating and purifying individual whey proteins. The fractionation of whey proteins has mainly been achieved at commercial scale using membrane filtration, resin-based chromatography, and the integration of multiple technologies (e.g., precipitation, membrane filtration, and chromatography). Electromembrane separation and membrane chromatography are two main emerging techniques that have been developed substantially in recent years. Other new techniques such as aqueous two-phase separation and magnetic fishing are also discussed, but only a limited number of studies have reported their application in whey protein fractionation. This review offers useful insights into research directions and technology screening for academic researchers and dairy processors for the production of whey protein fractions with desired nutritional and functional properties."
+    },
+    {
+      "paperId": "dff6ecca3778f01b63854b063daf19fc9b8bf434",
+      "url": "https://www.semanticscholar.org/paper/dff6ecca3778f01b63854b063daf19fc9b8bf434",
+      "title": "Application of whey protein emulsion gel microparticles as fat replacers in low-fat yogurt: Applicability of vegetable oil as the oil phase.",
+      "year": 2022,
+      "openAccessPdf": {
+        "url": "http://www.journalofdairyscience.org/article/S0022030222006221/pdf",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3168/jds.2022-22314?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3168/jds.2022-22314, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "51057824",
+          "name": "Hongjuan Li"
+        },
+        {
+          "authorId": "2048724613",
+          "name": "Leilei Zhang"
+        },
+        {
+          "authorId": "2117725533",
+          "name": "Yuanyuan Jia"
+        },
+        {
+          "authorId": "1979035798",
+          "name": "Yujing Yuan"
+        },
+        {
+          "authorId": "2154944568",
+          "name": "Hongbo Li"
+        },
+        {
+          "authorId": "47569185",
+          "name": "W. Cui"
+        },
+        {
+          "authorId": "1810541",
+          "name": "Jinghua Yu"
+        }
+      ],
+      "abstract": "Low-fat, healthy yogurt is becoming increasingly favored by consumers. In the present study, whey protein emulsion gel microparticles were used to improve the quality of low-fat yogurt, and the effects of vegetable oil emulsion gel as a fat substitute on the qualities of low-fat yogurt were investigated, expecting to obtain healthier and even more excellent quality low-fat yogurt by applying a new method. First, emulsion gel microparticles were prepared, and then particle size distribution of emulsion gel and water holding capacity (WHC), textural properties, rheological properties, microstructure, storage stability, and sensory evaluation of yogurt were carried out. The results showed that yogurt with emulsion gel had significantly superior qualities than yogurt made with skim milk powder, with better WHC, textural properties, rheological properties, and storage stability. The average particle size of whey protein-vegetable oil emulsion gel microparticles was significantly larger than that of whey protein-milk fat emulsion gel microparticles, and the larger particle size affected the structural stability of yogurt. The WHC of yogurt made with whey protein-vegetable oil emulsion gel microparticles (V-EY) was lower (40.41%) than that of yogurt made with whey protein-milk fat emulsion gel microparticles (M-EY; 42.81%), and the texture results also showed that the hardness, consistency, and viscosity index of V-EY were inferior to these of M-EY, whereas no significant differences were found in the cohesiveness. Interestingly, the microstructure of V-EY was relatively flatter, with more and finer network branching. The whey separation between V-EY and M-EY also did not show significant differences during the 14 d of storage. Compared with yogurt made with whey protein, vegetable oil, and skim milk powder, the structure of V-EY remained relatively stable and had no cracks after 14 d of storage. The sensory evaluation results found that the total score of V-EY (62) was only lower than M-EY (65) and significantly higher than that of yogurt made with skim milk powder. The emulsion gel addition improved the sensory qualities of yogurt. Whey protein emulsion gel microparticles prepared from vegetable oil can be applied to low-fat yogurt to replace fat and improve texture and sensory defects associated with fat reduction."
+    }
+  ]
+}

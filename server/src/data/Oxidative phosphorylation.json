@@ -1,0 +1,490 @@
+{
+  "total": 3282972,
+  "offset": 0,
+  "next": 5,
+  "data": [
+    {
+      "paperId": "b3b638b171ea95512be02b0bcbaec8fded7144c0",
+      "url": "https://www.semanticscholar.org/paper/b3b638b171ea95512be02b0bcbaec8fded7144c0",
+      "title": "Hypoxia induces mitochondrial protein lactylation to limit oxidative phosphorylation",
+      "year": 2024,
+      "openAccessPdf": {
+        "url": "https://www.nature.com/articles/s41422-023-00864-6.pdf",
+        "status": "HYBRID",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10770133, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2117696160",
+          "name": "Yunzi Mao"
+        },
+        {
+          "authorId": "2277295004",
+          "name": "Jiaojiao Zhang"
+        },
+        {
+          "authorId": "2116762325",
+          "name": "Qian Zhou"
+        },
+        {
+          "authorId": "2387388403",
+          "name": "Xiadi He"
+        },
+        {
+          "authorId": "2277594431",
+          "name": "Zhifang Zheng"
+        },
+        {
+          "authorId": "2158296377",
+          "name": "Yun Wei"
+        },
+        {
+          "authorId": "2277259873",
+          "name": "Kaiqiang Zhou"
+        },
+        {
+          "authorId": "2149201377",
+          "name": "Yan Lin"
+        },
+        {
+          "authorId": "2277291075",
+          "name": "Haowen Yu"
+        },
+        {
+          "authorId": "2277401556",
+          "name": "Haihui Zhang"
+        },
+        {
+          "authorId": "2277264512",
+          "name": "Yineng Zhou"
+        },
+        {
+          "authorId": "2277574712",
+          "name": "Pengcheng Lin"
+        },
+        {
+          "authorId": "7568756",
+          "name": "Baixing Wu"
+        },
+        {
+          "authorId": "2143816648",
+          "name": "Yiyuan Yuan"
+        },
+        {
+          "authorId": "46509310",
+          "name": "Jianyuan Zhao"
+        },
+        {
+          "authorId": "2143842124",
+          "name": "Wei Xu"
+        },
+        {
+          "authorId": "2248798693",
+          "name": "Shimin Zhao"
+        }
+      ],
+      "abstract": "Oxidative phosphorylation (OXPHOS) consumes oxygen to produce ATP. However, the mechanism that balances OXPHOS activity and intracellular oxygen availability remains elusive. Here, we report that mitochondrial protein lactylation is induced by intracellular hypoxia to constrain OXPHOS. We show that mitochondrial alanyl-tRNA synthetase (AARS2) is a protein lysine lactyltransferase, whose proteasomal degradation is enhanced by proline 377 hydroxylation catalyzed by the oxygen-sensing hydroxylase PHD2. Hypoxia induces AARS2 accumulation to lactylate PDHA1 lysine 336 in the pyruvate dehydrogenase complex and carnitine palmitoyltransferase 2 (CPT2) lysine 457/8, inactivating both enzymes and inhibiting OXPHOS by limiting acetyl-CoA influx from pyruvate and fatty acid oxidation, respectively. PDHA1 and CPT2 lactylation can be reversed by SIRT3 to activate OXPHOS. In mouse muscle cells, lactylation is induced by lactate oxidation-induced intracellular hypoxia during exercise to constrain high-intensity endurance running exhaustion time, which can be increased or decreased by decreasing or increasing lactylation levels, respectively. Our results reveal that mitochondrial protein lactylation integrates intracellular hypoxia and lactate signals to regulate OXPHOS."
+    },
+    {
+      "paperId": "251e40a3502ff24f7b1ccdba4d8e50f7b3472727",
+      "url": "https://www.semanticscholar.org/paper/251e40a3502ff24f7b1ccdba4d8e50f7b3472727",
+      "title": "PGC-1α-responsive genes involved in oxidative phosphorylation are coordinately downregulated in human diabetes",
+      "year": 2003,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1038/ng1180?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1038/ng1180, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2595752",
+          "name": "V. Mootha"
+        },
+        {
+          "authorId": "1941253",
+          "name": "C. Lindgren"
+        },
+        {
+          "authorId": "144260859",
+          "name": "K. Eriksson"
+        },
+        {
+          "authorId": "145445964",
+          "name": "A. Subramanian"
+        },
+        {
+          "authorId": "3574801",
+          "name": "S. Sihag"
+        },
+        {
+          "authorId": "3544164",
+          "name": "J. Lehár"
+        },
+        {
+          "authorId": "4750231",
+          "name": "P. Puigserver"
+        },
+        {
+          "authorId": "145428599",
+          "name": "E. Carlsson"
+        },
+        {
+          "authorId": "37051228",
+          "name": "M. Ridderstråle"
+        },
+        {
+          "authorId": "4666440",
+          "name": "E. Laurila"
+        },
+        {
+          "authorId": "4979663",
+          "name": "N. Houstis"
+        },
+        {
+          "authorId": "144524355",
+          "name": "M. Daly"
+        },
+        {
+          "authorId": "143651019",
+          "name": "N. Patterson"
+        },
+        {
+          "authorId": "1727782",
+          "name": "J. Mesirov"
+        },
+        {
+          "authorId": "2900051",
+          "name": "T. Golub"
+        },
+        {
+          "authorId": "144085315",
+          "name": "P. Tamayo"
+        },
+        {
+          "authorId": "4619232",
+          "name": "B. Spiegelman"
+        },
+        {
+          "authorId": "9311320",
+          "name": "E. Lander"
+        },
+        {
+          "authorId": "3294928",
+          "name": "J. Hirschhorn"
+        },
+        {
+          "authorId": "145479043",
+          "name": "D. Altshuler"
+        },
+        {
+          "authorId": "144741173",
+          "name": "L. Groop"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "9bd61d195f276db6a7b53692ad59e05536ecf8bc",
+      "url": "https://www.semanticscholar.org/paper/9bd61d195f276db6a7b53692ad59e05536ecf8bc",
+      "title": "Complex I inhibitor of oxidative phosphorylation in advanced solid tumors and acute myeloid leukemia: phase I trials",
+      "year": 2023,
+      "openAccessPdf": {
+        "url": "https://www.researchsquare.com/article/rs-1506700/latest.pdf",
+        "status": "GREEN",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1038/s41591-022-02103-8?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1038/s41591-022-02103-8, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "6429556",
+          "name": "T. Yap"
+        },
+        {
+          "authorId": "145819669",
+          "name": "N. Daver"
+        },
+        {
+          "authorId": "153937358",
+          "name": "Mikhila Mahendra"
+        },
+        {
+          "authorId": "2135760173",
+          "name": "Jixiang Zhang"
+        },
+        {
+          "authorId": "1401298227",
+          "name": "C. Kamiya-Matsuoka"
+        },
+        {
+          "authorId": "1397965147",
+          "name": "F. Meric-Bernstam"
+        },
+        {
+          "authorId": "49096572",
+          "name": "H. Kantarjian"
+        },
+        {
+          "authorId": "152116406",
+          "name": "F. Ravandi"
+        },
+        {
+          "authorId": "27291260",
+          "name": "Meghan Collins"
+        },
+        {
+          "authorId": "40435483",
+          "name": "M. D. Francesco"
+        },
+        {
+          "authorId": "2092033623",
+          "name": "E. Dumbrava"
+        },
+        {
+          "authorId": "50299255",
+          "name": "S. Fu"
+        },
+        {
+          "authorId": "2278396723",
+          "name": "Sisi Gao"
+        },
+        {
+          "authorId": "46933478",
+          "name": "J. Gay"
+        },
+        {
+          "authorId": "46185613",
+          "name": "S. Gera"
+        },
+        {
+          "authorId": "2146364340",
+          "name": "Jingchao Han"
+        },
+        {
+          "authorId": "2054110280",
+          "name": "David S. Hong"
+        },
+        {
+          "authorId": "144532044",
+          "name": "E. Jabbour"
+        },
+        {
+          "authorId": "152983291",
+          "name": "Z. Ju"
+        },
+        {
+          "authorId": "1855793",
+          "name": "D. Karp"
+        },
+        {
+          "authorId": "35430858",
+          "name": "A. Lodi"
+        },
+        {
+          "authorId": "35286219",
+          "name": "J. Molina"
+        },
+        {
+          "authorId": "49132161",
+          "name": "Natalia Baran"
+        },
+        {
+          "authorId": "3990129",
+          "name": "A. Naing"
+        },
+        {
+          "authorId": "6135990",
+          "name": "M. Ohanian"
+        },
+        {
+          "authorId": "4786681",
+          "name": "S. Pant"
+        },
+        {
+          "authorId": "4427210",
+          "name": "N. Pemmaraju"
+        },
+        {
+          "authorId": "35105672",
+          "name": "P. Bose"
+        },
+        {
+          "authorId": "1422512895",
+          "name": "S. Piha-Paul"
+        },
+        {
+          "authorId": "143607446",
+          "name": "J. Rodón"
+        },
+        {
+          "authorId": "3956910",
+          "name": "C. Salguero"
+        },
+        {
+          "authorId": "3280828",
+          "name": "K. Sasaki"
+        },
+        {
+          "authorId": "31726173",
+          "name": "A. Singh"
+        },
+        {
+          "authorId": "3561420",
+          "name": "V. Subbiah"
+        },
+        {
+          "authorId": "46737944",
+          "name": "A. Tsimberidou"
+        },
+        {
+          "authorId": "25923667",
+          "name": "Quanyu Xu"
+        },
+        {
+          "authorId": "49084956",
+          "name": "M. Yilmaz"
+        },
+        {
+          "authorId": "46324740",
+          "name": "Qi Zhang"
+        },
+        {
+          "authorId": "2118204786",
+          "name": "Yuan Li"
+        },
+        {
+          "authorId": "2862615",
+          "name": "C. Bristow"
+        },
+        {
+          "authorId": "40050250",
+          "name": "M. Bhattacharjee"
+        },
+        {
+          "authorId": "3078559",
+          "name": "S. Tiziani"
+        },
+        {
+          "authorId": "3095168",
+          "name": "T. Heffernan"
+        },
+        {
+          "authorId": "49572976",
+          "name": "C. Vellano"
+        },
+        {
+          "authorId": "153356209",
+          "name": "Philip Jones"
+        },
+        {
+          "authorId": "2517364",
+          "name": "C. Heijnen"
+        },
+        {
+          "authorId": "2074386",
+          "name": "A. Kavelaars"
+        },
+        {
+          "authorId": "39903396",
+          "name": "J. Marszalek"
+        },
+        {
+          "authorId": "144022230",
+          "name": "M. Konopleva"
+        }
+      ],
+      "abstract": "Although targeting oxidative phosphorylation (OXPHOS) is a rational anticancer strategy, clinical benefit with OXPHOS inhibitors has yet to be achieved. Here we advanced IACS-010759, a highly potent and selective small-molecule complex I inhibitor, into two dose-escalation phase I trials in patients with relapsed/refractory acute myeloid leukemia (NCT02882321, n  = 17) and advanced solid tumors (NCT03291938, n  = 23). The primary endpoints were safety, tolerability, maximum tolerated dose and recommended phase 2 dose (RP2D) of IACS-010759. The PK, PD, and preliminary antitumor activities of IACS-010759 in patients were also evaluated as secondary endpoints in both clinical trials. IACS-010759 had a narrow therapeutic index with emergent dose-limiting toxicities, including elevated blood lactate and neurotoxicity, which obstructed efforts to maintain target exposure. Consequently no RP2D was established, only modest target inhibition and limited antitumor activity were observed at tolerated doses, and both trials were discontinued. Reverse translational studies in mice demonstrated that IACS-010759 induced behavioral and physiological changes indicative of peripheral neuropathy, which were minimized with the coadministration of a histone deacetylase 6 inhibitor. Additional studies are needed to elucidate the association between OXPHOS inhibition and neurotoxicity, and caution is warranted in the continued development of complex I inhibitors as antitumor agents. A mitochondrial complex I inhibitor exhibited dose-limiting toxicities, including neurotoxicity, in patients with acute myeloid leukemia and solid tumors, warranting further studies to evaluate the mechanism linking oxidative phosphorylation inhibition and neurotoxicity."
+    },
+    {
+      "paperId": "d0a22e550c3118f3f68598f57b3b9916ad9ae625",
+      "url": "https://www.semanticscholar.org/paper/d0a22e550c3118f3f68598f57b3b9916ad9ae625",
+      "title": "Oxidative phosphorylation selectively orchestrates tissue macrophage homeostasis.",
+      "year": 2023,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.1016/j.immuni.2023.01.011",
+        "status": "BRONZE",
+        "license": "publisher-specific-oa",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.immuni.2023.01.011?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.immuni.2023.01.011, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "6398784",
+          "name": "S. Wculek"
+        },
+        {
+          "authorId": "1423384432",
+          "name": "Ignacio Heras-Murillo"
+        },
+        {
+          "authorId": "46567253",
+          "name": "Annalaura Mastrangelo"
+        },
+        {
+          "authorId": "2204430491",
+          "name": "Diego Mañanes"
+        },
+        {
+          "authorId": "2057671475",
+          "name": "Miguel Galán"
+        },
+        {
+          "authorId": "104416474",
+          "name": "V. Miguel"
+        },
+        {
+          "authorId": "2154447972",
+          "name": "Andrea Curtabbi"
+        },
+        {
+          "authorId": "2647254",
+          "name": "C. Barbas"
+        },
+        {
+          "authorId": "5562812",
+          "name": "N. Chandel"
+        },
+        {
+          "authorId": "34992962",
+          "name": "J. Enríquez"
+        },
+        {
+          "authorId": "2073297948",
+          "name": "Santiago Lamas"
+        },
+        {
+          "authorId": "2103482",
+          "name": "D. Sancho"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "3c3e267efb6a65a3583eb16dad503fc900789a7a",
+      "url": "https://www.semanticscholar.org/paper/3c3e267efb6a65a3583eb16dad503fc900789a7a",
+      "title": "Mitochondrial electron transport chain: Oxidative phosphorylation, oxidant production, and methods of measurement",
+      "year": 2020,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.1016/j.redox.2020.101674",
+        "status": "GOLD",
+        "license": "CCBYNCND",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC7767752, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "1403277225",
+          "name": "Deirdre Nolfi-Donegan"
+        },
+        {
+          "authorId": "47200370",
+          "name": "Andrea Braganza"
+        },
+        {
+          "authorId": "2949051",
+          "name": "S. Shiva"
+        }
+      ],
+      "abstract": null
+    }
+  ]
+}

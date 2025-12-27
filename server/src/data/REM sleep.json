@@ -1,0 +1,182 @@
+{
+  "total": 572014,
+  "offset": 0,
+  "next": 5,
+  "data": [
+    {
+      "paperId": "ebefde14956ec0cd2f263962c35449a73f68f695",
+      "url": "https://www.semanticscholar.org/paper/ebefde14956ec0cd2f263962c35449a73f68f695",
+      "title": "Prefrontal cortical regulation of REM sleep",
+      "year": 2023,
+      "openAccessPdf": {
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10602053",
+        "status": "GREEN",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1038/s41593-023-01398-1?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1038/s41593-023-01398-1, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "5578519",
+          "name": "Jiso Hong"
+        },
+        {
+          "authorId": "2243932513",
+          "name": "David E. Lozano"
+        },
+        {
+          "authorId": "2189718426",
+          "name": "Kevin T. Beier"
+        },
+        {
+          "authorId": "5040281",
+          "name": "Shinjae Chung"
+        },
+        {
+          "authorId": "143916947",
+          "name": "F. Weber"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "89d0299f7736d655d65ce950b73a70eb7a20cdb6",
+      "url": "https://www.semanticscholar.org/paper/89d0299f7736d655d65ce950b73a70eb7a20cdb6",
+      "title": "Paradoxical somatodendritic decoupling supports cortical plasticity during REM sleep",
+      "year": 2022,
+      "openAccessPdf": {
+        "url": "https://www.science.org/doi/pdf/10.1126/science.abk2734?download=true",
+        "status": "BRONZE",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1126/science.abk2734?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1126/science.abk2734, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2029738140",
+          "name": "Mattia Aime"
+        },
+        {
+          "authorId": "51311755",
+          "name": "N. Calcini"
+        },
+        {
+          "authorId": "2165110829",
+          "name": "M. Borsa"
+        },
+        {
+          "authorId": "70622888",
+          "name": "Tiago Campelo"
+        },
+        {
+          "authorId": "5042096",
+          "name": "T. Rusterholz"
+        },
+        {
+          "authorId": "1705042494",
+          "name": "Andrea Sattin"
+        },
+        {
+          "authorId": "3053635",
+          "name": "Tommaso Fellin"
+        },
+        {
+          "authorId": "6738533",
+          "name": "A. Adamantidis"
+        }
+      ],
+      "abstract": "Rapid eye movement (REM) sleep is associated with the consolidation of emotional memories. Yet, the underlying neocortical circuits and synaptic mechanisms remain unclear. We found that REM sleep is associated with a somatodendritic decoupling in pyramidal neurons of the prefrontal cortex. This decoupling reflects a shift of inhibitory balance between parvalbumin neuron–mediated somatic inhibition and vasoactive intestinal peptide–mediated dendritic disinhibition, mostly driven by neurons from the central medial thalamus. REM-specific optogenetic suppression of dendritic activity led to a loss of danger-versus-safety discrimination during associative learning and a lack of synaptic plasticity, whereas optogenetic release of somatic inhibition resulted in enhanced discrimination and synaptic potentiation. Somatodendritic decoupling during REM sleep promotes opposite synaptic plasticity mechanisms that optimize emotional responses to future behavioral stressors. Description Emotional memory encoding in REM sleep During rapid eye movement (REM) sleep, emotional memories are consolidated in the prefrontal cortex. However, we are still far from a mechanistic understanding of the processes involved. Aime et al. investigated the impact of REM sleep on cellular and subcellular activities, microcircuit connectivity, plasticity, and behavior. The authors quantified how somatic and dendritic activity differ in mice during wakefulness, REM, and non-REM sleep and probed how interneurons cause these differences. They further identified a specific area in the thalamus that activates a subpopulation of interneurons that decouple the dendrite from the somatic output. Finally, by optogenetic intervention during REM sleep, learning of discrimination between danger and safety could be enhanced or diminished. These findings provide a better understanding of the processing of emotions during sleep. —PRS Excitation and inhibition during REM sleep transforms emotional memory."
+    },
+    {
+      "paperId": "dd7051e9fab47af3b054ef69d1332fffedae6882",
+      "url": "https://www.semanticscholar.org/paper/dd7051e9fab47af3b054ef69d1332fffedae6882",
+      "title": "Idiopathic REM sleep behaviour disorder and neurodegeneration — an update",
+      "year": 2018,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1038/nrneurol.2017.157?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1038/nrneurol.2017.157, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "3642782",
+          "name": "B. Högl"
+        },
+        {
+          "authorId": "1825807",
+          "name": "A. Stefani"
+        },
+        {
+          "authorId": "4928902",
+          "name": "A. Videnovic"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "fe77046d460326abce96674910a09b55c45542a1",
+      "url": "https://www.semanticscholar.org/paper/fe77046d460326abce96674910a09b55c45542a1",
+      "title": "REM sleep",
+      "year": 2021,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.4135/9781412972024.n2172?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.4135/9781412972024.n2172, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "35516915",
+          "name": "J. Siegel"
+        }
+      ],
+      "abstract": "Rapid eye movement (REM) sleep was first identified by its most obvious behavior: rapid eye movements during sleep. In most adult mammals, the electroencephalogram (EEG) of the neocortex is low in voltage during REM sleep. The hippocampus has regular high-voltage theta waves throughout REM sleep. The key brain structure for generating REM sleep is the brainstem, particularly the pons and adjacent portions of the midbrain. These areas and the hypothalamus contain cells that are maximally active in REM sleep, called REM-on cells, and cells that are minimally active in REM sleep, called REMoff cells. Subgroups of REM-on cells use the transmitters gamma-aminobutyric acid (GABA), acetylcholine, glutamate, or glycine. Subgroups of REM-off cells use the transmitters norepinephrine, epinephrine, serotonin, and histamine. It is likely that interactions between REM-on and REM-off cells control the key phenomena of REM sleep. Destruction of the entire area of midbrain and pons responsible for REM sleep generation can prevent the occurrence of this state. Damage to portions of the brainstem can cause abnormalities in certain aspects of REM sleep. Of particular interest are manipulations that affect the regulation of muscle tone in REM sleep. Lesions in the pons and medulla cause REM sleep to occur without the normal loss of muscle tone. In REM sleep without atonia, animals exhibit locomotor activity, appear to attack imaginary objects, and execute other motor programs during a state that otherwise resembles REM sleep. This syndrome may have some commonalties with the REM sleep behavior disorder seen in humans. Stimulation of portions of the REM sleep–controlling area of the pons can produce a loss of muscle tone in antigravity and respiratory musculature. Hypocretin neurons, located in the hypothalamus, contribute to the regulation of the activity of norepinephrine, serotonin, histamine, and acetylcholine cell groups and have potent effects on arousal and motor control. Most cases of narcolepsy are caused by a loss of hypocretin neurons."
+    },
+    {
+      "paperId": "66c5c0399915ca5e740ae0aa5ab17de15c2f1f56",
+      "url": "https://www.semanticscholar.org/paper/66c5c0399915ca5e740ae0aa5ab17de15c2f1f56",
+      "title": "REM sleep promotes experience-dependent dendritic spine elimination in the mouse cortex",
+      "year": 2020,
+      "openAccessPdf": {
+        "url": "https://www.nature.com/articles/s41467-020-18592-5.pdf",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC7511313, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "47942792",
+          "name": "Yanmei Zhou"
+        },
+        {
+          "authorId": "2148404846",
+          "name": "C. S. Lai"
+        },
+        {
+          "authorId": "2115297684",
+          "name": "Yang Bai"
+        },
+        {
+          "authorId": "2157337935",
+          "name": "Wei Li"
+        },
+        {
+          "authorId": "1660997110",
+          "name": "Ruohe Zhao"
+        },
+        {
+          "authorId": "48636662",
+          "name": "Guang Yang"
+        },
+        {
+          "authorId": "3159212",
+          "name": "M. Frank"
+        },
+        {
+          "authorId": "3996416",
+          "name": "W. Gan"
+        }
+      ],
+      "abstract": "In many parts of the nervous system, experience-dependent refinement of neuronal circuits predominantly involves synapse elimination. The role of sleep in this process remains unknown. We investigated the role of sleep in experience-dependent dendritic spine elimination of layer 5 pyramidal neurons in the visual (V1) and frontal association cortex (FrA) of 1-month-old mice. We found that monocular deprivation (MD) or auditory-cued fear conditioning (FC) caused rapid spine elimination in V1 or FrA, respectively. MD- or FC-induced spine elimination was significantly reduced after total sleep or REM sleep deprivation. Total sleep or REM sleep deprivation also prevented MD- and FC-induced reduction of neuronal activity in response to visual or conditioned auditory stimuli. Furthermore, dendritic calcium spikes increased substantially during REM sleep, and the blockade of these calcium spikes prevented MD- and FC-induced spine elimination. These findings reveal an important role of REM sleep in experience-dependent synapse elimination and neuronal activity reduction. Sleep plays an important role in learning and memory. Here the authors show that experience dependent elimination of spines is attenuated by REM sleep deprivation."
+    }
+  ]
+}

@@ -1,0 +1,266 @@
+{
+  "total": 52651,
+  "offset": 0,
+  "next": 5,
+  "data": [
+    {
+      "paperId": "f5623cd36228c0606c1dbcd3ab034df24c58312f",
+      "url": "https://www.semanticscholar.org/paper/f5623cd36228c0606c1dbcd3ab034df24c58312f",
+      "title": "Masked Label Prediction: Unified Massage Passing Model for Semi-Supervised Classification",
+      "year": 2020,
+      "openAccessPdf": {
+        "url": "https://www.ijcai.org/proceedings/2021/0214.pdf",
+        "status": "BRONZE",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2009.03509, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "48081324",
+          "name": "Yunsheng Shi"
+        },
+        {
+          "authorId": "2151325127",
+          "name": "Zhengjie Huang"
+        },
+        {
+          "authorId": "2117833477",
+          "name": "Wenjin Wang"
+        },
+        {
+          "authorId": "2064918759",
+          "name": "Hui Zhong"
+        },
+        {
+          "authorId": "1718657",
+          "name": "Shikun Feng"
+        },
+        {
+          "authorId": "2117103617",
+          "name": "Yu Sun"
+        }
+      ],
+      "abstract": "Graph neural network (GNN) and label propagation algorithm (LPA) are both message passing algorithms, which have achieved superior performance in semi-supervised classification. GNN performs feature propagation by a neural network to make predictions, while LPA uses label propagation across graph adjacency matrix to get results. However, there is still no effective way to directly combine these two kinds of algorithms. To address this issue, we propose a novel Unified Message Passaging Model (UniMP) that can incorporate feature and label propagation at both training and inference time. First, UniMP adopts a Graph Transformer network, taking feature embedding and label embedding as input information for propagation. Second, to train the network without overfitting in self-loop input label information, UniMP introduces a masked label prediction strategy, in which some percentage of input label information are masked at random, and then predicted. UniMP conceptually unifies feature propagation and label propagation and is empirically powerful. It obtains new state-of-the-art semi-supervised classification results in Open Graph Benchmark (OGB)."
+    },
+    {
+      "paperId": "d1b471a6b29d4996422d8a54cdeec7b01f66ec76",
+      "url": "https://www.semanticscholar.org/paper/d1b471a6b29d4996422d8a54cdeec7b01f66ec76",
+      "title": "The Effects of Massage Therapy on Sport and Exercise Performance: A Systematic Review",
+      "year": 2023,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/2075-4663/11/6/110/pdf?version=1685494202",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10302181, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2219388842",
+          "name": "Miloš Dakić"
+        },
+        {
+          "authorId": "88137350",
+          "name": "Lazar Toskić"
+        },
+        {
+          "authorId": "1742184387",
+          "name": "V. Ilic"
+        },
+        {
+          "authorId": "70555954",
+          "name": "Saša Đurić"
+        },
+        {
+          "authorId": "4010456",
+          "name": "M. Dopsaj"
+        },
+        {
+          "authorId": "40763702",
+          "name": "J. Šimenko"
+        }
+      ],
+      "abstract": "Background: A massage is a tool that is frequently used in sports and exercise in general for recovery and increased performance. In this review paper, we aimed to search and systemize current literature findings relating to massages’ effects on sports and exercise performance concerning its effects on motor abilities and neurophysiological and psychological mechanisms. Methods: The review has been written following the PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-analysis) guidelines. One hundred and fourteen articles were included in this review. Results: The data revealed that massages, in general, do not affect motor abilities, except flexibility. However, several studies demonstrated that positive muscle force and strength changed 48 h after the massage was given. Concerning neurophysiological parameters, the massage did not change blood lactate clearance, muscle blood flow, muscle temperature, or activation. However, many studies indicate pain reduction and delayed onset muscle soreness, which are probably correlated with the reduction of the level of creatine kinase enzyme and psychological mechanisms. In addition, the massage treatment led to a decrease in depression, stress, anxiety, and the perception of fatigue and an increase in mood, relaxation, and the perception of recovery. Conclusion: The direct usage of massages just for gaining results in sport and exercise performance seems questionable. However, it is indirectly connected to performance as an important tool when an athlete should stay focused and relaxed during competition or training and recover after them."
+    },
+    {
+      "paperId": "7fce18370e5adf60d97286d5edd86557f492d022",
+      "url": "https://www.semanticscholar.org/paper/7fce18370e5adf60d97286d5edd86557f492d022",
+      "title": "Acupuncture vs Massage for Pain in Patients Living With Advanced Cancer",
+      "year": 2023,
+      "openAccessPdf": {
+        "url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2811822/epstein_2023_oi_231230_1699303132.79367.pdf",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10646731, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2266452178",
+          "name": "Andrew S. Epstein"
+        },
+        {
+          "authorId": "39618464",
+          "name": "Kevin T. Liou"
+        },
+        {
+          "authorId": "2251074549",
+          "name": "Sally A. D. Romero"
+        },
+        {
+          "authorId": "2259902649",
+          "name": "Ray Baser"
+        },
+        {
+          "authorId": "2146962774",
+          "name": "Greta Wong"
+        },
+        {
+          "authorId": "2143610382",
+          "name": "Han Xiao"
+        },
+        {
+          "authorId": "2218840925",
+          "name": "Zunli Mo"
+        },
+        {
+          "authorId": "2266457446",
+          "name": "Desiree Walker"
+        },
+        {
+          "authorId": "153581746",
+          "name": "J. MacLeod"
+        },
+        {
+          "authorId": "2267011205",
+          "name": "Qing Li"
+        },
+        {
+          "authorId": "2262002446",
+          "name": "Margaret Barton-Burke"
+        },
+        {
+          "authorId": "2240757822",
+          "name": "Gary Deng"
+        },
+        {
+          "authorId": "6446948",
+          "name": "K. Panageas"
+        },
+        {
+          "authorId": "2266453936",
+          "name": "John T Farrar"
+        },
+        {
+          "authorId": "2250768876",
+          "name": "Jun J. Mao"
+        }
+      ],
+      "abstract": "Key Points Question What is the effectiveness of acupuncture and massage for cancer pain in patients with advanced cancer? Findings In this randomized clinical trial that included 298 patients with advanced cancer, both acupuncture and massage were associated with long-term pain reduction. There was no significant difference between treatments. Meaning The findings of this study suggest that both acupuncture and massage may offer pain relief as integrative modalities in patients with advanced cancer."
+    },
+    {
+      "paperId": "1d2dc78db73dd57bfe3db9ec0073449e17f825f8",
+      "url": "https://www.semanticscholar.org/paper/1d2dc78db73dd57bfe3db9ec0073449e17f825f8",
+      "title": "Effects of massage therapy on pain and anxiety intensity in patients with burns: A systematic review and meta‐analysis",
+      "year": 2023,
+      "openAccessPdf": {
+        "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/iwj.14089",
+        "status": "GOLD",
+        "license": "CCBYNCND",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10333016, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2164083847",
+          "name": "Sahar Miri"
+        },
+        {
+          "authorId": "2150331139",
+          "name": "Seyed Javad Hosseini"
+        },
+        {
+          "authorId": "2164083823",
+          "name": "Pooyan Ghorbani Vajargah"
+        },
+        {
+          "authorId": "65840949",
+          "name": "M. Firooz"
+        },
+        {
+          "authorId": "2162717568",
+          "name": "Poorya Takasi"
+        },
+        {
+          "authorId": "2162719070",
+          "name": "Amirabbas Mollaei"
+        },
+        {
+          "authorId": "87315503",
+          "name": "Shahin Ramezani"
+        },
+        {
+          "authorId": "4986368",
+          "name": "M. Tolouei"
+        },
+        {
+          "authorId": "113970580",
+          "name": "Amir Emami Zeydi"
+        },
+        {
+          "authorId": "1784337",
+          "name": "J. Osuji"
+        },
+        {
+          "authorId": "25413617",
+          "name": "R. Farzan"
+        },
+        {
+          "authorId": "1381813954",
+          "name": "Samad Karkhah"
+        }
+      ],
+      "abstract": "This systematic review and meta‐analysis aimed to examine the effects of massage therapy on pain and anxiety intensity in patients with burns. A comprehensive, systematic search was conducted in various international electronic databases, such as Scopus, PubMed, Web of Science, and Persian electronic databases such as Iranmedex, and Scientific Information Database using keywords extracted from Medical Subject Headings such as ‘Massage therapy’, ‘Musculoskeletal manipulations’, ‘Acute pains’, ‘Burning pain’, and ‘Burn’ from the earliest to October 17, 2022. Cochran's tool is used to check the risk of bias for randomised clinical trial (RCT) articles. The methodological index for non‐randomised studies was used to assess the risk of bias in quasi‐experimental studies. STATA version 14 software was used to perform the meta‐analysis. A 95% confidence interval (CI) was used to determine statistical significance. Heterogeneity was investigated with I2. A P‐value less than .1 was considered statistically significant for publication bias value. A total of 733 patients with burns were included in seven studies. Five studies had an RCT design and two studies had a quasi‐experimental design. The duration of the study was reported in five studies, with a mean of 42.40 weeks. The duration of the intervention was reported in seven studies with a mean of 22.86 minutes. The results of the meta‐analysis showed using various types of massage therapy interventions significantly reduced pain intensity in the intervention group compared with the control group (weighted mean difference: −2.08, 95% CI: −2.55 to −1.62, Z = 8.77, I2: 67.1%, P < .001). Massage therapy intervention significantly reduced the intensity of anxiety in burn patients (standard mean difference: −7.07, 95% CI: −10.13 to −4.01, Z = 4.53, I2: 98.2, P < .001). Overall, the present systematic review and meta‐analysis showed that massage therapy can reduce the intensity of pain and anxiety in burn patients. Therefore, it is recommended that health managers and policymakers pay special attention to massage therapy as a simple, low‐cost, and efficient non‐pharmacological treatment to relieve pain and anxiety in burn patients."
+    },
+    {
+      "paperId": "41aecd011da160dd19784e9ecfa8722eaaee1365",
+      "url": "https://www.semanticscholar.org/paper/41aecd011da160dd19784e9ecfa8722eaaee1365",
+      "title": "The Effects of Massage Guns on Performance and Recovery: A Systematic Review",
+      "year": 2023,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/2411-5142/8/3/138/pdf?version=1695030632",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10532323, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2243470160",
+          "name": "Ricardo Maia Ferreira"
+        },
+        {
+          "authorId": "2243008501",
+          "name": "Rafael Silva"
+        },
+        {
+          "authorId": "2243250319",
+          "name": "P. Vigário"
+        },
+        {
+          "authorId": "2243184213",
+          "name": "Pedro Nunes Martins"
+        },
+        {
+          "authorId": "2279081364",
+          "name": "Filipe Casanova"
+        },
+        {
+          "authorId": "2237899743",
+          "name": "R. J. Fernandes"
+        },
+        {
+          "authorId": "133660855",
+          "name": "A. Sampaio"
+        }
+      ],
+      "abstract": "The use of massage guns has become increasingly popular in recent years. Although their use is more and more common, both in a clinical and sports context, there is still little information to guide the practitioners. This systematic review aimed to determine the effects of massage guns in healthy and unhealthy populations as pre- and post-activity or part of a treatment. Data sources used were PubMed, PEDro, Scopus, SPORTDiscus, Web of Science and Google Scholar, and the study eligibility criteria were based on “healthy and unhealthy individuals”, “massage guns”, “pre-activity, post-activity or part of a treatment” and “randomized and non-randomized studies” (P.I.C.O.S.). Initially, 281 records were screened, but only 11 could be included. Ten had a moderate risk of bias and one a high risk of bias. Massage guns could be effective in improving iliopsoas, hamstrings, triceps suralis and the posterior chain muscles’ flexibility. In strength, balance, acceleration, agility and explosive activities, it either did not have improvements or it even showed a decrease in performance. In the recovery-related outcomes, massage guns were shown to be cost-effective instruments for stiffness reduction, range of motion and strength improvements after a fatigue protocol. No differences were found in contraction time, rating of perceived exertion or lactate concentration. Massage guns can help to improve short-term range of motion, flexibility and recovery-related outcomes, but their use in strength, balance, acceleration, agility and explosive activities is not recommended."
+    }
+  ]
+}

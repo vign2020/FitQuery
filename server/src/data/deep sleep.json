@@ -1,0 +1,190 @@
+{
+  "total": 3326563,
+  "offset": 0,
+  "next": 5,
+  "data": [
+    {
+      "paperId": "8a9b3584b773f4b001be4d664088574f168ef338",
+      "url": "https://www.semanticscholar.org/paper/8a9b3584b773f4b001be4d664088574f168ef338",
+      "title": "The Deep Sleep Optimizer: A Human-Based Metaheuristic Approach",
+      "year": 2023,
+      "openAccessPdf": {
+        "url": "https://ieeexplore.ieee.org/ielx7/6287639/10005208/10190587.pdf",
+        "status": "GOLD",
+        "license": "CCBYNCND",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ACCESS.2023.3298105?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ACCESS.2023.3298105, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "48039806",
+          "name": "S. Oladejo"
+        },
+        {
+          "authorId": "1752896140",
+          "name": "Stephen O. Ekwe"
+        },
+        {
+          "authorId": "35662506",
+          "name": "L. Akinyemi"
+        },
+        {
+          "authorId": "2144459216",
+          "name": "Seyedali Mirjalili"
+        }
+      ],
+      "abstract": "Owing to the no free lunch theorem, no single optimisation algorithm can solve all optimisation problems accurately, so new optimisation techniques are required. In this paper, a novel metaheuristic called the deep sleep optimiser (DSO) is proposed. The deep sleep optimiser mimics the sleeping patterns of humans to solve optimisation problems. The DSO is modelled on the rise and fall of homeostatic pressure during the human sleep process. Human sleep is often modelled on the four sleep stages and the deep sleep stage is employed in this work. The mathematical model of sleep homeostatic pressure is employed to simulate and determine the deep sleep state. The performance of DSO is demonstrated by employing 23 traditional functions (i.e., unimodal, multimodal, and fixed multi-modal functions), six composite functions, three engineering design problems, two knapsack problems, and six widely known travelling salesman’s problems. Additionally, the performance is evaluated in terms of accuracy, computational running time, the Wilcoxon rank sum, and the Friedman test. Lastly, the DSO is compared with 11 other metaheuristics, including GA, PSO, TLBO, and GWO. The DSO fares comparably well and, in most instances, it outperforms other metaheuristics."
+    },
+    {
+      "paperId": "20b7dc3cc1d6f134d5de2e853530c880097569de",
+      "url": "https://www.semanticscholar.org/paper/20b7dc3cc1d6f134d5de2e853530c880097569de",
+      "title": "A Customized Deep Sleep Recommender System Using Hybrid Deep Learning",
+      "year": 2023,
+      "openAccessPdf": {
+        "url": "https://www.mdpi.com/1424-8220/23/15/6670/pdf?version=1690353078",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10422391, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2225208196",
+          "name": "Ji-Hyeok Park"
+        },
+        {
+          "authorId": "2144678745",
+          "name": "Jae-Dong Lee"
+        }
+      ],
+      "abstract": "This paper proposes a recommendation system based on a hybrid learning approach for a personal deep sleep service, called the Customized Deep Sleep Recommender System (CDSRS). Sleep is one of the most important factors for human life in modern society. Optimal sleep contributes to increasing work efficiency and controlling overall well-being. Therefore, a sleep recommendation service is considered a necessary service for modern individuals. Accurate sleep analysis and data are required to provide such a personalized sleep service. However, given the variations in sleep patterns between individuals, there is currently no international standard for sleep. Additionally, service platforms face a cold start problem when dealing with new users. To address these challenges, this study utilizes K-means clustering analysis to define sleep patterns and employs a hybrid learning algorithm to evaluate recommendations by combining user-based and collaborative filtering methods. It also incorporates feedback top-N classification processing for user profile learning and recommendations. The behavior of the study model is as follows. Using personal information received through mobile devices and data, such as snoring, sleep time, movement, and noise collected through AI motion beds, we recommend sleep and receive user evaluations of recommended sleep. This assessment reconstructs the profile and, finally, makes recommendations using top-N classification. The experimental results were evaluated using two absolute error measurement methods: mean squared error (MSE) and mean absolute percentage error (MAPE). The research results regarding the hybrid learning methods show 13.2% fewer errors than collaborative filtering (CF) and 10.2% fewer errors than content-based filtering (CBF) on an MSE basis. According to the MAPE, the methods are 14.7% more accurate than the CF model and 9.2% better than the CBF model. These results demonstrate that CDSRS systems can provide more accurate recommendations and customized sleep services to users than CF, CBF, and combination models. As a result, CDSRS, a hybrid learning method, can better reflect a user’s evaluation than traditional methods and can increase the accuracy of recommendations as the number of users increases."
+    },
+    {
+      "paperId": "e3ed0b03aafb08fdc2571e11ed230fb13d103b24",
+      "url": "https://www.semanticscholar.org/paper/e3ed0b03aafb08fdc2571e11ed230fb13d103b24",
+      "title": "Deep learning of sleep apnea-hypopnea events for accurate classification of obstructive sleep apnea and determination of clinical severity.",
+      "year": 2024,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.sleep.2024.01.015?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.sleep.2024.01.015, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "39908097",
+          "name": "Soonhyun Yook"
+        },
+        {
+          "authorId": "2287133480",
+          "name": "Dongyeop Kim"
+        },
+        {
+          "authorId": "82545722",
+          "name": "Chaitanya Gupte"
+        },
+        {
+          "authorId": "2257315113",
+          "name": "Eun Yeon Joo"
+        },
+        {
+          "authorId": "2275998971",
+          "name": "Hosung Kim"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "5b51e786e75ea6a1a3cc1031ee8babfa08aaa350",
+      "url": "https://www.semanticscholar.org/paper/5b51e786e75ea6a1a3cc1031ee8babfa08aaa350",
+      "title": "Auditory deep sleep stimulation in older adults at home: a randomized crossover trial",
+      "year": 2022,
+      "openAccessPdf": {
+        "url": "https://www.nature.com/articles/s43856-022-00096-6.pdf",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC9053232, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "3557406",
+          "name": "C. Lustenberger"
+        },
+        {
+          "authorId": "3402683",
+          "name": "M. L. Ferster"
+        },
+        {
+          "authorId": "123896992",
+          "name": "S. Huwiler"
+        },
+        {
+          "authorId": "8268203",
+          "name": "L. Brogli"
+        },
+        {
+          "authorId": "3908291",
+          "name": "E. Werth"
+        },
+        {
+          "authorId": "1946935",
+          "name": "R. Huber"
+        },
+        {
+          "authorId": "144660470",
+          "name": "W. Karlen"
+        }
+      ],
+      "abstract": "Auditory stimulation has emerged as a promising tool to enhance non-invasively sleep slow waves, deep sleep brain oscillations that are tightly linked to sleep restoration and are diminished with age. While auditory stimulation showed a beneficial effect in lab-based studies, it remains unclear whether this stimulation approach could translate to real-life settings. We present a fully remote, randomized, cross-over trial in healthy adults aged 62–78 years (clinicaltrials.gov: NCT03420677). We assessed slow wave activity as the primary outcome and sleep architecture and daily functions, e.g., vigilance and mood as secondary outcomes, after a two-week mobile auditory slow wave stimulation period and a two-week Sham period, interleaved with a two-week washout period. Participants were randomized in terms of which intervention condition will take place first using a blocked design to guarantee balance. Participants and experimenters performing the assessments were blinded to the condition. Out of 33 enrolled and screened participants, we report data of 16 participants that received identical intervention. We demonstrate a robust and significant enhancement of slow wave activity on the group-level based on two different auditory stimulation approaches with minor effects on sleep architecture and daily functions. We further highlight the existence of pronounced inter- and intra-individual differences in the slow wave response to auditory stimulation and establish predictions thereof. While slow wave enhancement in healthy older adults is possible in fully remote settings, pronounced inter-individual differences in the response to auditory stimulation exist. Novel personalization solutions are needed to address these differences and our findings will guide future designs to effectively deliver auditory sleep stimulations using wearable technology. Sleep’s restorative function is closely linked to slow waves, which are brain activity patterns that occur during deep sleep and are diminished with age. Those slow waves can be increased through auditory stimulation, a method that administers precisely-timed sounds during sleep. Here, we established whether the application of auditory stimulation can be performed in older adults over several nights remotely in their own homes. In a trial, we used a mobile device to deliver auditory stimulation during sleep and measured its effects on slow waves, mood, and vigilance. Although we showed robust increases in slow waves, we found large effect differences between participants and also between different nights within the same participants. We looked for predictors of these effect differences. Our study showed that in-home auditory stimulation is feasible, and may help to guide future auditory stimulation strategies. Lustenberger et al. perform a randomized crossover trial of auditory deep sleep stimulation in older adults, conducted over multiple weeks within the participants’ homes. The authors report substantial inter- and intra-individual differences in the slow wave response to auditory stimulation and identify predictors of response."
+    },
+    {
+      "paperId": "ac245f8e057f2f4acd3964b493b7acddd95f1f2d",
+      "url": "https://www.semanticscholar.org/paper/ac245f8e057f2f4acd3964b493b7acddd95f1f2d",
+      "title": "Knockdown of GABAA alpha3 subunits on thalamic reticular neurons enhances deep sleep in mice",
+      "year": 2022,
+      "openAccessPdf": {
+        "url": "https://www.nature.com/articles/s41467-022-29852-x.pdf",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC9042958, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "117710207",
+          "name": "David S. Uygun"
+        },
+        {
+          "authorId": "80411978",
+          "name": "Chun Yang"
+        },
+        {
+          "authorId": "2042350508",
+          "name": "Elena R. Tilli"
+        },
+        {
+          "authorId": "4214909",
+          "name": "Fumi Katsuki"
+        },
+        {
+          "authorId": "2093541424",
+          "name": "Erik L. Hodges"
+        },
+        {
+          "authorId": "2100191",
+          "name": "J. McKenna"
+        },
+        {
+          "authorId": "40475031",
+          "name": "J. McNally"
+        },
+        {
+          "authorId": "2117431548",
+          "name": "Ritchie E. Brown"
+        },
+        {
+          "authorId": "6076560",
+          "name": "R. Basheer"
+        }
+      ],
+      "abstract": "Identification of mechanisms which increase deep sleep could lead to novel treatments which promote the restorative effects of sleep. Here, we show that knockdown of the α3 GABAA-receptor subunit from parvalbumin neurons in the thalamic reticular nucleus using CRISPR-Cas9 gene editing increased the thalamocortical delta (1.5–4 Hz) oscillations which are implicated in many health-promoting effects of sleep. Inhibitory synaptic currents in thalamic reticular parvalbumin neurons were strongly reduced in vitro. Further analysis revealed that delta power in long NREM bouts prior to NREM-REM transitions was preferentially affected by deletion of α3 subunits. Our results identify a role for GABAA receptors on thalamic reticular nucleus neurons and suggest antagonism of α3 subunits as a strategy to enhance delta activity during sleep. Uygun et al. show that deletion of GABAA receptors from the thalamic reticular nucleus using CRISPR gene editing in mice boosts the delta waves, indicating a role for GABAA receptors on thalamic reticular nucleus neurons in NREM sleep delta oscillations."
+    }
+  ]
+}

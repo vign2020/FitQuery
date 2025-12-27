@@ -1,0 +1,168 @@
+{
+  "total": 5184179,
+  "offset": 0,
+  "next": 3,
+  "data": [
+    {
+      "paperId": "8bbcf93519cb9784d80b32877680eee2a0ba9afd",
+      "url": "https://www.semanticscholar.org/paper/8bbcf93519cb9784d80b32877680eee2a0ba9afd",
+      "title": "Myocardial efficiency in patients with different aetiologies and stages of heart failure.",
+      "year": 2021,
+      "openAccessPdf": {
+        "url": "https://academic.oup.com/ehjcimaging/article-pdf/23/3/328/42571649/jeab227.pdf",
+        "status": "BRONZE",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1093/ehjci/jeab227?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1093/ehjci/jeab227, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "1406292896",
+          "name": "K. B. Hansen"
+        },
+        {
+          "authorId": "143732165",
+          "name": "J. Sörensen"
+        },
+        {
+          "authorId": "1861588899",
+          "name": "N. H. Hansson"
+        },
+        {
+          "authorId": "3599864",
+          "name": "R. Nielsen"
+        },
+        {
+          "authorId": "27983835",
+          "name": "A. H. Larsen"
+        },
+        {
+          "authorId": "1398457209",
+          "name": "J. Frøkiær"
+        },
+        {
+          "authorId": "4359716",
+          "name": "L. Tolbod"
+        },
+        {
+          "authorId": "49531499",
+          "name": "L. Gormsen"
+        },
+        {
+          "authorId": "144850193",
+          "name": "H. Harms"
+        },
+        {
+          "authorId": "145569672",
+          "name": "H. Wiggers"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "edfd32d5fd3cbfa103c171514a794b4c767f5ca9",
+      "url": "https://www.semanticscholar.org/paper/edfd32d5fd3cbfa103c171514a794b4c767f5ca9",
+      "title": "A randomised, double‐blind, placebo‐controlled trial of metformin on myocardial efficiency in insulin‐resistant chronic heart failure patients without diabetes",
+      "year": 2019,
+      "openAccessPdf": {
+        "url": "https://portal.findresearcher.sdu.dk/files/171355540/ejhf.1656.pdf",
+        "status": "GREEN",
+        "license": "other-oa",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1002/ejhf.1656?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/ejhf.1656, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "27983835",
+          "name": "A. H. Larsen"
+        },
+        {
+          "authorId": "4754299",
+          "name": "N. Jessen"
+        },
+        {
+          "authorId": "152184040",
+          "name": "H. Nørrelund"
+        },
+        {
+          "authorId": "4359716",
+          "name": "L. Tolbod"
+        },
+        {
+          "authorId": "144850193",
+          "name": "H. Harms"
+        },
+        {
+          "authorId": "6707277",
+          "name": "S. Feddersen"
+        },
+        {
+          "authorId": "49242994",
+          "name": "F. Nielsen"
+        },
+        {
+          "authorId": "152110498",
+          "name": "K. Brøsen"
+        },
+        {
+          "authorId": "1861588899",
+          "name": "N. H. Hansson"
+        },
+        {
+          "authorId": "1398457209",
+          "name": "J. Frøkiær"
+        },
+        {
+          "authorId": "3565746",
+          "name": "S. Poulsen"
+        },
+        {
+          "authorId": "143732165",
+          "name": "J. Sörensen"
+        },
+        {
+          "authorId": "145569672",
+          "name": "H. Wiggers"
+        }
+      ],
+      "abstract": "The present study tested the hypothesis that metformin treatment may increase myocardial efficiency (stroke work/myocardial oxygen consumption) in insulin‐resistant patients with heart failure and reduced ejection fraction (HFrEF) without diabetes."
+    },
+    {
+      "paperId": "0d673089c14f6079568a9f95e02b413e4456bdca",
+      "url": "https://www.semanticscholar.org/paper/0d673089c14f6079568a9f95e02b413e4456bdca",
+      "title": "An Analysis of Myocardial Efficiency in Patients with Severe Asymptomatic Mitral Regurgitation",
+      "year": 2020,
+      "openAccessPdf": {
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7572264",
+        "status": "GREEN",
+        "license": "CCBYNC",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC7572264, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "12933399",
+          "name": "R. Güvenç"
+        },
+        {
+          "authorId": "47362611",
+          "name": "E. Aruğaslan"
+        },
+        {
+          "authorId": "4246416",
+          "name": "T. Güvenç"
+        },
+        {
+          "authorId": "11529971",
+          "name": "F. Karadeniz"
+        },
+        {
+          "authorId": "4806510",
+          "name": "H. Kasikcioglu"
+        },
+        {
+          "authorId": "98167921",
+          "name": "N. Çam"
+        }
+      ],
+      "abstract": "BACKGROUND It is difficult to determine left ventricular systolic performance in patients with severe mitral regurgitation (MR) since left ventricular ejection fraction (EF) could be preserved until the end stages of the disease. Myocardial efficiency (MEf) describes the amount of external work (EW) done by the left ventricle per unit of oxygen consumed (mVO2). In the present study, we aimed to investigate MEf in patients with asymptomatic severe MR using a novel echocardiographic method. METHODS A total of 27 patients with severe asymptomatic MR and 26 healthy volunteers were included in this cross-sectional study. EW was measured using stroke volume and blood pressure, while mVO2 was estimated using double product and left ventricular mass. RESULTS There were no differences between the groups with regards to EF (66% ± 5% vs. 69% ± 7%), while MEf was significantly reduced in patients with severe MR (25% ± 11% vs. 44% ± 12%, p < 0.001). This difference was maintained even after adjustment for age, gender and body surface area (adjusted x-: 0.44, 95% CI: 0.39–0.49 for controls and adjusted x-: 0.24, 95% CI: 0.19–0.29 for patients with severe MR). Further analysis showed that this reduction was due to an increase in total mVO2 in the severe MR group. MEf of thepatients who were both on β-blockers and angiotensin converting enzyme inhibitors/angiotensin receptor blockers were higher than those who were not on any drugs, but this difference was not statistically significant (32% ± 15% vs. 23% ± 9%, p = 0.41). CONCLUSIONS MEf was significantly lower in patients with asymptomatic severe MR and preserved EF."
+    }
+  ]
+}

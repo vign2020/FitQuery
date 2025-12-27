@@ -1,0 +1,198 @@
+{
+  "total": 5373694,
+  "offset": 0,
+  "next": 5,
+  "data": [
+    {
+      "paperId": "64a143742c6f053132c5b0ad270843a1a24edd03",
+      "url": "https://www.semanticscholar.org/paper/64a143742c6f053132c5b0ad270843a1a24edd03",
+      "title": "Influence of a Modified versus a Typical Microcycle Periodization on the Weekly External Loads and Match Day Readiness in Elite Academy Soccer Players",
+      "year": 2024,
+      "openAccessPdf": {
+        "url": "https://jhk.termedia.pl/pdf-182984-110039?filename=Influence of a Modified.pdf",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11307180, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2124683566",
+          "name": "Tom Douchet"
+        },
+        {
+          "authorId": "2081260669",
+          "name": "C. Paizis"
+        },
+        {
+          "authorId": "2275341427",
+          "name": "Christopher Carling"
+        },
+        {
+          "authorId": "5324958",
+          "name": "N. Babault"
+        }
+      ],
+      "abstract": "A typical weekly periodization strategy in soccer positions the most demanding sessions four and three days before the match-day (MD−4/MD−3). However, a modified periodization strategy could intersperse the two most demanding sessions with a low-load training session. This study aimed to investigate the impact of these periodizations on external loads and MD readiness. Twenty academy players were tested. The modified weekly periodization strategy included a low-load training session between the two most demanding sessions, while the typical periodization implemented them consecutively. Players wore a GPS and rated their perceived exertion (RPE) during the most demanding sessions. Players were also tested using a CMJ, a 20-m sprint, the Illinois agility test (IAT), and the Hooper questionnaire on MD−4 to obtain baseline values (CONTROL) and on the match-day (TEST). CONTROL values were similar during experimental weeks. During the second most demanding session, players covered greater distances for the modified versus the typical periodization in the 20–25 km/h (306.3 ± 117.1 m vs. 223.5 ± 92.2 m, p < 0.05) and >25 km/h speed zones (89.5 ± 44.8 m vs. 67.2 ± 44.5 m, p < 0.05). On the MD, CMJ, 20-m sprint, and IAT performances were similar between both periodizations. However, 10-m time (1.89 ± 0.10 s vs. 1.92 ± 0.09 s, p < 0.05) and the Hooper index score (7.90 ± 2.14 a.u. vs. 9.50 ± 3.44 a.u., p < 0.05) were significantly lower during the modified periodization strategy. A decreased training load session positioned between the most demanding sessions may be of interest in elite academy soccer players as it can lead to increased weekly external loads and readiness on the MD."
+    },
+    {
+      "paperId": "57a4b1d1c5bc23c2c1d11bd0c9cbbb17222c7282",
+      "url": "https://www.semanticscholar.org/paper/57a4b1d1c5bc23c2c1d11bd0c9cbbb17222c7282",
+      "title": "Training Periodization, Methods, Intensity Distribution, and Volume in Highly Trained and Elite Distance Runners: A Systematic Review.",
+      "year": 2022,
+      "openAccessPdf": {
+        "url": "https://journals.humankinetics.com/downloadpdf/journals/ijspp/17/6/article-p820.pdf",
+        "status": "BRONZE",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1123/ijspp.2021-0435?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1123/ijspp.2021-0435, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "48603764",
+          "name": "A. Casado"
+        },
+        {
+          "authorId": "1402977814",
+          "name": "F. González-Mohíno"
+        },
+        {
+          "authorId": "1400797538",
+          "name": "J. González-Ravé"
+        },
+        {
+          "authorId": "2172713746",
+          "name": "C. Foster"
+        }
+      ],
+      "abstract": "PURPOSE\nThis review aimed to determine (1) performance and training characteristics such as training intensity distribution (TID), volume, periodization, and methods in highly trained/elite distance runners and (2) differences in training volume and TID between event distances in highly trained/elite distance runners.\n\n\nMETHODS\nA systematic review of the literature was carried out using the PubMed/MEDLINE, Scopus, and Web of Science databases.\n\n\nRESULTS\nTen articles met the inclusion criteria. Highly trained/elite distance runners typically follow a pyramidal TID approach, characterized by a decreasing training volume from zone 1 (at or below speed at first ventilatory/lactate threshold [LT]) to zone 2 (between speeds associated with either both ventilatory thresholds or 2 and 4 mmol·L-1 LTs [vLT1 and vLT2, respectively]) and zone 3 (speed above vVT2/vLT2). Continuous-tempo runs or interval training sessions at vLT2 in zone 2 (ie, medium and long aerobic intervals) and those in zone 3 (ie, anaerobic or short-interval training) were both used at least once per week each in elite runners, and they were used to increase the number of either vLT2 or z3 sessions to adopt either a pyramidal or a polarized approach, respectively. More pyramidal- and polarized-oriented approaches were used by marathoners and 1500-m runners, respectively.\n\n\nCONCLUSIONS\nHighly trained and elite middle- and long-distance runners are encouraged to adopt a traditional periodization pattern with a hard day-easy day basis, consisting in a shift from a pyramidal TID used during the preparatory and precompetitive periods toward a polarized TID during the competitive period."
+    },
+    {
+      "paperId": "e3635b044ad7802f40fe6e371c69f0d58d6f97b5",
+      "url": "https://www.semanticscholar.org/paper/e3635b044ad7802f40fe6e371c69f0d58d6f97b5",
+      "title": "Training Periodization, Intensity Distribution, and Volume in Trained Cyclists: A Systematic Review.",
+      "year": 2023,
+      "openAccessPdf": {
+        "url": "https://doi.org/10.1123/ijspp.2022-0302",
+        "status": "BRONZE",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1123/ijspp.2022-0302?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1123/ijspp.2022-0302, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "1633544773",
+          "name": "M. Á. Galán-Rioja"
+        },
+        {
+          "authorId": "1400797538",
+          "name": "J. González-Ravé"
+        },
+        {
+          "authorId": "1402977814",
+          "name": "F. González-Mohíno"
+        },
+        {
+          "authorId": "1923604",
+          "name": "S. Seiler"
+        }
+      ],
+      "abstract": "A well-planned periodized approach endeavors to allow road cyclists to achieve peak performance when their most important competitions are held.\n\n\nPURPOSE\nTo identify the main characteristics of periodization models and physiological parameters of trained road cyclists as described by discernable training intensity distribution (TID), volume, and periodization models.\n\n\nMETHODS\nThe electronic databases Scopus, PubMed, and Web of Science were searched using a comprehensive list of relevant terms. Studies that investigated the effect of the periodization of training in cyclists and described training load (volume, TID) and periodization details were included in the systematic review.\n\n\nRESULTS\nSeven studies met the inclusion criteria. Block periodization (characterized by employment of highly concentrated training workload phases) ranged between 1- and 8-week blocks of high-, medium-, or low-intensity training. Training volume ranged from 8.75 to 11.68 h·wk-1 and both pyramidal and polarized TID were used. Traditional periodization (characterized by a first period of high-volume/low-intensity training, before reducing volume and increasing the proportion of high-intensity training) was characterized by a cyclic progressive increase in training load, the training volume ranged from 7.5 to 10.76 h·wk-1, and pyramidal TID was used. Block periodization improved maximum oxygen uptake (VO2max), peak aerobic power, lactate, and ventilatory thresholds, while traditional periodization improved VO2max, peak aerobic power, and lactate thresholds. In addition, a day-by-day programming approach improved VO2max and ventilatory thresholds.\n\n\nCONCLUSIONS\nNo evidence is currently available favoring a specific periodization model during 8 to 12 weeks in trained road cyclists. However, few studies have examined seasonal impact of different periodization models in a systematic way."
+    },
+    {
+      "paperId": "00f445bc5f32325fe28f7465216fdf977a55aba9",
+      "url": "https://www.semanticscholar.org/paper/00f445bc5f32325fe28f7465216fdf977a55aba9",
+      "title": "Gut microbiota alternation with training periodization and physical fitness in Japanese elite athletes",
+      "year": 2023,
+      "openAccessPdf": {
+        "url": "https://www.frontiersin.org/articles/10.3389/fspor.2023.1219345/pdf",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10382754, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "3306810",
+          "name": "N. Akazawa"
+        },
+        {
+          "authorId": "49314377",
+          "name": "Mariko Nakamura"
+        },
+        {
+          "authorId": "49003604",
+          "name": "N. Eda"
+        },
+        {
+          "authorId": "145788106",
+          "name": "H. Murakami"
+        },
+        {
+          "authorId": "13381622",
+          "name": "T. Nakagata"
+        },
+        {
+          "authorId": "3628313",
+          "name": "H. Nanri"
+        },
+        {
+          "authorId": "2294012480",
+          "name": "Jonguk Park"
+        },
+        {
+          "authorId": "2573255",
+          "name": "Koji Hosomi"
+        },
+        {
+          "authorId": "34672782",
+          "name": "K. Mizuguchi"
+        },
+        {
+          "authorId": "145451376",
+          "name": "J. Kunisawa"
+        },
+        {
+          "authorId": "3243127",
+          "name": "M. Miyachi"
+        },
+        {
+          "authorId": "4492842",
+          "name": "M. Hoshikawa"
+        }
+      ],
+      "abstract": "Introduction The gut microbiome plays a fundamental role in host homeostasis through regulating immune functions, enzyme activity, and hormone secretion. Exercise is associated with changes in gut microbiome composition and function. However, few studies have investigated the gut microbiome during training periodization. The present study aimed to investigate the relationship between training periodization and the gut microbiome in elite athletes. Methods In total, 84 elite athletes participated in the cross-sectional study; and gut microbiome was determined during their transition or preparation season period. Further, 10 short-track speed skate athletes participated in the longitudinal study, which assessed the gut microbiome and physical fitness such as aerobic capacity and anaerobic power in the general and specific preparation phase of training periodization. The gut microbiome was analyzed using 16S rRNA sequencing. Results The cross-sectional study revealed significant differences in Prevotella, Bifidobacterium, Parabacteroides, and Alistipes genera and in enterotype distribution between transition and preparation season phase periodization. In the longitudinal study, training phase periodization altered the level of Bacteroides, Blautia, and Bifidobacterium in the microbiome. Such changes in the microbiome were significantly correlated with alternations in aerobic capacity and tended to correlate with the anaerobic power. Discussion These findings suggest that periodization alters the gut microbiome abundance related to energy metabolism and trainability of physical fitness. Athlete's condition may thus be mediated to some extent by the microbiota in the intestinal environment."
+    },
+    {
+      "paperId": "16d566c0191f42dbca8a85ddcbbedba4bf06ca4b",
+      "url": "https://www.semanticscholar.org/paper/16d566c0191f42dbca8a85ddcbbedba4bf06ca4b",
+      "title": "Periodization in Anterior Cruciate Ligament Rehabilitation: New Framework Versus Old Model? A Clinical Commentary",
+      "year": 2023,
+      "openAccessPdf": {
+        "url": "https://ijspt.scholasticahq.com/article/73035.pdf",
+        "status": "CLOSED",
+        "license": "CCBYNC",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10069386, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "1396233077",
+          "name": "Georgios Kakavas"
+        },
+        {
+          "authorId": "1572676819",
+          "name": "Florian Forelli"
+        },
+        {
+          "authorId": "4572469",
+          "name": "N. Malliaropoulos"
+        },
+        {
+          "authorId": "5089328",
+          "name": "T. Hewett"
+        },
+        {
+          "authorId": "50354504",
+          "name": "P. Tsaklis"
+        }
+      ],
+      "abstract": "The physiological and psychological changes after anterior cruciate ligament reconstruction (ACLR) do not always allow a return to sport in the best condition and at the same level as before. Moreover, the number of significant re-injuries, especially in young athletes should be considered and physical therapists must develop rehabilitation strategies and increasingly specific and ecological test batteries to optimize safe return to play. The return to sport and return to play of athletes after ACLR must progress through the recovery of strength, neuromotor control, and include cardiovascular training while considering different psychological aspects. Because motor control seems to be the key to a safe return to sport, it should be associated with the progressive development of strength, and cognitive abilities should also be considered throughout rehabilitation. Periodization, the planned manipulation of training variables (load, sets, and repetitions) to maximize training adaptations while minimizing fatigue and injury, is relevant to the optimization of muscle strengthening, athletic qualities, and neurocognitive qualities of athletes during rehabilitation after ACLR. Periodized programming utilizes the principle of overload, whereby the neuromuscular system is required to adapt to unaccustomed loads. While progressive loading is a well-established and widely used concept for strengthening, the variance of volume and intensity makes periodization effective for improving athletic skills and attributes, such as muscular strength, endurance, and power, when compared with non-periodized training. The purpose of this clinical commentary is to broadly apply concepts of periodization to rehabilitation after ACLR."
+    }
+  ]
+}

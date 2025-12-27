@@ -1,0 +1,226 @@
+{
+  "total": 830552,
+  "offset": 0,
+  "next": 5,
+  "data": [
+    {
+      "paperId": "79596de8da82cbb219e88b45c808b052606f765d",
+      "url": "https://www.semanticscholar.org/paper/79596de8da82cbb219e88b45c808b052606f765d",
+      "title": "Assessment of feedback modalities for wearable visual aids in blind mobility",
+      "year": 2017,
+      "openAccessPdf": {
+        "url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0170531&type=printable",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC5300186, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "40171169",
+          "name": "Aminat Adebiyi"
+        },
+        {
+          "authorId": "2372059283",
+          "name": "Paige Sorrentino"
+        },
+        {
+          "authorId": "8875105",
+          "name": "Shadi Bohlool"
+        },
+        {
+          "authorId": "2141123431",
+          "name": "Carey Zhang"
+        },
+        {
+          "authorId": "47625085",
+          "name": "Mort Arditti"
+        },
+        {
+          "authorId": "2372060648",
+          "name": "Gregory Goodrich"
+        },
+        {
+          "authorId": "2372060821",
+          "name": "James D Weiland"
+        }
+      ],
+      "abstract": "Sensory substitution devices engage sensory modalities other than vision to communicate information typically obtained through the sense of sight. In this paper, we examine the ability of subjects who are blind to follow simple verbal and vibrotactile commands that allow them to navigate a complex path. A total of eleven visually impaired subjects were enrolled in the study. Prototype systems were developed to deliver verbal and vibrotactile commands to allow an investigator to guide a subject through a course. Using this mode, subjects could follow commands easily and navigate significantly faster than with their cane alone (p <0.05). The feedback modes were similar with respect to the increased speed for course completion. Subjects rated usability of the feedback systems as “above average” with scores of 76.3 and 90.9 on the system usability scale."
+    },
+    {
+      "paperId": "f825b113bbb88ab40253169fc3480e13109348ec",
+      "url": "https://www.semanticscholar.org/paper/f825b113bbb88ab40253169fc3480e13109348ec",
+      "title": "The effect of human mobility and control measures on the COVID-19 epidemic in China",
+      "year": 2020,
+      "openAccessPdf": {
+        "url": "https://europepmc.org/articles/pmc7146642?pdf=render",
+        "status": "GREEN",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC7146642, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "145448344",
+          "name": "M. Kraemer"
+        },
+        {
+          "authorId": "1596590756",
+          "name": "Chia-Hung Yang"
+        },
+        {
+          "authorId": "6213612",
+          "name": "B. Gutiérrez"
+        },
+        {
+          "authorId": "2380494",
+          "name": "Chieh-Hsi Wu"
+        },
+        {
+          "authorId": "1596700058",
+          "name": "Brennan Klein"
+        },
+        {
+          "authorId": "33803615",
+          "name": "D. Pigott"
+        },
+        {
+          "authorId": "50821486",
+          "name": "L. du Plessis"
+        },
+        {
+          "authorId": "2536934",
+          "name": "Nuno R. Faria"
+        },
+        {
+          "authorId": "50392252",
+          "name": "Ruoran Li"
+        },
+        {
+          "authorId": "2894426",
+          "name": "W. Hanage"
+        },
+        {
+          "authorId": "144252495",
+          "name": "J. Brownstein"
+        },
+        {
+          "authorId": "1596699451",
+          "name": "Maylis Layan"
+        },
+        {
+          "authorId": "80273596",
+          "name": "A. Vespignani"
+        },
+        {
+          "authorId": "2401412",
+          "name": "H. Tian"
+        },
+        {
+          "authorId": "1755780",
+          "name": "C. Dye"
+        },
+        {
+          "authorId": "2305815",
+          "name": "O. Pybus"
+        },
+        {
+          "authorId": "2307982",
+          "name": "S. Scarpino"
+        }
+      ],
+      "abstract": "Tracing infection from mobility data What sort of measures are required to contain the spread of severe acute respiratory syndrome–coronavirus 2 (SARS-CoV-2), which causes coronavirus disease 2019 (COVID-19)? The rich data from the Open COVID-19 Data Working Group include the dates when people first reported symptoms, not just a positive test date. Using these data and real-time travel data from the internet services company Baidu, Kraemer et al. found that mobility statistics offered a precise record of the spread of SARS-CoV-2 among the cities of China at the start of 2020. The frequency of introductions from Wuhan were predictive of the size of the epidemic sparked in other provinces. However, once the virus had escaped Wuhan, strict local control measures such as social isolation and hygiene, rather than long-distance travel restrictions, played the largest part in controlling SARS-CoV-2 spread. Science, this issue p. 493 Mobile phone data show that the spread of COVID-19 in China was driven by travel and mitigated substantially by local control measures. The ongoing coronavirus disease 2019 (COVID-19) outbreak expanded rapidly throughout China. Major behavioral, clinical, and state interventions were undertaken to mitigate the epidemic and prevent the persistence of the virus in human populations in China and worldwide. It remains unclear how these unprecedented interventions, including travel restrictions, affected COVID-19 spread in China. We used real-time mobility data from Wuhan and detailed case data including travel history to elucidate the role of case importation in transmission in cities across China and to ascertain the impact of control measures. Early on, the spatial distribution of COVID-19 cases in China was explained well by human mobility data. After the implementation of control measures, this correlation dropped and growth rates became negative in most locations, although shifts in the demographics of reported cases were still indicative of local chains of transmission outside of Wuhan. This study shows that the drastic control measures implemented in China substantially mitigated the spread of COVID-19."
+    },
+    {
+      "paperId": "ea23f3b334f6c95c654a4888c563e3a161c4dff6",
+      "url": "https://www.semanticscholar.org/paper/ea23f3b334f6c95c654a4888c563e3a161c4dff6",
+      "title": "The Timed “Up & Go”: A Test of Basic Functional Mobility for Frail Elderly Persons",
+      "year": 1991,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1111/j.1532-5415.1991.tb01616.x?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1111/j.1532-5415.1991.tb01616.x, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "146534424",
+          "name": "Diane Podsiadlo"
+        },
+        {
+          "authorId": "66613257",
+          "name": "S. Richardson"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "097786ba89560b21027496ff7103186670233a8f",
+      "url": "https://www.semanticscholar.org/paper/097786ba89560b21027496ff7103186670233a8f",
+      "title": "Phosphorene: an unexplored 2D semiconductor with a high hole mobility.",
+      "year": 2014,
+      "openAccessPdf": {
+        "url": "http://arxiv.org/pdf/1401.4133",
+        "status": "GREEN",
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1401.4133, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2118960249",
+          "name": "Han Liu"
+        },
+        {
+          "authorId": "2591485",
+          "name": "A. Neal"
+        },
+        {
+          "authorId": "143658584",
+          "name": "Zhen Zhu"
+        },
+        {
+          "authorId": "49386574",
+          "name": "Zhe Luo"
+        },
+        {
+          "authorId": "4705368",
+          "name": "Xianfan Xu"
+        },
+        {
+          "authorId": "2603847",
+          "name": "D. Tománek"
+        },
+        {
+          "authorId": "144661358",
+          "name": "P. Ye"
+        }
+      ],
+      "abstract": "We introduce the 2D counterpart of layered black phosphorus, which we call phosphorene, as an unexplored p-type semiconducting material. Same as graphene and MoS2, single-layer phosphorene is flexible and can be mechanically exfoliated. We find phosphorene to be stable and, unlike graphene, to have an inherent, direct, and appreciable band gap. Our ab initio calculations indicate that the band gap is direct, depends on the number of layers and the in-layer strain, and is significantly larger than the bulk value of 0.31-0.36 eV. The observed photoluminescence peak of single-layer phosphorene in the visible optical range confirms that the band gap is larger than that of the bulk system. Our transport studies indicate a hole mobility that reflects the structural anisotropy of phosphorene and complements n-type MoS2. At room temperature, our few-layer phosphorene field-effect transistors with 1.0 μm channel length display a high on-current of 194 mA/mm, a high hole field-effect mobility of 286 cm(2)/V·s, and an on/off ratio of up to 10(4). We demonstrate the possibility of phosphorene integration by constructing a 2D CMOS inverter consisting of phosphorene PMOS and MoS2 NMOS transistors."
+    },
+    {
+      "paperId": "ade9e5a04726d34de8e9b721a11b8de28552a84b",
+      "url": "https://www.semanticscholar.org/paper/ade9e5a04726d34de8e9b721a11b8de28552a84b",
+      "title": "A survey of mobility models for ad hoc network research",
+      "year": 2002,
+      "openAccessPdf": {
+        "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/wcm.72",
+        "status": "BRONZE",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1002/WCM.72?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/WCM.72, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "144677709",
+          "name": "T. Camp"
+        },
+        {
+          "authorId": "3059336",
+          "name": "Jeff Boleng"
+        },
+        {
+          "authorId": "2105807093",
+          "name": "Vanessa Davies"
+        }
+      ],
+      "abstract": null
+    }
+  ]
+}

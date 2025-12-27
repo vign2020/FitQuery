@@ -1,0 +1,116 @@
+{
+  "total": 7823038,
+  "offset": 0,
+  "next": 3,
+  "data": [
+    {
+      "paperId": "6889e5a22598521d8af5bbc50d5dd44b2cde92a4",
+      "url": "https://www.semanticscholar.org/paper/6889e5a22598521d8af5bbc50d5dd44b2cde92a4",
+      "title": "The Pittsburgh sleep quality index: A new instrument for psychiatric practice and research",
+      "year": 1989,
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1016/0165-1781(89)90047-4?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/0165-1781(89)90047-4, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "3570467",
+          "name": "Daniel J Buysse"
+        },
+        {
+          "authorId": "1743278",
+          "name": "C. Reynolds"
+        },
+        {
+          "authorId": "4826424",
+          "name": "T. Monk"
+        },
+        {
+          "authorId": "40168398",
+          "name": "S. Berman"
+        },
+        {
+          "authorId": "2851840",
+          "name": "D. Kupfer"
+        }
+      ],
+      "abstract": null
+    },
+    {
+      "paperId": "ee361c593c241617b07107dd7bad13def503b9a3",
+      "url": "https://www.semanticscholar.org/paper/ee361c593c241617b07107dd7bad13def503b9a3",
+      "title": "The Effects of Social Support on Sleep Quality of Medical Staff Treating Patients with Coronavirus Disease 2019 (COVID-19) in January and February 2020 in China",
+      "year": 2020,
+      "openAccessPdf": {
+        "url": "https://europepmc.org/articles/pmc7075079?pdf=render",
+        "status": "GREEN",
+        "license": "CCBYNCND",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC7075079, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2114222336",
+          "name": "Han Xiao"
+        },
+        {
+          "authorId": "46867648",
+          "name": "Yan Zhang"
+        },
+        {
+          "authorId": "2052315785",
+          "name": "De-liang Kong"
+        },
+        {
+          "authorId": "50342135",
+          "name": "Shiyue Li"
+        },
+        {
+          "authorId": "46193241",
+          "name": "Ningxi Yang"
+        }
+      ],
+      "abstract": "Background Coronavirus disease 2019 (COVID-19), formerly known as severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) and 2019 novel coronavirus (2019-nCoV), was first identified in December 2019 in Wuhan City, China. Structural equation modeling (SEM) is a multivariate analysis method to determine the structural relationship between measured variables. This observational study aimed to use SEM to determine the effects of social support on sleep quality and function of medical staff who treated patients with COVID-19 in January and February 2020 in Wuhan, China. Material/Methods A one-month cross-sectional observational study included 180 medical staff who treated patients with COVID-19 infection. Levels of anxiety, self-efficacy, stress, sleep quality, and social support were measured using the and the Self-Rating Anxiety Scale (SAS), the General Self-Efficacy Scale (GSES), the Stanford Acute Stress Reaction (SASR) questionnaire, the Pittsburgh Sleep Quality Index (PSQI), and the Social Support Rate Scale (SSRS), respectively. Pearson’s correlation analysis and SEM identified the interactions between these factors. Results Levels of social support for medical staff were significantly associated with self-efficacy and sleep quality and negatively associated with the degree of anxiety and stress. Levels of anxiety were significantly associated with the levels of stress, which negatively impacted self-efficacy and sleep quality. Anxiety, stress, and self-efficacy were mediating variables associated with social support and sleep quality. Conclusions SEM showed that medical staff in China who were treating patients with COVID-19 infection during January and February 2020 had levels of anxiety, stress, and self-efficacy that were dependent on sleep quality and social support."
+    },
+    {
+      "paperId": "5132c152cb1b43c235e6b1140f69fbe9562d1f6a",
+      "url": "https://www.semanticscholar.org/paper/5132c152cb1b43c235e6b1140f69fbe9562d1f6a",
+      "title": "The Effect of Physical Activity on Sleep Quality and Sleep Disorder: A Systematic Review",
+      "year": 2023,
+      "openAccessPdf": {
+        "url": "https://assets.cureus.com/uploads/review_article/pdf/178269/20230816-657-3jabe.pdf",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10503965, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "11437457",
+          "name": "M. Alnawwar"
+        },
+        {
+          "authorId": "2241294501",
+          "name": "Meiral I Alraddadi"
+        },
+        {
+          "authorId": "2155306560",
+          "name": "R. Algethmi"
+        },
+        {
+          "authorId": "2217658176",
+          "name": "Gufran A Salem"
+        },
+        {
+          "authorId": "120972551",
+          "name": "M. A. Salem"
+        },
+        {
+          "authorId": "123116718",
+          "name": "Abeer A Alharbi"
+        }
+      ],
+      "abstract": "Regular physical activity has several health benefits, including improved sleep quality and symptoms of sleep disorders. With the known benefits of moderate-intensity activities to sleep quality and a growing interest in using physical activity as a treatment approach for different sleep disorders, we conducted a systematic review to provide evidence-based data on the association between physical activity and sleep. A systematic search was carried out in PubMed, Embase, MEDLINE (Medical Literature Analysis and Retrieval System Online), Google Scholar, and Scopus, using predetermined search terms (Medical Subject Headings (MeSH) terms) and keywords. The included studies focused on exploring the effect of physical activity on sleep quality and sleep disorders or the association between physical activity and sleep outcomes. Relevant data were extracted, and the quality of the studies was evaluated using suitable methods. The collected findings were synthesized and discussed. The findings of this systematic review have potential implications for healthcare, public health policies, and health promotion."
+    }
+  ]
+}

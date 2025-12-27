@@ -1,0 +1,108 @@
+{
+  "total": 858792,
+  "offset": 0,
+  "next": 3,
+  "data": [
+    {
+      "paperId": "53a5b584d02d942f69f243b7da933ae585e051b3",
+      "url": "https://www.semanticscholar.org/paper/53a5b584d02d942f69f243b7da933ae585e051b3",
+      "title": "Heart rate recovery (HRR)",
+      "year": 2024,
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.58489/2836-2187/024?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.58489/2836-2187/024, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "2340725664",
+          "name": "Muhammad Akram"
+        }
+      ],
+      "abstract": "Heart rate rises during activity in order to keep up with the higher oxygen requirements of functioning muscles. The autonomic nervous system controls this reaction; sympathetic activation causes an increase in cardiac output and heart rate. The degree of heart rate rise is mostly dependent on the type of exercise, whether it be modest, moderate, or strenuous. For instance, severe activities might cause the heart rate to rise over 70% of maximal heart rate, but moderate-intensity exercises usually cause the heart rate to rise between 50% and 70%. Exercise-induced heart rate monitoring yields important insights on an individual's cardiovascular health and degree of fitness. Cardiovascular efficiency and general fitness can be determined by heart rate variability and post-exercise recovery rates. Regular exercise can also result in adaptations including reduced resting heart rates and enhanced heart rate recovery, which are signs of stronger and more resilient hearts. Designing efficient training regimens, directing rehabilitation initiatives, and advancing general cardiovascular health all depend on an understanding of the relationship between activity and heart rate. Further studies on heart rate responses during different types of exercise will help to optimize performance methods and health recommendations as awareness of the advantages of physical activity grows.\n\n"
+    },
+    {
+      "paperId": "10fc8a67ab8de2018b0331fa599ba3fbce6c572b",
+      "url": "https://www.semanticscholar.org/paper/10fc8a67ab8de2018b0331fa599ba3fbce6c572b",
+      "title": "Study of heart rate recovery and cardiovascular autonomic modulation in healthy participants after submaximal exercise",
+      "year": 2021,
+      "openAccessPdf": {
+        "url": "https://www.nature.com/articles/s41598-021-83071-w.pdf",
+        "status": "GOLD",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC7878503, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "51062535",
+          "name": "T. P. Facioli"
+        },
+        {
+          "authorId": "14515201",
+          "name": "S. V. Philbois"
+        },
+        {
+          "authorId": "80887768",
+          "name": "A. Gastaldi"
+        },
+        {
+          "authorId": "2061136861",
+          "name": "Daniel S. Almeida"
+        },
+        {
+          "authorId": "39856867",
+          "name": "K. Maida"
+        },
+        {
+          "authorId": "35032183",
+          "name": "J. Rodrigues"
+        },
+        {
+          "authorId": "2103607049",
+          "name": "J. C. Sánchez-Delgado"
+        },
+        {
+          "authorId": "144906423",
+          "name": "H. Souza"
+        }
+      ],
+      "abstract": "Heart rate variability (HRV), blood pressure variability (BPV), and baroreflex sensitivity (BRS) provide important information on cardiovascular autonomic control. However, little is known about the reorganization of HRV, BPV, and BRS after aerobic exercise. While there is a positive relationship between heart rate (HR) recovery rate and cardiorespiratory fitness, it is unclear whether there is a relationship between cardiorespiratory fitness and reorganization of cardiovascular autonomic modulation during recovery. Thus, this study aimed to investigate whether cardiorespiratory fitness influences the cardiovascular autonomic modulation recovery, after a cardiopulmonary exercise test. Sixty men were assigned into groups according to their cardiorespiratory fitness: low cardiorespiratory fitness (LCF = VO2: 22–38 mL kg −1 min −1 ), moderate (MCF = VO2: 38–48 mL kg −1 min −1 ), and high (HCF = VO2 > 48 mL kg −1 min −1 ). HRV (linear and non-linear analysis) and BPV (spectral analysis), and BRS (sequence method) were performed before and after a cardiopulmonary exercise test. The groups with higher cardiorespiratory fitness had lower baseline HR values and HR recovery time after the cardiopulmonary exercise test. On comparing rest and recovery periods, the spectral analysis of HRV showed a decrease in low-frequency (LF) oscillations in absolute units and high frequency (HF) in absolute and normalized units. It also showed increases in LF oscillations of blood pressure. Nonlinear analysis showed a reduction in approximate entropy (ApEn) and in Poincare Plot parameters (SD1 and SD2), accompanied by increases in detrended fluctuation analysis (DFA) parameters α1 and α2. However, we did not find differences in cardiovascular autonomic modulation parameters and BRS in relation to cardiorespiratory fitness neither before nor after the cardiopulmonary test. We concluded that cardiorespiratory fitness does not affect cardiovascular autonomic modulations after cardiopulmonary exercise test, unlike HR recovery."
+    },
+    {
+      "paperId": "38df70f4e72eaa2db2924c7df07408aa0f8caee1",
+      "url": "https://www.semanticscholar.org/paper/38df70f4e72eaa2db2924c7df07408aa0f8caee1",
+      "title": "Heart rate recovery to assess fitness: comparison of different calculation methods in a large cross-sectional study",
+      "year": 2021,
+      "openAccessPdf": {
+        "url": "https://riuma.uma.es/xmlui/bitstream/10630/29374/2/RSM_archive_ouverte.pdf",
+        "status": "GREEN",
+        "license": "other-oa",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1080/15438627.2021.1954513?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1080/15438627.2021.1954513, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "authors": [
+        {
+          "authorId": "49477692",
+          "name": "D. Mongin"
+        },
+        {
+          "authorId": "81369267",
+          "name": "C. Chabert"
+        },
+        {
+          "authorId": "2630427",
+          "name": "D. Courvoisier"
+        },
+        {
+          "authorId": "82345460",
+          "name": "J. García-Romero"
+        },
+        {
+          "authorId": "1397319418",
+          "name": "J. Alvero-Cruz"
+        }
+      ],
+      "abstract": "ABSTRACT We propose a cross-sectional study based on 980 maximal effort tests to quantify the effect of the calculation method of heart rate recovery (HRR) on its association with cardiorespiratory fitness (CRF). For five different time t0 after exercise cessation, HRR has been calculated as: the difference and the ratio between maximal measured heart rate and heart rate (HR) at t0 HR at t0 the decay time of an exponential decay encompassing the first t0 minutes of the HR recovery. The associations between HRR indices and CRF were estimated from generalized estimating equations stratified by gender and adjusted for age and body mass index. For HRR indices based on exponential regression, no significant association with CRF was found, whereas the other HRR indices are associated with CRF when t0 is at least 1 minute and is maximum for t0 = 2 minutes for females and t0 = 3 minutes for males."
+    }
+  ]
+}
