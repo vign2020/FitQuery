@@ -15,8 +15,7 @@ export function InputWithButton({
 }: I_setResultType) {
   const [inputData, setinputData] = useState<string>("");
 
-  const handleSubmit: any = async () => {
-    console.log("inside of handle Submit safe");
+  const handleSubmit = async () => {
     const validation = UserInput.safeParse({ query: inputData });
 
     if (!validation.success) {
@@ -28,18 +27,19 @@ export function InputWithButton({
     }
     try {
       setLoading(true);
-      console.log("Inside of handle Submit");
-      const result: any = await getQueryAnswer(inputData);
+
+      const result = await getQueryAnswer(inputData);
 
       setResult(result.data.geminiAnswer);
     } catch (e: unknown) {
       let description = "Something went wrong. Please try again.";
 
       if (axios.isAxiosError(e)) {
-        description =
-          e.response?.data?.message ||
-          e.message ||
-          "Network error. Please check your connection.";
+        if (e.status && e.status >= 400 && e.status < 500) {
+          description = "A client-side exception has occurred";
+        } else if (e.status && e.status >= 500) {
+          description = "A server-side exception has occurred";
+        }
       } else if (e instanceof Error) {
         description = e.message;
       }

@@ -2,7 +2,11 @@ import { Request, Response } from "express";
 import { createEmbeddingService } from "../Services/createEmbeddigService";
 import { insertionService, namespace_misc } from "../Services/insertionService";
 import { queryService } from "../Services/queryService";
-import { I_PaperContent, I_textChunks } from "../Types/types";
+import {
+  I_insert_shape,
+  I_PaperContent,
+  I_records_details,
+} from "../Types/types";
 import { questionAnsweringService } from "../Services/questionAnsweringService";
 import { QueryExpansion } from "../Services/queryExpansion";
 import { dataIngestion } from "../Services/dataIngestion";
@@ -30,7 +34,7 @@ export const POST_query = async (req: Request, res: Response) => {
 
     //BY DEFAULT SEARCH IN namespace_misc.
 
-    const abstract_context = results?.matches.map((item: I_textChunks) => {
+    const abstract_context = results?.matches.map((item: I_insert_shape) => {
       return item.metadata.abstract;
     });
 
@@ -41,12 +45,16 @@ export const POST_query = async (req: Request, res: Response) => {
       query
     );
 
-    res.status(200).send({ geminiAnswer: geminiAnswer });
+    res.status(200).send({ status: true, geminiAnswer: geminiAnswer });
 
     // res.status(200).send({ search_namespace: search_namespace });
   } catch (error) {
     console.log(error);
-    res.status(400).send({ message: error });
+    res.status(501).send({
+      status: false,
+      geminiAnswer: undefined,
+      message: (error as Error).message,
+    });
   }
 };
 
@@ -54,13 +62,12 @@ export const POST_query = async (req: Request, res: Response) => {
 
 export const GET_data_ingestion_new = async (req: Request, res: Response) => {
   try {
-    // let { namespace_name_string, namespace_no, title } = req.body;
-    const record_details = req.body;
+    const record_details: I_records_details[] = req.body;
     // const newRes: I_PaperContent[] = [];
 
-    const result_of_copy: any = (
+    const result_of_copy: I_PaperContent[] = (
       await Promise.all(
-        record_details.map(async (item: any) => {
+        record_details.map(async (item: I_records_details) => {
           const namespace_name_string = item.namespace_name_string;
           const title = item.title;
 
@@ -87,9 +94,10 @@ export const GET_data_ingestion_new = async (req: Request, res: Response) => {
     // await new Promise((resolve) => setTimeout(resolve, 30000));
 
     // newRes will therby store all the papers for a particular namespace ie. if N1 has 5 topics and each have 3 papers then it will store 15 elements
+    // console.log("res of copyt " + JSON.stringify(result_of_copy, null, 2));
 
     const insertData = await Promise.all(
-      result_of_copy.map(async (item: any) => {
+      result_of_copy.map(async (item: I_PaperContent) => {
         const embeddings = await createEmbeddingService(item.abstract);
         console.log(item.abstract);
 
@@ -97,7 +105,7 @@ export const GET_data_ingestion_new = async (req: Request, res: Response) => {
           id: item.paperId,
           abstract: item.abstract,
           embedding: embeddings,
-          namespace_name: namespaceMap[item.namespace_name_string],
+          namespace_name: namespaceMap[item.namespace_name_string ?? ""],
           namespace_name_string: item.namespace_name_string,
         };
       })

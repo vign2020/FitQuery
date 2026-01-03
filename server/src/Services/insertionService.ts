@@ -62,12 +62,9 @@ export const insertionService = async (
   chunks: I_research_chunk[]
 ): Promise<string> => {
   try {
-    console.log("INSERTING INTO THE NAMESPACE ....   " + chunks.length);
-
     // let records: any[] = [];
 
     chunks.forEach(async (chunk) => {
-      console.log("NAMESPACE RECORD : " + chunk.namespace_name_string);
       // let records: any[] =
       let insert = [
         {

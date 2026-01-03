@@ -23,7 +23,6 @@ const Preprocess = async (
   namespace_name_string: string
 ): Promise<I_PaperContent[]> => {
   try {
-    // console.log("length of the fetched data is " + topic.data.length);
     const preprocess = topic.map((item: any) => {
       let authors = "";
       item.authors.map((item2: I_author, idx: number) => {

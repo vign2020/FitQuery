@@ -36,6 +36,6 @@ export const identifynamespace = async (
       namespace_max = item.name;
     }
   });
-  // console.log("inside identify namespace " + namespace_max);
+
   return namespace_max;
 };

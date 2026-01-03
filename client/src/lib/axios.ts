@@ -2,8 +2,6 @@ import { I_AnswerType } from "@/Types/types";
 import axios, { AxiosResponse } from "axios";
 
 export const getQueryAnswer = async (inputData: string) => {
-  // console.log("api", process.env.NEXT_PUBLIC_API_QUERY);
-  // AxiosResponse<I_AnswerType>
   try {
     const result: AxiosResponse<I_AnswerType> = await axios.post(
       // process.env.NEXT_PUBLIC_QUERY_API as string,
@@ -15,3 +13,7 @@ export const getQueryAnswer = async (inputData: string) => {
     throw e;
   }
 };
+
+// when server is not running - Network Error
+// when airplane mode - Request failed with status code 400
+//

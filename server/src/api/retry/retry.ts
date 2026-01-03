@@ -7,7 +7,7 @@ export async function withRetry<T>(
     return await fn();
   } catch (err: any) {
     if (retries > 0 && err?.response?.status === 429) {
-      console.log(`🔁 Rate limit hit. Retrying in ${delay / 1000}s...`);
+      // console.log(`🔁 Rate limit hit. Retrying in ${delay / 1000}s...`);
       await new Promise((resolve) => setTimeout(resolve, delay));
       return withRetry(fn, retries - 1, delay); // retry
     } else {

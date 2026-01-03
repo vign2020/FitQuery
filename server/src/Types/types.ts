@@ -43,3 +43,27 @@ export interface Topics {
   namespace_name?: Index<RecordMetadata>;
   count?: number;
 }
+export interface I_records_details {
+  namespace_name_string: string;
+  title: string;
+}
+
+export interface I_insert_shape {
+  id: string;
+  values: number[];
+  metadata: {
+    abstract: string;
+  };
+}
+export interface I_insert_shape_array {
+  matches: I_insert_shape[];
+}
+// export interface I_record {
+//   paperId: string;
+//   abstract: string;
+//   namespace_name_string: string;
+// }
+
+// export interface I_records{
+
+// }

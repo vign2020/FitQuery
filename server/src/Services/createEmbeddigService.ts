@@ -7,7 +7,6 @@ const apiKey = process.env.GEMINI_API_KEY;
 //creates embeddings for the given chunk using google gemini api
 
 export const createEmbeddingService = async (chunk: string) => {
-  console.log("inside the embedding service.");
   try {
     const ai = new GoogleGenAI({
       apiKey: apiKey,
