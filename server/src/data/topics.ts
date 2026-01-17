@@ -3,7 +3,7 @@ import {
   namespace_four,
   namespace_three,
   namespace_two,
-} from "../Services/insertionService";
+} from "../Models/PineCone";
 import { Topics } from "../Types/types";
 
 // export const topics: Topics[] = [

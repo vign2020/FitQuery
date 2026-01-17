@@ -1,7 +1,3 @@
-import { createEmbeddingService } from "../Services/createEmbeddigService";
-import fs from "fs";
-import path from "path";
-
 const keywords_one = `biomechanics | kinematics | kinetics | joint angles | joint torque | range of motion |
 gait analysis | stride length | ground reaction force | force plate | moment arm |
 muscle activation | electromyography | emg analysis | muscle force | muscle stiffness |

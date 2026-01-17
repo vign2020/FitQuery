@@ -58,12 +58,3 @@ export interface I_insert_shape {
 export interface I_insert_shape_array {
   matches: I_insert_shape[];
 }
-// export interface I_record {
-//   paperId: string;
-//   abstract: string;
-//   namespace_name_string: string;
-// }
-
-// export interface I_records{
-
-// }

@@ -6,7 +6,8 @@ import {
   namespace_misc,
   namespace_three,
   namespace_two,
-} from "../Services/insertionService";
+} from "../Models/PineCone";
+
 import { Index, RecordMetadata } from "@pinecone-database/pinecone";
 import { cosineSimilarity } from "./cosinesimilarity";
 

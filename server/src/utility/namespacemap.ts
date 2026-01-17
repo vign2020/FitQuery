@@ -5,7 +5,7 @@ import {
   namespace_misc,
   namespace_three,
   namespace_two,
-} from "../Services/insertionService";
+} from "../Models/PineCone";
 
 export const namespaceMap: Record<string, Index<RecordMetadata>> = {
   namespace_two: namespace_two,

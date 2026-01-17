@@ -1,6 +1,7 @@
-import { Request, Response } from "express";
+import { NextFunction, Request, Response } from "express";
 import { createEmbeddingService } from "../Services/createEmbeddigService";
-import { insertionService, namespace_misc } from "../Services/insertionService";
+import { insertionService } from "../Services/insertionService";
+
 import { queryService } from "../Services/queryService";
 import {
   I_insert_shape,
@@ -14,23 +15,25 @@ import { topics_insert } from "../utility/topicsinsert";
 import { identifynamespace } from "../utility/identifynamespace";
 import { namespaceMap } from "../utility/namespacemap";
 
-export const POST_query = async (req: Request, res: Response) => {
+export const POST_query = async (
+  req: Request,
+  res: Response,
+  next: NextFunction
+) => {
   try {
     const { query } = req.body;
+
     // EXPAND THE QUERY FOR BETTER CONTEXT
     const expanded = await QueryExpansion(query);
-
-    console.log("expanded " + expanded);
 
     // CREATE EMBEDDINGS FOR THE EXPANDED QUERY
     const embeddings = await createEmbeddingService(expanded);
 
     //NAMESPACE IDENTIFICATION . FINDING THE BEST ONE OUT OF THE 5 (AT THIS POINT DO SPARSE SEARCH BM25)
     const filter_namespace = await identifynamespace(embeddings);
-    // console.log(`filter namepace = ${filter_namespace}`);
 
     //FINDING THE TOP K RESULTS FROM THAT PARTICULAR NAMESPACE (DENSE SEARCH)
-    const results = await queryService(expanded, embeddings, filter_namespace);
+    const results = await queryService(embeddings, filter_namespace);
 
     //BY DEFAULT SEARCH IN namespace_misc.
 
@@ -38,29 +41,24 @@ export const POST_query = async (req: Request, res: Response) => {
       return item.metadata.abstract;
     });
 
-    // console.log("ABSTRACT CONTEXT " + abstract_context);
-
     const geminiAnswer: string = await questionAnsweringService(
       abstract_context,
       query
     );
 
     res.status(200).send({ status: true, geminiAnswer: geminiAnswer });
-
-    // res.status(200).send({ search_namespace: search_namespace });
   } catch (error) {
-    console.log(error);
-    res.status(501).send({
-      status: false,
-      geminiAnswer: undefined,
-      message: (error as Error).message,
-    });
+    next(error);
   }
 };
 
 //cron job for data ingestion
 
-export const GET_data_ingestion_new = async (req: Request, res: Response) => {
+export const GET_data_ingestion_new = async (
+  req: Request,
+  res: Response,
+  next: NextFunction
+) => {
   try {
     const record_details: I_records_details[] = req.body;
     // const newRes: I_PaperContent[] = [];
@@ -71,13 +69,8 @@ export const GET_data_ingestion_new = async (req: Request, res: Response) => {
           const namespace_name_string = item.namespace_name_string;
           const title = item.title;
 
-          // let namespace_name: Index<RecordMetadata> =
-          //   namespaceMap[namespace_name_string];
-
           //GET THE RELEVANT PAPERS FROM THE API (array of objects of size 5) ex [{} , {} , {} , .... , {}].
           const api_content = await topics_insert(title, null);
-
-          // console.log("api content " + api_content);
 
           let result_from_ingestion: I_PaperContent[] = await dataIngestion(
             api_content,
@@ -91,15 +84,14 @@ export const GET_data_ingestion_new = async (req: Request, res: Response) => {
       )
     ).flat();
 
+    //uncomment thi if there is a need to delay between ingestion and insertion.
     // await new Promise((resolve) => setTimeout(resolve, 30000));
 
     // newRes will therby store all the papers for a particular namespace ie. if N1 has 5 topics and each have 3 papers then it will store 15 elements
-    // console.log("res of copyt " + JSON.stringify(result_of_copy, null, 2));
 
     const insertData = await Promise.all(
       result_of_copy.map(async (item: I_PaperContent) => {
         const embeddings = await createEmbeddingService(item.abstract);
-        console.log(item.abstract);
 
         return {
           id: item.paperId,
@@ -111,12 +103,18 @@ export const GET_data_ingestion_new = async (req: Request, res: Response) => {
       })
     );
 
-    // console.log("insert data is " + insertData);
     const insertionStatus = await insertionService(insertData);
 
-    // res.status(200).send({ insertionStatus: newRes });
     res.status(200).send(insertionStatus);
-  } catch (e) {
-    res.status(400).send({ message: (e as Error).message });
+  } catch (error) {
+    next(error);
+  }
+};
+
+export const GET_health_check = async (req: Request, res: Response) => {
+  try {
+    res.status(200).send({ status: true, message: "Server is healthy" });
+  } catch (error) {
+    res.status(500).send({ status: false, message: "Server is unhealthy" });
   }
 };

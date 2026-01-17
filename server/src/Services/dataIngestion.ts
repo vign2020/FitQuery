@@ -1,13 +1,5 @@
-import { Index, RecordMetadata } from "@pinecone-database/pinecone";
 import { I_author, I_PaperContent } from "../Types/types";
 
-//2 , 3, 4, 5
-const namespaces = [
-  "Biomechanics-exercise-science",
-  "diet-and-supplements",
-  "Recovery-adaptation-injury",
-  "Cardiovascular-and-endurance",
-];
 // 1. indentify what namespaces should be there
 // 2. identify which namespace each topic would go into
 // 3. attach the title and author name to the abstract.

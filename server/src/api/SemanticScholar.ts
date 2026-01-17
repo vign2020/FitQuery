@@ -2,7 +2,6 @@ import axios from "axios";
 
 export const semanticscholar = async (topic: string, count: number) => {
   try {
-    // console.log("Making a request to the api ✔🐱‍🚀🐱‍🚀");
     const result = await axios.get(
       `https://api.semanticscholar.org/graph/v1/paper/search`,
       {
@@ -19,7 +18,6 @@ export const semanticscholar = async (topic: string, count: number) => {
 
     return result.data;
   } catch (e) {
-    // console.log("Semantic Scholar API error: ", e);
     throw e;
   }
 };

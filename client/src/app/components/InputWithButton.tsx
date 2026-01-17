@@ -33,11 +33,17 @@ export function InputWithButton({
       setResult(result.data.geminiAnswer);
     } catch (e: unknown) {
       let description = "Something went wrong. Please try again.";
+      console.log(e);
 
       if (axios.isAxiosError(e)) {
-        if (e.status && e.status >= 400 && e.status < 500) {
+        console.log(e.response?.status);
+        if (
+          e.response?.status &&
+          e.response?.status >= 400 &&
+          e.response?.status < 500
+        ) {
           description = "A client-side exception has occurred";
-        } else if (e.status && e.status >= 500) {
+        } else if (e.response?.status && e.response?.status >= 500) {
           description = "A server-side exception has occurred";
         }
       } else if (e instanceof Error) {
