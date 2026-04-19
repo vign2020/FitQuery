@@ -1,3 +1,5 @@
+/** @format */
+
 import { GoogleGenAI } from "@google/genai";
 
 import * as dotenv from "dotenv";
@@ -13,8 +15,11 @@ export const createEmbeddingService = async (chunk: string) => {
     });
 
     const response: any = await ai.models.embedContent({
-      model: "models/embedding-001",
+      model: "gemini-embedding-001",
       contents: chunk,
+      config: {
+        outputDimensionality: 768,
+      },
     });
 
     return response?.embeddings[0].values;

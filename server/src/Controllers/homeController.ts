@@ -1,3 +1,5 @@
+/** @format */
+
 import { NextFunction, Request, Response } from "express";
 import { createEmbeddingService } from "../Services/createEmbeddigService";
 import { insertionService } from "../Services/insertionService";
@@ -18,13 +20,16 @@ import { namespaceMap } from "../utility/namespacemap";
 export const POST_query = async (
   req: Request,
   res: Response,
-  next: NextFunction
+  next: NextFunction,
 ) => {
   try {
     const { query } = req.body;
 
     // EXPAND THE QUERY FOR BETTER CONTEXT
-    const expanded = await QueryExpansion(query);
+    // const expanded = await QueryExpansion(query);
+    const expanded = query;
+
+    console.log("expanded query is  ", expanded);
 
     // CREATE EMBEDDINGS FOR THE EXPANDED QUERY
     const embeddings = await createEmbeddingService(expanded);
@@ -32,8 +37,12 @@ export const POST_query = async (
     //NAMESPACE IDENTIFICATION . FINDING THE BEST ONE OUT OF THE 5 (AT THIS POINT DO SPARSE SEARCH BM25)
     const filter_namespace = await identifynamespace(embeddings);
 
+    // console.log("namespace name is 🥁🥁 ", filter_namespace);
+
     //FINDING THE TOP K RESULTS FROM THAT PARTICULAR NAMESPACE (DENSE SEARCH)
     const results = await queryService(embeddings, filter_namespace);
+
+    console.log("results from the query service are ", results);
 
     //BY DEFAULT SEARCH IN namespace_misc.
 
@@ -43,7 +52,7 @@ export const POST_query = async (
 
     const geminiAnswer: string = await questionAnsweringService(
       abstract_context,
-      query
+      query,
     );
 
     res.status(200).send({ status: true, geminiAnswer: geminiAnswer });
@@ -57,7 +66,7 @@ export const POST_query = async (
 export const GET_data_ingestion_new = async (
   req: Request,
   res: Response,
-  next: NextFunction
+  next: NextFunction,
 ) => {
   try {
     const record_details: I_records_details[] = req.body;
@@ -74,13 +83,13 @@ export const GET_data_ingestion_new = async (
 
           let result_from_ingestion: I_PaperContent[] = await dataIngestion(
             api_content,
-            namespace_name_string
+            namespace_name_string,
           );
           //now it bcomes [{ ,namespace_name_string: namespace_two}  , {...} , .. , {}]
           //  result_from_ingestion = [...result_from_ingestion , namespace_name_string]
 
           return result_from_ingestion;
-        })
+        }),
       )
     ).flat();
 
@@ -100,7 +109,7 @@ export const GET_data_ingestion_new = async (
           namespace_name: namespaceMap[item.namespace_name_string ?? ""],
           namespace_name_string: item.namespace_name_string,
         };
-      })
+      }),
     );
 
     const insertionStatus = await insertionService(insertData);

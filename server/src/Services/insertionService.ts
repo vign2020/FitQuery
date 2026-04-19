@@ -1,3 +1,5 @@
+/** @format */
+
 import { Pinecone } from "@pinecone-database/pinecone";
 import * as dotenv from "dotenv";
 import { I_research_chunk } from "../Types/types";
@@ -17,7 +19,7 @@ export const pc = new Pinecone({
 });
 
 export const insertionService = async (
-  chunks: I_research_chunk[]
+  chunks: I_research_chunk[],
 ): Promise<string> => {
   try {
     // let records: any[] = [];
